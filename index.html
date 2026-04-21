@@ -188,35 +188,35 @@
     <h2 class="section-title">So sieht LinguaFlow aus</h2>
     <p class="section-subtitle">Wirf einen Blick in die App – von der Dekodierung bis zur Bücher-Bibliothek.</p>
     <div class="showcase-grid">
-      <div class="showcase-item">
+      <div class="showcase-item" data-lightbox="0" style="cursor:pointer;">
         <div class="showcase-phone">
           <picture><source srcset="img/screenshot-home.webp" type="image/webp"><img src="img/screenshot-home.png" alt="LinguaFlow Startbildschirm" loading="lazy"></picture>
         </div>
         <h3>Startseite</h3>
         <p>Text eingeben, Sprache wählen – und mit einem Tap dekodieren.</p>
       </div>
-      <div class="showcase-item">
+      <div class="showcase-item" data-lightbox="1" style="cursor:pointer;">
         <div class="showcase-phone">
           <picture><source srcset="img/screenshot-decoding.webp" type="image/webp"><img src="img/screenshot-decoding.png" alt="LinguaFlow Dekodierung" loading="lazy"></picture>
         </div>
         <h3>Dekodierung</h3>
         <p>Die Birkenbihl-Methode in Aktion: Wort-für-Wort-Übersetzung mit Kontext.</p>
       </div>
-      <div class="showcase-item">
+      <div class="showcase-item" data-lightbox="2" style="cursor:pointer;">
         <div class="showcase-phone">
           <picture><source srcset="img/screenshot-books.webp" type="image/webp"><img src="img/screenshot-books.png" alt="LinguaFlow Bücher-Bibliothek" loading="lazy"></picture>
         </div>
         <h3>Bücher-Bibliothek</h3>
         <p>Lerne mit echten Büchern – von Klassikern bis zu modernen Texten.</p>
       </div>
-      <div class="showcase-item">
+      <div class="showcase-item" data-lightbox="3" style="cursor:pointer;">
         <div class="showcase-phone">
           <picture><source srcset="img/screenshot-reader.webp" type="image/webp"><img src="img/screenshot-reader.png" alt="LinguaFlow Book Reader" loading="lazy"></picture>
         </div>
         <h3>Book Reader</h3>
         <p>Bücher Kapitel für Kapitel dekodieren, hören und verstehen.</p>
       </div>
-      <div class="showcase-item">
+      <div class="showcase-item" data-lightbox="4" style="cursor:pointer;">
         <div class="showcase-phone">
           <picture><source srcset="img/screenshot-history.webp" type="image/webp"><img src="img/screenshot-history.png" alt="LinguaFlow Übersetzungsverlauf" loading="lazy"></picture>
         </div>
@@ -362,6 +362,99 @@
     el.style.transition = 'opacity .6s ease, transform .6s ease';
     observer.observe(el);
   });
+
+  // === Lightbox / Slideshow ===
+  const slides = [
+    { src: 'img/screenshot-home-lg.webp', fallback: 'img/screenshot-home-lg.png', caption: 'Startseite' },
+    { src: 'img/screenshot-decoding-lg.webp', fallback: 'img/screenshot-decoding-lg.png', caption: 'Dekodierung' },
+    { src: 'img/screenshot-books-lg.webp', fallback: 'img/screenshot-books-lg.png', caption: 'Bücher-Bibliothek' },
+    { src: 'img/screenshot-reader-lg.webp', fallback: 'img/screenshot-reader-lg.png', caption: 'Book Reader' },
+    { src: 'img/screenshot-history-lg.webp', fallback: 'img/screenshot-history-lg.png', caption: 'Verlauf' }
+  ];
+
+  // Create lightbox DOM
+  const overlay = document.createElement('div');
+  overlay.className = 'lightbox-overlay';
+  overlay.innerHTML = `
+    <div class="lightbox-content">
+      <button class="lightbox-close" aria-label="Schließen">&times;</button>
+      <button class="lightbox-nav lightbox-prev" aria-label="Zurück">&#8249;</button>
+      <button class="lightbox-nav lightbox-next" aria-label="Weiter">&#8250;</button>
+      <div class="lightbox-img-wrapper">
+        <picture>
+          <source class="lb-source" type="image/webp">
+          <img class="lb-img" alt="">
+        </picture>
+      </div>
+      <div class="lightbox-caption"></div>
+      <div class="lightbox-dots"></div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+
+  const lbSource = overlay.querySelector('.lb-source');
+  const lbImg = overlay.querySelector('.lb-img');
+  const lbCaption = overlay.querySelector('.lightbox-caption');
+  const lbDots = overlay.querySelector('.lightbox-dots');
+  let currentSlide = 0;
+
+  // Create dots
+  slides.forEach((_, i) => {
+    const dot = document.createElement('button');
+    dot.className = 'lightbox-dot' + (i === 0 ? ' active' : '');
+    dot.addEventListener('click', () => showSlide(i));
+    lbDots.appendChild(dot);
+  });
+
+  function showSlide(idx) {
+    currentSlide = ((idx % slides.length) + slides.length) % slides.length;
+    const slide = slides[currentSlide];
+    lbSource.srcset = slide.src;
+    lbImg.src = slide.fallback;
+    lbImg.alt = slide.caption;
+    lbCaption.textContent = slide.caption;
+    lbDots.querySelectorAll('.lightbox-dot').forEach((d, i) => {
+      d.classList.toggle('active', i === currentSlide);
+    });
+  }
+
+  function openLightbox(idx) {
+    showSlide(idx);
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeLightbox() {
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+
+  // Click handlers
+  document.querySelectorAll('[data-lightbox]').forEach(el => {
+    el.addEventListener('click', () => openLightbox(parseInt(el.dataset.lightbox)));
+  });
+  overlay.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
+  overlay.querySelector('.lightbox-prev').addEventListener('click', () => showSlide(currentSlide - 1));
+  overlay.querySelector('.lightbox-next').addEventListener('click', () => showSlide(currentSlide + 1));
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) closeLightbox(); });
+
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (!overlay.classList.contains('active')) return;
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowLeft') showSlide(currentSlide - 1);
+    if (e.key === 'ArrowRight') showSlide(currentSlide + 1);
+  });
+
+  // Touch swipe support
+  let touchStartX = 0;
+  overlay.addEventListener('touchstart', (e) => { touchStartX = e.touches[0].clientX; }, { passive: true });
+  overlay.addEventListener('touchend', (e) => {
+    const diff = touchStartX - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 50) {
+      diff > 0 ? showSlide(currentSlide + 1) : showSlide(currentSlide - 1);
+    }
+  }, { passive: true });
 </script>
 
 </body>

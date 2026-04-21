@@ -530,6 +530,109 @@ p  { color: var(--gray-600); }
   }
 }
 
+/* --- Lightbox --- */
+.lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.92);
+  z-index: 9999;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity .3s ease;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+.lightbox-overlay.active {
+  display: flex;
+  opacity: 1;
+}
+.lightbox-content {
+  position: relative;
+  max-width: 420px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.lightbox-img-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.lightbox-img-wrapper img {
+  max-height: 85vh;
+  max-width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 20px 60px rgba(0,0,0,.5);
+  object-fit: contain;
+}
+.lightbox-caption {
+  color: rgba(255,255,255,.85);
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 16px;
+  text-align: center;
+}
+.lightbox-close {
+  position: absolute;
+  top: -48px;
+  right: -8px;
+  background: none;
+  border: none;
+  color: var(--white);
+  font-size: 2rem;
+  cursor: pointer;
+  opacity: .7;
+  transition: var(--transition);
+  z-index: 10;
+}
+.lightbox-close:hover { opacity: 1; }
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,.15);
+  border: none;
+  color: var(--white);
+  font-size: 1.6rem;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lightbox-nav:hover { background: rgba(255,255,255,.3); }
+.lightbox-prev { left: -72px; }
+.lightbox-next { right: -72px; }
+.lightbox-dots {
+  display: flex;
+  gap: 8px;
+  margin-top: 16px;
+}
+.lightbox-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.3);
+  border: none;
+  cursor: pointer;
+  transition: var(--transition);
+  padding: 0;
+}
+.lightbox-dot.active { background: var(--teal); transform: scale(1.3); }
+
+@media (max-width: 768px) {
+  .lightbox-prev { left: -4px; top: auto; bottom: -56px; transform: none; }
+  .lightbox-next { right: -4px; top: auto; bottom: -56px; transform: none; }
+  .lightbox-content { max-width: 92vw; }
+  .lightbox-dots { margin-top: 64px; }
+}
+
 /* --- Languages --- */
 .languages {
   padding: 100px 0;
