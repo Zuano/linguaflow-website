@@ -376,15 +376,12 @@
   const overlay = document.createElement('div');
   overlay.className = 'lightbox-overlay';
   overlay.innerHTML = `
+    <button class="lightbox-close" aria-label="Schließen">&times;</button>
+    <button class="lightbox-nav lightbox-prev" aria-label="Zurück">&#8249;</button>
+    <button class="lightbox-nav lightbox-next" aria-label="Weiter">&#8250;</button>
     <div class="lightbox-content">
-      <button class="lightbox-close" aria-label="Schließen">&times;</button>
-      <button class="lightbox-nav lightbox-prev" aria-label="Zurück">&#8249;</button>
-      <button class="lightbox-nav lightbox-next" aria-label="Weiter">&#8250;</button>
       <div class="lightbox-img-wrapper">
-        <picture>
-          <source class="lb-source" type="image/webp">
-          <img class="lb-img" alt="">
-        </picture>
+        <img class="lb-img" alt="">
       </div>
       <div class="lightbox-caption"></div>
       <div class="lightbox-dots"></div>
@@ -392,7 +389,6 @@
   `;
   document.body.appendChild(overlay);
 
-  const lbSource = overlay.querySelector('.lb-source');
   const lbImg = overlay.querySelector('.lb-img');
   const lbCaption = overlay.querySelector('.lightbox-caption');
   const lbDots = overlay.querySelector('.lightbox-dots');
@@ -402,15 +398,16 @@
   slides.forEach((_, i) => {
     const dot = document.createElement('button');
     dot.className = 'lightbox-dot' + (i === 0 ? ' active' : '');
-    dot.addEventListener('click', () => showSlide(i));
+    dot.addEventListener('click', (e) => { e.stopPropagation(); showSlide(i); });
     lbDots.appendChild(dot);
   });
 
   function showSlide(idx) {
     currentSlide = ((idx % slides.length) + slides.length) % slides.length;
     const slide = slides[currentSlide];
-    lbSource.srcset = slide.src;
-    lbImg.src = slide.fallback;
+    // Try WebP first, fallback to PNG if it fails
+    lbImg.onerror = () => { lbImg.onerror = null; lbImg.src = slide.fallback; };
+    lbImg.src = slide.src;
     lbImg.alt = slide.caption;
     lbCaption.textContent = slide.caption;
     lbDots.querySelectorAll('.lightbox-dot').forEach((d, i) => {
