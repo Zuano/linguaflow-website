@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Datenschutzerklärung – LinguaFlow</title>
+  <meta name="description" content="Datenschutzerklärung der LinguaFlow App und Website.">
+  <link rel="canonical" href="https://linguaflow.app/datenschutz">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container">
+    <a href="index.html" class="logo">Lingua<span>Flow</span></a>
+    <div class="nav-links" id="navLinks">
+      <a href="index.html#methode">Methode</a>
+      <a href="index.html#features">Features</a>
+      <a href="index.html#sprachen">Sprachen</a>
+      <a href="hilfe.html">Hilfe</a>
+      <a href="index.html#download" class="btn btn-primary btn-sm nav-cta">App herunterladen</a>
+    </div>
+    <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<section class="page-header">
+  <div class="container">
+    <h1>Datenschutzerklärung</h1>
+    <p>Informationen zur Verarbeitung deiner Daten</p>
+  </div>
+</section>
+
+<section class="page-content">
+  <div class="container">
+    <p><strong>Verantwortlicher:</strong> LinguaFlow e.U., E-Mail: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+
+    <h2>1. Erhebung und Verarbeitung personenbezogener Daten</h2>
+    <p>Bei der Nutzung der LinguaFlow App und Website können folgende Daten erhoben werden:</p>
+    <ul>
+      <li>Name, E-Mail-Adresse und Kontodaten</li>
+      <li>Nutzungsdaten (Spracheinstellungen, Lernfortschritt)</li>
+      <li>Zahlungs- und Abonnementdaten</li>
+      <li>Geräteinformationen und technische Protokolldaten</li>
+    </ul>
+
+    <h2>2. Zweck der Datenverarbeitung</h2>
+    <ul>
+      <li>Bereitstellung und Verbesserung der App und Website</li>
+      <li>Verarbeitung von Abonnements und In-App-Käufen</li>
+      <li>Fehleranalyse und Optimierung der App</li>
+      <li>Erfüllung gesetzlicher Pflichten</li>
+      <li>Kommunikation bei Support- und Feedbackanfragen</li>
+    </ul>
+
+    <h2>3. Drittanbieter-Dienste</h2>
+    <p>Wir nutzen folgende Drittanbieter-Dienste:</p>
+    <ul>
+      <li>Google Play Billing & Apple In-App Purchase</li>
+      <li>Google Firebase (Analytics, Crashlytics, Pre-Launch Reports)</li>
+      <li>OpenAI API</li>
+      <li>Webhosting- und E-Mail-Anbieter</li>
+    </ul>
+    <p>Der Datenschutz wird durch die Standardvertragsklauseln der EU-Kommission sichergestellt.</p>
+
+    <h2>4. Rechtsgrundlage</h2>
+    <ul>
+      <li>Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO)</li>
+      <li>Einwilligung (Art. 6 Abs. 1 lit. a DSGVO)</li>
+      <li>Gesetzliche Verpflichtungen (Art. 6 Abs. 1 lit. c DSGVO)</li>
+      <li>Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)</li>
+    </ul>
+
+    <h2>5. Datenspeicherung</h2>
+    <p>Deine Daten werden nur so lange gespeichert, wie es für die genannten Zwecke erforderlich ist oder gesetzlich vorgeschrieben.</p>
+
+    <h2>6. Deine Rechte</h2>
+    <p>Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit, Widerruf der Einwilligung und Widerspruch. Kontaktiere uns dazu unter: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+
+    <h2>7. Sicherheit</h2>
+    <p>Wir setzen angemessene technische und organisatorische Maßnahmen ein, um deine Daten zu schützen.</p>
+
+    <h2>8. Änderungen dieser Erklärung</h2>
+    <p>Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu aktualisieren. Die aktuelle Version findest du stets auf linguaflow.app.</p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>&copy; 2025 LinguaFlow e.U. Alle Rechte vorbehalten.</span>
+      <div style="display:flex;gap:16px;">
+        <a href="index.html">Startseite</a>
+        <a href="impressum.html">Impressum</a>
+        <a href="eula.html">EULA</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+  navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('active')));
+</script>
+</body>
+</html>

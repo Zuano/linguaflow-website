@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Impressum – LinguaFlow</title>
+  <meta name="description" content="Impressum und rechtliche Informationen zu LinguaFlow e.U.">
+  <link rel="canonical" href="https://linguaflow.app/impressum">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container">
+    <a href="index.html" class="logo">Lingua<span>Flow</span></a>
+    <div class="nav-links" id="navLinks">
+      <a href="index.html#methode">Methode</a>
+      <a href="index.html#features">Features</a>
+      <a href="index.html#sprachen">Sprachen</a>
+      <a href="hilfe.html">Hilfe</a>
+      <a href="index.html#download" class="btn btn-primary btn-sm nav-cta">App herunterladen</a>
+    </div>
+    <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<section class="page-header">
+  <div class="container">
+    <h1>Impressum</h1>
+    <p>Rechtliche Angaben gemäß § 5 ECG / § 25 MedienG</p>
+  </div>
+</section>
+
+<section class="page-content">
+  <div class="container">
+    <h2>Angaben zum Unternehmen</h2>
+    <p><strong>LinguaFlow e.U.</strong><br>
+    Inhaber: Christian Nouza<br>
+    Linzer Straße 17<br>
+    4100 Ottensheim<br>
+    Österreich</p>
+
+    <h2>Kontakt</h2>
+    <p>E-Mail: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+
+    <h2>Registrierung</h2>
+    <p>Firmenbuchnummer: FN 651220b<br>
+    Firmenbuchgericht: Landesgericht Linz<br>
+    Kammer: Wirtschaftskammer Oberösterreich<br>
+    Aufsichtsbehörde: Bezirkshauptmannschaft Urfahr-Umgebung</p>
+
+    <h2>Unternehmensgegenstand</h2>
+    <p>Entwicklung und Vertrieb von Sprachlern-Apps und digitalen Bildungsangeboten.</p>
+
+    <h2>Umsatzsteuer-Identifikationsnummer</h2>
+    <p>folgt</p>
+
+    <h2>Haftungshinweis</h2>
+    <p>Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Als Diensteanbieter sind wir für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</p>
+    <p>Für die Inhalte externer Links übernehmen wir keine Haftung. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
+
+    <h2>Urheberrecht</h2>
+    <p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem österreichischen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>&copy; 2025 LinguaFlow e.U. Alle Rechte vorbehalten.</span>
+      <div style="display:flex;gap:16px;">
+        <a href="index.html">Startseite</a>
+        <a href="datenschutz.html">Datenschutz</a>
+        <a href="eula.html">EULA</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+  navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('active')));
+</script>
+</body>
+</html>

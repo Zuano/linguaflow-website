@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EULA – LinguaFlow</title>
+  <meta name="description" content="Endbenutzer-Lizenzvereinbarung (EULA) für die LinguaFlow App.">
+  <link rel="canonical" href="https://linguaflow.app/eula">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container">
+    <a href="index.html" class="logo">Lingua<span>Flow</span></a>
+    <div class="nav-links" id="navLinks">
+      <a href="index.html#methode">Methode</a>
+      <a href="index.html#features">Features</a>
+      <a href="index.html#sprachen">Sprachen</a>
+      <a href="hilfe.html">Hilfe</a>
+      <a href="index.html#download" class="btn btn-primary btn-sm nav-cta">App herunterladen</a>
+    </div>
+    <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<section class="page-header">
+  <div class="container">
+    <h1>Endbenutzer-Lizenzvereinbarung (EULA)</h1>
+    <p>Nutzungsbedingungen für die LinguaFlow App</p>
+  </div>
+</section>
+
+<section class="page-content">
+  <div class="container">
+    <p>Diese Endbenutzer-Lizenzvereinbarung (EULA) ist ein rechtsgültiger Vertrag zwischen dir („Nutzer") und LinguaFlow e.U. („Anbieter") für die Nutzung der LinguaFlow App („App").</p>
+
+    <h2>1. Lizenzgewährung</h2>
+    <p>Der Anbieter gewährt dir eine nicht-exklusive, nicht übertragbare, widerrufliche Lizenz zur privaten, nicht-kommerziellen Nutzung der App. Alle nicht ausdrücklich gewährten Rechte verbleiben beim Anbieter.</p>
+
+    <h2>2. Nutzung der App</h2>
+    <ul>
+      <li>Die App darf nur in Übereinstimmung mit geltendem Recht genutzt werden.</li>
+      <li>Veränderung, Reverse Engineering, Dekompilierung oder Verbreitung der App sind nicht gestattet.</li>
+      <li>Die Inhalte der App sind urheberrechtlich geschützt.</li>
+    </ul>
+
+    <h2>3. Abonnements und Käufe</h2>
+    <p>Kostenpflichtige Funktionen werden über Google Play oder den Apple App Store abgewickelt. Abonnements können jederzeit über den jeweiligen Store gekündigt werden. Bereits bezahlte Gebühren werden nicht erstattet. Preise sind in den Store-Listings ersichtlich.</p>
+
+    <h2>4. Datenschutz</h2>
+    <p>Die Datenverarbeitung richtet sich nach unserer <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
+
+    <h2>5. Haftungsbeschränkung</h2>
+    <p>Die App dient ausschließlich als Hilfsmittel zum Sprachenlernen. Es wird keine Garantie für den Lernerfolg oder den fehlerfreien Betrieb gegeben. Der Anbieter haftet nur bei Vorsatz oder grober Fahrlässigkeit. Eine Haftung für indirekte Schäden oder Datenverlust ist ausgeschlossen.</p>
+
+    <h2>6. Beendigung der Nutzung</h2>
+    <p>Der Anbieter kann den Zugang bei missbräuchlicher Nutzung aussetzen oder beenden. Nutzer können die App jederzeit deinstallieren.</p>
+
+    <h2>7. Änderungen an App und Bedingungen</h2>
+    <p>Der Anbieter behält sich das Recht vor, die App zu ändern oder einzustellen. Aktualisierungen dieser EULA werden auf linguaflow.app veröffentlicht.</p>
+
+    <h2>8. Anwendbares Recht</h2>
+    <p>Es gilt ausschließlich österreichisches Recht.</p>
+
+    <h2>9. Kontakt</h2>
+    <p>LinguaFlow e.U.<br>
+    E-Mail: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>&copy; 2025 LinguaFlow e.U. Alle Rechte vorbehalten.</span>
+      <div style="display:flex;gap:16px;">
+        <a href="index.html">Startseite</a>
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html">Datenschutz</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+  navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('active')));
+</script>
+</body>
+</html>
