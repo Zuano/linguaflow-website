@@ -21,7 +21,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/styles.css">
-  <!-- i18n-hreflang:start -->
+    <!-- i18n-hreflang:start -->
   <link rel="alternate" hreflang="de" href="https://linguaflow.app/eula.html">
   <link rel="alternate" hreflang="x-default" href="https://linguaflow.app/eula.html">
   <link rel="alternate" hreflang="en" href="https://linguaflow.app/en/eula.html">
@@ -65,7 +65,7 @@
   <div class="container">
     <a href="index.html" class="logo">Lingua <span>Flow</span></a>
     <div class="nav-links" id="navLinks">
-      <a href="index.html#methode">メソッド</a>
+      <a href="index.html#methode">学習法</a>
       
       <a href="index.html#features">機能</a>
       
@@ -75,6 +75,44 @@
       
       <a href="index.html#download" class="btn btn-primary btn-sm nav-cta">アプリのダウンロード</a>
     </div>
+    <!-- i18n-navswitcher:start -->
+    <select class="nav-lang-switcher" onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language">
+      <option value="/eula.html">🇩🇪 DE</option>
+      <option value="/en/eula.html">🇺🇸 EN</option>
+      <option value="/en-gb/eula.html">🇬🇧 EN-GB</option>
+      <option value="/fr/eula.html">🇫🇷 FR</option>
+      <option value="/it/eula.html">🇮🇹 IT</option>
+      <option value="/es/eula.html">🇪🇸 ES</option>
+      <option value="/pt-br/eula.html">🇧🇷 PT-BR</option>
+      <option value="/pt-pt/eula.html">🇵🇹 PT-PT</option>
+      <option value="/nl/eula.html">🇳🇱 NL</option>
+      <option value="/sv/eula.html">🇸🇪 SV</option>
+      <option value="/da/eula.html">🇩🇰 DA</option>
+      <option value="/nb/eula.html">🇳🇴 NB</option>
+      <option value="/fi/eula.html">🇫🇮 FI</option>
+      <option value="/pl/eula.html">🇵🇱 PL</option>
+      <option value="/cs/eula.html">🇨🇿 CS</option>
+      <option value="/sk/eula.html">🇸🇰 SK</option>
+      <option value="/hu/eula.html">🇭🇺 HU</option>
+      <option value="/sl/eula.html">🇸🇮 SL</option>
+      <option value="/ro/eula.html">🇷🇴 RO</option>
+      <option value="/bg/eula.html">🇧🇬 BG</option>
+      <option value="/el/eula.html">🇬🇷 EL</option>
+      <option value="/et/eula.html">🇪🇪 ET</option>
+      <option value="/lv/eula.html">🇱🇻 LV</option>
+      <option value="/lt/eula.html">🇱🇹 LT</option>
+      <option value="/uk/eula.html">🇺🇦 UK</option>
+      <option value="/ja/eula.html" selected>🇯🇵 JA</option>
+      <option value="/ko/eula.html">🇰🇷 KO</option>
+      <option value="/zh/eula.html">🇨🇳 ZH</option>
+      <option value="/zh-hant/eula.html">🇹🇼 ZH-HANT</option>
+      <option value="/vi/eula.html">🇻🇳 VI</option>
+      <option value="/id/eula.html">🇮🇩 ID</option>
+      <option value="/th/eula.html">🇹🇭 TH</option>
+      <option value="/tr/eula.html">🇹🇷 TR</option>
+      <option value="/ar/eula.html">🇸🇦 AR</option>
+    </select>
+    <!-- i18n-navswitcher:end -->
     <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
       <span></span><span></span><span></span>
     </button>
@@ -141,41 +179,41 @@
   </div>
 <!-- i18n-switcher:start -->
 <div class="language-switcher" style="text-align:center;padding:20px 0 8px;">
-  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache wählen" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">
-    <option value="/eula.html" selected>🇩🇪 ドイツ語</option>
-    <option value="/en/eula.html">🇺🇸 英語</option>
-    <option value="/en-gb/eula.html">🇬🇧 英語（英国）</option>
-    <option value="/fr/eula.html">🇫🇷 フランス語</option>
-    <option value="/it/eula.html">🇮🇹 イタリア語</option>
-    <option value="/es/eula.html">🇪🇸 スペイン語</option>
-    <option value="/pt-br/eula.html">🇧🇷 ポルトガル語 (ブラジル)</option>
-    <option value="/pt-pt/eula.html">🇵🇹 ポルトガル語 (PT)</option>
-    <option value="/nl/eula.html">🇳🇱 オランダ語</option>
-    <option value="/sv/eula.html">🇸🇪 スウェーデン語</option>
-    <option value="/da/eula.html">🇩🇰 デンマーク語</option>
-    <option value="/nb/eula.html">🇳🇴 ノルウェー語</option>
-    <option value="/fi/eula.html">🇫🇮 フィンランド語</option>
-    <option value="/pl/eula.html">🇵🇱 ポーランド語</option>
-    <option value="/cs/eula.html">🇨🇿 チェコ語</option>
-    <option value="/sk/eula.html">🇸🇰 スロベニア語</option>
-    <option value="/hu/eula.html">🇭🇺 ハンガリー語</option>
-    <option value="/sl/eula.html">🇸🇮 スロベニア語</option>
-    <option value="/ro/eula.html">🇷🇴 ルーマニア語</option>
-    <option value="/bg/eula.html">🇧🇬 ブルガリア語</option>
-    <option value="/el/eula.html">🇬🇷 ギリシャ語</option>
-    <option value="/et/eula.html">🇪🇪 エストニア語</option>
-    <option value="/lv/eula.html">🇱🇻 ラトビア語</option>
-    <option value="/lt/eula.html">🇱🇹 リトアニア語</option>
-    <option value="/uk/eula.html">🇺🇦 ウクライナ語</option>
-    <option value="/ja/eula.html">🇯🇵 日本語</option>
-    <option value="/ko/eula.html">🇰🇷 韓国語</option>
-    <option value="/zh/eula.html">🇨🇳 簡体字中国語</option>
-    <option value="/zh-hant/eula.html">🇹🇼 繁体字中国語</option>
-    <option value="/vi/eula.html">🇻🇳 ベトナム語</option>
-    <option value="/id/eula.html">🇮🇩 インドネシア語</option>
-    <option value="/th/eula.html">🇹🇭 タイ語</option>
-    <option value="/tr/eula.html">🇹🇷 トルコ語</option>
-    <option value="/ar/eula.html">🇸🇦 アラビア語</option>
+  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">
+    <option value="/eula.html">🇩🇪 Deutsch</option>
+    <option value="/en/eula.html">🇺🇸 English</option>
+    <option value="/en-gb/eula.html">🇬🇧 English (UK)</option>
+    <option value="/fr/eula.html">🇫🇷 Français</option>
+    <option value="/it/eula.html">🇮🇹 Italiano</option>
+    <option value="/es/eula.html">🇪🇸 Español</option>
+    <option value="/pt-br/eula.html">🇧🇷 Português (BR)</option>
+    <option value="/pt-pt/eula.html">🇵🇹 Português (PT)</option>
+    <option value="/nl/eula.html">🇳🇱 Nederlands</option>
+    <option value="/sv/eula.html">🇸🇪 Svenska</option>
+    <option value="/da/eula.html">🇩🇰 Dansk</option>
+    <option value="/nb/eula.html">🇳🇴 Norsk</option>
+    <option value="/fi/eula.html">🇫🇮 Suomi</option>
+    <option value="/pl/eula.html">🇵🇱 Polski</option>
+    <option value="/cs/eula.html">🇨🇿 Čeština</option>
+    <option value="/sk/eula.html">🇸🇰 Slovenčina</option>
+    <option value="/hu/eula.html">🇭🇺 Magyar</option>
+    <option value="/sl/eula.html">🇸🇮 Slovenščina</option>
+    <option value="/ro/eula.html">🇷🇴 Română</option>
+    <option value="/bg/eula.html">🇧🇬 Български</option>
+    <option value="/el/eula.html">🇬🇷 Ελληνικά</option>
+    <option value="/et/eula.html">🇪🇪 Eesti</option>
+    <option value="/lv/eula.html">🇱🇻 Latviešu</option>
+    <option value="/lt/eula.html">🇱🇹 Lietuvių</option>
+    <option value="/uk/eula.html">🇺🇦 Українська</option>
+    <option value="/ja/eula.html" selected>🇯🇵 日本語</option>
+    <option value="/ko/eula.html">🇰🇷 한국어</option>
+    <option value="/zh/eula.html">🇨🇳 简体中文</option>
+    <option value="/zh-hant/eula.html">🇹🇼 繁體中文</option>
+    <option value="/vi/eula.html">🇻🇳 Tiếng Việt</option>
+    <option value="/id/eula.html">🇮🇩 Bahasa</option>
+    <option value="/th/eula.html">🇹🇭 ไทย</option>
+    <option value="/tr/eula.html">🇹🇷 Türkçe</option>
+    <option value="/ar/eula.html">🇸🇦 العربية</option>
   </select>
 </div>
 <!-- i18n-switcher:end -->

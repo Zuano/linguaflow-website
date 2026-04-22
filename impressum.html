@@ -21,7 +21,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
-  <!-- i18n-hreflang:start -->
+    <!-- i18n-hreflang:start -->
   <link rel="alternate" hreflang="de" href="https://linguaflow.app/impressum.html">
   <link rel="alternate" hreflang="x-default" href="https://linguaflow.app/impressum.html">
   <link rel="alternate" hreflang="en" href="https://linguaflow.app/en/impressum.html">
@@ -71,6 +71,44 @@
       <a href="hilfe.html">Hilfe</a>
       <a href="index.html#download" class="btn btn-primary btn-sm nav-cta">App herunterladen</a>
     </div>
+    <!-- i18n-navswitcher:start -->
+    <select class="nav-lang-switcher" onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language">
+      <option value="/impressum.html" selected>🇩🇪 DE</option>
+      <option value="/en/impressum.html">🇺🇸 EN</option>
+      <option value="/en-gb/impressum.html">🇬🇧 EN-GB</option>
+      <option value="/fr/impressum.html">🇫🇷 FR</option>
+      <option value="/it/impressum.html">🇮🇹 IT</option>
+      <option value="/es/impressum.html">🇪🇸 ES</option>
+      <option value="/pt-br/impressum.html">🇧🇷 PT-BR</option>
+      <option value="/pt-pt/impressum.html">🇵🇹 PT-PT</option>
+      <option value="/nl/impressum.html">🇳🇱 NL</option>
+      <option value="/sv/impressum.html">🇸🇪 SV</option>
+      <option value="/da/impressum.html">🇩🇰 DA</option>
+      <option value="/nb/impressum.html">🇳🇴 NB</option>
+      <option value="/fi/impressum.html">🇫🇮 FI</option>
+      <option value="/pl/impressum.html">🇵🇱 PL</option>
+      <option value="/cs/impressum.html">🇨🇿 CS</option>
+      <option value="/sk/impressum.html">🇸🇰 SK</option>
+      <option value="/hu/impressum.html">🇭🇺 HU</option>
+      <option value="/sl/impressum.html">🇸🇮 SL</option>
+      <option value="/ro/impressum.html">🇷🇴 RO</option>
+      <option value="/bg/impressum.html">🇧🇬 BG</option>
+      <option value="/el/impressum.html">🇬🇷 EL</option>
+      <option value="/et/impressum.html">🇪🇪 ET</option>
+      <option value="/lv/impressum.html">🇱🇻 LV</option>
+      <option value="/lt/impressum.html">🇱🇹 LT</option>
+      <option value="/uk/impressum.html">🇺🇦 UK</option>
+      <option value="/ja/impressum.html">🇯🇵 JA</option>
+      <option value="/ko/impressum.html">🇰🇷 KO</option>
+      <option value="/zh/impressum.html">🇨🇳 ZH</option>
+      <option value="/zh-hant/impressum.html">🇹🇼 ZH-HANT</option>
+      <option value="/vi/impressum.html">🇻🇳 VI</option>
+      <option value="/id/impressum.html">🇮🇩 ID</option>
+      <option value="/th/impressum.html">🇹🇭 TH</option>
+      <option value="/tr/impressum.html">🇹🇷 TR</option>
+      <option value="/ar/impressum.html">🇸🇦 AR</option>
+    </select>
+    <!-- i18n-navswitcher:end -->
     <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
       <span></span><span></span><span></span>
     </button>
@@ -130,7 +168,7 @@
   </div>
 <!-- i18n-switcher:start -->
 <div class="language-switcher" style="text-align:center;padding:20px 0 8px;">
-  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache wählen" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">
+  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">
     <option value="/impressum.html" selected>🇩🇪 Deutsch</option>
     <option value="/en/impressum.html">🇺🇸 English</option>
     <option value="/en-gb/impressum.html">🇬🇧 English (UK)</option>
