@@ -170,6 +170,32 @@ p  { color: var(--gray-600); }
 
 .nav-cta { margin-left: 8px; }
 
+/* Kompakter Language-Switcher in der Navbar (oben rechts) */
+.nav-lang-switcher {
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid var(--gray-200);
+  background: var(--white);
+  color: var(--dark);
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+  margin-left: 12px;
+  max-width: 110px;
+  appearance: menulist;
+}
+.nav-lang-switcher:hover { border-color: var(--teal); }
+@media (max-width: 768px) {
+  .nav-lang-switcher {
+    margin-left: auto;
+    margin-right: 8px;
+    max-width: 90px;
+    font-size: 12px;
+    padding: 5px 6px;
+  }
+}
+
 /* Hamburger */
 .hamburger {
   display: none;

@@ -141,7 +141,8 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     html = re.sub(r'(<html[^>]*\blang=")de("[^>]*>)', rf'\1{lang_attr}\2', html, count=1)
 
     # 2. Relative Asset-Pfade absolut machen (damit sie aus /<slug>/ auch funktionieren)
-    html = re.sub(r'(href|src)="(?!https?://|/|#|mailto:|tel:)(styles\.css|img/[^"]+|[^"]+\.ico|[^"]+\.png|[^"]+\.svg|[^"]+\.jpg|[^"]+\.jpeg|[^"]+\.webp)"', r'\1="/\2"', html)
+    # Wichtig: auch srcset muss erfasst werden (<picture><source srcset="..."></picture>)
+    html = re.sub(r'(href|src|srcset)="(?!https?://|/|#|mailto:|tel:)(styles\.css|img/[^"]+|[^"]+\.ico|[^"]+\.png|[^"]+\.svg|[^"]+\.jpg|[^"]+\.jpeg|[^"]+\.webp)"', r'\1="/\2"', html)
 
     # 3. Canonical-URL anpassen: https://linguaflow.app -> https://linguaflow.app/<slug>/
     page_path = "" if filename == "index.html" else filename
@@ -189,57 +190,96 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     if "hreflang" not in html:
         html = html.replace("</head>", f"{hreflang_block}\n</head>", 1)
 
-    # 8. Language-Switcher vor dem schließenden </footer> einfügen
-    switcher = build_language_switcher(slug, filename)
-    if switcher and 'class="language-switcher"' not in html:
-        html = html.replace("</footer>", f"{switcher}\n</footer>", 1)
-
-    return html
-
-
-def build_language_switcher(current_slug: str, filename: str) -> str:
-    """Baut das Dropdown für den Sprach-Wechsel (als HTML-String)."""
-    def option(value: str, label: str, selected: bool) -> str:
-        sel = " selected" if selected else ""
-        return f'<option value="{value}"{sel}>{label}</option>'
-
-    # Pfad innerhalb der Sprache
-    sub = "" if filename == "index.html" else filename
-
-    opts = [option(f"/{sub}", "🇩🇪 Deutsch", current_slug == "de")]
-    for _, _, slug, name, flag in LANGUAGES:
-        url = f"/{slug}/{sub}"
-        opts.append(option(url, f"{flag} {name}", slug == current_slug))
-
-    return f"""
-<div class="language-switcher" style="text-align:center;padding:20px 0 8px;">
-  <select onchange="if(this.value)location.href=this.value" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;">
-    {chr(10).join('    ' + o for o in opts)}
-  </select>
-</div>"""
-
-
-def enrich_source_file(source_path: pathlib.Path) -> bool:
-    """Fügt hreflang-Tags und Language-Switcher in die deutsche Quelldatei ein.
-    Idempotent: Mehrfache Aufrufe erzeugen dasselbe Ergebnis.
-    Returns True wenn die Datei geändert wurde."""
-    filename = source_path.name
-    original = source_path.read_text(encoding="utf-8")
-    html = original
-
-    # Alte Marker entfernen (falls vorhanden) für sauberes Wiedereinfügen
-    html = re.sub(
-        r'<!-- i18n-hreflang:start -->.*?<!-- i18n-hreflang:end -->\s*',
-        '',
-        html,
-        flags=re.DOTALL,
-    )
+    # 8. Alte Switcher entfernen (stammen aus der deutschen Quelle,
+    #    wurden durch DeepL unverändert mitkopiert mit DE als "selected")
     html = re.sub(
         r'<!-- i18n-switcher:start -->.*?<!-- i18n-switcher:end -->\s*',
         '',
         html,
         flags=re.DOTALL,
     )
+    html = re.sub(
+        r'<!-- i18n-navswitcher:start -->.*?<!-- i18n-navswitcher:end -->\s*',
+        '',
+        html,
+        flags=re.DOTALL,
+    )
+
+    # 9. Neue Switcher mit der aktuellen Sprache als selected einfügen
+    footer_switcher = build_footer_switcher(slug, filename)
+    html = html.replace("</footer>", f"{footer_switcher}\n</footer>", 1)
+
+    nav_switcher = build_navbar_switcher(slug, filename)
+    html = re.sub(
+        r'(<button class="hamburger")',
+        nav_switcher + "\n    " + r"\1",
+        html,
+        count=1,
+    )
+
+    return html
+
+
+def build_footer_switcher(current_slug: str, filename: str) -> str:
+    """Full-Name Dropdown für den Footer (mit Markern für idempotentes Ersetzen)."""
+    sub = "" if filename == "index.html" else filename
+
+    opts = []
+    sel = " selected" if current_slug == "de" else ""
+    opts.append(f'<option value="/{sub}"{sel}>🇩🇪 Deutsch</option>')
+    for _, _, slug, name, flag in LANGUAGES:
+        sel = " selected" if slug == current_slug else ""
+        opts.append(f'<option value="/{slug}/{sub}"{sel}>{flag} {name}</option>')
+
+    options_html = "\n    ".join(opts)
+    return (
+        "<!-- i18n-switcher:start -->\n"
+        '<div class="language-switcher" style="text-align:center;padding:20px 0 8px;">\n'
+        '  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">\n'
+        f"    {options_html}\n"
+        "  </select>\n"
+        "</div>\n"
+        "<!-- i18n-switcher:end -->"
+    )
+
+
+def build_navbar_switcher(current_slug: str, filename: str) -> str:
+    """Kompakter Switcher für die Navbar oben rechts: nur Flagge + Kurzcode."""
+    sub = "" if filename == "index.html" else filename
+
+    opts = []
+    sel = " selected" if current_slug == "de" else ""
+    opts.append(f'<option value="/{sub}"{sel}>🇩🇪 DE</option>')
+    for _, _, slug, _, flag in LANGUAGES:
+        sel = " selected" if slug == current_slug else ""
+        opts.append(f'<option value="/{slug}/{sub}"{sel}>{flag} {slug.upper()}</option>')
+
+    options_html = "\n      ".join(opts)
+    return (
+        "<!-- i18n-navswitcher:start -->\n"
+        '    <select class="nav-lang-switcher" onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language">\n'
+        f"      {options_html}\n"
+        "    </select>\n"
+        "    <!-- i18n-navswitcher:end -->"
+    )
+
+
+def enrich_source_file(source_path: pathlib.Path) -> bool:
+    """Fügt hreflang-Tags, Footer- und Navbar-Language-Switcher in die
+    deutsche Quelldatei ein. Idempotent: Mehrfache Aufrufe erzeugen
+    dasselbe Ergebnis. Returns True wenn die Datei geändert wurde."""
+    filename = source_path.name
+    original = source_path.read_text(encoding="utf-8")
+    html = original
+
+    # Alte Marker entfernen (falls vorhanden) für sauberes Wiedereinfügen
+    for marker in ("i18n-hreflang", "i18n-switcher", "i18n-navswitcher"):
+        html = re.sub(
+            rf'<!-- {marker}:start -->.*?<!-- {marker}:end -->\s*',
+            '',
+            html,
+            flags=re.DOTALL,
+        )
 
     # hreflang-Block bauen
     hreflang_links = [
@@ -255,25 +295,20 @@ def enrich_source_file(source_path: pathlib.Path) -> bool:
 
     hreflang_block = "<!-- i18n-hreflang:start -->\n  " + "\n  ".join(hreflang_links) + "\n  <!-- i18n-hreflang:end -->"
 
-    # Switcher für die deutsche Seite (aktuell = "de")
-    sub = "" if filename == "index.html" else filename
-    opts = [f'<option value="/{sub}" selected>🇩🇪 Deutsch</option>']
-    for _, _, slug, name, flag in LANGUAGES:
-        opts.append(f'<option value="/{slug}/{sub}">{flag} {name}</option>')
-    switcher = (
-        '<!-- i18n-switcher:start -->\n'
-        '<div class="language-switcher" style="text-align:center;padding:20px 0 8px;">\n'
-        '  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache wählen" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">\n'
-        + "\n".join("    " + o for o in opts) + "\n"
-        '  </select>\n'
-        '</div>\n'
-        '<!-- i18n-switcher:end -->'
-    )
+    footer_switcher = build_footer_switcher("de", filename)
+    nav_switcher = build_navbar_switcher("de", filename)
 
     # hreflang vor </head> einfügen
     html = html.replace("</head>", f"  {hreflang_block}\n</head>", 1)
-    # Switcher vor </footer> einfügen
-    html = html.replace("</footer>", f"{switcher}\n</footer>", 1)
+    # Footer-Switcher vor </footer> einfügen
+    html = html.replace("</footer>", f"{footer_switcher}\n</footer>", 1)
+    # Navbar-Switcher vor dem Hamburger-Button einfügen
+    html = re.sub(
+        r'(<button class="hamburger")',
+        nav_switcher + "\n    " + r"\1",
+        html,
+        count=1,
+    )
 
     if html != original:
         source_path.write_text(html, encoding="utf-8")
