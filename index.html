@@ -375,11 +375,11 @@
 
   // === Lightbox / Slideshow ===
   const slides = [
-    { src: 'img/screenshot-home.webp', fallback: 'img/screenshot-home.png', caption: 'Startseite' },
-    { src: 'img/screenshot-decoding.webp', fallback: 'img/screenshot-decoding.png', caption: 'Dekodierung' },
-    { src: 'img/screenshot-books.webp', fallback: 'img/screenshot-books.png', caption: 'Bücher-Bibliothek' },
-    { src: 'img/screenshot-reader.webp', fallback: 'img/screenshot-reader.png', caption: 'Book Reader' },
-    { src: 'img/screenshot-history.webp', fallback: 'img/screenshot-history.png', caption: 'Verlauf' }
+    { src: 'img/screenshot-home.webp', fallback: 'img/screenshot-home.png', title: 'Startseite', desc: 'Text eingeben, Sprache wählen – und mit einem Tap dekodieren.' },
+    { src: 'img/screenshot-decoding.webp', fallback: 'img/screenshot-decoding.png', title: 'Dekodierung', desc: 'Die Birkenbihl-Methode in Aktion: Wort-für-Wort-Übersetzung mit Kontext.' },
+    { src: 'img/screenshot-books.webp', fallback: 'img/screenshot-books.png', title: 'Bücher-Bibliothek', desc: 'Lerne mit echten Büchern – von Klassikern bis zu modernen Texten.' },
+    { src: 'img/screenshot-reader.webp', fallback: 'img/screenshot-reader.png', title: 'Book Reader', desc: 'Bücher Kapitel für Kapitel dekodieren, hören und verstehen.' },
+    { src: 'img/screenshot-history.webp', fallback: 'img/screenshot-history.png', title: 'Verlauf', desc: 'Alle Übersetzungen gespeichert – jederzeit wiederholen und vertiefen.' }
   ];
 
   // Create lightbox DOM
@@ -390,17 +390,19 @@
     <button class="lightbox-nav lightbox-prev" aria-label="Zurück">&#8249;</button>
     <button class="lightbox-nav lightbox-next" aria-label="Weiter">&#8250;</button>
     <div class="lightbox-content">
-      <div class="lightbox-img-wrapper">
+      <div class="lightbox-phone">
         <img class="lb-img" alt="">
       </div>
-      <div class="lightbox-caption"></div>
+      <h3 class="lightbox-title"></h3>
+      <p class="lightbox-desc"></p>
       <div class="lightbox-dots"></div>
     </div>
   `;
   document.body.appendChild(overlay);
 
   const lbImg = overlay.querySelector('.lb-img');
-  const lbCaption = overlay.querySelector('.lightbox-caption');
+  const lbTitle = overlay.querySelector('.lightbox-title');
+  const lbDesc = overlay.querySelector('.lightbox-desc');
   const lbDots = overlay.querySelector('.lightbox-dots');
   let currentSlide = 0;
 
@@ -418,8 +420,9 @@
     // Try WebP first, fallback to PNG if it fails
     lbImg.onerror = () => { lbImg.onerror = null; lbImg.src = slide.fallback; };
     lbImg.src = slide.src;
-    lbImg.alt = slide.caption;
-    lbCaption.textContent = slide.caption;
+    lbImg.alt = slide.title;
+    lbTitle.textContent = slide.title;
+    lbDesc.textContent = slide.desc;
     lbDots.querySelectorAll('.lightbox-dot').forEach((d, i) => {
       d.classList.toggle('active', i === currentSlide);
     });
