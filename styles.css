@@ -264,6 +264,22 @@ p  { color: var(--gray-600); }
   position: relative;
   overflow: hidden;
 }
+/* When a real screenshot (<picture>) is shown instead of the mock content,
+   the padding/flex layout would leave a white frame around the image.
+   Remove the padding and let the image fill the whole phone-screen. */
+.phone-screen:has(picture) { padding: 0; }
+.phone-screen picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.phone-screen picture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 30px;
+  display: block;
+}
 .phone-screen .app-logo {
   font-size: 2rem;
   font-weight: 800;
