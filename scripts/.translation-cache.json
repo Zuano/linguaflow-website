@@ -1,7 +1,8 @@
 {
-  "index.html": "c575b46cbc684b1bfdfa392f7a250e6104dbf4d39031a4230c252ef5b6704c5e",
-  "hilfe.html": "fa16243c4c0604b8f287f473ac3fcefffb8849d73e459dc523483c655d2df1e7",
-  "datenschutz.html": "26b48ca91da7af03918b73b565a1ad24dda9c1f16efb922f3e72a03a9f8d3a88",
-  "eula.html": "b45d31d23b2fe110d091d73fd7f30bbb273494c972b07cff8927b0b417f2531a",
-  "impressum.html": "0cb72048be0782e958cfb4cb3491c446fe9f0829982242b9f5554e9f8e2d1fc7"
+  "__version": "3",
+  "index.html": "08c8b6187b6b210d8dada76174c7cf1b6a84612e2c1065c373b20ab73ea33543",
+  "hilfe.html": "b8c59226a835e246b6a2e401e1fdc36edcd9882eef6299013837e1246b6cba0b",
+  "datenschutz.html": "f23841cdde146e4ccc6a929786a68fa2e12965f78a839cdd7b8aebbcf31d1787",
+  "eula.html": "84d073cba151ec7356e271dbfa163c56f6e67f1ac3c6a3f0bbc85946ed55b655",
+  "impressum.html": "1535b35d3d976d8f3cace0ef41ceb031ac24f9516ce57819542d82019aa1cdb7"
 }
