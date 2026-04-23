@@ -83,19 +83,28 @@ CACHE_FILE = REPO_ROOT / "scripts" / ".translation-cache.json"
 
 BASE_URL = "https://linguaflow.app"
 
+# Erhöhen, wenn sich die Übersetzungs-Logik grundlegend ändert.
+# Bei Mismatch wird der Cache invalidiert → alles neu übersetzt.
+SCRIPT_VERSION = "3"
+
 
 # ---------- Helper ----------
 
 def load_cache() -> dict:
     if CACHE_FILE.exists():
         try:
-            return json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+            data = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+            if data.get("__version") != SCRIPT_VERSION:
+                print(f"Cache-Version veraltet ({data.get('__version')} vs {SCRIPT_VERSION}) → invalidiere.")
+                return {"__version": SCRIPT_VERSION}
+            return data
         except json.JSONDecodeError:
-            return {}
-    return {}
+            return {"__version": SCRIPT_VERSION}
+    return {"__version": SCRIPT_VERSION}
 
 
 def save_cache(cache: dict) -> None:
+    cache["__version"] = SCRIPT_VERSION
     CACHE_FILE.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
@@ -103,11 +112,10 @@ def file_hash(path: pathlib.Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
-    """Schickt HTML an DeepL. tag_handling=html bewahrt HTML-Struktur,
-    ignore_tags schützt script/style vor Übersetzung."""
+def deepl_translate_raw(text: str, target_lang: str, api_key: str) -> str:
+    """Schickt Text an DeepL. tag_handling=html bewahrt HTML-Struktur."""
     data = urllib.parse.urlencode({
-        "text": html,
+        "text": text,
         "source_lang": SOURCE_LANG,
         "target_lang": target_lang,
         "tag_handling": "html",
@@ -128,6 +136,39 @@ def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
     with urllib.request.urlopen(req, timeout=60) as response:
         body = json.load(response)
     return body["translations"][0]["text"]
+
+
+def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
+    """Übersetzt HTML und schützt JSON-LD Blöcke vor DeepL's HTML-Escaping.
+
+    DeepL escaped trotz ignore_tags=script die Anführungszeichen in
+    JSON-LD zu &quot;, was ungültiges JSON erzeugt und von Google
+    Search Console als kritischer Fehler gemeldet wird.
+
+    Lösung: JSON-LD Blöcke vor der Übersetzung durch Platzhalter
+    ersetzen, übersetzen, dann Platzhalter durch die unveränderten
+    Original-Blöcke ersetzen. Vorteil: JSON-LD bleibt 1:1 wie in der
+    deutschen Quelle - keine Übersetzung der description, aber auch
+    keine Beschädigung."""
+    json_ld_pattern = re.compile(
+        r'<script type="application/ld\+json">.*?</script>',
+        re.DOTALL,
+    )
+
+    blocks = []
+
+    def save_block(match):
+        blocks.append(match.group(0))
+        return f"<!--JSONLD_{len(blocks) - 1}-->"
+
+    html_safe = json_ld_pattern.sub(save_block, html)
+    translated = deepl_translate_raw(html_safe, target_lang, api_key)
+
+    # Original-Blöcke zurückeinsetzen
+    for idx, block in enumerate(blocks):
+        translated = translated.replace(f"<!--JSONLD_{idx}-->", block)
+
+    return translated
 
 
 # ---------- HTML-Post-Processing ----------
