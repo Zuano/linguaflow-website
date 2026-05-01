@@ -869,6 +869,19 @@ p  { color: var(--gray-600); }
 .pricing-card.pricing-featured .pricing-features li::before {
   color: var(--yellow);
 }
+.pricing-cancellation {
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid var(--gray-200);
+  font-size: .78rem;
+  line-height: 1.5;
+  color: var(--gray-400);
+  text-align: left;
+}
+.pricing-card.pricing-featured .pricing-cancellation {
+  border-top-color: rgba(255,255,255,.2);
+  color: rgba(255,255,255,.75);
+}
 .pricing-note {
   margin-top: 40px;
   font-size: .82rem;
