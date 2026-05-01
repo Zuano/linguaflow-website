@@ -85,7 +85,9 @@ BASE_URL = "https://linguaflow.app"
 
 # Erhöhen, wenn sich die Übersetzungs-Logik grundlegend ändert.
 # Bei Mismatch wird der Cache invalidiert → alles neu übersetzt.
-SCRIPT_VERSION = "3"
+# v4: Fix für hreflang in Sub-Pages (DE/x-default zeigten auf Root) und
+#     Sitemap-Konsistenz (deutsche Sub-Pages jetzt mit .html).
+SCRIPT_VERSION = "4"
 
 
 # ---------- Helper ----------
@@ -216,8 +218,12 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     html = html.replace('<a href="/" class="logo">', f'<a href="/{slug}/" class="logo">')
 
     # 7. hreflang-Tags einfügen
-    hreflang_links = ['<link rel="alternate" hreflang="x-default" href="' + BASE_URL + '/">']
-    hreflang_links.append(f'<link rel="alternate" hreflang="de" href="{BASE_URL}/">')
+    # WICHTIG: hreflang="de" und x-default müssen auf die korrespondierende
+    # deutsche Sub-Page zeigen (z.B. /hilfe.html), nicht aufs Root.
+    de_path = "" if filename == "index.html" else filename
+    de_url = f"{BASE_URL}/{de_path}" if de_path else f"{BASE_URL}/"
+    hreflang_links = [f'<link rel="alternate" hreflang="x-default" href="{de_url}">']
+    hreflang_links.append(f'<link rel="alternate" hreflang="de" href="{de_url}">')
     for _, lattr, lslug, _, _ in LANGUAGES:
         # URL dieser Seite in dieser Sprache
         if filename == "index.html":
@@ -426,9 +432,13 @@ def build_sitemap():
 
     urls = []
     # Deutsche Versionen
+    # WICHTIG: Sub-Pages MIT .html, damit Sitemap konsistent zu canonical-Tags
+    # und internen Links ist (sonst sieht Google /hilfe und /hilfe.html als Duplikate)
     for filename in SOURCE_FILES:
-        slug_path = "" if filename == "index.html" else filename.replace(".html", "")
-        urls.append(f"{BASE_URL}/{slug_path}".rstrip("/") + ("/" if not slug_path else ""))
+        if filename == "index.html":
+            urls.append(f"{BASE_URL}/")
+        else:
+            urls.append(f"{BASE_URL}/{filename}")
 
     # Alle Sprachen
     for _, _, slug, _, _ in LANGUAGES:
