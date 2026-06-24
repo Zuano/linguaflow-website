@@ -1,8 +1,8 @@
 {
   "__version": "4",
-  "index.html": "2642b7881f145c2981bbd3675455d98056b4e289ad5c94144698ea0dbf099993",
-  "hilfe.html": "a1b6c8432bd21b83f53b3d5952d88069ef23baf3dc66a01cd7e5c10679ada4f4",
-  "datenschutz.html": "eca804519af51e95ab199c21c4f8412448c0318a6880dde06531389c61aeb60b",
-  "eula.html": "8f324367feb557a2590420f39eb93d90dbf8dca0b9ea00860d70b1502aaca4dc",
-  "impressum.html": "625407be1ff3e94a292cf5514c41ab0835e4af53946010dbb5fa1b45436d72ef"
+  "index.html": "5b960f8691f0f731b9b393a120900dbc08d28c09fbb36f41864c427eb01fad59",
+  "hilfe.html": "329448a5443cabcab9ab1e2b004a93bfcbe60b097fe29ff6e12a7d1b30ae9759",
+  "datenschutz.html": "307daa6e887c4bf891629ebb3bd4832b3b2f112a2d15fb2bd53b363263c6e928",
+  "eula.html": "aba17255426e4dd54e26b897d610f202931b95e253b79cab75b5d94a99fd202f",
+  "impressum.html": "f400a276a709d1b714f8311cd7be07214ee73f45dd55ebceaf4dea0cf88a9bb1"
 }
