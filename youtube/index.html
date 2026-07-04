@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LinguaFlow für YouTube – Untertitel Wort für Wort verstehen</title>
+  <meta name="description" content="Die LinguaFlow-Browser-Erweiterung übersetzt YouTube-Untertitel Wort für Wort in deine Sprache – synchron zum Video, nach der Birkenbihl-Methode. Für Chrome, Edge & Safari.">
+  <meta name="keywords" content="YouTube Untertitel übersetzen, Sprachen lernen YouTube, Wort für Wort, Birkenbihl, Browser Erweiterung Sprachen, Language Reactor Alternative, LinguaFlow">
+  <meta property="og:title" content="LinguaFlow für YouTube – Untertitel Wort für Wort verstehen">
+  <meta property="og:description" content="YouTube-Untertitel Wort für Wort in deine Sprache – synchron zum Video, nach der Birkenbihl-Methode. Für Chrome, Edge & Safari.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://linguaflow.app/youtube/">
+  <meta property="og:image" content="https://linguaflow.app/img/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="de_DE">
+  <meta property="og:site_name" content="LinguaFlow">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://linguaflow.app/img/og-image.png">
+  <link rel="canonical" href="https://linguaflow.app/youtube/">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#14b8a6">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    /* Scoped styles for the /youtube page only */
+    .yt-badge-soon{display:inline-block;background:rgba(20,184,166,0.12);color:#0f766e;font-weight:600;font-size:14px;padding:6px 14px;border-radius:999px;margin-bottom:18px;}
+    /* YouTube player + LinguaFlow overlay mockup */
+    .yt-mock{width:100%;max-width:520px;margin:0 auto;border-radius:16px;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,0.22);background:#0f0f0f;}
+    .yt-mock-video{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,#1f6feb 0%,#7c3aed 55%,#14b8a6 100%);display:flex;align-items:center;justify-content:center;}
+    .yt-mock-play{width:68px;height:48px;background:rgba(0,0,0,0.55);border-radius:12px;display:flex;align-items:center;justify-content:center;}
+    .yt-mock-play::after{content:"";border-style:solid;border-width:11px 0 11px 18px;border-color:transparent transparent transparent #fff;margin-left:3px;}
+    .yt-mock-scene{position:absolute;top:14px;left:16px;color:rgba(255,255,255,0.9);font-size:13px;font-weight:600;letter-spacing:0.3px;}
+    .yt-overlay{background:rgba(0,0,0,0.82);padding:16px 18px 18px;color:#fff;}
+    .yt-overlay .lf-tag{font-size:11px;font-weight:700;color:#5eead4;letter-spacing:0.6px;text-transform:uppercase;margin-bottom:8px;display:block;}
+    .yt-words{display:flex;flex-wrap:wrap;gap:10px 14px;}
+    .yt-word{display:flex;flex-direction:column;line-height:1.25;}
+    .yt-word .orig{font-size:17px;font-weight:600;}
+    .yt-word .trans{font-size:13px;color:#5eead4;font-weight:500;}
+    .yt-controls{height:6px;background:rgba(255,255,255,0.2);}
+    .yt-controls span{display:block;height:100%;width:38%;background:#ff3b30;}
+    /* Comparison + FAQ */
+    .lf-compare{display:grid;grid-template-columns:1fr 1fr;gap:20px;max-width:900px;margin:0 auto;text-align:left;}
+    .lf-compare .ps-card{margin:0;}
+    .lf-faq{max-width:760px;margin:0 auto;text-align:left;}
+    .lf-faq details{background:#fff;border:1px solid rgba(0,0,0,0.08);border-radius:12px;padding:4px 20px;margin-bottom:12px;box-shadow:0 2px 10px rgba(0,0,0,0.03);}
+    .lf-faq summary{cursor:pointer;font-weight:600;font-size:17px;padding:16px 0;list-style:none;}
+    .lf-faq summary::-webkit-details-marker{display:none;}
+    .lf-faq summary::after{content:"+";float:right;color:#14b8a6;font-weight:700;}
+    .lf-faq details[open] summary::after{content:"–";}
+    .lf-faq details p{padding-bottom:16px;margin:0;color:#4b5563;}
+    .lf-store-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:8px;}
+    .lf-store-btns .btn{opacity:0.65;pointer-events:none;}
+    @media(max-width:720px){.lf-compare{grid-template-columns:1fr;}}
+  </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container">
+    <a href="/index.html" class="logo">Lingua<span>Flow</span></a>
+    <div class="nav-links" id="navLinks">
+      <a href="/index.html#methode">Methode</a>
+      <a href="#so-gehts">So funktioniert's</a>
+      <a href="#preise">Preise</a>
+      <a href="/hilfe.html">Hilfe</a>
+      <a href="#holen" class="btn btn-primary btn-sm nav-cta">Erweiterung holen</a>
+    </div>
+    <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <p class="section-label">Die Birkenbihl-Methode für YouTube</p>
+      <h1>Verstehe YouTube <span class="highlight">Wort für Wort.</span></h1>
+      <p>Die LinguaFlow-Erweiterung blendet unter den Untertiteln jedes YouTube-Videos die Bedeutung <strong>jedes einzelnen Worts</strong> in deiner Sprache ein – synchron zum Video. So lernst du eine Sprache ganz nebenbei, ohne Vokabelpauken.</p>
+      <div class="hero-buttons">
+        <a href="#holen" class="btn btn-primary">Erweiterung holen</a>
+        <a href="#so-gehts" class="btn btn-outline">So funktioniert's</a>
+      </div>
+      <p style="margin-top:14px;font-size:14px;color:#6b7280;">Für Chrome, Edge &amp; Safari · Kostenlos starten</p>
+    </div>
+    <div class="hero-visual">
+      <!-- YouTube-Player-Mockup mit LinguaFlow-Overlay -->
+      <div class="yt-mock" aria-label="Beispiel: YouTube-Video mit LinguaFlow-Overlay">
+        <div class="yt-mock-video">
+          <span class="yt-mock-scene">☕ Café · Reise-Vlog</span>
+          <div class="yt-mock-play"></div>
+        </div>
+        <div class="yt-overlay">
+          <span class="lf-tag">🦎 LinguaFlow · Spanisch → Deutsch</span>
+          <div class="yt-words">
+            <span class="yt-word"><span class="orig">Hoy</span><span class="trans">Heute</span></span>
+            <span class="yt-word"><span class="orig">quiero</span><span class="trans">will-ich</span></span>
+            <span class="yt-word"><span class="orig">mostrarte</span><span class="trans">dir-zeigen</span></span>
+            <span class="yt-word"><span class="orig">mi</span><span class="trans">meinen</span></span>
+            <span class="yt-word"><span class="orig">lugar</span><span class="trans">Ort</span></span>
+            <span class="yt-word"><span class="orig">favorito</span><span class="trans">Lieblings-</span></span>
+          </div>
+        </div>
+        <div class="yt-controls"><span></span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Warum anders -->
+<section class="problem-solution">
+  <div class="container text-center">
+    <p class="section-label">Nicht einfach doppelte Untertitel</p>
+    <h2 class="section-title">Warum Wort-für-Wort mehr bringt</h2>
+    <p class="section-subtitle">Andere Tools zeigen dir eine glatte Satzübersetzung. LinguaFlow zeigt dir, wie die Sprache wirklich aufgebaut ist.</p>
+    <div class="lf-compare">
+      <div class="ps-card problem">
+        <div class="card-icon">🌐</div>
+        <h3>Klassische Doppel-Untertitel</h3>
+        <ul>
+          <li>Nur eine fertige Satzübersetzung</li>
+          <li>Du siehst das Ergebnis, aber nicht das Wie</li>
+          <li>Einzelne Wörter bleiben ein Rätsel</li>
+          <li>Grammatik-Struktur unsichtbar</li>
+        </ul>
+      </div>
+      <div class="ps-card solution">
+        <div class="card-icon">🧠</div>
+        <h3>LinguaFlow (Birkenbihl)</h3>
+        <ul>
+          <li>Jedes Wort einzeln in deiner Sprache</li>
+          <li>Du erkennst Satzbau &amp; Struktur intuitiv</li>
+          <li>Verstehe Sprachen, die du noch nicht sprichst</li>
+          <li>Grammatik nimmst du nebenbei auf</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- So funktioniert's -->
+<section class="method" id="so-gehts">
+  <div class="container text-center">
+    <p class="section-label">So funktioniert's</p>
+    <h2 class="section-title">In 3 Schritten loslegen</h2>
+    <p class="section-subtitle">Keine Einrichtung, kein Handbuch. Installieren, Video öffnen, verstehen.</p>
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-number">1</div>
+        <div class="step-icon">🧩</div>
+        <h3>Erweiterung installieren</h3>
+        <p>LinguaFlow in Chrome, Edge oder Safari hinzufügen – mit einem Klick.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">2</div>
+        <div class="step-icon">▶️</div>
+        <h3>YouTube-Video öffnen</h3>
+        <p>Ein beliebiges Video mit Untertiteln starten. LinguaFlow erkennt die Sprache automatisch.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">3</div>
+        <div class="step-icon">✨</div>
+        <h3>Wort für Wort verstehen</h3>
+        <p>Die Bedeutung jedes Worts erscheint synchron unter den Untertiteln. Zurücklehnen und lernen.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Features -->
+<section class="features" id="features">
+  <div class="container text-center">
+    <p class="section-label">Features</p>
+    <h2 class="section-title">Gebaut fürs echte Lernen</h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">🧠</div>
+        <h3>Birkenbihl-Dekodierung</h3>
+        <p>Wort-für-Wort im Kontext – die Methode, die Sprache wirklich verständlich macht.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">⚡</div>
+        <h3>Automatische Spracherkennung</h3>
+        <p>LinguaFlow erkennt die Originalsprache des Videos von selbst. Kein Einstellen nötig.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🌍</div>
+        <h3>30+ Sprachen</h3>
+        <p>Professionelle Übersetzung (DeepL) für die wichtigsten Lernsprachen.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎬</div>
+        <h3>Echte YouTube-Videos</h3>
+        <p>Funktioniert mit deinen Lieblings-Creatorn, Vorträgen, Musik und Tutorials.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🔒</div>
+        <h3>Datenschutz zuerst</h3>
+        <p>Keine Werbung, kein Tracking. Wir verkaufen deine Daten nie.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📱</div>
+        <h3>Teil der LinguaFlow-Familie</h3>
+        <p>Dieselbe Methode auch als App für iOS und Android – überall, wo du lernst.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Preise -->
+<section class="pricing" id="preise">
+  <div class="container text-center">
+    <p class="section-label">Preise</p>
+    <h2 class="section-title">Kostenlos starten, bei Bedarf upgraden</h2>
+    <p class="section-subtitle">Teste LinguaFlow gratis. Für unbegrenztes Lernen gibt's Pro.</p>
+    <div class="pricing-grid">
+      <div class="pricing-card">
+        <h3>Gratis</h3>
+        <p class="pricing-subtitle">Zum Ausprobieren</p>
+        <div class="pricing-price">
+          <span class="pricing-amount" translate="no">0&nbsp;€</span>
+        </div>
+        <ul class="pricing-features">
+          <li>Erste Videos gratis übersetzen</li>
+          <li>Volle Wort-für-Wort-Funktion</li>
+          <li>Automatische Spracherkennung</li>
+        </ul>
+      </div>
+      <div class="pricing-card">
+        <h3>Pro</h3>
+        <p class="pricing-subtitle">Bester Preis · jährlich</p>
+        <div class="pricing-price">
+          <span class="pricing-amount" translate="no">35,99&nbsp;€</span>
+          <span class="pricing-period">/ Jahr</span>
+        </div>
+        <p class="pricing-equivalent">oder <span translate="no">5,99&nbsp;€</span> pro Monat</p>
+        <ul class="pricing-features">
+          <li>Unbegrenzt Videos übersetzen</li>
+          <li>Alle Sprachen &amp; Features</li>
+          <li>Auf allen Geräten (Chrome, Edge, Safari)</li>
+        </ul>
+        <p class="pricing-cancellation">Kündigung jederzeit möglich – der Zugang bleibt bis zum Ende der bezahlten Laufzeit aktiv.</p>
+      </div>
+    </div>
+    <p style="margin-top:22px;font-size:15px;color:#6b7280;">Du hast schon ein LinguaFlow-App-Abo? Dann ist die Erweiterung <strong>gratis</strong> für dich dabei.</p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="features">
+  <div class="container text-center">
+    <p class="section-label">FAQ</p>
+    <h2 class="section-title">Häufige Fragen</h2>
+    <div class="lf-faq">
+      <details><summary>Auf welchen Browsern läuft LinguaFlow?</summary><p>Auf Chrome, Microsoft Edge und Safari (macOS). Eine Version für Firefox und für Android-Tablets ist geplant.</p></details>
+      <details><summary>Funktioniert es mit jedem Video?</summary><p>Mit jedem YouTube-Video, das Untertitel hat – egal ob vom Creator hinzugefügt oder automatisch generiert. Ohne Untertitel gibt es nichts zu übersetzen.</p></details>
+      <details><summary>Welche Sprachen werden unterstützt?</summary><p>Über 30 Sprachen. Die Originalsprache erkennt LinguaFlow automatisch; deine Zielsprache (Muttersprache) stellst du selbst ein.</p></details>
+      <details><summary>Was ist der Unterschied zu doppelten Untertiteln?</summary><p>Doppel-Untertitel zeigen eine fertige Satzübersetzung. LinguaFlow zeigt die Bedeutung jedes einzelnen Worts im Kontext – so verstehst du, wie die Sprache aufgebaut ist (Birkenbihl-Methode).</p></details>
+      <details><summary>Werden meine Daten gespeichert?</summary><p>Nein. Die Untertitel werden nur zur Übersetzung verarbeitet und nicht dauerhaft gespeichert. Details in der <a href="/datenschutz-extension.html">Datenschutzerklärung</a>.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA / Holen -->
+<section class="problem-solution" id="holen">
+  <div class="container text-center">
+    <span class="yt-badge-soon">🚀 Launch in Kürze</span>
+    <h2 class="section-title">Sei von Anfang an dabei</h2>
+    <p class="section-subtitle">LinguaFlow für YouTube erscheint bald im Chrome Web Store, bei Edge Add-ons und im App Store. Lass dich benachrichtigen, sobald es losgeht.</p>
+    <div class="hero-buttons" style="justify-content:center;">
+      <a href="mailto:hello@linguaflow.app?subject=LinguaFlow%20f%C3%BCr%20YouTube%20-%20Benachrichtigung&body=Bitte%20benachrichtigt%20mich%2C%20sobald%20die%20Erweiterung%20verf%C3%BCgbar%20ist." class="btn btn-primary">Benachrichtige mich</a>
+    </div>
+    <div class="lf-store-btns">
+      <span class="btn btn-outline">Chrome Web Store · bald</span>
+      <span class="btn btn-outline">Edge Add-ons · bald</span>
+      <span class="btn btn-outline">App Store · bald</span>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>&copy; 2025 LinguaFlow e.U. Alle Rechte vorbehalten.</span>
+      <div style="display:flex;gap:16px;flex-wrap:wrap;">
+        <a href="/index.html">Startseite</a>
+        <a href="/impressum.html">Impressum</a>
+        <a href="/datenschutz-extension.html">Datenschutz</a>
+        <a href="/agb.html">AGB</a>
+        <a href="/widerruf.html">Widerruf</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+  navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('active')));
+</script>
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c42b58c8ea84d55a3af29e844db0df9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+
+</body>
+</html>
