@@ -4,6 +4,7 @@
 - (nichts)
 
 ## Erledigt
+- 30-Tage-Testzeitraum (nur Jahresabo, iOS + Android) auf der Website: Preiskarte „Jährlich" in index.html (Feature-Zeile + Transparenzhinweis: gilt für neue Abonnenten, automatischer Übergang ins bezahlte Abo) + neue FAQ „Gibt es einen kostenlosen Testzeitraum?" in hilfe.html (sichtbar + JSON-LD)
 - Ratgeber-Bereich Phase 1: Hub (`ratgeber.html`) + 4 Artikel (Anerkennung, 24h-Pflege→Festanstellung, Deutsch B2 Pflege, Haushaltshilfe Wien), automatisch in 33 Sprachen übersetzt
 - „Ratgeber"-Links in Navbar + Footer von index.html und hilfe.html
 - 404-Fix: AGB/Widerruf-Footer-Links auf absolute Pfade (`/agb.html`, `/widerruf.html`) — vorher 404 in allen Sprachversionen
@@ -23,6 +24,7 @@
 - Nach 4–8 Wochen: Rankings/Klicks prüfen (v. a. /sk/ und /ro/), dann Phase 2 entscheiden
 
 ## Änderungsprotokoll
+- 2026-07-11: 30-Tage-Testzeitraum (Jahresabo) auf Preiskarte + FAQ ergänzt (index.html, hilfe.html) → löst Neu-Übersetzung beider Dateien aus
 - 2026-07-11: Ratgeber-Bereich Phase 1 komplett (Pipeline-Registrierung, Hub, 4 Artikel, Verlinkung, 404-Fix, Kosten-Bug-Fix)
 
 ## Wichtige Regeln für dieses Repo
