@@ -1,8 +1,13 @@
 {
   "__version": "4",
-  "index.html": "a491970768fa355d5c1a67164fa18d10c1df418a29214893131b141962dc1370",
-  "hilfe.html": "9a2cb3dde4e36adc939f021d8f7cd3510c0aae5daecb401eca6515a07f2376d2",
+  "index.html": "f1225a43f5d7dfd9e19108189b4038a051447f11ee797380900ec61deeb09e50",
+  "hilfe.html": "7f3e94468a36f9cddf18b8cd7762647d30fbb211a0f4f21b1a4e5f8597639afa",
   "datenschutz.html": "0a9b00408957df2a144f0407ccd9f1ece78c0f7ecaa694312bea8efda3c7bf5b",
   "eula.html": "d072b0656f255d4ae2e06acf39cac0210e11b72bc017fe706dc20a561eedfced",
-  "impressum.html": "afc404f2e135d7879f48412e70f561612b95f321a4e94f6b28290cbe1ad192cc"
+  "impressum.html": "afc404f2e135d7879f48412e70f561612b95f321a4e94f6b28290cbe1ad192cc",
+  "ratgeber-24-stunden-pflege-festanstellung.html": "dc0fbe8244be720c92fc149b966d69691530996bd8bd5832b420573babf0143b",
+  "ratgeber-anerkennung-auslaendischer-abschluss.html": "eea84198670ae8d555e02987016f3693b882d0c553e8c3be6512f2f71bbb0abb",
+  "ratgeber-deutsch-b2-pflege.html": "cfc21ce88afcb52f716683a1c1969e1af1ae24fb6595d5f1e2fe00833241dbb2",
+  "ratgeber-haushaltshilfe-jobs-wien.html": "a28cfe6ecf32073d2d7d5a53681a4d2dc6a16c9f514d8f545eb1aab7aec27c67",
+  "ratgeber.html": "8e5b961705425a1589de848819150ea094b9de52c2529a792351726a38ed9891"
 }
