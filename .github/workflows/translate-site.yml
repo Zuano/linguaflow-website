@@ -12,6 +12,7 @@ on:
       - 'datenschutz.html'
       - 'eula.html'
       - 'impressum.html'
+      - 'ratgeber*.html'
       - 'scripts/translate-site.py'
   workflow_dispatch:
     inputs:

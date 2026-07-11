@@ -81,6 +81,11 @@ LANGUAGES = [
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 CACHE_FILE = REPO_ROOT / "scripts" / ".translation-cache.json"
 
+# Ratgeber-Seiten werden per Dateimuster automatisch erkannt — neue Artikel
+# brauchen keine Skript-Änderung. / Guide pages are auto-discovered by
+# filename pattern — new articles need no script change.
+SOURCE_FILES += sorted(p.name for p in REPO_ROOT.glob("ratgeber*.html"))
+
 BASE_URL = "https://linguaflow.app"
 
 # Erhöhen, wenn sich die Übersetzungs-Logik grundlegend ändert.
@@ -450,7 +455,14 @@ def build_sitemap():
 
     body = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for url in urls:
-        priority = "1.0" if url == BASE_URL + "/" else ("0.8" if "hilfe" in url else "0.3")
+        if url == BASE_URL + "/":
+            priority = "1.0"
+        elif "hilfe" in url or url.endswith("/ratgeber.html"):
+            priority = "0.8"
+        elif "ratgeber-" in url:
+            priority = "0.6"
+        else:
+            priority = "0.3"
         body += f"  <url>\n    <loc>{url}</loc>\n    <lastmod>{today}</lastmod>\n    <priority>{priority}</priority>\n  </url>\n"
     body += "</urlset>\n"
 
