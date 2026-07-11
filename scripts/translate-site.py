@@ -324,10 +324,16 @@ def enrich_source_file(source_path: pathlib.Path) -> bool:
     original = source_path.read_text(encoding="utf-8")
     html = original
 
-    # Alte Marker entfernen (falls vorhanden) für sauberes Wiedereinfügen
+    # Alte Marker entfernen (falls vorhanden) für sauberes Wiedereinfügen.
+    # WICHTIG: [ \t]* entfernt auch die Einrückung VOR dem Start-Marker —
+    # sonst wächst sie bei jedem Lauf um 2 Leerzeichen, der Datei-Hash
+    # ändert sich und ALLE Seiten werden kostenpflichtig neu übersetzt.
+    # / [ \t]* also strips the indentation BEFORE the start marker —
+    # otherwise it grows every run, changing the file hash and forcing a
+    # paid full re-translation of every page.
     for marker in ("i18n-hreflang", "i18n-switcher", "i18n-navswitcher"):
         html = re.sub(
-            rf'<!-- {marker}:start -->.*?<!-- {marker}:end -->\s*',
+            rf'[ \t]*<!-- {marker}:start -->.*?<!-- {marker}:end -->\s*',
             '',
             html,
             flags=re.DOTALL,
