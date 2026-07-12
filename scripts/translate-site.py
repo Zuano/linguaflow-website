@@ -88,6 +88,20 @@ SOURCE_FILES += sorted(p.name for p in REPO_ROOT.glob("ratgeber*.html"))
 
 BASE_URL = "https://linguaflow.app"
 
+# Rechtstexte nur Deutsch + Englisch — spart DeepL-Kosten. Die übrigen
+# Sprachversionen sind Redirect-Stubs auf /en/ (nicht von diesem Skript
+# verwaltet). / Legal pages German + English only — saves DeepL costs.
+# The other language versions are redirect stubs to /en/ (not managed
+# by this script).
+LEGAL_FILES = {"datenschutz.html", "eula.html", "impressum.html"}
+
+
+def languages_for(filename: str) -> list:
+    """Zielsprachen für eine Quelldatei. / Target languages for a source file."""
+    if filename in LEGAL_FILES:
+        return [l for l in LANGUAGES if l[0] == "EN-US"]
+    return LANGUAGES
+
 # Erhöhen, wenn sich die Übersetzungs-Logik grundlegend ändert.
 # Bei Mismatch wird der Cache invalidiert → alles neu übersetzt.
 # v4: Fix für hreflang in Sub-Pages (DE/x-default zeigten auf Root) und
@@ -229,7 +243,7 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     de_url = f"{BASE_URL}/{de_path}" if de_path else f"{BASE_URL}/"
     hreflang_links = [f'<link rel="alternate" hreflang="x-default" href="{de_url}">']
     hreflang_links.append(f'<link rel="alternate" hreflang="de" href="{de_url}">')
-    for _, lattr, lslug, _, _ in LANGUAGES:
+    for _, lattr, lslug, _, _ in languages_for(filename):
         # URL dieser Seite in dieser Sprache
         if filename == "index.html":
             lang_url = f"{BASE_URL}/{lslug}/"
@@ -279,7 +293,7 @@ def build_footer_switcher(current_slug: str, filename: str) -> str:
     opts = []
     sel = " selected" if current_slug == "de" else ""
     opts.append(f'<option value="/{sub}"{sel}>🇩🇪 Deutsch</option>')
-    for _, _, slug, name, flag in LANGUAGES:
+    for _, _, slug, name, flag in languages_for(filename):
         sel = " selected" if slug == current_slug else ""
         opts.append(f'<option value="/{slug}/{sub}"{sel}>{flag} {name}</option>')
 
@@ -302,7 +316,7 @@ def build_navbar_switcher(current_slug: str, filename: str) -> str:
     opts = []
     sel = " selected" if current_slug == "de" else ""
     opts.append(f'<option value="/{sub}"{sel}>🇩🇪 DE</option>')
-    for _, _, slug, _, flag in LANGUAGES:
+    for _, _, slug, _, flag in languages_for(filename):
         sel = " selected" if slug == current_slug else ""
         opts.append(f'<option value="/{slug}/{sub}"{sel}>{flag} {slug.upper()}</option>')
 
@@ -344,7 +358,7 @@ def enrich_source_file(source_path: pathlib.Path) -> bool:
         f'<link rel="alternate" hreflang="de" href="{BASE_URL}/' + ("" if filename == "index.html" else filename) + '">',
         f'<link rel="alternate" hreflang="x-default" href="{BASE_URL}/' + ("" if filename == "index.html" else filename) + '">',
     ]
-    for _, lattr, lslug, _, _ in LANGUAGES:
+    for _, lattr, lslug, _, _ in languages_for(filename):
         if filename == "index.html":
             url = f"{BASE_URL}/{lslug}/"
         else:
@@ -412,12 +426,13 @@ def process_source_file(
         print(f"  ✓ {filename}: unverändert, skip (Cache-Hit)")
         return 0
 
-    print(f"  → {filename}: geändert oder erstmalig — übersetze in {len(LANGUAGES)} Sprachen …")
+    target_languages = languages_for(filename)
+    print(f"  → {filename}: geändert oder erstmalig — übersetze in {len(target_languages)} Sprachen …")
     source_html = source_path.read_text(encoding="utf-8")
 
     translated_count = 0
-    for idx, (deepl_code, lang_attr, slug, name, _flag) in enumerate(LANGUAGES, 1):
-        print(f"     [{idx:2}/{len(LANGUAGES)}] {slug} ({name}) … ", end="", flush=True)
+    for idx, (deepl_code, lang_attr, slug, name, _flag) in enumerate(target_languages, 1):
+        print(f"     [{idx:2}/{len(target_languages)}] {slug} ({name}) … ", end="", flush=True)
         try:
             translated = deepl_translate(source_html, deepl_code, api_key)
         except Exception as e:
@@ -451,9 +466,12 @@ def build_sitemap():
         else:
             urls.append(f"{BASE_URL}/{filename}")
 
-    # Alle Sprachen
-    for _, _, slug, _, _ in LANGUAGES:
+    # Alle Sprachen (Rechtstexte nur dort, wo sie wirklich übersetzt werden)
+    for lang in LANGUAGES:
+        _, _, slug, _, _ = lang
         for filename in SOURCE_FILES:
+            if lang not in languages_for(filename):
+                continue
             if filename == "index.html":
                 urls.append(f"{BASE_URL}/{slug}/")
             else:
