@@ -79,6 +79,9 @@
       .page-content ul.nl-benefits li { padding-left: 32px; position: relative; margin-bottom: 12px; }
       .nl-benefits li::before { content: &quot;✅&quot;; position: absolute; left: 0; }
       .nl-form { display: flex; flex-direction: column; gap: 12px; }
+      /* display:flex would override the hidden attribute after success /
+         display:flex würde nach Erfolg das hidden-Attribut übersteuern */
+      .nl-form[hidden] { display: none; }
       .nl-form label { font-weight: 600; }
       .nl-form input[type=&quot;email&quot;] { padding: 14px 16px; border: 1px solid var(--gray-200); border-radius: 10px; font-size: 1rem; font-family: inherit; }
       .nl-form input[type=&quot;email&quot;]:focus { outline: 2px solid var(--teal); border-color: var(--teal); }
