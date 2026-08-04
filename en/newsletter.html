@@ -101,10 +101,16 @@
         <li>Inspiration for greater progress—e.g., for vacation, your career, or better job opportunities</li>
       </ul>
 
-      <form class="nl-form" id="nlForm" novalidate>
+      <form class="nl-form" id="nlForm">
         <label for="nlEmail">Your email address</label>
         <input type="email" id="nlEmail" name="email" autocomplete="email" required>
+        <!-- Second (invisible) email field: without it Safari treats a lone
+             email input as a LOGIN field and never offers "Hide My Email" /
+             Zweites (unsichtbares) E-Mail-Feld: ohne dieses stuft Safari ein
+             einzelnes E-Mail-Feld als LOGIN-Feld ein und bietet nie
+             "E-Mail-Adresse verbergen" an -->
         <div class="nl-hp" aria-hidden="true">
+          <input type="email" name="email_confirm" tabindex="-1" autocomplete="email">
           <input type="text" name="firma" tabindex="-1" autocomplete="off">
         </div>
         <button type="submit" class="btn btn-primary" id="nlSubmit">Sign up now</button>
@@ -113,7 +119,7 @@
       <div class="nl-msg nl-msg-success" id="nlSuccess" hidden>Almost done! Please check your inbox and confirm your registration using the link in the email.</div>
       <div class="nl-msg nl-msg-error" id="nlError" hidden>Unfortunately, that didn’t work. Please try again later—or email us at hello@linguaflow.app.</div>
 
-      <p class="nl-legal">Maximum of 1 email per month; you can unsubscribe at any time via the link in each email. After submitting, you’ll receive a confirmation email (double opt-in)—your registration isn’t complete until you click the link in that email. For information on how your data is processed, please see the <a href="datenschutz.html">Privacy Policy</a>.</p>
+      <p class="nl-legal">Maximum of 1 email per month; you can unsubscribe at any time via the link in each email. After submitting, you’ll receive a confirmation email (double opt-in)—your registration isn’t complete until you click the link in that email. For information on how your data is processed, see the <a href="datenschutz.html">Privacy Policy</a>.</p>
     </div>
 
   </div>
@@ -165,8 +171,6 @@
     e.preventDefault();
     nlSuccess.hidden = true;
     nlError.hidden = true;
-    // Native browser validation (localized) / Native Browser-Validierung (lokalisiert)
-    if (!nlForm.reportValidity()) return;
     // Honeypot filled -&gt; silently ignore (bot) / Honeypot gefüllt -&gt; still ignorieren (Bot)
     if (nlForm.elements[&#x27;firma&#x27;].value) { nlSuccess.hidden = false; nlForm.hidden = true; return; }
     nlSubmit.disabled = true;
