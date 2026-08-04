@@ -26,6 +26,11 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <!-- i18n-hreflang:start -->
+  <link rel="alternate" hreflang="de" href="https://linguaflow.app/was-ist-neu.html">
+  <link rel="alternate" hreflang="x-default" href="https://linguaflow.app/was-ist-neu.html">
+  <link rel="alternate" hreflang="en" href="https://linguaflow.app/en/was-ist-neu.html">
+  <!-- i18n-hreflang:end -->
 </head>
 <body>
 
@@ -41,6 +46,12 @@
       <a href="was-ist-neu.html">Was ist neu</a>
       <a href="./#download" class="btn btn-primary btn-sm nav-cta">App herunterladen</a>
     </div>
+    <!-- i18n-navswitcher:start -->
+    <select class="nav-lang-switcher" onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language">
+      <option value="/was-ist-neu.html" selected>🇩🇪 DE</option>
+      <option value="/en/was-ist-neu.html">🇺🇸 EN</option>
+    </select>
+    <!-- i18n-navswitcher:end -->
     <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
       <span></span><span></span><span></span>
     </button>
@@ -189,6 +200,14 @@
       </div>
     </div>
   </div>
+<!-- i18n-switcher:start -->
+<div class="language-switcher" style="text-align:center;padding:20px 0 8px;">
+  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">
+    <option value="/was-ist-neu.html" selected>🇩🇪 Deutsch</option>
+    <option value="/en/was-ist-neu.html">🇺🇸 English</option>
+  </select>
+</div>
+<!-- i18n-switcher:end -->
 </footer>
 
 <script>
