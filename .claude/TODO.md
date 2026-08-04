@@ -1,7 +1,12 @@
 # TODO — linguaflow.app Website
 
 ## In Arbeit
-- (nichts)
+- [ ] **DMARC-Record erweitern** (WordPress DNS) — von `p=none` auf `p=quarantine`, siehe `.claude/features/dmarc-erweitern.md` (aus dem alten Ordner gerettet, Stand Juni 2026 — Status vor Umsetzung prüfen)
+
+## Offen — Marketing / Sichtbarkeit (aus altem Ordner übernommen, siehe `.claude/features/marketing-backlog.md`)
+- [ ] App-Verzeichnisse eintragen (Product Hunt, AlternativeTo, Capterra, G2, …) — 3–5 h, hoher Impact
+- [ ] Free Tool auf der Domain (z. B. Wort-für-Wort-Demo ohne App-Download) — 5–15 h, sehr hoher Impact
+- [ ] Blog-Sektion starten — laufend, hoher Impact
 
 ## Erledigt
 - Rechtstexte (Datenschutz, EULA, Impressum) nur noch Deutsch + Englisch: `LEGAL_FILES` + `languages_for()` in translate-site.py, 96 Sprachversionen durch Redirect-Stubs auf /en/ ersetzt, Hinweissatz „deutsche Fassung verbindlich" ergänzt. Spart ~10 €/Datei bei künftigen Änderungen (nur noch EN wird übersetzt, ~30 Cent)
@@ -26,6 +31,7 @@
 - Nach 4–8 Wochen: Rankings/Klicks prüfen (v. a. /sk/ und /ro/), dann Phase 2 entscheiden
 
 ## Änderungsprotokoll
+- 2026-08-04: Doppelten Website-Ordner „website Linguaflow" aufgelöst. Befund: exakter Schnappschuss vom 24.06.2026, alle Website-Dateien byte-identisch mit Commit `85843d4` (bereits in der Git-Historie) — KEINE Übersetzungen betroffen, keine DeepL-Kosten. Einzigartige Planungs-Dokus gerettet: offene Features nach `.claude/features/` (dmarc-erweitern, marketing-backlog), Historisches nach `.claude/done/archiv-alter-ordner/` (altes TODO/DECISIONS/CLAUDE, FAQ-Recherche, SEO-Prompt). Offene Aufgaben (DMARC, Marketing) oben wieder eingetragen. Alter Ordner in den Papierkorb verschoben (darin auch 6 Simulator-Screenshots von April 2026, `img/Screenshots/`). `.DS_Store` in `.gitignore` ergänzt. Noch NICHT committet/gepusht (auf Christians Anweisung).
 - 2026-07-12: Rechtstexte nur noch DE+EN (LEGAL_FILES in translate-site.py, 96 Redirect-Stubs, Disclaimer-Satz in 3 Quelldateien) — einmalige Kosten ~1 € (3 Dateien × EN), Enrichment-Simulation vor Push bestätigte: keine ungewollte Neu-Übersetzung
 - 2026-07-12: GSC-Fixes: index.html-Links → "./" (Quelle + alle Sprachordner, Cache-Hashes angepasst, keine Übersetzungskosten), 27 Redirect-Stubs für alte WordPress-404-URLs, 404.html neu
 - 2026-07-11: 30-Tage-Testzeitraum (Jahresabo) auf Preiskarte + FAQ ergänzt (index.html, hilfe.html) → löst Neu-Übersetzung beider Dateien aus
