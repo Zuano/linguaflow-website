@@ -106,6 +106,13 @@
              "E-Mail-Adresse verbergen" an -->
         <div class="nl-hp" aria-hidden="true">
           <input type="email" name="email_confirm" tabindex="-1" autocomplete="email">
+          <!-- Strongest sign-up signal for Safari: only forms classified as
+               REGISTRATION get the "Hide My Email" suggestion. Field stays
+               empty and is never submitted. / Stärkstes Registrier-Signal für
+               Safari: nur als REGISTRIERUNG eingestufte Formulare bekommen den
+               "E-Mail-Adresse verbergen"-Vorschlag. Feld bleibt leer und wird
+               nie mitgesendet. -->
+          <input type="password" name="new_password" tabindex="-1" autocomplete="new-password">
           <input type="text" name="firma" tabindex="-1" autocomplete="off">
         </div>
         <button type="submit" class="btn btn-primary" id="nlSubmit">Jetzt abonnieren</button>
