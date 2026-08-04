@@ -1,7 +1,7 @@
 {
   "__version": "4",
-  "index.html": "fbbafccf510f6d643baa4b57d1e8fbc1be26e03a80cac2f54adbeb83d5c86be6",
-  "hilfe.html": "1b7a107210d5f749cf9ad688f03403547adff11fe89ba9a7b5bca07fd8e1c074",
+  "index.html": "b7a1e21c98514b9a8859896bac0cdc63f51d36f8c94b84b9096c04657addab3a",
+  "hilfe.html": "16778ebe39bd16283348c01e5df2ecc2cc56b08a614309fa5a82ab53197df624",
   "datenschutz.html": "44d43a11832b6625afd4c92fc3e986b9a875d50f4031a5ce7a7f07b2f6e76ae8",
   "eula.html": "a0de4518c8954d7d2e1f682b36029e0b1c0064e0ed81386464f5f0b510cb4803",
   "impressum.html": "68e132c004e47ff35634b5f2c98bf0768b76df6924c7ff5319e8dcef3ffb52f0",
@@ -10,5 +10,5 @@
   "ratgeber-deutsch-b2-pflege.html": "cd8517c5dd454c22a3b5ae5985065dd19b57098ca693c3a5649d4fccafadf2aa",
   "ratgeber-haushaltshilfe-jobs-wien.html": "4be2199cccf41e5654206fd19d24f80accb14566c1c5df171e18d429092f1cfa",
   "ratgeber.html": "5c1995bae448c8e3708d210b92667d1a1223a7cda30cb24a80eb75bf7688a139",
-  "was-ist-neu.html": "9db2474539d16fd09a1c006041cb02a0f8964aea4caa6488cf7070212730546d"
+  "was-ist-neu.html": "a1e39a5708860a8c2be1d9bd5b23219c1910d17d1bd0e7008166771775430d32"
 }

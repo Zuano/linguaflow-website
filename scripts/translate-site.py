@@ -39,6 +39,7 @@ SOURCE_FILES = [
     "eula.html",
     "impressum.html",
     "was-ist-neu.html",
+    "newsletter.html",
 ]
 
 # Alle 33 DeepL-Zielsprachen
@@ -100,7 +101,10 @@ LEGAL_FILES = {"datenschutz.html", "eula.html", "impressum.html"}
 # aktualisiert, 33 Sprachen wären zu teuer. / Changelog page also
 # German + English only — it changes with every app release, so
 # translating into 33 languages would be too expensive.
-DE_EN_ONLY_FILES = LEGAL_FILES | {"was-ist-neu.html"}
+# Newsletter-Seite ebenfalls nur DE + EN — der Newsletter selbst erscheint
+# nur auf Deutsch und Englisch. / Newsletter page also German + English
+# only — the newsletter itself is only published in German and English.
+DE_EN_ONLY_FILES = LEGAL_FILES | {"was-ist-neu.html", "newsletter.html"}
 
 
 def languages_for(filename: str) -> list:
