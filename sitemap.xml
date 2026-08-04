@@ -31,6 +31,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/newsletter.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-08-04</lastmod>
     <priority>0.6</priority>
@@ -82,6 +87,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/en/was-ist-neu.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/en/newsletter.html</loc>
     <lastmod>2026-08-04</lastmod>
     <priority>0.3</priority>
   </url>

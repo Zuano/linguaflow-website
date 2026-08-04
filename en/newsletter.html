@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Newsletter – LinguaFlow | Learning Tips &amp; News</title>
+  <meta name="description" content="Der LinguaFlow-Newsletter: Lerntipps, die dich schneller ans Ziel bringen, und Neuigkeiten zur App – maximal 1 E-Mail pro Monat, jederzeit abmeldbar.">
+  <meta property="og:title" content="Newsletter – LinguaFlow | Lerntipps &amp; Neuigkeiten">
+  <meta property="og:description" content="Der LinguaFlow-Newsletter: Lerntipps, die dich schneller ans Ziel bringen, und Neuigkeiten zur App – maximal 1 E-Mail pro Monat, jederzeit abmeldbar.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://linguaflow.app/en/newsletter.html">
+  <meta property="og:image" content="https://linguaflow.app/img/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en">
+  <meta property="og:site_name" content="LinguaFlow">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://linguaflow.app/img/og-image.png">
+  <link rel="canonical" href="https://linguaflow.app/en/newsletter.html">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#14b8a6">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <!-- i18n-hreflang:start -->
+  <link rel="alternate" hreflang="de" href="https://linguaflow.app/newsletter.html">
+  <link rel="alternate" hreflang="x-default" href="https://linguaflow.app/newsletter.html">
+  <link rel="alternate" hreflang="en" href="https://linguaflow.app/en/newsletter.html">
+  <!-- i18n-hreflang:end -->
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container">
+    <a href="./" class="logo">Lingua<span>Flow</span></a>
+    <div class="nav-links" id="navLinks">
+      <a href="./#methode">Method</a>
+      
+      <a href="./#features">Features</a>
+      
+      <a href="./#sprachen">Languages</a>
+      
+      <a href="ratgeber.html">Guides</a>
+      
+      <a href="hilfe.html">Help</a>
+      
+      <a href="./#download" class="btn btn-primary btn-sm nav-cta">Download the app</a>
+    </div>
+<!-- i18n-navswitcher:start -->
+    <select class="nav-lang-switcher" onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language">
+      <option value="/newsletter.html">🇩🇪 DE</option>
+      <option value="/en/newsletter.html" selected>🇺🇸 EN</option>
+    </select>
+    <!-- i18n-navswitcher:end -->
+    <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<section class="page-header">
+  <div class="container">
+    <h1>The LinguaFlow Newsletter</h1>
+    <p>We want you to really make progress—no more than 1 email per month.</p>
+  </div>
+</section>
+
+<section class="page-content">
+  <div class="container" style="max-width:640px;">
+
+    <style>
+      /* Newsletter signup card / Newsletter-Anmeldekarte */
+      .nl-card { background: var(--white); border: 1px solid var(--gray-200); border-radius: 16px; padding: 32px 28px; box-shadow: 0 4px 24px rgba(0,0,0,0.06); }
+      .page-content ul.nl-benefits { list-style: none; padding: 0; margin: 0 0 24px; }
+      .page-content ul.nl-benefits li { padding-left: 32px; position: relative; margin-bottom: 12px; }
+      .nl-benefits li::before { content: &quot;✅&quot;; position: absolute; left: 0; }
+      .nl-form { display: flex; flex-direction: column; gap: 12px; }
+      .nl-form label { font-weight: 600; }
+      .nl-form input[type=&quot;email&quot;] { padding: 14px 16px; border: 1px solid var(--gray-200); border-radius: 10px; font-size: 1rem; font-family: inherit; }
+      .nl-form input[type=&quot;email&quot;]:focus { outline: 2px solid var(--teal); border-color: var(--teal); }
+      .nl-legal { font-size: .85rem; color: var(--gray-600); margin-top: 16px; }
+      .nl-msg { margin-top: 16px; padding: 14px 16px; border-radius: 10px; font-weight: 500; }
+      .nl-msg-success { background: var(--teal-light); color: var(--teal-dark); }
+      .nl-msg-error { background: #fde8e8; color: #9b1c1c; }
+      /* Honeypot: invisible to humans, bots fill it / für Menschen unsichtbar, Bots füllen es aus */
+      .nl-hp { position: absolute; left: -9999px; opacity: 0; height: 0; overflow: hidden; }
+    </style>
+
+    <div class="nl-card">
+      <p style="margin-bottom:16px;"><strong>What to expect:</strong></p>
+      <ul class="nl-benefits">
+        <li>Learning tips to help you reach your language goals faster</li>
+        <li>News about new LinguaFlow features and products</li>
+        <li>Inspiration for greater progress—e.g., for vacation, your career, or better job opportunities</li>
+      </ul>
+
+      <form class="nl-form" id="nlForm" novalidate>
+        <label for="nlEmail">Your email address</label>
+        <input type="email" id="nlEmail" name="email" autocomplete="email" required>
+        <div class="nl-hp" aria-hidden="true">
+          <input type="text" name="firma" tabindex="-1" autocomplete="off">
+        </div>
+        <button type="submit" class="btn btn-primary" id="nlSubmit">Sign up now</button>
+      </form>
+
+      <div class="nl-msg nl-msg-success" id="nlSuccess" hidden>Almost done! Please check your inbox and confirm your registration using the link in the email.</div>
+      <div class="nl-msg nl-msg-error" id="nlError" hidden>Unfortunately, that didn’t work. Please try again later—or email us at hello@linguaflow.app.</div>
+
+      <p class="nl-legal">Maximum of 1 email per month; you can unsubscribe at any time via the link in each email. After submitting, you’ll receive a confirmation email (double opt-in)—your registration isn’t complete until you click the link in that email. For information on how your data is processed, please see the <a href="datenschutz.html">Privacy Policy</a>.</p>
+    </div>
+
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© 2025 LinguaFlow e.U. All rights reserved.</span>
+      <div style="display:flex;gap:16px;">
+        <a href="./">Home</a>
+        
+        <a href="ratgeber.html">Guide</a>
+        
+        <a href="impressum.html">Legal Notice</a>
+        
+        <a href="datenschutz.html">Privacy Policy</a>
+      </div>
+    </div>
+  </div>
+<!-- i18n-switcher:start -->
+<div class="language-switcher" style="text-align:center;padding:20px 0 8px;">
+  <select onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language" style="padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,0.2);background:rgba(255,255,255,0.05);color:inherit;font-size:14px;cursor:pointer;font-family:inherit;">
+    <option value="/newsletter.html">🇩🇪 Deutsch</option>
+    <option value="/en/newsletter.html" selected>🇺🇸 English</option>
+  </select>
+</div>
+<!-- i18n-switcher:end -->
+</footer>
+
+<script>
+  // Mobile menu
+  const hamburger = document.getElementById(&#x27;hamburger&#x27;);
+  const navLinks = document.getElementById(&#x27;navLinks&#x27;);
+  hamburger.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.toggle(&#x27;active&#x27;));
+  navLinks.querySelectorAll(&#x27;a&#x27;).forEach(l =&gt; l.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.remove(&#x27;active&#x27;)));
+
+  // Newsletter signup via MailerLite embedded-form endpoint (group &quot;website&quot;,
+  // double opt-in). / Newsletter-Anmeldung über den MailerLite-Formular-Endpunkt
+  // (Gruppe &quot;website&quot;, Double-Opt-in).
+  const ML_SUBSCRIBE_URL = &#x27;https://assets.mailerlite.com/jsonp/2515300/forms/194891825918511013/subscribe&#x27;;
+  const nlForm = document.getElementById(&#x27;nlForm&#x27;);
+  const nlEmail = document.getElementById(&#x27;nlEmail&#x27;);
+  const nlSubmit = document.getElementById(&#x27;nlSubmit&#x27;);
+  const nlSuccess = document.getElementById(&#x27;nlSuccess&#x27;);
+  const nlError = document.getElementById(&#x27;nlError&#x27;);
+
+  nlForm.addEventListener(&#x27;submit&#x27;, async (e) =&gt; {
+    e.preventDefault();
+    nlSuccess.hidden = true;
+    nlError.hidden = true;
+    // Native browser validation (localized) / Native Browser-Validierung (lokalisiert)
+    if (!nlForm.reportValidity()) return;
+    // Honeypot filled -&gt; silently ignore (bot) / Honeypot gefüllt -&gt; still ignorieren (Bot)
+    if (nlForm.elements[&#x27;firma&#x27;].value) { nlSuccess.hidden = false; nlForm.hidden = true; return; }
+    nlSubmit.disabled = true;
+    try {
+      const body = new FormData();
+      body.append(&#x27;fields[email]&#x27;, nlEmail.value.trim());
+      body.append(&#x27;ml-submit&#x27;, &#x27;1&#x27;);
+      body.append(&#x27;anticsrf&#x27;, &#x27;true&#x27;);
+      const res = await fetch(ML_SUBSCRIBE_URL, { method: &#x27;POST&#x27;, body });
+      const data = await res.json();
+      if (data &amp;&amp; data.success) {
+        nlSuccess.hidden = false;
+        nlForm.hidden = true;
+      } else {
+        nlError.hidden = false;
+      }
+    } catch (err) {
+      nlError.hidden = false;
+    } finally {
+      nlSubmit.disabled = false;
+    }
+  });
+</script>
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c42b58c8ea84d55a3af29e844db0df9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+
+</body>
+</html>
