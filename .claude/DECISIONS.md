@@ -24,6 +24,25 @@ Rechtstexte, die nur DE+EN sein sollen, einfach in `LEGAL_FILES` eintragen.
 Die Redirect-Stubs in den Sprachordnern (z. B. `/fr/eula.html`) NICHT löschen
 (sonst 404s in Google) und NICHT von Hand „zurückübersetzen".
 
+## „Was ist neu"-Seite (Changelog) nur Deutsch + Englisch (2026-08-04)
+
+**Entscheidung:** Die neue Changelog-Seite `/was-ist-neu.html` gibt es nur auf
+Deutsch (Quelle) und Englisch (`/en/was-ist-neu.html`). Gesteuert über
+`DE_EN_ONLY_FILES` in `scripts/translate-site.py` (gleicher Mechanismus wie
+`LEGAL_FILES`, aber eigenes Set, weil es kein Rechtstext ist).
+
+**Begründung:**
+- Die Seite wird bei jedem App-Release aktualisiert — 33 Sprachen wären bei
+  jeder Änderung teuer, DE+EN kostet nur Cent-Beträge (Wunsch von Christian,
+  Session 2026-08-04).
+- Die Versionshistorie wurde aus dem Git-Verlauf des iOS-Projekts und den
+  App-Store-Release-Notes rekonstruiert (`.claude/appstore/release-notes-v2.3*.md`
+  und `release-status.md` im iOS-Projekt).
+
+**Umsetzung:** Einträge beziehen sich auf iOS-Versionen (2.4, 2.3.1, 2.3, 2.0,
+1.0), neueste zuerst. Bei jedem neuen Release oben einen Eintrag ergänzen.
+Android-Einträge können später ergänzt werden (Android aktuell 1.4.2).
+
 ## Frühere Entscheidungen (Kurzfassung, vor Einführung dieser Datei)
 
 - Statische Website auf GitHub Pages, WordPress abgelöst; alte WordPress-URLs

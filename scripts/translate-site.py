@@ -38,6 +38,7 @@ SOURCE_FILES = [
     "datenschutz.html",
     "eula.html",
     "impressum.html",
+    "was-ist-neu.html",
 ]
 
 # Alle 33 DeepL-Zielsprachen
@@ -95,10 +96,16 @@ BASE_URL = "https://linguaflow.app"
 # by this script).
 LEGAL_FILES = {"datenschutz.html", "eula.html", "impressum.html"}
 
+# Changelog-Seite ebenfalls nur DE + EN — wird bei jedem App-Release
+# aktualisiert, 33 Sprachen wären zu teuer. / Changelog page also
+# German + English only — it changes with every app release, so
+# translating into 33 languages would be too expensive.
+DE_EN_ONLY_FILES = LEGAL_FILES | {"was-ist-neu.html"}
+
 
 def languages_for(filename: str) -> list:
     """Zielsprachen für eine Quelldatei. / Target languages for a source file."""
-    if filename in LEGAL_FILES:
+    if filename in DE_EN_ONLY_FILES:
         return [l for l in LANGUAGES if l[0] == "EN-US"]
     return LANGUAGES
 
