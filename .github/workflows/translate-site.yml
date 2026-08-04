@@ -12,6 +12,8 @@ on:
       - 'datenschutz.html'
       - 'eula.html'
       - 'impressum.html'
+      - 'was-ist-neu.html'
+      - 'newsletter.html'
       - 'ratgeber*.html'
       - 'scripts/translate-site.py'
   workflow_dispatch:
