@@ -397,18 +397,18 @@
 
 <script>
   // Mobile menu
-  const hamburger = document.getElementById(&#x27;hamburger&#x27;);
-  const navLinks = document.getElementById(&#x27;navLinks&#x27;);
-  hamburger.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.toggle(&#x27;active&#x27;));
-  navLinks.querySelectorAll(&#x27;a&#x27;).forEach(l =&gt; l.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.remove(&#x27;active&#x27;)));
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+  navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('active')));
 
   // FAQ accordion
-  document.querySelectorAll(&#x27;.faq-question&#x27;).forEach(q =&gt; {
-    q.addEventListener(&#x27;click&#x27;, () =&gt; {
+  document.querySelectorAll('.faq-question').forEach(q => {
+    q.addEventListener('click', () => {
       const item = q.parentElement;
-      const wasActive = item.classList.contains(&#x27;active&#x27;);
-      document.querySelectorAll(&#x27;.faq-item&#x27;).forEach(i =&gt; i.classList.remove(&#x27;active&#x27;));
-      if (!wasActive) item.classList.add(&#x27;active&#x27;);
+      const wasActive = item.classList.contains('active');
+      document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('active'));
+      if (!wasActive) item.classList.add('active');
     });
   });
 </script>

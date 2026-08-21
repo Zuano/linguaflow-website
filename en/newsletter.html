@@ -159,36 +159,36 @@
 
 <script>
   // Mobile menu
-  const hamburger = document.getElementById(&#x27;hamburger&#x27;);
-  const navLinks = document.getElementById(&#x27;navLinks&#x27;);
-  hamburger.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.toggle(&#x27;active&#x27;));
-  navLinks.querySelectorAll(&#x27;a&#x27;).forEach(l =&gt; l.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.remove(&#x27;active&#x27;)));
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+  navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('active')));
 
-  // Newsletter signup via MailerLite embedded-form endpoint (group &quot;website&quot;,
+  // Newsletter signup via MailerLite embedded-form endpoint (group "website",
   // double opt-in). / Newsletter-Anmeldung über den MailerLite-Formular-Endpunkt
-  // (Gruppe &quot;website&quot;, Double-Opt-in).
-  const ML_SUBSCRIBE_URL = &#x27;https://assets.mailerlite.com/jsonp/2515300/forms/194891825918511013/subscribe&#x27;;
-  const nlForm = document.getElementById(&#x27;nlForm&#x27;);
-  const nlEmail = document.getElementById(&#x27;nlEmail&#x27;);
-  const nlSubmit = document.getElementById(&#x27;nlSubmit&#x27;);
-  const nlSuccess = document.getElementById(&#x27;nlSuccess&#x27;);
-  const nlError = document.getElementById(&#x27;nlError&#x27;);
+  // (Gruppe "website", Double-Opt-in).
+  const ML_SUBSCRIBE_URL = 'https://assets.mailerlite.com/jsonp/2515300/forms/194891825918511013/subscribe';
+  const nlForm = document.getElementById('nlForm');
+  const nlEmail = document.getElementById('nlEmail');
+  const nlSubmit = document.getElementById('nlSubmit');
+  const nlSuccess = document.getElementById('nlSuccess');
+  const nlError = document.getElementById('nlError');
 
-  nlForm.addEventListener(&#x27;submit&#x27;, async (e) =&gt; {
+  nlForm.addEventListener('submit', async (e) => {
     e.preventDefault();
     nlSuccess.hidden = true;
     nlError.hidden = true;
-    // Honeypot filled -&gt; silently ignore (bot) / Honeypot gefüllt -&gt; still ignorieren (Bot)
-    if (nlForm.elements[&#x27;firma&#x27;].value) { nlSuccess.hidden = false; nlForm.hidden = true; return; }
+    // Honeypot filled -> silently ignore (bot) / Honeypot gefüllt -> still ignorieren (Bot)
+    if (nlForm.elements['firma'].value) { nlSuccess.hidden = false; nlForm.hidden = true; return; }
     nlSubmit.disabled = true;
     try {
       const body = new FormData();
-      body.append(&#x27;fields[email]&#x27;, nlEmail.value.trim());
-      body.append(&#x27;ml-submit&#x27;, &#x27;1&#x27;);
-      body.append(&#x27;anticsrf&#x27;, &#x27;true&#x27;);
-      const res = await fetch(ML_SUBSCRIBE_URL, { method: &#x27;POST&#x27;, body });
+      body.append('fields[email]', nlEmail.value.trim());
+      body.append('ml-submit', '1');
+      body.append('anticsrf', 'true');
+      const res = await fetch(ML_SUBSCRIBE_URL, { method: 'POST', body });
       const data = await res.json();
-      if (data &amp;&amp; data.success) {
+      if (data && data.success) {
         nlSuccess.hidden = false;
         nlForm.hidden = true;
       } else {

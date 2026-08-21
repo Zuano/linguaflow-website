@@ -637,44 +637,44 @@
 
 <script>
   // Mobile menu
-  const hamburger = document.getElementById(&#x27;hamburger&#x27;);
-  const navLinks = document.getElementById(&#x27;navLinks&#x27;);
-  hamburger.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.toggle(&#x27;active&#x27;));
-  navLinks.querySelectorAll(&#x27;a&#x27;).forEach(l =&gt; l.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.remove(&#x27;active&#x27;)));
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+  navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('active')));
 
   // FAQ accordion
-  document.querySelectorAll(&#x27;.faq-question&#x27;).forEach(q =&gt; {
-    q.addEventListener(&#x27;click&#x27;, () =&gt; {
+  document.querySelectorAll('.faq-question').forEach(q => {
+    q.addEventListener('click', () => {
       const item = q.parentElement;
-      const wasActive = item.classList.contains(&#x27;active&#x27;);
-      document.querySelectorAll(&#x27;.faq-item&#x27;).forEach(i =&gt; i.classList.remove(&#x27;active&#x27;));
-      if (!wasActive) item.classList.add(&#x27;active&#x27;);
+      const wasActive = item.classList.contains('active');
+      document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('active'));
+      if (!wasActive) item.classList.add('active');
     });
   });
 
-  // FAQ live search (umlaut- &amp; case-insensitive, token-AND match)
+  // FAQ live search (umlaut- & case-insensitive, token-AND match)
   (function () {
-    const input = document.getElementById(&#x27;faqSearch&#x27;);
+    const input = document.getElementById('faqSearch');
     if (!input) return;
-    const noResults = document.getElementById(&#x27;faqNoResults&#x27;);
-    const norm = s =&gt; (s || &#x27;&#x27;)
+    const noResults = document.getElementById('faqNoResults');
+    const norm = s => (s || '')
       .toLowerCase()
-      .replace(/ä/g, &#x27;a&#x27;).replace(/ö/g, &#x27;o&#x27;).replace(/ü/g, &#x27;u&#x27;).replace(/ß/g, &#x27;ss&#x27;)
-      .replace(/[^a-z0-9 ]/g, &#x27; &#x27;)
-      .replace(/\s+/g, &#x27; &#x27;).trim();
-    const data = Array.from(document.querySelectorAll(&#x27;.faq-item&#x27;)).map(el =&gt; ({
+      .replace(/ä/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u').replace(/ß/g, 'ss')
+      .replace(/[^a-z0-9 ]/g, ' ')
+      .replace(/\s+/g, ' ').trim();
+    const data = Array.from(document.querySelectorAll('.faq-item')).map(el => ({
       el,
-      text: norm(el.querySelector(&#x27;.faq-question&#x27;).textContent + &#x27; &#x27; + el.querySelector(&#x27;.faq-answer&#x27;).textContent)
+      text: norm(el.querySelector('.faq-question').textContent + ' ' + el.querySelector('.faq-answer').textContent)
     }));
-    input.addEventListener(&#x27;input&#x27;, () =&gt; {
-      const terms = norm(input.value).split(&#x27; &#x27;).filter(Boolean);
+    input.addEventListener('input', () => {
+      const terms = norm(input.value).split(' ').filter(Boolean);
       let visible = 0;
-      data.forEach(d =&gt; {
-        const match = terms.length === 0 || terms.every(t =&gt; d.text.includes(t));
-        d.el.style.display = match ? &#x27;&#x27; : &#x27;none&#x27;;
+      data.forEach(d => {
+        const match = terms.length === 0 || terms.every(t => d.text.includes(t));
+        d.el.style.display = match ? '' : 'none';
         if (match) visible++;
       });
-      if (noResults) noResults.style.display = (terms.length &gt; 0 &amp;&amp; visible === 0) ? &#x27;block&#x27; : &#x27;none&#x27;;
+      if (noResults) noResults.style.display = (terms.length > 0 && visible === 0) ? 'block' : 'none';
     });
   })();
 </script>

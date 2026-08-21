@@ -699,78 +699,78 @@
 
 <script>
   // Mobile menu toggle
-  const hamburger = document.getElementById(&#x27;hamburger&#x27;);
-  const navLinks = document.getElementById(&#x27;navLinks&#x27;);
-  hamburger.addEventListener(&#x27;click&#x27;, () =&gt; {
-    navLinks.classList.toggle(&#x27;active&#x27;);
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.getElementById('navLinks');
+  hamburger.addEventListener('click', () => {
+    navLinks.classList.toggle('active');
   });
 
   // Close menu on link click
-  navLinks.querySelectorAll(&#x27;a&#x27;).forEach(link =&gt; {
-    link.addEventListener(&#x27;click&#x27;, () =&gt; navLinks.classList.remove(&#x27;active&#x27;));
+  navLinks.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => navLinks.classList.remove('active'));
   });
 
   // Navbar scroll effect
-  window.addEventListener(&#x27;scroll&#x27;, () =&gt; {
-    const navbar = document.querySelector(&#x27;.navbar&#x27;);
-    navbar.style.boxShadow = window.scrollY &gt; 20 ? &#x27;0 2px 20px rgba(0,0,0,.08)&#x27; : &#x27;none&#x27;;
+  window.addEventListener('scroll', () => {
+    const navbar = document.querySelector('.navbar');
+    navbar.style.boxShadow = window.scrollY > 20 ? '0 2px 20px rgba(0,0,0,.08)' : 'none';
   });
 
   // Intersection Observer for fade-in animations
-  const observer = new IntersectionObserver((entries) =&gt; {
-    entries.forEach(entry =&gt; {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
       if (entry.isIntersecting) {
-        entry.target.style.opacity = &#x27;1&#x27;;
-        entry.target.style.transform = &#x27;translateY(0)&#x27;;
+        entry.target.style.opacity = '1';
+        entry.target.style.transform = 'translateY(0)';
       }
     });
   }, { threshold: 0.1 });
 
-  document.querySelectorAll(&#x27;.step-card, .feature-card, .ps-card, .lang-chip&#x27;).forEach(el =&gt; {
-    el.style.opacity = &#x27;0&#x27;;
-    el.style.transform = &#x27;translateY(20px)&#x27;;
-    el.style.transition = &#x27;opacity .6s ease, transform .6s ease&#x27;;
+  document.querySelectorAll('.step-card, .feature-card, .ps-card, .lang-chip').forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(20px)';
+    el.style.transition = 'opacity .6s ease, transform .6s ease';
     observer.observe(el);
   });
 
   // === Lightbox / Slideshow ===
   const slides = [
-    { src: &#x27;img/screenshot-home.webp&#x27;, fallback: &#x27;img/screenshot-home.png&#x27;, title: &#x27;Startseite&#x27;, desc: &#x27;Text eingeben, Sprache wählen – und mit einem Tap dekodieren.&#x27; },
-    { src: &#x27;img/screenshot-decoding.webp&#x27;, fallback: &#x27;img/screenshot-decoding.png&#x27;, title: &#x27;Dekodierung&#x27;, desc: &#x27;Birkenbihl-inspiriertes Lernen in Aktion: Wort-für-Wort-Übersetzung mit Kontext.&#x27; },
-    { src: &#x27;img/screenshot-books.webp&#x27;, fallback: &#x27;img/screenshot-books.png&#x27;, title: &#x27;Bücher-Bibliothek&#x27;, desc: &#x27;Lerne mit echten Büchern – von Klassikern bis zu modernen Texten.&#x27; },
-    { src: &#x27;img/screenshot-reader.webp&#x27;, fallback: &#x27;img/screenshot-reader.png&#x27;, title: &#x27;Book Reader&#x27;, desc: &#x27;Bücher Kapitel für Kapitel dekodieren, hören und verstehen.&#x27; },
-    { src: &#x27;img/screenshot-history.webp&#x27;, fallback: &#x27;img/screenshot-history.png&#x27;, title: &#x27;Verlauf&#x27;, desc: &#x27;Alle Übersetzungen gespeichert – jederzeit wiederholen und vertiefen.&#x27; }
+    { src: '/img/screenshot-home.webp', fallback: '/img/screenshot-home.png', title: 'Startseite', desc: 'Text eingeben, Sprache wählen – und mit einem Tap dekodieren.' },
+    { src: '/img/screenshot-decoding.webp', fallback: '/img/screenshot-decoding.png', title: 'Dekodierung', desc: 'Birkenbihl-inspiriertes Lernen in Aktion: Wort-für-Wort-Übersetzung mit Kontext.' },
+    { src: '/img/screenshot-books.webp', fallback: '/img/screenshot-books.png', title: 'Bücher-Bibliothek', desc: 'Lerne mit echten Büchern – von Klassikern bis zu modernen Texten.' },
+    { src: '/img/screenshot-reader.webp', fallback: '/img/screenshot-reader.png', title: 'Book Reader', desc: 'Bücher Kapitel für Kapitel dekodieren, hören und verstehen.' },
+    { src: '/img/screenshot-history.webp', fallback: '/img/screenshot-history.png', title: 'Verlauf', desc: 'Alle Übersetzungen gespeichert – jederzeit wiederholen und vertiefen.' }
   ];
 
   // Create lightbox DOM
-  const overlay = document.createElement(&#x27;div&#x27;);
-  overlay.className = &#x27;lightbox-overlay&#x27;;
+  const overlay = document.createElement('div');
+  overlay.className = 'lightbox-overlay';
   overlay.innerHTML = `
-    &lt;button class=&quot;lightbox-close&quot; aria-label=&quot;Schließen&quot;&gt;&amp;times;&lt;/button&gt;
-    &lt;button class=&quot;lightbox-nav lightbox-prev&quot; aria-label=&quot;Zurück&quot;&gt;&amp;#8249;&lt;/button&gt;
-    &lt;button class=&quot;lightbox-nav lightbox-next&quot; aria-label=&quot;Weiter&quot;&gt;&amp;#8250;&lt;/button&gt;
-    &lt;div class=&quot;lightbox-content&quot;&gt;
-      &lt;div class=&quot;lightbox-phone&quot;&gt;
-        &lt;img class=&quot;lb-img&quot; alt=&quot;&quot;&gt;
-      &lt;/div&gt;
-      &lt;h3 class=&quot;lightbox-title&quot;&gt;&lt;/h3&gt;
-      &lt;p class=&quot;lightbox-desc&quot;&gt;&lt;/p&gt;
-      &lt;div class=&quot;lightbox-dots&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
+    <button class="lightbox-close" aria-label="Schließen">&times;</button>
+    <button class="lightbox-nav lightbox-prev" aria-label="Zurück">&#8249;</button>
+    <button class="lightbox-nav lightbox-next" aria-label="Weiter">&#8250;</button>
+    <div class="lightbox-content">
+      <div class="lightbox-phone">
+        <img class="lb-img" alt="">
+      </div>
+      <h3 class="lightbox-title"></h3>
+      <p class="lightbox-desc"></p>
+      <div class="lightbox-dots"></div>
+    </div>
   `;
   document.body.appendChild(overlay);
 
-  const lbImg = overlay.querySelector(&#x27;.lb-img&#x27;);
-  const lbTitle = overlay.querySelector(&#x27;.lightbox-title&#x27;);
-  const lbDesc = overlay.querySelector(&#x27;.lightbox-desc&#x27;);
-  const lbDots = overlay.querySelector(&#x27;.lightbox-dots&#x27;);
+  const lbImg = overlay.querySelector('.lb-img');
+  const lbTitle = overlay.querySelector('.lightbox-title');
+  const lbDesc = overlay.querySelector('.lightbox-desc');
+  const lbDots = overlay.querySelector('.lightbox-dots');
   let currentSlide = 0;
 
   // Create dots
-  slides.forEach((_, i) =&gt; {
-    const dot = document.createElement(&#x27;button&#x27;);
-    dot.className = &#x27;lightbox-dot&#x27; + (i === 0 ? &#x27; active&#x27; : &#x27;&#x27;);
-    dot.addEventListener(&#x27;click&#x27;, (e) =&gt; { e.stopPropagation(); showSlide(i); });
+  slides.forEach((_, i) => {
+    const dot = document.createElement('button');
+    dot.className = 'lightbox-dot' + (i === 0 ? ' active' : '');
+    dot.addEventListener('click', (e) => { e.stopPropagation(); showSlide(i); });
     lbDots.appendChild(dot);
   });
 
@@ -778,51 +778,51 @@
     currentSlide = ((idx % slides.length) + slides.length) % slides.length;
     const slide = slides[currentSlide];
     // Try WebP first, fallback to PNG if it fails
-    lbImg.onerror = () =&gt; { lbImg.onerror = null; lbImg.src = slide.fallback; };
+    lbImg.onerror = () => { lbImg.onerror = null; lbImg.src = slide.fallback; };
     lbImg.src = slide.src;
     lbImg.alt = slide.title;
     lbTitle.textContent = slide.title;
     lbDesc.textContent = slide.desc;
-    lbDots.querySelectorAll(&#x27;.lightbox-dot&#x27;).forEach((d, i) =&gt; {
-      d.classList.toggle(&#x27;active&#x27;, i === currentSlide);
+    lbDots.querySelectorAll('.lightbox-dot').forEach((d, i) => {
+      d.classList.toggle('active', i === currentSlide);
     });
   }
 
   function openLightbox(idx) {
     showSlide(idx);
-    overlay.classList.add(&#x27;active&#x27;);
-    document.body.style.overflow = &#x27;hidden&#x27;;
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
   }
 
   function closeLightbox() {
-    overlay.classList.remove(&#x27;active&#x27;);
-    document.body.style.overflow = &#x27;&#x27;;
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
   }
 
   // Click handlers
-  document.querySelectorAll(&#x27;[data-lightbox]&#x27;).forEach(el =&gt; {
-    el.addEventListener(&#x27;click&#x27;, () =&gt; openLightbox(parseInt(el.dataset.lightbox)));
+  document.querySelectorAll('[data-lightbox]').forEach(el => {
+    el.addEventListener('click', () => openLightbox(parseInt(el.dataset.lightbox)));
   });
-  overlay.querySelector(&#x27;.lightbox-close&#x27;).addEventListener(&#x27;click&#x27;, closeLightbox);
-  overlay.querySelector(&#x27;.lightbox-prev&#x27;).addEventListener(&#x27;click&#x27;, () =&gt; showSlide(currentSlide - 1));
-  overlay.querySelector(&#x27;.lightbox-next&#x27;).addEventListener(&#x27;click&#x27;, () =&gt; showSlide(currentSlide + 1));
-  overlay.addEventListener(&#x27;click&#x27;, (e) =&gt; { if (e.target === overlay) closeLightbox(); });
+  overlay.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
+  overlay.querySelector('.lightbox-prev').addEventListener('click', () => showSlide(currentSlide - 1));
+  overlay.querySelector('.lightbox-next').addEventListener('click', () => showSlide(currentSlide + 1));
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) closeLightbox(); });
 
   // Keyboard navigation
-  document.addEventListener(&#x27;keydown&#x27;, (e) =&gt; {
-    if (!overlay.classList.contains(&#x27;active&#x27;)) return;
-    if (e.key === &#x27;Escape&#x27;) closeLightbox();
-    if (e.key === &#x27;ArrowLeft&#x27;) showSlide(currentSlide - 1);
-    if (e.key === &#x27;ArrowRight&#x27;) showSlide(currentSlide + 1);
+  document.addEventListener('keydown', (e) => {
+    if (!overlay.classList.contains('active')) return;
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowLeft') showSlide(currentSlide - 1);
+    if (e.key === 'ArrowRight') showSlide(currentSlide + 1);
   });
 
   // Touch swipe support
   let touchStartX = 0;
-  overlay.addEventListener(&#x27;touchstart&#x27;, (e) =&gt; { touchStartX = e.touches[0].clientX; }, { passive: true });
-  overlay.addEventListener(&#x27;touchend&#x27;, (e) =&gt; {
+  overlay.addEventListener('touchstart', (e) => { touchStartX = e.touches[0].clientX; }, { passive: true });
+  overlay.addEventListener('touchend', (e) => {
     const diff = touchStartX - e.changedTouches[0].clientX;
-    if (Math.abs(diff) &gt; 50) {
-      diff &gt; 0 ? showSlide(currentSlide + 1) : showSlide(currentSlide - 1);
+    if (Math.abs(diff) > 50) {
+      diff > 0 ? showSlide(currentSlide + 1) : showSlide(currentSlide - 1);
     }
   }, { passive: true });
 </script>
