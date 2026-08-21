@@ -275,6 +275,25 @@ def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
 
 # ---------- HTML-Post-Processing ----------
 
+# Begriffe, die DeepL sprachlich richtig, aber fuer die Suche schaedlich
+# uebersetzt. Sie werden nach der Uebersetzung pro Sprache zurueckgesetzt.
+# Ohne das ging die polnische H2 bei jedem index.html-Lauf verloren: DeepL macht
+# aus "Birkenbihl-App" ein "aplikacja Birkenbihla" — in Polen gesucht wird aber
+# nach "metoda Birkenbihla". Der Regex greift die H2 ueber das Wort "Birkenbihl",
+# ist also unabhaengig davon, wie DeepL den Rest des Satzes formuliert.
+# / Terms DeepL renders correctly but in a way that hurts search visibility;
+# restored per language after translation.
+POST_TRANSLATION_FIXES = {
+    "pl": [
+        (
+            r'(<h2 class="section-title">)[^<]*Birkenbihl[^<]*(</h2>)',
+            "\\1Koniec ze starym systemem szkolnym – aplikacja do nauki języków "
+            "metodą Birkenbihla\\2",
+        ),
+    ],
+}
+
+
 def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     """Nach der Übersetzung müssen einige HTML-Attribute angepasst werden,
     damit CSS/Bilder weiter geladen werden und SEO-Tags (canonical, hreflang,
@@ -377,6 +396,10 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
         html,
         count=1,
     )
+
+    # 8. Sprachspezifische Keyword-Korrekturen (siehe POST_TRANSLATION_FIXES)
+    for pattern, replacement in POST_TRANSLATION_FIXES.get(slug, []):
+        html = re.sub(pattern, replacement, html, count=1)
 
     return html
 
