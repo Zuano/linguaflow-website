@@ -1,6 +1,6 @@
 {
   "__version": "4",
-  "index.html": "95c4e8fbcfe7de728bc575120d7baa9f8a7ad939671db561e36c8f9ba86e164f",
+  "index.html": "e4d89d2924271cbf527fc3e2d53fd0fc28d65bc21f2865c6348e5639a73fa674",
   "hilfe.html": "16778ebe39bd16283348c01e5df2ecc2cc56b08a614309fa5a82ab53197df624",
   "datenschutz.html": "44d43a11832b6625afd4c92fc3e986b9a875d50f4031a5ce7a7f07b2f6e76ae8",
   "eula.html": "a0de4518c8954d7d2e1f682b36029e0b1c0064e0ed81386464f5f0b510cb4803",
@@ -11,5 +11,9 @@
   "ratgeber-haushaltshilfe-jobs-wien.html": "4be2199cccf41e5654206fd19d24f80accb14566c1c5df171e18d429092f1cfa",
   "ratgeber.html": "cb0090009e84213eb4c928c0ec1e8dd095e371ae2b6bd182150124dfe8a5d72a",
   "was-ist-neu.html": "a1e39a5708860a8c2be1d9bd5b23219c1910d17d1bd0e7008166771775430d32",
-  "newsletter.html": "c3c8de6461af393b754a7a213c8ac734c339ac0665a0d27b5e0e5d5827f45559"
+  "newsletter.html": "c3c8de6461af393b754a7a213c8ac734c339ac0665a0d27b5e0e5d5827f45559",
+  "funktionen.html": "66a961238c0ddb7548d217437f0ee5780705c578d9e268c2aac072326ad46107",
+  "zurueck-in-deinen-beruf/index.html": "e18790c6c3493fc31bc664edc9f4317234d068144a1e7fe8608be1b15e9b28c2",
+  "zurueck-in-deinen-beruf/pflege/index.html": "ea4b51d8142dda66be9ead11675cd54610d96494503bd497c1ab799c1b31c3a0",
+  "zurueck-in-deinen-beruf/akademiker/index.html": "e548bf6bf73cbafeb6725878cc2a3097bc910abeba2ea0a57d940cdf42308ab7"
 }
