@@ -1,0 +1,55 @@
+name: Retrofit JSON-LD (DeepL)
+
+# Ruestet uebersetztes JSON-LD in bereits vorhandene Sprachversionen nach,
+# ohne den Fliesstext neu zu uebersetzen. Nur manuell startbar — dieser Lauf
+# kostet Geld und soll nie versehentlich durch einen Push ausgeloest werden.
+# Siehe scripts/retrofit-jsonld.py fuer die Begruendung.
+
+on:
+  workflow_dispatch:
+    inputs:
+      files:
+        description: 'Quelldateien, durch Leerzeichen getrennt (z. B. "hilfe.html")'
+        required: true
+        default: 'hilfe.html'
+      dry_run:
+        description: 'Nur berichten, nichts schreiben?'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  retrofit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Retrofit JSON-LD
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+        run: python scripts/retrofit-jsonld.py ${{ github.event.inputs.files }}
+
+      - name: Commit & push if changed
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "auto: JSON-LD nachgeruestet (DeepL)"
+            git push
+          fi
