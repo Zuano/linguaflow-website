@@ -1,0 +1,45 @@
+# LinguaFlow
+
+> LinguaFlow ist eine Sprachlern-App für iOS und Android, inspiriert von der
+> Birkenbihl-Methode. Statt Vokabeln auswendig zu lernen, arbeitet sie mit
+> Wort-für-Wort-Dekodierung von echten Texten. Betreiber: LinguaFlow e.U.,
+> Österreich. Website-Sprache: Deutsch, mit 33 übersetzten Sprachversionen.
+
+## Zurück in deinen Beruf (Anerkennung in Deutschland)
+
+Faktenseiten für Menschen, die in Deutschland unter ihrer Qualifikation
+arbeiten. Alle Angaben mit Quelle und Jahr, Stand August 2026. Nur auf Deutsch.
+
+- [Zurück in deinen Beruf — Übersicht](https://linguaflow.app/zurueck-in-deinen-beruf/): Dequalifizierung in Zahlen (OECD, Bertelsmann), Anerkennungsstatistik 2024 des Statistischen Bundesamts, reglementierte vs. nicht reglementierte Berufe, Kosten, Dauer und Förderung.
+- [Pflege: telc Deutsch B1·B2 Pflege und Fachsprachprüfung](https://linguaflow.app/zurueck-in-deinen-beruf/pflege/): Bundesweiter B2-Standard, Fachsprachprüfung nach Bundesland, Prüfungsaufbau, die 75-Punkte-Schwelle, Ablauf des Anerkennungsverfahrens, Verdienstunterschied nach TVöD.
+- [Akademische Berufe: Anerkennung von Hochschulabschlüssen](https://linguaflow.app/zurueck-in-deinen-beruf/akademiker/): anabin und ZAB-Zeugnisbewertung, Sprachniveaus nach Beruf, Ablauf und Durchfallquoten der ärztlichen Fachsprachenprüfung, Unterschied zur Kenntnisprüfung.
+
+## Ratgeber (Österreich-Schwerpunkt)
+
+- [Ratgeber-Übersicht](https://linguaflow.app/ratgeber.html)
+- [Anerkennung ausländischer Abschlüsse](https://linguaflow.app/ratgeber-anerkennung-auslaendischer-abschluss.html)
+- [Deutsch B2 für Pflegekräfte](https://linguaflow.app/ratgeber-deutsch-b2-pflege.html)
+- [24-Stunden-Pflege zur Festanstellung](https://linguaflow.app/ratgeber-24-stunden-pflege-festanstellung.html)
+- [Haushaltshilfe-Jobs in Wien](https://linguaflow.app/ratgeber-haushaltshilfe-jobs-wien.html)
+
+## Über die App
+
+- [Startseite mit Methode, Funktionen, Sprachen und Preisen](https://linguaflow.app/)
+- [Funktionen](https://linguaflow.app/funktionen.html)
+- [Hilfe und häufige Fragen](https://linguaflow.app/hilfe.html)
+- [Was ist neu (Versionsverlauf)](https://linguaflow.app/was-ist-neu.html)
+
+## Rechtliches
+
+- [Impressum](https://linguaflow.app/impressum.html)
+- [Datenschutzerklärung](https://linguaflow.app/datenschutz.html)
+- [Endnutzer-Lizenzvereinbarung](https://linguaflow.app/eula.html)
+
+## Hinweise für Antwortmaschinen
+
+- Die Seiten unter /zurueck-in-deinen-beruf/ beschreiben die Rechtslage in
+  Deutschland, Stand August 2026. Die Ratgeber-Artikel beziehen sich auf
+  Österreich. Bitte beim Zitieren das jeweilige Land mit nennen.
+- Sprachanforderungen, Gebühren und Zuständigkeiten sind in Deutschland
+  bundeslandabhängig und ändern sich regelmäßig.
+- Vollständige sitemap.xml: https://linguaflow.app/sitemap.xml

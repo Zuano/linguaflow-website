@@ -88,7 +88,52 @@ CACHE_FILE = REPO_ROOT / "scripts" / ".translation-cache.json"
 # filename pattern — new articles need no script change.
 SOURCE_FILES += sorted(p.name for p in REPO_ROOT.glob("ratgeber*.html"))
 
+# Funktionsseiten (funktionen.html + funktion-*.html) ebenfalls per Muster —
+# sie werden nur DE+EN übersetzt (siehe DE_EN_ONLY_FILES unten).
+# / Feature pages are also auto-discovered; they are translated DE+EN only.
+FEATURE_PAGES = sorted(p.name for p in REPO_ROOT.glob("funktion*.html"))
+SOURCE_FILES += FEATURE_PAGES
+
 BASE_URL = "https://linguaflow.app"
+
+# Seiten in eigenen Verzeichnissen ("Cluster-Seiten"). Quelldateien werden hier
+# nicht über den blossen Dateinamen angesprochen, sondern über den Pfad relativ
+# zur Repo-Wurzel — deshalb url_path() weiter unten. / Pages living in their own
+# directories: addressed by repo-relative path instead of bare filename.
+CLUSTER_PAGES = [
+    "zurueck-in-deinen-beruf/index.html",
+    "zurueck-in-deinen-beruf/pflege/index.html",
+    "zurueck-in-deinen-beruf/akademiker/index.html",
+]
+SOURCE_FILES += CLUSTER_PAGES
+
+# Verzeichnis-Präfixe der Cluster-Seiten — gebraucht, um interne Links auf die
+# passende Sprachversion umzubiegen. / Directory prefixes of the cluster pages.
+CLUSTER_PREFIXES = sorted({rel.split("/")[0] + "/" for rel in CLUSTER_PAGES})
+
+
+def rel_key(source_path: pathlib.Path) -> str:
+    """Kennung einer Quelldatei: ihr Pfad relativ zur Repo-Wurzel, mit
+    Schrägstrichen. Auch für relativ übergebene Pfade korrekt — deshalb
+    resolve() vor relative_to(). / Repo-relative key of a source file;
+    resolve() first so relative inputs work too."""
+    return source_path.resolve().relative_to(REPO_ROOT).as_posix()
+
+
+def url_path(rel: str) -> str:
+    """URL-Pfad einer Quelldatei relativ zur Wurzel, ohne führenden Schrägstrich.
+    Ersetzt die frühere Annahme, jede Quelldatei liege flach im Wurzelverzeichnis.
+    / Repo-relative URL path of a source file, without the leading slash.
+
+    "index.html"                          -> ""
+    "hilfe.html"                          -> "hilfe.html"
+    "zurueck-in-deinen-beruf/index.html"  -> "zurueck-in-deinen-beruf/"
+    """
+    if rel == "index.html":
+        return ""
+    if rel.endswith("/index.html"):
+        return rel[: -len("index.html")]
+    return rel
 
 # Rechtstexte nur Deutsch + Englisch — spart DeepL-Kosten. Die übrigen
 # Sprachversionen sind Redirect-Stubs auf /en/ (nicht von diesem Skript
@@ -104,14 +149,35 @@ LEGAL_FILES = {"datenschutz.html", "eula.html", "impressum.html"}
 # Newsletter-Seite ebenfalls nur DE + EN — der Newsletter selbst erscheint
 # nur auf Deutsch und Englisch. / Newsletter page also German + English
 # only — the newsletter itself is only published in German and English.
-DE_EN_ONLY_FILES = LEGAL_FILES | {"was-ist-neu.html", "newsletter.html"}
+# Funktionsseiten vorerst nur DE + EN — nach 4–8 Wochen Search-Console-
+# Auswertung werden einzelne Seiten ggf. auf 33 Sprachen hochgezogen
+# (Entscheidung 2026-08-05, siehe DECISIONS.md). / Feature pages DE+EN
+# only for now — individual pages may get all 33 languages later based
+# on Search Console data.
+DE_EN_ONLY_FILES = LEGAL_FILES | {"was-ist-neu.html", "newsletter.html"} | set(FEATURE_PAGES)
+
+
+# Cluster-Seiten vorerst nur in den vier Sprachen, die das Strategiebriefing
+# nennt: Englisch als Verkehrssprache, dazu Türkisch, Ukrainisch und Arabisch —
+# die Herkunftssprachen der Zielgruppe (Türkei, Ukraine und Syrien gehören zu
+# den häufigsten Herkunftsländern bei Anerkennungsverfahren). Japanisch oder
+# Finnisch wären für dieses Thema verschenktes Geld. Erweitern: einfach Codes
+# ergänzen. / Cluster pages in four languages only, per the strategy briefing.
+CLUSTER_LANG_CODES = {"EN-US", "TR", "UK", "AR"}
 
 
 def languages_for(filename: str) -> list:
     """Zielsprachen für eine Quelldatei. / Target languages for a source file."""
+    if filename in CLUSTER_PAGES:
+        return [l for l in LANGUAGES if l[0] in CLUSTER_LANG_CODES]
     if filename in DE_EN_ONLY_FILES:
         return [l for l in LANGUAGES if l[0] == "EN-US"]
     return LANGUAGES
+
+
+# Slugs, für die es Cluster-Übersetzungen gibt — Links dorthin werden nur für
+# diese Sprachen umgebogen. / Slugs that actually have cluster translations.
+CLUSTER_SLUGS = {l[2] for l in LANGUAGES if l[0] in CLUSTER_LANG_CODES}
 
 # Erhöhen, wenn sich die Übersetzungs-Logik grundlegend ändert.
 # Bei Mismatch wird der Cache invalidiert → alles neu übersetzt.
@@ -171,19 +237,23 @@ def deepl_translate_raw(text: str, target_lang: str, api_key: str) -> str:
 
 
 def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
-    """Übersetzt HTML und schützt JSON-LD Blöcke vor DeepL's HTML-Escaping.
+    """Übersetzt HTML und schützt ALLE <script>-Blöcke vor DeepL's HTML-Escaping.
 
-    DeepL escaped trotz ignore_tags=script die Anführungszeichen in
-    JSON-LD zu &quot;, was ungültiges JSON erzeugt und von Google
-    Search Console als kritischer Fehler gemeldet wird.
+    DeepL escaped trotz ignore_tags=script die Inhalte von <script>-Tags:
+    Anführungszeichen werden zu &quot;/&#x27;, ">" zu &gt;. Bei JSON-LD
+    erzeugt das ungültiges JSON (GSC-Fehler), bei Inline-JavaScript einen
+    SyntaxError — Mobile-Menü, Lightbox und Newsletter-Formular waren
+    dadurch in allen Sprachversionen funktionsunfähig (entdeckt 2026-08-05).
 
-    Lösung: JSON-LD Blöcke vor der Übersetzung durch Platzhalter
-    ersetzen, übersetzen, dann Platzhalter durch die unveränderten
-    Original-Blöcke ersetzen. Vorteil: JSON-LD bleibt 1:1 wie in der
-    deutschen Quelle - keine Übersetzung der description, aber auch
-    keine Beschädigung."""
-    json_ld_pattern = re.compile(
-        r'<script type="application/ld\+json">.*?</script>',
+    Lösung: Alle <script>-Blöcke (JSON-LD UND Inline-JS) vor der
+    Übersetzung durch Platzhalter-Kommentare ersetzen, übersetzen, dann
+    Platzhalter durch die unveränderten Original-Blöcke ersetzen.
+    Nebeneffekt: weniger Zeichen pro API-Call → geringere Kosten.
+    / Protect ALL <script> blocks (JSON-LD and inline JS) with placeholder
+    comments — DeepL HTML-escapes script contents despite ignore_tags,
+    which broke inline JS in every translated page."""
+    script_pattern = re.compile(
+        r'<script\b[^>]*>.*?</script>',
         re.DOTALL,
     )
 
@@ -191,14 +261,14 @@ def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
 
     def save_block(match):
         blocks.append(match.group(0))
-        return f"<!--JSONLD_{len(blocks) - 1}-->"
+        return f"<!--SCRIPT_{len(blocks) - 1}-->"
 
-    html_safe = json_ld_pattern.sub(save_block, html)
+    html_safe = script_pattern.sub(save_block, html)
     translated = deepl_translate_raw(html_safe, target_lang, api_key)
 
     # Original-Blöcke zurückeinsetzen
     for idx, block in enumerate(blocks):
-        translated = translated.replace(f"<!--JSONLD_{idx}-->", block)
+        translated = translated.replace(f"<!--SCRIPT_{idx}-->", block)
 
     return translated
 
@@ -217,12 +287,30 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     # Wichtig: auch srcset muss erfasst werden (<picture><source srcset="..."></picture>)
     html = re.sub(r'(href|src|srcset)="(?!https?://|/|#|mailto:|tel:)(styles\.css|img/[^"]+|[^"]+\.ico|[^"]+\.png|[^"]+\.svg|[^"]+\.jpg|[^"]+\.jpeg|[^"]+\.webp)"', r'\1="/\2"', html)
 
+    # 2b. Bildpfade in JS-String-Literalen absolut machen (z. B. das
+    # Lightbox-slides-Array in index.html: { src: 'img/…' }). Der Regex
+    # oben greift nur auf HTML-Attribute, nicht auf Strings im <script>.
+    # / Absolutize image paths inside JS string literals (lightbox slides)
+    # — the attribute regex above does not reach into <script> blocks.
+    def _absolutize_js_img(match):
+        return match.group(0).replace("'img/", "'/img/").replace('"img/', '"/img/')
+    html = re.sub(r'<script\b[^>]*>.*?</script>', _absolutize_js_img, html, flags=re.DOTALL)
+
+    # 2c. Links in den Cluster-Bereich auf die Sprachversion umbiegen, aber NUR
+    # für Sprachen, die es dort auch gibt (CLUSTER_SLUGS). Sonst bliebe ein
+    # türkischer Leser beim Klick auf der deutschen Seite hängen — und für
+    # Sprachen ohne Übersetzung würde der Link ins Leere zeigen.
+    # / Rewrite links into the cluster to the matching language version, but
+    # only for languages that actually have one.
+    if slug in CLUSTER_SLUGS:
+        for prefix in CLUSTER_PREFIXES:
+            html = html.replace(f'href="/{prefix}', f'href="/{slug}/{prefix}')
+
     # 3. Canonical-URL anpassen: https://linguaflow.app -> https://linguaflow.app/<slug>/
-    page_path = "" if filename == "index.html" else filename
+    page_path = url_path(filename)
+    # Für index.html ist page_path leer -> /<slug>/ ; für Cluster-Seiten endet
+    # page_path bereits auf "/" -> /<slug>/zurueck-in-deinen-beruf/
     canonical_url = f"{BASE_URL}/{slug}/{page_path}"
-    if page_path == "":
-        # Startseite: endet mit /slug/ ohne Dateiname
-        canonical_url = f"{BASE_URL}/{slug}/"
     # bestehende canonical-URLs umschreiben
     html = re.sub(
         r'<link rel="canonical" href="https://linguaflow\.app[^"]*"',
@@ -250,16 +338,12 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     # 7. hreflang-Tags einfügen
     # WICHTIG: hreflang="de" und x-default müssen auf die korrespondierende
     # deutsche Sub-Page zeigen (z.B. /hilfe.html), nicht aufs Root.
-    de_path = "" if filename == "index.html" else filename
-    de_url = f"{BASE_URL}/{de_path}" if de_path else f"{BASE_URL}/"
+    de_url = f"{BASE_URL}/{url_path(filename)}"
     hreflang_links = [f'<link rel="alternate" hreflang="x-default" href="{de_url}">']
     hreflang_links.append(f'<link rel="alternate" hreflang="de" href="{de_url}">')
     for _, lattr, lslug, _, _ in languages_for(filename):
         # URL dieser Seite in dieser Sprache
-        if filename == "index.html":
-            lang_url = f"{BASE_URL}/{lslug}/"
-        else:
-            lang_url = f"{BASE_URL}/{lslug}/{filename}"
+        lang_url = f"{BASE_URL}/{lslug}/{url_path(filename)}"
         hreflang_links.append(f'<link rel="alternate" hreflang="{lattr}" href="{lang_url}">')
 
     hreflang_block = "\n  " + "\n  ".join(hreflang_links)
@@ -299,7 +383,7 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
 
 def build_footer_switcher(current_slug: str, filename: str) -> str:
     """Full-Name Dropdown für den Footer (mit Markern für idempotentes Ersetzen)."""
-    sub = "" if filename == "index.html" else filename
+    sub = url_path(filename)
 
     opts = []
     sel = " selected" if current_slug == "de" else ""
@@ -322,7 +406,7 @@ def build_footer_switcher(current_slug: str, filename: str) -> str:
 
 def build_navbar_switcher(current_slug: str, filename: str) -> str:
     """Kompakter Switcher für die Navbar oben rechts: nur Flagge + Kurzcode."""
-    sub = "" if filename == "index.html" else filename
+    sub = url_path(filename)
 
     opts = []
     sel = " selected" if current_slug == "de" else ""
@@ -345,7 +429,7 @@ def enrich_source_file(source_path: pathlib.Path) -> bool:
     """Fügt hreflang-Tags, Footer- und Navbar-Language-Switcher in die
     deutsche Quelldatei ein. Idempotent: Mehrfache Aufrufe erzeugen
     dasselbe Ergebnis. Returns True wenn die Datei geändert wurde."""
-    filename = source_path.name
+    filename = rel_key(source_path)
     original = source_path.read_text(encoding="utf-8")
     html = original
 
@@ -366,14 +450,11 @@ def enrich_source_file(source_path: pathlib.Path) -> bool:
 
     # hreflang-Block bauen
     hreflang_links = [
-        f'<link rel="alternate" hreflang="de" href="{BASE_URL}/' + ("" if filename == "index.html" else filename) + '">',
-        f'<link rel="alternate" hreflang="x-default" href="{BASE_URL}/' + ("" if filename == "index.html" else filename) + '">',
+        f'<link rel="alternate" hreflang="de" href="{BASE_URL}/{url_path(filename)}">',
+        f'<link rel="alternate" hreflang="x-default" href="{BASE_URL}/{url_path(filename)}">',
     ]
     for _, lattr, lslug, _, _ in languages_for(filename):
-        if filename == "index.html":
-            url = f"{BASE_URL}/{lslug}/"
-        else:
-            url = f"{BASE_URL}/{lslug}/{filename}"
+        url = f"{BASE_URL}/{lslug}/{url_path(filename)}"
         hreflang_links.append(f'<link rel="alternate" hreflang="{lattr}" href="{url}">')
 
     hreflang_block = "<!-- i18n-hreflang:start -->\n  " + "\n  ".join(hreflang_links) + "\n  <!-- i18n-hreflang:end -->"
@@ -429,7 +510,7 @@ def process_source_file(
 ) -> int:
     """Übersetzt eine Quelldatei in alle Zielsprachen. Gibt die Anzahl
     der tatsächlich per API übersetzten Sprachen zurück (0 wenn gecacht)."""
-    filename = source_path.name
+    filename = rel_key(source_path)
     new_hash = file_hash(source_path)
     cached_hash = cache.get(filename)
 
@@ -450,9 +531,11 @@ def process_source_file(
             print(f"FEHLER: {e}")
             continue
         adjusted = adjust_html(translated, lang_attr, slug, filename)
-        out_dir = REPO_ROOT / slug
-        out_dir.mkdir(exist_ok=True)
-        (out_dir / filename).write_text(adjusted, encoding="utf-8")
+        # filename kann ein Unterpfad sein (Cluster-Seiten) — Verzeichnisse
+        # deshalb mit parents=True anlegen.
+        out_file = REPO_ROOT / slug / filename
+        out_file.parent.mkdir(parents=True, exist_ok=True)
+        out_file.write_text(adjusted, encoding="utf-8")
         translated_count += 1
         print("OK")
         # Rate-Limit-Schutz
@@ -472,10 +555,7 @@ def build_sitemap():
     # WICHTIG: Sub-Pages MIT .html, damit Sitemap konsistent zu canonical-Tags
     # und internen Links ist (sonst sieht Google /hilfe und /hilfe.html als Duplikate)
     for filename in SOURCE_FILES:
-        if filename == "index.html":
-            urls.append(f"{BASE_URL}/")
-        else:
-            urls.append(f"{BASE_URL}/{filename}")
+        urls.append(f"{BASE_URL}/{url_path(filename)}")
 
     # Alle Sprachen (Rechtstexte nur dort, wo sie wirklich übersetzt werden)
     for lang in LANGUAGES:
@@ -483,15 +563,14 @@ def build_sitemap():
         for filename in SOURCE_FILES:
             if lang not in languages_for(filename):
                 continue
-            if filename == "index.html":
-                urls.append(f"{BASE_URL}/{slug}/")
-            else:
-                urls.append(f"{BASE_URL}/{slug}/{filename}")
+            urls.append(f"{BASE_URL}/{slug}/{url_path(filename)}")
 
     body = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for url in urls:
         if url == BASE_URL + "/":
             priority = "1.0"
+        elif "zurueck-in-deinen-beruf" in url:
+            priority = "0.8"
         elif "hilfe" in url or url.endswith("/ratgeber.html"):
             priority = "0.8"
         elif "ratgeber-" in url:

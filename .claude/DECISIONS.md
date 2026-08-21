@@ -43,6 +43,59 @@ Deutsch (Quelle) und Englisch (`/en/was-ist-neu.html`). Gesteuert über
 1.0), neueste zuerst. Bei jedem neuen Release oben einen Eintrag ergänzen.
 Android-Einträge können später ergänzt werden (Android aktuell 1.4.2).
 
+## 2026-08-21 — AEO-Cluster „Zurück in deinen Beruf" (Deutschland)
+
+**Entscheidung:** Die drei Seiten aus `linguaflow-briefing.md` entstehen im
+GitHub-Pages-Repo, nicht in WordPress. Das Briefing (Stand 19.08.2026) nimmt an,
+linguaflow.app laufe auf WordPress.com Atomic (Blog-ID 242747314). Das trifft
+nicht mehr zu: Die Domain zeigt per DNS auf GitHub Pages (185.199.108–111.153),
+`server: GitHub.com`, `/wp-json/` und `/wp-admin/` antworten mit 404, und jeder
+WordPress-Schreibzugriff scheitert, weil die REST-API über die Domain nicht mehr
+erreichbar ist. WordPress wurde am 12.07.2026 abgelöst (siehe unten).
+**Begründung:** Seiten in WordPress wären unter linguaflow.app nie sichtbar.
+
+**Folgeentscheidungen:**
+- **Verzeichnisstruktur statt flacher Dateien** (`zurueck-in-deinen-beruf/index.html`
+  usw.), weil das Briefing die URLs mit Verzeichnispfad vorgibt und die
+  Pillar-Cluster-Struktur davon lebt. Nebeneffekt: Die Seiten werden von
+  `SOURCE_FILES` nicht erfasst und lösen keine DeepL-Kosten aus — dafür müssen
+  ihre URLs über `EXTRA_SITEMAP_URLS` in der Sitemap gehalten werden.
+- **llms.txt statt Yoast-Funktion.** Das Briefing verlangt, llms.txt über Yoast zu
+  aktivieren. Ohne WordPress gibt es kein Yoast; die Datei liegt jetzt statisch im
+  Repo und erfüllt denselben Zweck.
+- **Meta-Tags statt Yoast-Feldern** für Title und Description, wie bei allen
+  bestehenden Seiten.
+- **FAQ offen sichtbar statt im Akkordeon.** Die Bestandsseiten verstecken
+  FAQ-Antworten hinter `.faq-answer` (display:none). Da das Ziel Zitierbarkeit
+  durch Antwortmaschinen ist, stehen die Antworten hier offen als H3 + Absatz.
+- **Autor im Schema ist `Organization` (LinguaFlow e.U.), nicht `Person`.** Das
+  Briefing empfiehlt ein Person-Schema mit `knowsAbout`. Es gibt aber keine reale
+  Person mit einschlägiger Qualifikation, die genannt werden könnte — eine zu
+  erfinden wäre eine Falschangabe. Umstellbar, sobald eine echte Fachautorin oder
+  ein Fachautor benannt werden kann.
+- **Sperrliste schlägt Faktenteil.** Briefing 5.4 nennt „ca. 2,5–4 Monate"
+  Vorbereitungsdauer für die Kenntnisprüfung, Briefing 5.14 verbietet genau diese
+  Angabe. Bei solchen Widersprüchen gilt die Sperrliste.
+- **Nav-Label „Anerkennung"** statt „Zurück in deinen Beruf": Das lange Label
+  brach die Navbar schon bei 1298 px um. Mit dem kurzen Label ist sie bis 800 px
+  sauber (Hamburger greift erst bei ≤768 px). Im Footer steht weiterhin die
+  ausgeschriebene Form.
+- **Übersetzung: vier Sprachen statt 33.** Die Cluster-Seiten gehen nach EN, TR,
+  UK und AR (`CLUSTER_LANG_CODES` in `translate-site.py`). Grund: Das Thema ist
+  „Anerkennung in Deutschland"; relevant sind Englisch als Verkehrssprache und die
+  Herkunftssprachen der Zielgruppe. 33 Sprachen hätten rund 87 € gekostet, vier
+  kosten rund 10 €. Erweitern ist ein Einzeiler.
+- **Pipeline auf Pfade statt Dateinamen umgestellt** statt die Seiten flach ins
+  Wurzelverzeichnis zu legen. Die flache Variante wäre einfacher gewesen, hätte
+  aber die vom Briefing vorgegebenen URLs zerstört. `rel_key()` liefert für
+  Wurzeldateien denselben Schlüssel wie zuvor — der Übersetzungs-Cache bleibt
+  dadurch vollständig gültig.
+- **Landesbezug:** Diese Seiten behandeln **Deutschland** (BAMF, TVöD, Landes-
+  ärztekammern, Bundesland-Matrix), der bestehende Ratgeber behandelt Österreich.
+  Das ist auf beiden Seiten ausdrücklich gekennzeichnet, auch in der llms.txt.
+  Österreichische Verfahren sind im Briefing nicht recherchiert und bräuchten
+  eigene Seiten (Briefing Abschnitt 9, offene Entscheidung 5).
+
 ## Frühere Entscheidungen (Kurzfassung, vor Einführung dieser Datei)
 
 - Statische Website auf GitHub Pages, WordPress abgelöst; alte WordPress-URLs

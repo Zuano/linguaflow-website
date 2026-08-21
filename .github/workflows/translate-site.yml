@@ -15,6 +15,8 @@ on:
       - 'was-ist-neu.html'
       - 'newsletter.html'
       - 'ratgeber*.html'
+      - 'funktion*.html'
+      - 'zurueck-in-deinen-beruf/**.html'
       - 'scripts/translate-site.py'
   workflow_dispatch:
     inputs:
