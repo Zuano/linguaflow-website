@@ -43,6 +43,26 @@ Deutsch (Quelle) und Englisch (`/en/was-ist-neu.html`). Gesteuert über
 1.0), neueste zuerst. Bei jedem neuen Release oben einen Eintrag ergänzen.
 Android-Einträge können später ergänzt werden (Android aktuell 1.4.2).
 
+## 2026-08-21 — JSON-LD wird uebersetzt, Nachruestung statt Neuuebersetzung
+
+**Entscheidung:** Die Schema-Textfelder (`name`, `text`, `description`,
+`headline`) werden mitübersetzt; Struktur, URLs, Datumsangaben und
+`Organization`-Knoten bleiben unangetastet. Inline-JavaScript wird weiterhin
+komplett vor DeepL geschützt.
+**Begründung:** Bei Seiten, die auf Zitierbarkeit durch Antwortmaschinen gebaut
+sind, ist genau das Schema der Teil, der ausgelesen wird. Ein deutsches
+FAQPage-Schema auf einer englischen Seite ist ein widersprüchliches Signal.
+
+**Bei jedem Problem gilt die Rückfallebene:** unlesbares JSON, API-Fehler,
+abweichende Antwortlänge oder ungültiges JSON nach dem Zusammenbauen führen zum
+unveränderten deutschen Originalblock. Ein deutsches Schema ist unschön, ein
+kaputtes wäre ein kritischer Fehler in der Search Console.
+
+**Nachrüstung statt Neuübersetzung:** Für Seiten, die schon übersetzt sind,
+tauscht `scripts/retrofit-jsonld.py` nur den Schema-Block aus. Eine
+Neuübersetzung allein wegen des Schemas kostet den vollen Seitentext mit — bei
+`hilfe.html` 25,95 € statt 7,35 €. Der zugehörige Workflow läuft nur manuell.
+
 ## 2026-08-21 — AEO-Cluster „Zurück in deinen Beruf" (Deutschland)
 
 **Entscheidung:** Die drei Seiten aus `linguaflow-briefing.md` entstehen im
