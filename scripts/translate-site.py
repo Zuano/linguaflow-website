@@ -236,7 +236,122 @@ def deepl_translate_raw(text: str, target_lang: str, api_key: str) -> str:
     return body["translations"][0]["text"]
 
 
-def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
+# Felder im JSON-LD, deren Inhalt uebersetzt werden soll. Alles andere
+# (@type, url, image, Datumsangaben, position …) bleibt unangetastet.
+# / JSON-LD fields whose values get translated; everything else stays as is.
+JSONLD_TEXT_KEYS = {"name", "text", "description", "headline"}
+
+
+def _collect_jsonld_texts(node, acc, in_org=False):
+    """Sammelt (Container, Schluessel)-Paare der uebersetzbaren Textfelder.
+    Organization-Knoten werden ausgelassen — dort steht der Firmenname.
+    / Collects translatable (container, key) pairs; skips Organization nodes."""
+    if isinstance(node, dict):
+        org = in_org or node.get("@type") == "Organization"
+        for k, v in node.items():
+            if k in JSONLD_TEXT_KEYS and isinstance(v, str) and not org:
+                acc.append((node, k))
+            else:
+                _collect_jsonld_texts(v, acc, org)
+    elif isinstance(node, list):
+        for v in node:
+            _collect_jsonld_texts(v, acc, in_org)
+
+
+def translate_jsonld_block(block: str, target_lang: str, lang_attr: str,
+                           api_key: str) -> str:
+    """Uebersetzt die Textfelder eines <script type="application/ld+json">-Blocks
+    und laesst die Struktur unveraendert. Faellt bei JEDEM Problem auf den
+    unveraenderten Originalblock zurueck — ein deutsches Schema ist unschoen,
+    ein kaputtes waere ein Fehler in der Google Search Console.
+    / Translates the text fields of a JSON-LD block, leaving structure intact.
+    Falls back to the untouched original on any problem."""
+    m = re.match(r'(<script type="application/ld\+json">)(.*)(</script>)',
+                 block, re.DOTALL)
+    if not m:
+        return block
+    open_tag, payload, close_tag = m.groups()
+
+    try:
+        data = json.loads(payload)
+    except Exception as e:
+        print(f"(JSON-LD nicht lesbar, bleibt deutsch: {e}) ", end="")
+        return block
+
+    slots = []
+    _collect_jsonld_texts(data, slots)
+    if not slots:
+        return block
+
+    originals = [container[key] for container, key in slots]
+    try:
+        translated = deepl_translate_texts(originals, target_lang, api_key)
+    except Exception as e:
+        print(f"(JSON-LD-Uebersetzung fehlgeschlagen, bleibt deutsch: {e}) ", end="")
+        return block
+
+    if len(translated) != len(originals):
+        print("(JSON-LD: Antwortlaenge weicht ab, bleibt deutsch) ", end="")
+        return block
+
+    for (container, key), value in zip(slots, translated):
+        container[key] = value
+
+    # Sprachkennzeichnung mitziehen, wo sie gesetzt ist
+    def _set_lang(node):
+        if isinstance(node, dict):
+            if "inLanguage" in node:
+                node["inLanguage"] = lang_attr
+            for v in node.values():
+                _set_lang(v)
+        elif isinstance(node, list):
+            for v in node:
+                _set_lang(v)
+    _set_lang(data)
+
+    try:
+        out = json.dumps(data, ensure_ascii=False, indent=2)
+        json.loads(out)          # Gegenprobe: muss wieder lesbar sein
+    except Exception as e:
+        print(f"(JSON-LD nach Uebersetzung ungueltig, bleibt deutsch: {e}) ", end="")
+        return block
+
+    return f"{open_tag}\n{out}\n  {close_tag}"
+
+
+def deepl_translate_texts(texts: list, target_lang: str, api_key: str) -> list:
+    """Uebersetzt eine Liste einzelner Texte. DeepL nimmt bis zu 50 text-Parameter
+    pro Request, deshalb in Bloecken — 43 FAQ-/HowTo-Texte kosten so einen
+    einzigen Aufruf statt 43. / Translates a list of plain strings, batched."""
+    if not texts:
+        return []
+    out = []
+    for start in range(0, len(texts), 50):
+        chunk = texts[start:start + 50]
+        params = [
+            ("source_lang", SOURCE_LANG),
+            ("target_lang", target_lang),
+            ("preserve_formatting", "1"),
+        ] + [("text", t) for t in chunk]
+        data = urllib.parse.urlencode(params).encode("utf-8")
+        req = urllib.request.Request(
+            DEEPL_API_URL,
+            data=data,
+            headers={
+                "Authorization": f"DeepL-Auth-Key {api_key}",
+                "Content-Type": "application/x-www-form-urlencoded",
+                "User-Agent": "LinguaFlow-TranslateBot/1.0",
+            },
+            method="POST",
+        )
+        with urllib.request.urlopen(req, timeout=60) as response:
+            body = json.load(response)
+        out.extend(t["text"] for t in body["translations"])
+    return out
+
+
+def deepl_translate(html: str, target_lang: str, lang_attr: str,
+                    api_key: str) -> str:
     """Übersetzt HTML und schützt ALLE <script>-Blöcke vor DeepL's HTML-Escaping.
 
     DeepL escaped trotz ignore_tags=script die Inhalte von <script>-Tags:
@@ -266,8 +381,14 @@ def deepl_translate(html: str, target_lang: str, api_key: str) -> str:
     html_safe = script_pattern.sub(save_block, html)
     translated = deepl_translate_raw(html_safe, target_lang, api_key)
 
-    # Original-Blöcke zurückeinsetzen
+    # Original-Blöcke zurückeinsetzen. JSON-LD wird dabei inhaltlich übersetzt
+    # (Textfelder), Inline-JavaScript bleibt unangetastet — dort wuerde jede
+    # Aenderung einen SyntaxError riskieren.
+    # / Restore blocks; JSON-LD gets its text fields translated on the way,
+    # inline JavaScript stays untouched.
     for idx, block in enumerate(blocks):
+        if 'type="application/ld+json"' in block:
+            block = translate_jsonld_block(block, target_lang, lang_attr, api_key)
         translated = translated.replace(f"<!--SCRIPT_{idx}-->", block)
 
     return translated
@@ -549,7 +670,7 @@ def process_source_file(
     for idx, (deepl_code, lang_attr, slug, name, _flag) in enumerate(target_languages, 1):
         print(f"     [{idx:2}/{len(target_languages)}] {slug} ({name}) … ", end="", flush=True)
         try:
-            translated = deepl_translate(source_html, deepl_code, api_key)
+            translated = deepl_translate(source_html, deepl_code, lang_attr, api_key)
         except Exception as e:
             print(f"FEHLER: {e}")
             continue
