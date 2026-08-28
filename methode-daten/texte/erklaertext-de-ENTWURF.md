@@ -4,16 +4,22 @@ Stand 2026-08-28. Wird nach Freigabe in 33 Muttersprachen übersetzt (DeepL) und
 vertont (Kapitel für Kapitel, mit Wort-Zeitstempeln). NICHT vorher übersetzen.
 Ziel: ~2.500 Zeichen gesamt. Markenwording beachtet.
 
-## Kapitel 1 — Überblick
+## Hook im Seitenkopf (nicht vorgelesen, Christians Wortlaut 28.08.)
 
-Diese Seite erzählt dir nicht nur, wie LinguaFlow funktioniert — sie zeigt es
-dir live. Der Beispieltext oben ist eine echte App-Ansicht zum Anfassen, und
-diese Erklärung liest dir gleich eine Stimme in Muttersprachler-Qualität vor,
-während die Wörter mitleuchten. Mit LinguaFlow lernst du Sprachen so, wie dein
-Gehirn es mag: erst verstehen, dann hören, dann sprechen. Die Methode dahinter
-ist inspiriert von der Birkenbihl-Methode und hat vier Schritte: Dekodieren,
-aktives Hören, passives Hören und Üben. Probier es aus — tippe oben auf ein
-Wort.
+Sprach-Apps bringen dir keine Sprache bei. Diese Demo zeigt dir in 20 Sekunden,
+was deinem Gehirn bisher gefehlt hat – wähle deine Sprache und probier es
+direkt aus.
+
+## Kapitel 1 — Überblick (beginnt mit Hook 2, Christians Wortlaut 28.08.)
+
+Wenn du Vokabellisten lernst, lernst du keine Sprache. Auf dieser Seite siehst
+du live, wie es sich in Sekunden anders anfühlt: Der Beispieltext oben ist eine
+echte App-Ansicht zum Anfassen, und diese Erklärung liest dir gleich eine
+Stimme in Muttersprachler-Qualität vor, während die Wörter mitleuchten. Mit
+LinguaFlow lernst du Sprachen so, wie dein Gehirn es mag: erst verstehen, dann
+hören, dann sprechen. Die Methode dahinter ist inspiriert von der
+Birkenbihl-Methode und hat vier Schritte: Dekodieren, aktives Hören, passives
+Hören und Üben. Probier es aus — tippe oben auf ein Wort.
 
 ## Kapitel 2 — Die Textansicht
 
