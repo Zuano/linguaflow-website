@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "ro",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Mi-am practicat meseria timp de mulți ani.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Eu'am"
+    },
+    {
+     "w": "exercé",
+     "t": "practicat"
+    },
+    {
+     "w": "mon",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "métier",
+     "t": "(meseria)"
+    },
+    {
+     "w": "pendant",
+     "t": "timp-de"
+    },
+    {
+     "w": "de",
+     "t": "de"
+    },
+    {
+     "w": "nombreuses",
+     "t": "numeroși"
+    },
+    {
+     "w": "années.",
+     "t": "ani."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Apoi am ajuns într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Apoi"
+    },
+    {
+     "w": "je",
+     "t": "eu"
+    },
+    {
+     "w": "suis",
+     "t": "sunt"
+    },
+    {
+     "w": "arrivé",
+     "t": "ajuns"
+    },
+    {
+     "w": "dans",
+     "t": "în"
+    },
+    {
+     "w": "un",
+     "t": "o"
+    },
+    {
+     "w": "nouveau",
+     "t": "nouă"
+    },
+    {
+     "w": "pays.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Acum, învăț limba.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Acum,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "eu'învăț"
+    },
+    {
+     "w": "la",
+     "t": "(articol-fem.)"
+    },
+    {
+     "w": "langue.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "În curând, îmi voi relua meseria.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "În-curând,"
+    },
+    {
+     "w": "je",
+     "t": "eu"
+    },
+    {
+     "w": "reprendrai",
+     "t": "voi-relua"
+    },
+    {
+     "w": "mon",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "métier.",
+     "t": "(meseria)."
+    }
+   ]
+  }
+ ]
+}

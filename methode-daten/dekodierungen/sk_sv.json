@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "sv",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Jag arbetade i mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "I"
+    },
+    {
+     "w": "mojom",
+     "t": "mitt"
+    },
+    {
+     "w": "odbore",
+     "t": "yrke"
+    },
+    {
+     "w": "som",
+     "t": "har"
+    },
+    {
+     "w": "pracoval",
+     "t": "arbetat"
+    },
+    {
+     "w": "mnoho",
+     "t": "många"
+    },
+    {
+     "w": "rokov.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Sedan"
+    },
+    {
+     "w": "som",
+     "t": "har"
+    },
+    {
+     "w": "prišiel",
+     "t": "kommit"
+    },
+    {
+     "w": "do",
+     "t": "till"
+    },
+    {
+     "w": "novej",
+     "t": "nytt"
+    },
+    {
+     "w": "krajiny.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nu"
+    },
+    {
+     "w": "sa",
+     "t": "mig"
+    },
+    {
+     "w": "učím",
+     "t": "lär"
+    },
+    {
+     "w": "jazyk.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Snart kommer jag att arbeta i mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Snart"
+    },
+    {
+     "w": "budem",
+     "t": "kommer-jag-att"
+    },
+    {
+     "w": "opäť",
+     "t": "igen"
+    },
+    {
+     "w": "pracovať",
+     "t": "arbeta"
+    },
+    {
+     "w": "vo",
+     "t": "i"
+    },
+    {
+     "w": "svojom",
+     "t": "mitt"
+    },
+    {
+     "w": "odbore.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

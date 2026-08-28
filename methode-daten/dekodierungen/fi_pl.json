@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "pl",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Pracowałem w mojej branży wiele lat.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Jestem (mam)"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "pracowany (pracowałem)"
+    },
+    {
+     "w": "alallani",
+     "t": "w-mojej-branży"
+    },
+    {
+     "w": "monta",
+     "t": "wiele"
+    },
+    {
+     "w": "vuotta.",
+     "t": "lat."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Potem"
+    },
+    {
+     "w": "muutin",
+     "t": "przeprowadziłem-się"
+    },
+    {
+     "w": "uuteen",
+     "t": "do-nowego"
+    },
+    {
+     "w": "maahan.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Teraz"
+    },
+    {
+     "w": "opiskelen",
+     "t": "uczę-się"
+    },
+    {
+     "w": "kieltä.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Wkrótce zamierzam kontynuować pracę w mojej branży.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "aion",
+     "t": "zamierzam"
+    },
+    {
+     "w": "jatkaa",
+     "t": "kontynuować"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "pracę"
+    },
+    {
+     "w": "alallani.",
+     "t": "w-mojej-branży."
+    }
+   ]
+  }
+ ]
+}

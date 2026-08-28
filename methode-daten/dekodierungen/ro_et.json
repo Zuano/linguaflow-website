@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "et",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Olen"
+    },
+    {
+     "w": "lucrat",
+     "t": "töötanud"
+    },
+    {
+     "w": "mulți",
+     "t": "palju"
+    },
+    {
+     "w": "ani",
+     "t": "aastaid"
+    },
+    {
+     "w": "în",
+     "t": "oma"
+    },
+    {
+     "w": "meseria",
+     "t": "erialal"
+    },
+    {
+     "w": "mea.",
+     "t": "minu."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Seejärel kolisin uude riiki.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Seejärel"
+    },
+    {
+     "w": "m-am",
+     "t": "ennast'olen"
+    },
+    {
+     "w": "mutat",
+     "t": "kolinud"
+    },
+    {
+     "w": "într-o",
+     "t": "ühte"
+    },
+    {
+     "w": "țară",
+     "t": "riiki"
+    },
+    {
+     "w": "nouă.",
+     "t": "uude."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Praegu õpin keelt.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Praegu"
+    },
+    {
+     "w": "învăț",
+     "t": "õpin"
+    },
+    {
+     "w": "limba.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Varsti hakkan taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Peagi (sõna-osa)"
+    },
+    {
+     "w": "curând",
+     "t": "varsti"
+    },
+    {
+     "w": "voi",
+     "t": "hakkan"
+    },
+    {
+     "w": "lucra",
+     "t": "töötama"
+    },
+    {
+     "w": "din",
+     "t": "taas (sõna-osa)"
+    },
+    {
+     "w": "nou",
+     "t": "uuesti"
+    },
+    {
+     "w": "în",
+     "t": "oma"
+    },
+    {
+     "w": "meseria",
+     "t": "erialal"
+    },
+    {
+     "w": "mea.",
+     "t": "minu."
+    }
+   ]
+  }
+ ]
+}

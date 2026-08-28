@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "fr",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "J'ai travaillé dans mon métier pendant de nombreuses années.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Je"
+    },
+    {
+     "w": "har",
+     "t": "ai"
+    },
+    {
+     "w": "arbejdet",
+     "t": "travaillé"
+    },
+    {
+     "w": "i",
+     "t": "dans"
+    },
+    {
+     "w": "mit",
+     "t": "mon"
+    },
+    {
+     "w": "fag",
+     "t": "métier"
+    },
+    {
+     "w": "i",
+     "t": "pendant"
+    },
+    {
+     "w": "mange",
+     "t": "nombreuses"
+    },
+    {
+     "w": "år.",
+     "t": "années."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Puis j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Puis"
+    },
+    {
+     "w": "flyttede",
+     "t": "ai-déménagé"
+    },
+    {
+     "w": "jeg",
+     "t": "je"
+    },
+    {
+     "w": "til",
+     "t": "vers"
+    },
+    {
+     "w": "et",
+     "t": "un"
+    },
+    {
+     "w": "nyt",
+     "t": "nouveau"
+    },
+    {
+     "w": "land.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Maintenant"
+    },
+    {
+     "w": "lærer",
+     "t": "apprends"
+    },
+    {
+     "w": "jeg",
+     "t": "je"
+    },
+    {
+     "w": "sproget.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Bientôt je vais retravailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Bientôt"
+    },
+    {
+     "w": "skal",
+     "t": "vais (devoir)"
+    },
+    {
+     "w": "jeg",
+     "t": "je"
+    },
+    {
+     "w": "arbejde",
+     "t": "travailler"
+    },
+    {
+     "w": "i",
+     "t": "dans"
+    },
+    {
+     "w": "mit",
+     "t": "mon"
+    },
+    {
+     "w": "fag",
+     "t": "métier"
+    },
+    {
+     "w": "igen.",
+     "t": "encore-une-fois."
+    }
+   ]
+  }
+ ]
+}

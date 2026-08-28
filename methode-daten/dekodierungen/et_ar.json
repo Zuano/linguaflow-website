@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "ar",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "لقد عملت في مجال تخصصي لسنوات عديدة.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "أنا-قد"
+    },
+    {
+     "w": "palju",
+     "t": "كثير"
+    },
+    {
+     "w": "aastaid",
+     "t": "سنوات"
+    },
+    {
+     "w": "oma",
+     "t": "في-تخصصي"
+    },
+    {
+     "w": "erialal",
+     "t": "مجال-تخصص"
+    },
+    {
+     "w": "töötanud.",
+     "t": "عملت."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "ثم"
+    },
+    {
+     "w": "kolisin",
+     "t": "انتقلت"
+    },
+    {
+     "w": "uude",
+     "t": "إلى-جديد"
+    },
+    {
+     "w": "riiki.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "الآن"
+    },
+    {
+     "w": "õpin",
+     "t": "أتعلم"
+    },
+    {
+     "w": "keelt.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "وقريباً سأبدأ العمل في مجال تخصصي من جديد.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "قريباً"
+    },
+    {
+     "w": "hakkan",
+     "t": "سأبدأ"
+    },
+    {
+     "w": "jälle",
+     "t": "من-جديد"
+    },
+    {
+     "w": "oma",
+     "t": "في-تخصصي"
+    },
+    {
+     "w": "erialal",
+     "t": "مجال-تخصص"
+    },
+    {
+     "w": "töötama.",
+     "t": "العمل."
+    }
+   ]
+  }
+ ]
+}

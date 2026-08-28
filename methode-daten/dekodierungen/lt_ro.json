@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "ro",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Am lucrat mulți ani în profesia mea.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Mulți"
+    },
+    {
+     "w": "metų",
+     "t": "ani"
+    },
+    {
+     "w": "dirbau",
+     "t": "am-lucrat"
+    },
+    {
+     "w": "savo",
+     "t": "în-a-mea"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "profesie."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Mai târziu am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Mai-târziu"
+    },
+    {
+     "w": "atvykau",
+     "t": "am-venit"
+    },
+    {
+     "w": "į",
+     "t": "în"
+    },
+    {
+     "w": "naują",
+     "t": "nouă"
+    },
+    {
+     "w": "šalį.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Acum"
+    },
+    {
+     "w": "mokausi",
+     "t": "învăț"
+    },
+    {
+     "w": "kalbos.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "În curând voi lucra din nou în profesia mea.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "În-curând"
+    },
+    {
+     "w": "vėl",
+     "t": "din-nou"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "voi-lucra"
+    },
+    {
+     "w": "savo",
+     "t": "în-a-mea"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "profesie."
+    }
+   ]
+  }
+ ]
+}

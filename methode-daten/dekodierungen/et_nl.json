@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "nl",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Ik heb vele jaren in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Ik-heb"
+    },
+    {
+     "w": "palju",
+     "t": "veel"
+    },
+    {
+     "w": "aastaid",
+     "t": "jaren"
+    },
+    {
+     "w": "oma",
+     "t": "mijn"
+    },
+    {
+     "w": "erialal",
+     "t": "in-vakgebied"
+    },
+    {
+     "w": "töötanud.",
+     "t": "gewerkt."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Toen verhuisde ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Toen"
+    },
+    {
+     "w": "kolisin",
+     "t": "verhuisde-ik"
+    },
+    {
+     "w": "uude",
+     "t": "naar-nieuw(e)"
+    },
+    {
+     "w": "riiki.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Nu"
+    },
+    {
+     "w": "õpin",
+     "t": "leer-ik"
+    },
+    {
+     "w": "keelt.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Binnenkort ga ik weer in mijn vakgebied werken.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "hakkan",
+     "t": "ga-ik-beginnen"
+    },
+    {
+     "w": "jälle",
+     "t": "weer"
+    },
+    {
+     "w": "oma",
+     "t": "mijn"
+    },
+    {
+     "w": "erialal",
+     "t": "in-vakgebied"
+    },
+    {
+     "w": "töötama.",
+     "t": "te-werken."
+    }
+   ]
+  }
+ ]
+}

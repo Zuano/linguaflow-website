@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "da",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Jeg udøvede mit fag i mange år.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Jeg'har"
+    },
+    {
+     "w": "exercé",
+     "t": "udøvet"
+    },
+    {
+     "w": "mon",
+     "t": "mit"
+    },
+    {
+     "w": "métier",
+     "t": "fag"
+    },
+    {
+     "w": "pendant",
+     "t": "i"
+    },
+    {
+     "w": "de",
+     "t": "(af)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "mange"
+    },
+    {
+     "w": "années.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Så ankom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Så"
+    },
+    {
+     "w": "je",
+     "t": "jeg"
+    },
+    {
+     "w": "suis",
+     "t": "er"
+    },
+    {
+     "w": "arrivé",
+     "t": "ankommet"
+    },
+    {
+     "w": "dans",
+     "t": "i"
+    },
+    {
+     "w": "un",
+     "t": "et"
+    },
+    {
+     "w": "nouveau",
+     "t": "nyt"
+    },
+    {
+     "w": "pays.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Nu,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "jeg'lærer"
+    },
+    {
+     "w": "la",
+     "t": "(det)"
+    },
+    {
+     "w": "langue.",
+     "t": "sprog."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Snart genoptager jeg mit fag.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Snart,"
+    },
+    {
+     "w": "je",
+     "t": "jeg"
+    },
+    {
+     "w": "reprendrai",
+     "t": "vil-genoptage"
+    },
+    {
+     "w": "mon",
+     "t": "mit"
+    },
+    {
+     "w": "métier.",
+     "t": "fag."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "ko",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "저는 제 전문 분야에서 여러 해 동안 일해 왔습니다.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "나는-이다(있다)"
+    },
+    {
+     "w": "palju",
+     "t": "많이"
+    },
+    {
+     "w": "aastaid",
+     "t": "해(년)들을"
+    },
+    {
+     "w": "oma",
+     "t": "자신의"
+    },
+    {
+     "w": "erialal",
+     "t": "전문-분야에서"
+    },
+    {
+     "w": "töötanud.",
+     "t": "일해온-(상태이다)."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "그 후 저는 새로운 나라로 이사했습니다.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "그다음에"
+    },
+    {
+     "w": "kolisin",
+     "t": "나는-이사했다"
+    },
+    {
+     "w": "uude",
+     "t": "새로운(곳)으로"
+    },
+    {
+     "w": "riiki.",
+     "t": "나라로."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "지금 저는 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "지금"
+    },
+    {
+     "w": "õpin",
+     "t": "나는-배운다"
+    },
+    {
+     "w": "keelt.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "곧 저는 다시 제 전문 분야에서 일하기 시작할 것입니다.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "곧"
+    },
+    {
+     "w": "hakkan",
+     "t": "나는-시작할-것이다"
+    },
+    {
+     "w": "jälle",
+     "t": "다시"
+    },
+    {
+     "w": "oma",
+     "t": "자신의"
+    },
+    {
+     "w": "erialal",
+     "t": "전문-분야에서"
+    },
+    {
+     "w": "töötama.",
+     "t": "일하기(를)."
+    }
+   ]
+  }
+ ]
+}

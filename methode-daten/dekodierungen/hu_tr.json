@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "tr",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Uzun yıllar boyunca kendi mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Çok"
+    },
+    {
+     "w": "éven",
+     "t": "yıl-boyunca"
+    },
+    {
+     "w": "át",
+     "t": "boyunca (baştan sona)"
+    },
+    {
+     "w": "a",
+     "t": "-"
+    },
+    {
+     "w": "szakmámban",
+     "t": "mesleğimde"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "çalıştım."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Sonra"
+    },
+    {
+     "w": "egy",
+     "t": "bir"
+    },
+    {
+     "w": "új",
+     "t": "yeni"
+    },
+    {
+     "w": "országba",
+     "t": "ülkeye"
+    },
+    {
+     "w": "költöztem.",
+     "t": "taşındım."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Şimdi"
+    },
+    {
+     "w": "a",
+     "t": "-"
+    },
+    {
+     "w": "nyelvet",
+     "t": "dili"
+    },
+    {
+     "w": "tanulom.",
+     "t": "öğreniyorum."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Yakında yeniden kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Yakında"
+    },
+    {
+     "w": "újra",
+     "t": "yeniden"
+    },
+    {
+     "w": "a",
+     "t": "-"
+    },
+    {
+     "w": "szakmámban",
+     "t": "mesleğimde"
+    },
+    {
+     "w": "fogok",
+     "t": "(gelecek zaman) -acağım"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "çalışmak."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "hu",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Sokáig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "dolgozott",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "vagyok (múltidő-segédige)",
+     "r": "sam"
+    },
+    {
+     "w": "дълги",
+     "t": "hosszú",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "éveket",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "-ban/-ben",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "az-én",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "szakmám.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Aztán egy új országba jöttem.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "aztán",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "jöttem",
+     "r": "doydokh"
+    },
+    {
+     "w": "в",
+     "t": "-ba/-be",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "új",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "országba.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "most",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "tanulom",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "a-nyelvet.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "hamarosan",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "újra",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "fogok (jövőidő)",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "dolgozni",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "-ban/-ben",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "az-én",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "szakmám.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

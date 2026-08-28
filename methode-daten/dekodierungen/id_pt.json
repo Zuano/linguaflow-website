@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "pt",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Eu já trabalho na minha área há muitos anos.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "eu"
+    },
+    {
+     "w": "telah",
+     "t": "já"
+    },
+    {
+     "w": "bekerja",
+     "t": "trabalhar"
+    },
+    {
+     "w": "di",
+     "t": "em"
+    },
+    {
+     "w": "bidang",
+     "t": "área"
+    },
+    {
+     "w": "saya",
+     "t": "minha"
+    },
+    {
+     "w": "selama",
+     "t": "durante"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "vários-anos."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Depois eu me mudei para um novo país.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "depois"
+    },
+    {
+     "w": "saya",
+     "t": "eu"
+    },
+    {
+     "w": "pindah",
+     "t": "me-mudei"
+    },
+    {
+     "w": "ke",
+     "t": "para"
+    },
+    {
+     "w": "negara",
+     "t": "país"
+    },
+    {
+     "w": "baru.",
+     "t": "novo."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Agora estou aprendendo o idioma daqui.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "agora"
+    },
+    {
+     "w": "saya",
+     "t": "eu"
+    },
+    {
+     "w": "sedang",
+     "t": "estou-(fazendo)"
+    },
+    {
+     "w": "belajar",
+     "t": "aprendendo"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "o-idioma-dele(daqui)."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Em breve voltarei a trabalhar na minha área.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "em-breve"
+    },
+    {
+     "w": "lagi",
+     "t": "mais"
+    },
+    {
+     "w": "saya",
+     "t": "eu"
+    },
+    {
+     "w": "akan",
+     "t": "vou"
+    },
+    {
+     "w": "kembali",
+     "t": "voltar"
+    },
+    {
+     "w": "bekerja",
+     "t": "trabalhar"
+    },
+    {
+     "w": "di",
+     "t": "em"
+    },
+    {
+     "w": "bidang",
+     "t": "área"
+    },
+    {
+     "w": "saya.",
+     "t": "minha."
+    }
+   ]
+  }
+ ]
+}

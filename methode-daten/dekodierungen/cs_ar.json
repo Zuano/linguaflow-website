@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "ar",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "عملت في مجالي لسنوات كثيرة.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "في"
+    },
+    {
+     "w": "svém",
+     "t": "مجالي (الخاص بي)"
+    },
+    {
+     "w": "oboru",
+     "t": "المجال"
+    },
+    {
+     "w": "jsem",
+     "t": "(فعل مساعد-للماضي)"
+    },
+    {
+     "w": "pracoval",
+     "t": "عملتُ"
+    },
+    {
+     "w": "mnoho",
+     "t": "كثيرة"
+    },
+    {
+     "w": "let.",
+     "t": "سنوات."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "بعد ذلك انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "بعد-ذلك"
+    },
+    {
+     "w": "jsem",
+     "t": "(فعل مساعد-للماضي)"
+    },
+    {
+     "w": "se",
+     "t": "(نفسي)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "do",
+     "t": "إلى"
+    },
+    {
+     "w": "nové",
+     "t": "جديدة"
+    },
+    {
+     "w": "země.",
+     "t": "بلد (أرض)."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "الآن"
+    },
+    {
+     "w": "se",
+     "t": "(نفسي)"
+    },
+    {
+     "w": "učím",
+     "t": "أتعلم"
+    },
+    {
+     "w": "jazyk.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "قريباً سأعمل مرة أخرى في مجالي.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "قريباً"
+    },
+    {
+     "w": "budu",
+     "t": "سأكون (فعل مساعد-للمستقبل)"
+    },
+    {
+     "w": "zase",
+     "t": "مرة-أخرى"
+    },
+    {
+     "w": "pracovat",
+     "t": "أعمل"
+    },
+    {
+     "w": "ve",
+     "t": "في"
+    },
+    {
+     "w": "svém",
+     "t": "مجالي (الخاص بي)"
+    },
+    {
+     "w": "oboru.",
+     "t": "المجال."
+    }
+   ]
+  }
+ ]
+}

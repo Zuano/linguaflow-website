@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "fr",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "J'ai travaillé de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "J'ai"
+    },
+    {
+     "w": "lucrat",
+     "t": "travaillé"
+    },
+    {
+     "w": "mulți",
+     "t": "nombreux"
+    },
+    {
+     "w": "ani",
+     "t": "années"
+    },
+    {
+     "w": "în",
+     "t": "dans"
+    },
+    {
+     "w": "meseria",
+     "t": "métier(le)"
+    },
+    {
+     "w": "mea.",
+     "t": "mon."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Ensuite, j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Ensuite"
+    },
+    {
+     "w": "m-am",
+     "t": "me'suis"
+    },
+    {
+     "w": "mutat",
+     "t": "déménagé"
+    },
+    {
+     "w": "într-o",
+     "t": "dans-un"
+    },
+    {
+     "w": "țară",
+     "t": "pays"
+    },
+    {
+     "w": "nouă.",
+     "t": "nouveau."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Maintenant"
+    },
+    {
+     "w": "învăț",
+     "t": "j'apprends"
+    },
+    {
+     "w": "limba.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Bientôt je vais retravailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "D'ici"
+    },
+    {
+     "w": "curând",
+     "t": "peu"
+    },
+    {
+     "w": "voi",
+     "t": "je-vais"
+    },
+    {
+     "w": "lucra",
+     "t": "travailler"
+    },
+    {
+     "w": "din",
+     "t": "de"
+    },
+    {
+     "w": "nou",
+     "t": "nouveau"
+    },
+    {
+     "w": "în",
+     "t": "dans"
+    },
+    {
+     "w": "meseria",
+     "t": "métier(le)"
+    },
+    {
+     "w": "mea.",
+     "t": "mon."
+    }
+   ]
+  }
+ ]
+}

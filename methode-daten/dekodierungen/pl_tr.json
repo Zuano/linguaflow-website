@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "tr",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Uzun yıllar boyunca kendi mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Boyunca"
+    },
+    {
+     "w": "wiele",
+     "t": "çok"
+    },
+    {
+     "w": "lat",
+     "t": "yıl"
+    },
+    {
+     "w": "pracowałem",
+     "t": "çalıştım"
+    },
+    {
+     "w": "w",
+     "t": "içinde"
+    },
+    {
+     "w": "swoim",
+     "t": "kendi"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "mesleğimde."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sonra"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "geldim"
+    },
+    {
+     "w": "do",
+     "t": "-e"
+    },
+    {
+     "w": "nowego",
+     "t": "yeni"
+    },
+    {
+     "w": "kraju.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Şimdi"
+    },
+    {
+     "w": "uczę",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "się",
+     "t": "kendimi (dönüşlü)"
+    },
+    {
+     "w": "języka.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Yakında yeniden kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Yakında"
+    },
+    {
+     "w": "znów",
+     "t": "yeniden"
+    },
+    {
+     "w": "będę",
+     "t": "olacağım"
+    },
+    {
+     "w": "pracował",
+     "t": "çalışmış (gelecek zaman için)"
+    },
+    {
+     "w": "w",
+     "t": "içinde"
+    },
+    {
+     "w": "swoim",
+     "t": "kendi"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "mesleğimde."
+    }
+   ]
+  }
+ ]
+}

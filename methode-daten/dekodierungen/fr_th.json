@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "th",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "ฉัน'ได้"
+    },
+    {
+     "w": "exercé",
+     "t": "ทำ (ประกอบอาชีพ)"
+    },
+    {
+     "w": "mon",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "métier",
+     "t": "อาชีพ"
+    },
+    {
+     "w": "pendant",
+     "t": "เป็นเวลา"
+    },
+    {
+     "w": "de",
+     "t": "(คำเชื่อม)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "หลาย"
+    },
+    {
+     "w": "années.",
+     "t": "ปี"
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "จากนั้นฉันก็มาถึงประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "je",
+     "t": "ฉัน"
+    },
+    {
+     "w": "suis",
+     "t": "ได้ (กริยาช่วย)"
+    },
+    {
+     "w": "arrivé",
+     "t": "มาถึง"
+    },
+    {
+     "w": "dans",
+     "t": "ใน"
+    },
+    {
+     "w": "un",
+     "t": "หนึ่ง (ประเทศ)"
+    },
+    {
+     "w": "nouveau",
+     "t": "ใหม่"
+    },
+    {
+     "w": "pays.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "ตอนนี้,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "ฉัน'เรียน"
+    },
+    {
+     "w": "la",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "langue.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "เร็วๆนี้ฉันจะกลับไปทำอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "เร็วๆนี้,"
+    },
+    {
+     "w": "je",
+     "t": "ฉัน"
+    },
+    {
+     "w": "reprendrai",
+     "t": "จะกลับไปทำอีก"
+    },
+    {
+     "w": "mon",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "métier.",
+     "t": "อาชีพ"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "he",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "עבדתי שנים רבות במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "אני-נמצא (הווה)"
+    },
+    {
+     "w": "daudzus",
+     "t": "רבות"
+    },
+    {
+     "w": "gadus",
+     "t": "שנים"
+    },
+    {
+     "w": "strādājis",
+     "t": "עבד (זכר)"
+    },
+    {
+     "w": "savā",
+     "t": "שלי (ברפלקסיב)"
+    },
+    {
+     "w": "profesijā.",
+     "t": "במקצוע."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "אחרי"
+    },
+    {
+     "w": "tam",
+     "t": "זה (=אחר כך)"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "עברתי (מגורים)"
+    },
+    {
+     "w": "uz",
+     "t": "אל"
+    },
+    {
+     "w": "jaunu",
+     "t": "חדשה"
+    },
+    {
+     "w": "valsti.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "עכשיו"
+    },
+    {
+     "w": "apgūstu",
+     "t": "אני-לומד (רוכש)"
+    },
+    {
+     "w": "valodu.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "בקרוב אני שוב אעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "בקרוב"
+    },
+    {
+     "w": "atkal",
+     "t": "שוב"
+    },
+    {
+     "w": "strādāšu",
+     "t": "אעבוד"
+    },
+    {
+     "w": "savā",
+     "t": "שלי (ברפלקסיב)"
+    },
+    {
+     "w": "profesijā.",
+     "t": "במקצוע."
+    }
+   ]
+  }
+ ]
+}

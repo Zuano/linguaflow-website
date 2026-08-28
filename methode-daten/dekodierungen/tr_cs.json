@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "cs",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Ve svém oboru jsem pracoval mnoho let.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "v-mém-oboru"
+    },
+    {
+     "w": "uzun",
+     "t": "dlouhá"
+    },
+    {
+     "w": "yıllar",
+     "t": "léta"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "pracoval-jsem."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Poté jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "poté"
+    },
+    {
+     "w": "yeni",
+     "t": "nová"
+    },
+    {
+     "w": "bir",
+     "t": "jedna (nějaká)"
+    },
+    {
+     "w": "ülkeye",
+     "t": "do-země"
+    },
+    {
+     "w": "geldim.",
+     "t": "přijel-jsem."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "teď"
+    },
+    {
+     "w": "dili",
+     "t": "jazyk"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "učím-se."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Brzy zase začnu pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "brzy"
+    },
+    {
+     "w": "tekrar",
+     "t": "znovu"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "v-mém-oboru"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "pracovat"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "začnu."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "id",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Saya bekerja di bidang profesi saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "Saya",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "bekerja",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "di",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "cabang",
+     "r": "sakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesi",
+     "r": "a-chip"
+    },
+    {
+     "w": "ของ",
+     "t": "dari",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "saya",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "sudah",
+     "r": "ma"
+    },
+    {
+     "w": "หลาย",
+     "t": "banyak",
+     "r": "hlai"
+    },
+    {
+     "w": "ปี",
+     "t": "tahun",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "sudah.",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Setelah itu, saya pindah untuk tinggal di negara baru.",
+   "pairs": [
+    {
+     "w": "หลังจากนั้น",
+     "t": "Setelah-itu",
+     "r": "hlang-jak-nan"
+    },
+    {
+     "w": "ผม",
+     "t": "saya",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "pindah",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "untuk-pergi",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "tinggal",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "negara",
+     "r": "prathep"
+    },
+    {
+     "w": "ใหม่",
+     "t": "baru.",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "Sekarang",
+     "r": "ton-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "saya",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "sedang",
+     "r": "gamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "belajar",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "bahasa",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(-)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Dan dalam waktu dekat, saya akan kembali bekerja di bidang profesi saya lagi.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "Dan",
+     "r": "lae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "cepat-cepat",
+     "r": "rew-rew"
+    },
+    {
+     "w": "นี้",
+     "t": "ini",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "saya",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "akan",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "kembali",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "datang",
+     "r": "ma"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "bekerja",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "di",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "cabang",
+     "r": "sakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesi",
+     "r": "a-chip"
+    },
+    {
+     "w": "ของ",
+     "t": "dari",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "saya",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "lagi",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "kali.",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

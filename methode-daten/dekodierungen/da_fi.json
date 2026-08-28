@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "fi",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Olen työskennellyt alallani monta vuotta.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Minä"
+    },
+    {
+     "w": "har",
+     "t": "olen"
+    },
+    {
+     "w": "arbejdet",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "i",
+     "t": "omalla"
+    },
+    {
+     "w": "mit",
+     "t": "omalla"
+    },
+    {
+     "w": "fag",
+     "t": "alallani"
+    },
+    {
+     "w": "i",
+     "t": "(kesto)"
+    },
+    {
+     "w": "mange",
+     "t": "monta"
+    },
+    {
+     "w": "år.",
+     "t": "vuotta."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Sitten"
+    },
+    {
+     "w": "flyttede",
+     "t": "muutin"
+    },
+    {
+     "w": "jeg",
+     "t": "minä"
+    },
+    {
+     "w": "til",
+     "t": "uuteen"
+    },
+    {
+     "w": "et",
+     "t": "(yksi)"
+    },
+    {
+     "w": "nyt",
+     "t": "uuteen"
+    },
+    {
+     "w": "land.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Nyt opin kieltä.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nyt"
+    },
+    {
+     "w": "lærer",
+     "t": "opin"
+    },
+    {
+     "w": "jeg",
+     "t": "minä"
+    },
+    {
+     "w": "sproget.",
+     "t": "kielen."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Pian minun täytyy työskennellä alallani jälleen.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Pian"
+    },
+    {
+     "w": "skal",
+     "t": "täytyy"
+    },
+    {
+     "w": "jeg",
+     "t": "minun"
+    },
+    {
+     "w": "arbejde",
+     "t": "työskennellä"
+    },
+    {
+     "w": "i",
+     "t": "omalla"
+    },
+    {
+     "w": "mit",
+     "t": "omalla"
+    },
+    {
+     "w": "fag",
+     "t": "alallani"
+    },
+    {
+     "w": "igen.",
+     "t": "jälleen."
+    }
+   ]
+  }
+ ]
+}

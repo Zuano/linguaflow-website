@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "da",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Jeg har arbejdet i mit fag i mange år.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "virkelig (allerede)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "jeg-arbejdede",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "i",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mit-fag",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "i-årevis",
+     "r": "li-sanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "mange.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Så flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "derefter",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "jeg-flyttede",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "til",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "land",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "nyt.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Og nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "og'nu",
+     "r": "wa-al-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "jeg-lærer",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "sproget.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Og snart vender jeg tilbage til arbejdet i mit fag.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "og'jeg-vil-vende-tilbage",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "snart",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "til",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "arbejdet",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "i",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "mit-fag.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

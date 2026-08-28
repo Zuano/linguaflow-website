@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "nl",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Ik heb veel jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Ik"
+    },
+    {
+     "w": "har",
+     "t": "heb"
+    },
+    {
+     "w": "arbetat",
+     "t": "gewerkt"
+    },
+    {
+     "w": "många",
+     "t": "veel"
+    },
+    {
+     "w": "år",
+     "t": "jaar (jaren)"
+    },
+    {
+     "w": "inom",
+     "t": "binnen"
+    },
+    {
+     "w": "mitt",
+     "t": "mijn"
+    },
+    {
+     "w": "yrke.",
+     "t": "vak."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Daarna verhuisde ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Daarna"
+    },
+    {
+     "w": "flyttade",
+     "t": "verhuisde"
+    },
+    {
+     "w": "jag",
+     "t": "ik"
+    },
+    {
+     "w": "till",
+     "t": "naar"
+    },
+    {
+     "w": "ett",
+     "t": "een"
+    },
+    {
+     "w": "nytt",
+     "t": "nieuw"
+    },
+    {
+     "w": "land.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nu"
+    },
+    {
+     "w": "lär",
+     "t": "leer"
+    },
+    {
+     "w": "jag",
+     "t": "ik"
+    },
+    {
+     "w": "mig",
+     "t": "mezelf"
+    },
+    {
+     "w": "språket.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Binnenkort ga ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "ska",
+     "t": "zal"
+    },
+    {
+     "w": "jag",
+     "t": "ik"
+    },
+    {
+     "w": "börja",
+     "t": "beginnen"
+    },
+    {
+     "w": "arbeta",
+     "t": "te-werken"
+    },
+    {
+     "w": "inom",
+     "t": "binnen"
+    },
+    {
+     "w": "mitt",
+     "t": "mijn"
+    },
+    {
+     "w": "yrke",
+     "t": "vak"
+    },
+    {
+     "w": "igen.",
+     "t": "weer."
+    }
+   ]
+  }
+ ]
+}

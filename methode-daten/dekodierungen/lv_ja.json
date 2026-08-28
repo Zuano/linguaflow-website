@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "ja",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "私は自分の職業で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "私は・している"
+    },
+    {
+     "w": "daudzus",
+     "t": "多くの"
+    },
+    {
+     "w": "gadus",
+     "t": "年を"
+    },
+    {
+     "w": "strādājis",
+     "t": "働いてきた"
+    },
+    {
+     "w": "savā",
+     "t": "自分の"
+    },
+    {
+     "w": "profesijā.",
+     "t": "職業で。"
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "その後、新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "後に"
+    },
+    {
+     "w": "tam",
+     "t": "それの"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "私は引っ越した"
+    },
+    {
+     "w": "uz",
+     "t": "〜へ"
+    },
+    {
+     "w": "jaunu",
+     "t": "新しい"
+    },
+    {
+     "w": "valsti.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "今は言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "今"
+    },
+    {
+     "w": "apgūstu",
+     "t": "私は学んでいる"
+    },
+    {
+     "w": "valodu.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "もうすぐまた自分の職業で働くつもりです。",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "atkal",
+     "t": "再び"
+    },
+    {
+     "w": "strādāšu",
+     "t": "私は働くだろう"
+    },
+    {
+     "w": "savā",
+     "t": "自分の"
+    },
+    {
+     "w": "profesijā.",
+     "t": "職業で。"
+    }
+   ]
+  }
+ ]
+}

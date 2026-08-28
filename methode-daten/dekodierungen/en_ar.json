@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "ar",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "عملت في مهنتي لسنوات عديدة.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "أنا"
+    },
+    {
+     "w": "worked",
+     "t": "عملتُ"
+    },
+    {
+     "w": "in",
+     "t": "في"
+    },
+    {
+     "w": "my",
+     "t": "مهنتي"
+    },
+    {
+     "w": "profession",
+     "t": "مهنة (خاصتي)"
+    },
+    {
+     "w": "for",
+     "t": "لمدة"
+    },
+    {
+     "w": "many",
+     "t": "عديدة"
+    },
+    {
+     "w": "years.",
+     "t": "سنوات."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "ثم"
+    },
+    {
+     "w": "I",
+     "t": "أنا"
+    },
+    {
+     "w": "moved",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "to",
+     "t": "إلى"
+    },
+    {
+     "w": "a",
+     "t": "(أداة-تنكير)"
+    },
+    {
+     "w": "new",
+     "t": "جديد"
+    },
+    {
+     "w": "country.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "الآن أنا أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "الآن"
+    },
+    {
+     "w": "I'm",
+     "t": "أنا'أُ"
+    },
+    {
+     "w": "learning",
+     "t": "تعلّم"
+    },
+    {
+     "w": "the",
+     "t": "الـ"
+    },
+    {
+     "w": "language.",
+     "t": "لغة."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "قريبًا سأعمل في مهنتي مرة أخرى.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "قريبًا"
+    },
+    {
+     "w": "I'll",
+     "t": "أنا'سوف"
+    },
+    {
+     "w": "be",
+     "t": "أكون"
+    },
+    {
+     "w": "working",
+     "t": "عاملًا"
+    },
+    {
+     "w": "in",
+     "t": "في"
+    },
+    {
+     "w": "my",
+     "t": "مهنتي"
+    },
+    {
+     "w": "profession",
+     "t": "مهنة (خاصتي)"
+    },
+    {
+     "w": "again.",
+     "t": "مرة-أخرى."
+    }
+   ]
+  }
+ ]
+}

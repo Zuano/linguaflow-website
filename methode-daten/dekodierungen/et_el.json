@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "el",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Έχω δουλέψει πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Έχω"
+    },
+    {
+     "w": "palju",
+     "t": "πολλά"
+    },
+    {
+     "w": "aastaid",
+     "t": "χρόνια"
+    },
+    {
+     "w": "oma",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "erialal",
+     "t": "στο-επάγγελμα"
+    },
+    {
+     "w": "töötanud.",
+     "t": "δουλέψει."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Έπειτα μετακόμισα σε νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "kolisin",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "uude",
+     "t": "σε-νέα"
+    },
+    {
+     "w": "riiki.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Τώρα"
+    },
+    {
+     "w": "õpin",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "keelt.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Σύντομα θα αρχίσω να δουλεύω ξανά στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "hakkan",
+     "t": "θα-αρχίσω"
+    },
+    {
+     "w": "jälle",
+     "t": "ξανά"
+    },
+    {
+     "w": "oma",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "erialal",
+     "t": "στο-επάγγελμα"
+    },
+    {
+     "w": "töötama.",
+     "t": "να-δουλεύω."
+    }
+   ]
+  }
+ ]
+}

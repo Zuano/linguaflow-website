@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "sv",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Jag har arbetat inom mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Jag"
+    },
+    {
+     "w": "đã",
+     "t": "(dåtid)"
+    },
+    {
+     "w": "làm",
+     "t": "göra"
+    },
+    {
+     "w": "việc",
+     "t": "arbete"
+    },
+    {
+     "w": "trong",
+     "t": "inom"
+    },
+    {
+     "w": "ngành",
+     "t": "bransch"
+    },
+    {
+     "w": "nghề",
+     "t": "yrke"
+    },
+    {
+     "w": "của",
+     "t": "tillhörande"
+    },
+    {
+     "w": "mình",
+     "t": "mig-själv"
+    },
+    {
+     "w": "nhiều",
+     "t": "många"
+    },
+    {
+     "w": "năm.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Efter det kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Efter"
+    },
+    {
+     "w": "đó,",
+     "t": "det,"
+    },
+    {
+     "w": "tôi",
+     "t": "jag"
+    },
+    {
+     "w": "đến",
+     "t": "kom-till"
+    },
+    {
+     "w": "một",
+     "t": "ett"
+    },
+    {
+     "w": "đất",
+     "t": "jord (del-av-ordet)"
+    },
+    {
+     "w": "nước",
+     "t": "land"
+    },
+    {
+     "w": "mới.",
+     "t": "nytt."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Just nu lär jag mig språket här.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Just"
+    },
+    {
+     "w": "tại,",
+     "t": "nu,"
+    },
+    {
+     "w": "tôi",
+     "t": "jag"
+    },
+    {
+     "w": "đang",
+     "t": "håller-på-att"
+    },
+    {
+     "w": "học",
+     "t": "lära"
+    },
+    {
+     "w": "ngôn",
+     "t": "tal (del-av-ordet)"
+    },
+    {
+     "w": "ngữ",
+     "t": "språk"
+    },
+    {
+     "w": "ở",
+     "t": "vid"
+    },
+    {
+     "w": "đây.",
+     "t": "här."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Snart kommer jag att fortsätta arbeta inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Snart"
+    },
+    {
+     "w": "tới,",
+     "t": "kommande,"
+    },
+    {
+     "w": "tôi",
+     "t": "jag"
+    },
+    {
+     "w": "sẽ",
+     "t": "(framtid)"
+    },
+    {
+     "w": "tiếp",
+     "t": "fortsätta (del-av-ordet)"
+    },
+    {
+     "w": "tục",
+     "t": "fortsätta (del-av-ordet)"
+    },
+    {
+     "w": "làm",
+     "t": "göra"
+    },
+    {
+     "w": "việc",
+     "t": "arbete"
+    },
+    {
+     "w": "trong",
+     "t": "inom"
+    },
+    {
+     "w": "ngành",
+     "t": "bransch"
+    },
+    {
+     "w": "nghề",
+     "t": "yrke"
+    },
+    {
+     "w": "của",
+     "t": "tillhörande"
+    },
+    {
+     "w": "mình.",
+     "t": "mig-själv."
+    }
+   ]
+  }
+ ]
+}

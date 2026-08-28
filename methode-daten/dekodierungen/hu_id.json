@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "id",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Selama bertahun-tahun saya bekerja di bidang saya.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Banyak"
+    },
+    {
+     "w": "éven",
+     "t": "tahun"
+    },
+    {
+     "w": "át",
+     "t": "selama"
+    },
+    {
+     "w": "a",
+     "t": "di"
+    },
+    {
+     "w": "szakmámban",
+     "t": "bidang-saya-di"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "saya-bekerja."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Kemudian saya pindah ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Kemudian"
+    },
+    {
+     "w": "egy",
+     "t": "sebuah"
+    },
+    {
+     "w": "új",
+     "t": "baru"
+    },
+    {
+     "w": "országba",
+     "t": "negara-ke"
+    },
+    {
+     "w": "költöztem.",
+     "t": "saya-pindah."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Sekarang saya sedang belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Sekarang"
+    },
+    {
+     "w": "a",
+     "t": "(kata-sandang)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "bahasa-itu"
+    },
+    {
+     "w": "tanulom.",
+     "t": "saya-pelajari."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Sebentar-lagi"
+    },
+    {
+     "w": "újra",
+     "t": "lagi (kembali)"
+    },
+    {
+     "w": "a",
+     "t": "di"
+    },
+    {
+     "w": "szakmámban",
+     "t": "bidang-saya-di"
+    },
+    {
+     "w": "fogok",
+     "t": "akan"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "bekerja."
+    }
+   ]
+  }
+ ]
+}

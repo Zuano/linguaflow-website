@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "lt",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Aš dirbau daug metų savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Dirbau"
+    },
+    {
+     "w": "muitos",
+     "t": "daug"
+    },
+    {
+     "w": "anos",
+     "t": "metų"
+    },
+    {
+     "w": "na",
+     "t": "savo (profesijoje)"
+    },
+    {
+     "w": "minha",
+     "t": "savo"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesijoje."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Vėliau atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Vėliau,"
+    },
+    {
+     "w": "vim",
+     "t": "atvykau"
+    },
+    {
+     "w": "para",
+     "t": "į"
+    },
+    {
+     "w": "um",
+     "t": "vieną"
+    },
+    {
+     "w": "novo",
+     "t": "naują"
+    },
+    {
+     "w": "país.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Dabar"
+    },
+    {
+     "w": "estou",
+     "t": "esu"
+    },
+    {
+     "w": "a",
+     "t": "(veiksmo-rodiklis)"
+    },
+    {
+     "w": "aprender",
+     "t": "mokytis"
+    },
+    {
+     "w": "a",
+     "t": "tą"
+    },
+    {
+     "w": "língua.",
+     "t": "kalbą."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Greitai vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Į"
+    },
+    {
+     "w": "breve,",
+     "t": "trumpą-laiką,"
+    },
+    {
+     "w": "voltarei",
+     "t": "sugrįšiu"
+    },
+    {
+     "w": "a",
+     "t": "(veiksmo-rodiklis)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "dirbti"
+    },
+    {
+     "w": "na",
+     "t": "savo (profesijoje)"
+    },
+    {
+     "w": "minha",
+     "t": "savo"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesijoje."
+    }
+   ]
+  }
+ ]
+}

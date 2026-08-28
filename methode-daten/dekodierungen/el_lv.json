@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "lv",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Es strādāju savā profesijā daudzus gadus.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Es-strādāju",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "par",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "daudzus",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "gadus",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "savā",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profesijā",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "manā.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Pēc tam es ierados jaunā valstī.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Pēc",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "tam,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "es-atbraucu",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "uz",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "vienu",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "jaunu",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "valsti.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Tagad",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "es-mācos",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "to",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "valodu.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Drīzumā es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Drīzumā",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "(nākotnes-vārds)",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "es-atkal-strādāšu",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "savā",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profesijā",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "manā.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

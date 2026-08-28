@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "ro",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Am lucrat în profesia mea pentru mulți ani.",
+   "pairs": [
+    {
+     "w": "私は",
+     "t": "Eu-am",
+     "r": "Watashi wa"
+    },
+    {
+     "w": "長年、",
+     "t": "mulți-ani,",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分の",
+     "t": "propria-(mea)",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職に",
+     "t": "profesie-(ocupație)-la",
+     "r": "senmonshoku ni"
+    },
+    {
+     "w": "就いて",
+     "t": "ocupând-(luând)",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "am-muncit-(venit-lucrând).",
+     "r": "hataraite kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "După-aceea,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "nouă",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "țară-la",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "m-am-mutat-(relocat).",
+     "r": "yarisumimasita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Acum învăț limba acelei țări.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "Acum",
+     "r": "ima wa"
+    },
+    {
+     "w": "その国の",
+     "t": "acel-țară-a-(genitiv)",
+     "r": "sono kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "limbă-(cuvinte)-pe",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "învăț-(sunt-în-stare-de-a-învăța).",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Curând voi reîncepe să lucrez în profesia mea.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "Curând-(în-scurt-timp)",
+     "r": "mou sugu"
+    },
+    {
+     "w": "また、",
+     "t": "din-nou,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "propria-(mea)",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "profesie-(ocupație)-în",
+     "r": "senmonshoku de"
+    },
+    {
+     "w": "働き始める",
+     "t": "a-lucra-a-reîncepe",
+     "r": "hataraaki hajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "plan-este.(intenție-este)",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

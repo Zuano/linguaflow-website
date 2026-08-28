@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "sk",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Pracoval som mnoho rokov v mojej profesii.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Pracoval-som"
+    },
+    {
+     "w": "muitos",
+     "t": "mnoho"
+    },
+    {
+     "w": "anos",
+     "t": "rokov"
+    },
+    {
+     "w": "na",
+     "t": "v"
+    },
+    {
+     "w": "minha",
+     "t": "mojej"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesii."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Potom,"
+    },
+    {
+     "w": "vim",
+     "t": "prišiel-som"
+    },
+    {
+     "w": "para",
+     "t": "do"
+    },
+    {
+     "w": "um",
+     "t": "jednej (nejakej)"
+    },
+    {
+     "w": "novo",
+     "t": "novej"
+    },
+    {
+     "w": "país.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Teraz"
+    },
+    {
+     "w": "estou",
+     "t": "som (práve)"
+    },
+    {
+     "w": "a",
+     "t": "(pri)"
+    },
+    {
+     "w": "aprender",
+     "t": "učení-sa"
+    },
+    {
+     "w": "a",
+     "t": "(ten)"
+    },
+    {
+     "w": "língua.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Už skoro sa vrátim k práci vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "V"
+    },
+    {
+     "w": "breve,",
+     "t": "krátkosti,"
+    },
+    {
+     "w": "voltarei",
+     "t": "vrátim-sa"
+    },
+    {
+     "w": "a",
+     "t": "k"
+    },
+    {
+     "w": "trabalhar",
+     "t": "práci"
+    },
+    {
+     "w": "na",
+     "t": "v"
+    },
+    {
+     "w": "minha",
+     "t": "mojej"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesii."
+    }
+   ]
+  }
+ ]
+}

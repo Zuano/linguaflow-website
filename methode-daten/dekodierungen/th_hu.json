@@ -1,0 +1,232 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "hu",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Több éven keresztül dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "én",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "dolgozom",
+     "r": "tham ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "ban-ben",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ág",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "szakma",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "-nak/nek (birtok)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "én",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(múlt-jelölő)",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "sok",
+     "r": "laai"
+    },
+    {
+     "w": "ปี",
+     "t": "év",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "már",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Ezután egy új országba költöztem.",
+   "pairs": [
+    {
+     "w": "หลังจาก",
+     "t": "után",
+     "r": "lang jaak"
+    },
+    {
+     "w": "นั้น",
+     "t": "azt",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "én",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "költözök",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "el-(irány)",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "maradok/lakozom",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "ország",
+     "r": "prathes"
+    },
+    {
+     "w": "ใหม่",
+     "t": "új",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Most éppen nyelveket tanulok.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "most",
+     "r": "ton ni"
+    },
+    {
+     "w": "ผม",
+     "t": "én",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "éppen-(folyamatos)",
+     "r": "gamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "tanulok",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "nyelv",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(folyamatos-jelölő)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "És hamarosan újra visszatérek a szakmámban való munkához.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "és",
+     "r": "ae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "hamar-hamar",
+     "r": "reo-reo"
+    },
+    {
+     "w": "นี้",
+     "t": "ez",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "én",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(jövő-jelölő)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "visszatérek",
+     "r": "glab"
+    },
+    {
+     "w": "มา",
+     "t": "vissza-(irány)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "dolgozom",
+     "r": "tham ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "ban-ben",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ág",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "szakma",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "-nak/nek (birtok)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "én",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "még/ismét",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "alkalom",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

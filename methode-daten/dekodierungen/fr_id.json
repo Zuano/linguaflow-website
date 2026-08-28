@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "id",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Saya telah menjalankan profesi saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Saya'telah"
+    },
+    {
+     "w": "exercé",
+     "t": "menjalankan"
+    },
+    {
+     "w": "mon",
+     "t": "profesi-saya"
+    },
+    {
+     "w": "métier",
+     "t": "(pekerjaan)"
+    },
+    {
+     "w": "pendant",
+     "t": "selama"
+    },
+    {
+     "w": "de",
+     "t": "(kata-penghubung)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "banyak"
+    },
+    {
+     "w": "années.",
+     "t": "tahun."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Kemudian saya tiba di sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Kemudian"
+    },
+    {
+     "w": "je",
+     "t": "saya"
+    },
+    {
+     "w": "suis",
+     "t": "telah"
+    },
+    {
+     "w": "arrivé",
+     "t": "tiba"
+    },
+    {
+     "w": "dans",
+     "t": "di"
+    },
+    {
+     "w": "un",
+     "t": "sebuah"
+    },
+    {
+     "w": "nouveau",
+     "t": "baru"
+    },
+    {
+     "w": "pays.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Sekarang, saya sedang belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Sekarang,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "saya'belajar"
+    },
+    {
+     "w": "la",
+     "t": "(kata-sandang)"
+    },
+    {
+     "w": "langue.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Sebentar lagi, saya akan kembali menjalankan profesi saya.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Sebentar-lagi,"
+    },
+    {
+     "w": "je",
+     "t": "saya"
+    },
+    {
+     "w": "reprendrai",
+     "t": "akan-kembali-menjalankan"
+    },
+    {
+     "w": "mon",
+     "t": "profesi-saya"
+    },
+    {
+     "w": "métier.",
+     "t": "(pekerjaan)."
+    }
+   ]
+  }
+ ]
+}

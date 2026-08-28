@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "lt",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Daug metų dirbau savo srityje.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Daug"
+    },
+    {
+     "w": "éven",
+     "t": "metų"
+    },
+    {
+     "w": "át",
+     "t": "per"
+    },
+    {
+     "w": "a",
+     "t": "savo"
+    },
+    {
+     "w": "szakmámban",
+     "t": "srityje-(profesijoje)"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "dirbau."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Paskui persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Paskui"
+    },
+    {
+     "w": "egy",
+     "t": "į-vieną"
+    },
+    {
+     "w": "új",
+     "t": "naują"
+    },
+    {
+     "w": "országba",
+     "t": "šalį"
+    },
+    {
+     "w": "költöztem.",
+     "t": "persikėliau."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Dabar"
+    },
+    {
+     "w": "a",
+     "t": "tą"
+    },
+    {
+     "w": "nyelvet",
+     "t": "kalbą"
+    },
+    {
+     "w": "tanulom.",
+     "t": "mokausi."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Netrukus vėl dirbsiu savo srityje.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Netrukus"
+    },
+    {
+     "w": "újra",
+     "t": "vėl"
+    },
+    {
+     "w": "a",
+     "t": "savo"
+    },
+    {
+     "w": "szakmámban",
+     "t": "srityje-(profesijoje)"
+    },
+    {
+     "w": "fogok",
+     "t": "(būsimojo-laiko-dalis)"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "dirbti."
+    }
+   ]
+  }
+ ]
+}

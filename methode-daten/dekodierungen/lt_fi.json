@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "fi",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Työskentelin monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Monta"
+    },
+    {
+     "w": "metų",
+     "t": "vuotta"
+    },
+    {
+     "w": "dirbau",
+     "t": "työskentelin"
+    },
+    {
+     "w": "savo",
+     "t": "omassa"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "ammatissani."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Myöhemmin saavuin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Myöhemmin"
+    },
+    {
+     "w": "atvykau",
+     "t": "saavuin"
+    },
+    {
+     "w": "į",
+     "t": "(suunta:)"
+    },
+    {
+     "w": "naują",
+     "t": "uuteen"
+    },
+    {
+     "w": "šalį.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Nyt"
+    },
+    {
+     "w": "mokausi",
+     "t": "opiskelen"
+    },
+    {
+     "w": "kalbos.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Pian työskentelen jälleen ammatissani.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "Pian"
+    },
+    {
+     "w": "vėl",
+     "t": "jälleen"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "työskentelen"
+    },
+    {
+     "w": "savo",
+     "t": "omassa"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "ammatissani."
+    }
+   ]
+  }
+ ]
+}

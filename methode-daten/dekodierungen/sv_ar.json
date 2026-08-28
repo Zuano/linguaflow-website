@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "ar",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "لقد عملت لسنوات عديدة في مهنتي.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "أنا"
+    },
+    {
+     "w": "har",
+     "t": "لديّ (فعل مساعد)"
+    },
+    {
+     "w": "arbetat",
+     "t": "عملتُ"
+    },
+    {
+     "w": "många",
+     "t": "عديدة"
+    },
+    {
+     "w": "år",
+     "t": "سنوات"
+    },
+    {
+     "w": "inom",
+     "t": "في-نطاق"
+    },
+    {
+     "w": "mitt",
+     "t": "مهنتي-ملكي"
+    },
+    {
+     "w": "yrke.",
+     "t": "مهنة."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "ثم"
+    },
+    {
+     "w": "flyttade",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "jag",
+     "t": "أنا"
+    },
+    {
+     "w": "till",
+     "t": "إلى"
+    },
+    {
+     "w": "ett",
+     "t": "(أداة-تنكير)"
+    },
+    {
+     "w": "nytt",
+     "t": "جديد"
+    },
+    {
+     "w": "land.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "الآن"
+    },
+    {
+     "w": "lär",
+     "t": "أتعلّم"
+    },
+    {
+     "w": "jag",
+     "t": "أنا"
+    },
+    {
+     "w": "mig",
+     "t": "نفسي"
+    },
+    {
+     "w": "språket.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "قريباً سأبدأ العمل في مهنتي من جديد.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "قريباً"
+    },
+    {
+     "w": "ska",
+     "t": "سوف (فعل مساعد)"
+    },
+    {
+     "w": "jag",
+     "t": "أنا"
+    },
+    {
+     "w": "börja",
+     "t": "أبدأ"
+    },
+    {
+     "w": "arbeta",
+     "t": "العمل"
+    },
+    {
+     "w": "inom",
+     "t": "في-نطاق"
+    },
+    {
+     "w": "mitt",
+     "t": "مهنتي-ملكي"
+    },
+    {
+     "w": "yrke",
+     "t": "مهنة"
+    },
+    {
+     "w": "igen.",
+     "t": "مرة-أخرى."
+    }
+   ]
+  }
+ ]
+}

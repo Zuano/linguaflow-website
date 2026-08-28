@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "sl",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Mnogo let sem delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "jaz",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "mnogo",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "let",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "sem-delal",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "v",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "svoji",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "stroki.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Potem sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "potem",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "jaz",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "sem-prišel",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "v",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "novo",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "državo.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "zdaj",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "jaz",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "se-učim",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "jezika.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Kmalu bom spet začel delati v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "kmalu",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "jaz",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "spet",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "bom-začel",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "delati",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "v",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "svoji",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "stroki.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

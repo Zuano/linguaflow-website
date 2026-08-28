@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "de",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Ich habe meinen Beruf viele Jahre lang ausgeübt.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Ich'habe"
+    },
+    {
+     "w": "exercé",
+     "t": "ausgeübt"
+    },
+    {
+     "w": "mon",
+     "t": "meinen"
+    },
+    {
+     "w": "métier",
+     "t": "Beruf"
+    },
+    {
+     "w": "pendant",
+     "t": "während"
+    },
+    {
+     "w": "de",
+     "t": "von"
+    },
+    {
+     "w": "nombreuses",
+     "t": "zahlreichen"
+    },
+    {
+     "w": "années.",
+     "t": "Jahren."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Dann kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Dann"
+    },
+    {
+     "w": "je",
+     "t": "ich"
+    },
+    {
+     "w": "suis",
+     "t": "bin"
+    },
+    {
+     "w": "arrivé",
+     "t": "angekommen"
+    },
+    {
+     "w": "dans",
+     "t": "in"
+    },
+    {
+     "w": "un",
+     "t": "ein"
+    },
+    {
+     "w": "nouveau",
+     "t": "neues"
+    },
+    {
+     "w": "pays.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Jetzt,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "ich'lerne"
+    },
+    {
+     "w": "la",
+     "t": "die"
+    },
+    {
+     "w": "langue.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Bald werde ich meinen Beruf wieder aufnehmen.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Bald,"
+    },
+    {
+     "w": "je",
+     "t": "ich"
+    },
+    {
+     "w": "reprendrai",
+     "t": "werde-wieder-aufnehmen"
+    },
+    {
+     "w": "mon",
+     "t": "meinen"
+    },
+    {
+     "w": "métier.",
+     "t": "Beruf."
+    }
+   ]
+  }
+ ]
+}

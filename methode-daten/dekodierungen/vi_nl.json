@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "nl",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Ik heb vele jaren in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "ik"
+    },
+    {
+     "w": "đã",
+     "t": "(verleden-tijd)"
+    },
+    {
+     "w": "làm",
+     "t": "doen"
+    },
+    {
+     "w": "việc",
+     "t": "werk"
+    },
+    {
+     "w": "trong",
+     "t": "in"
+    },
+    {
+     "w": "ngành",
+     "t": "sector"
+    },
+    {
+     "w": "nghề",
+     "t": "beroep"
+    },
+    {
+     "w": "của",
+     "t": "van"
+    },
+    {
+     "w": "mình",
+     "t": "mezelf"
+    },
+    {
+     "w": "nhiều",
+     "t": "veel"
+    },
+    {
+     "w": "năm.",
+     "t": "jaren."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Daarna kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "na"
+    },
+    {
+     "w": "đó,",
+     "t": "dat,"
+    },
+    {
+     "w": "tôi",
+     "t": "ik"
+    },
+    {
+     "w": "đến",
+     "t": "kwam-naar"
+    },
+    {
+     "w": "một",
+     "t": "een"
+    },
+    {
+     "w": "đất",
+     "t": "land"
+    },
+    {
+     "w": "nước",
+     "t": "(deel-van-'land')"
+    },
+    {
+     "w": "mới.",
+     "t": "nieuw."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Op dit moment leer ik hier de taal.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "op-dit"
+    },
+    {
+     "w": "tại,",
+     "t": "moment,"
+    },
+    {
+     "w": "tôi",
+     "t": "ik"
+    },
+    {
+     "w": "đang",
+     "t": "(bezig-met)"
+    },
+    {
+     "w": "học",
+     "t": "leren"
+    },
+    {
+     "w": "ngôn",
+     "t": "taal"
+    },
+    {
+     "w": "ngữ",
+     "t": "(deel-van-'taal')"
+    },
+    {
+     "w": "ở",
+     "t": "in"
+    },
+    {
+     "w": "đây.",
+     "t": "hier."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Binnenkort zal ik verder werken in mijn vakgebied.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "bijna"
+    },
+    {
+     "w": "tới,",
+     "t": "aankomend,"
+    },
+    {
+     "w": "tôi",
+     "t": "ik"
+    },
+    {
+     "w": "sẽ",
+     "t": "(toekomst)"
+    },
+    {
+     "w": "tiếp",
+     "t": "door-"
+    },
+    {
+     "w": "tục",
+     "t": "gaan"
+    },
+    {
+     "w": "làm",
+     "t": "doen"
+    },
+    {
+     "w": "việc",
+     "t": "werk"
+    },
+    {
+     "w": "trong",
+     "t": "in"
+    },
+    {
+     "w": "ngành",
+     "t": "sector"
+    },
+    {
+     "w": "nghề",
+     "t": "beroep"
+    },
+    {
+     "w": "của",
+     "t": "van"
+    },
+    {
+     "w": "mình.",
+     "t": "mezelf."
+    }
+   ]
+  }
+ ]
+}

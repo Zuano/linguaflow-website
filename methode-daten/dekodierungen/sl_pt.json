@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "pt",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Trabalhei muitos anos na minha profissão.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Longos"
+    },
+    {
+     "w": "leta",
+     "t": "anos"
+    },
+    {
+     "w": "sem",
+     "t": "(eu)-tinha"
+    },
+    {
+     "w": "delal",
+     "t": "trabalhado"
+    },
+    {
+     "w": "v",
+     "t": "na"
+    },
+    {
+     "w": "svojem",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profissão."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Depois vim para um novo país.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Depois"
+    },
+    {
+     "w": "sem",
+     "t": "(eu)-tinha"
+    },
+    {
+     "w": "prišel",
+     "t": "vindo"
+    },
+    {
+     "w": "v",
+     "t": "para"
+    },
+    {
+     "w": "novo",
+     "t": "novo"
+    },
+    {
+     "w": "državo.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Agora estou a aprender a língua.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Agora"
+    },
+    {
+     "w": "se",
+     "t": "(refl.)"
+    },
+    {
+     "w": "učim",
+     "t": "aprendo"
+    },
+    {
+     "w": "jezika.",
+     "t": "a-língua."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Em breve voltarei a trabalhar na minha profissão.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Em-breve"
+    },
+    {
+     "w": "bom",
+     "t": "(eu)-vou"
+    },
+    {
+     "w": "spet",
+     "t": "outra-vez"
+    },
+    {
+     "w": "delal",
+     "t": "trabalhar"
+    },
+    {
+     "w": "v",
+     "t": "na"
+    },
+    {
+     "w": "svojem",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profissão."
+    }
+   ]
+  }
+ ]
+}

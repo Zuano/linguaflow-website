@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "ja",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "私は長年、自分の専門職で働いていました。",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "私は"
+    },
+    {
+     "w": "worked",
+     "t": "働いていた"
+    },
+    {
+     "w": "in",
+     "t": "〜で"
+    },
+    {
+     "w": "my",
+     "t": "私の"
+    },
+    {
+     "w": "profession",
+     "t": "専門職"
+    },
+    {
+     "w": "for",
+     "t": "〜の間"
+    },
+    {
+     "w": "many",
+     "t": "多くの"
+    },
+    {
+     "w": "years.",
+     "t": "年々。"
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "それから私は新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "それから"
+    },
+    {
+     "w": "I",
+     "t": "私は"
+    },
+    {
+     "w": "moved",
+     "t": "引っ越した"
+    },
+    {
+     "w": "to",
+     "t": "〜へ"
+    },
+    {
+     "w": "a",
+     "t": "一つの"
+    },
+    {
+     "w": "new",
+     "t": "新しい"
+    },
+    {
+     "w": "country.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "今、私はその言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "今"
+    },
+    {
+     "w": "I'm",
+     "t": "私は'〜している"
+    },
+    {
+     "w": "learning",
+     "t": "学んで"
+    },
+    {
+     "w": "the",
+     "t": "その"
+    },
+    {
+     "w": "language.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "もうすぐ、私は再び自分の専門職で働くことになります。",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "I'll",
+     "t": "私は'〜だろう"
+    },
+    {
+     "w": "be",
+     "t": "〜になって(いる)"
+    },
+    {
+     "w": "working",
+     "t": "働いて"
+    },
+    {
+     "w": "in",
+     "t": "〜で"
+    },
+    {
+     "w": "my",
+     "t": "私の"
+    },
+    {
+     "w": "profession",
+     "t": "専門職"
+    },
+    {
+     "w": "again.",
+     "t": "再び。"
+    }
+   ]
+  }
+ ]
+}

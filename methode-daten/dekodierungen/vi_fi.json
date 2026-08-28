@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "fi",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Olen työskennellyt omalla alallani monta vuotta.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "minä"
+    },
+    {
+     "w": "đã",
+     "t": "(mennyt aika)"
+    },
+    {
+     "w": "làm",
+     "t": "tehnyt"
+    },
+    {
+     "w": "việc",
+     "t": "työtä"
+    },
+    {
+     "w": "trong",
+     "t": "-ssa"
+    },
+    {
+     "w": "ngành",
+     "t": "alalla"
+    },
+    {
+     "w": "nghề",
+     "t": "ammatti"
+    },
+    {
+     "w": "của",
+     "t": "omalla"
+    },
+    {
+     "w": "mình",
+     "t": "itselläni"
+    },
+    {
+     "w": "nhiều",
+     "t": "monta"
+    },
+    {
+     "w": "năm.",
+     "t": "vuotta."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Sen jälkeen tulin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "jälkeen"
+    },
+    {
+     "w": "đó,",
+     "t": "sen,"
+    },
+    {
+     "w": "tôi",
+     "t": "minä"
+    },
+    {
+     "w": "đến",
+     "t": "tulin"
+    },
+    {
+     "w": "một",
+     "t": "yhteen"
+    },
+    {
+     "w": "đất",
+     "t": "maa"
+    },
+    {
+     "w": "nước",
+     "t": "maahan"
+    },
+    {
+     "w": "mới.",
+     "t": "uuteen."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Tällä hetkellä opiskelen kieltä täällä.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "tällä"
+    },
+    {
+     "w": "tại,",
+     "t": "hetkellä,"
+    },
+    {
+     "w": "tôi",
+     "t": "minä"
+    },
+    {
+     "w": "đang",
+     "t": "parhaillaan"
+    },
+    {
+     "w": "học",
+     "t": "opiskelen"
+    },
+    {
+     "w": "ngôn",
+     "t": "kieli"
+    },
+    {
+     "w": "ngữ",
+     "t": "kieltä"
+    },
+    {
+     "w": "ở",
+     "t": "-ssa"
+    },
+    {
+     "w": "đây.",
+     "t": "täällä."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Lähitulevaisuudessa jatkan työskentelyä omalla alallani.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "pian"
+    },
+    {
+     "w": "tới,",
+     "t": "tulevaisuudessa,"
+    },
+    {
+     "w": "tôi",
+     "t": "minä"
+    },
+    {
+     "w": "sẽ",
+     "t": "tulen"
+    },
+    {
+     "w": "tiếp",
+     "t": "jatkamaan"
+    },
+    {
+     "w": "tục",
+     "t": "(jatkuvasti)"
+    },
+    {
+     "w": "làm",
+     "t": "tekemään"
+    },
+    {
+     "w": "việc",
+     "t": "työtä"
+    },
+    {
+     "w": "trong",
+     "t": "-ssa"
+    },
+    {
+     "w": "ngành",
+     "t": "alalla"
+    },
+    {
+     "w": "nghề",
+     "t": "ammatti"
+    },
+    {
+     "w": "của",
+     "t": "omalla"
+    },
+    {
+     "w": "mình.",
+     "t": "itselläni."
+    }
+   ]
+  }
+ ]
+}

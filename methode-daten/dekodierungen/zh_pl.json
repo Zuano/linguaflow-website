@@ -1,0 +1,182 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "pl",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Pracowałem przez wiele lat w swojej dziedzinie zawodowej.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "ja",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "w-(miejscu)",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "swój-własny",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "zawód",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "dziedzina",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "pracować",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(już-dokonane)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "wiele",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "lat.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Później przybyłem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "później,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "ja",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "przybyć",
+     "r": "láidào"
+    },
+    {
+     "w": "了",
+     "t": "(już-dokonane)",
+     "r": "le"
+    },
+    {
+     "w": "一片",
+     "t": "(jeden-kawałek)",
+     "r": "yī piàn"
+    },
+    {
+     "w": "新的",
+     "t": "nowy",
+     "r": "xīn de"
+    },
+    {
+     "w": "土地。",
+     "t": "ziemia.",
+     "r": "tǔdì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Teraz uczę się języka lokalnego.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "teraz,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "ja",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "(właśnie-teraz)",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "uczyć-się",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "lokalny",
+     "r": "dāngdì de"
+    },
+    {
+     "w": "语言。",
+     "t": "język.",
+     "r": "yǔyán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Wkrótce powrócę do pracy w swojej dziedzinie zawodowej.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "wkrótce,",
+     "r": "hěnkuài,"
+    },
+    {
+     "w": "我",
+     "t": "ja",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(będzie-przyszłość)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "powrócić",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "swój-własny",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "zawód",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "dziedzina",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "praca.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

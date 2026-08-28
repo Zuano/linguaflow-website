@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "sk",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Dlhé roky som pracoval vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "Pracoval",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "som",
+     "r": "sŭm"
+    },
+    {
+     "w": "дълги",
+     "t": "dlhé",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "roky",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "vo",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "svojej",
+     "r": "mojata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesii.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Potom",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "som-prišiel",
+     "r": "doydokh"
+    },
+    {
+     "w": "в",
+     "t": "do",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "novej",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "krajiny.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Teraz",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "učím-sa",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "jazyk.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Skoro budem znova pracovať v svojej profesii.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Skoro",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "znova",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "budem",
+     "r": "shche"
+    },
+    {
+     "w": "работя",
+     "t": "pracovať",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "v",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "svojej",
+     "r": "mojata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesii.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

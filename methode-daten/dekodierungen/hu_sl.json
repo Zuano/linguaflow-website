@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "sl",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Mnogo let sem delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Mnogo"
+    },
+    {
+     "w": "éven",
+     "t": "let"
+    },
+    {
+     "w": "át",
+     "t": "skozi"
+    },
+    {
+     "w": "a",
+     "t": "v"
+    },
+    {
+     "w": "szakmámban",
+     "t": "stroki-svoji"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "sem-delal."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Nato"
+    },
+    {
+     "w": "egy",
+     "t": "eno"
+    },
+    {
+     "w": "új",
+     "t": "novo"
+    },
+    {
+     "w": "országba",
+     "t": "v-državo"
+    },
+    {
+     "w": "költöztem.",
+     "t": "sem-se-preselil."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Zdaj"
+    },
+    {
+     "w": "a",
+     "t": "(ta)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "jezik"
+    },
+    {
+     "w": "tanulom.",
+     "t": "se-učim."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Kmalu bom spet delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Kmalu"
+    },
+    {
+     "w": "újra",
+     "t": "spet"
+    },
+    {
+     "w": "a",
+     "t": "v"
+    },
+    {
+     "w": "szakmámban",
+     "t": "stroki-svoji"
+    },
+    {
+     "w": "fogok",
+     "t": "bom"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "delal."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "ja",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "私は長年、自分の仕事に従事してきました。",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "私'は(行った)"
+    },
+    {
+     "w": "exercé",
+     "t": "従事した"
+    },
+    {
+     "w": "mon",
+     "t": "私の"
+    },
+    {
+     "w": "métier",
+     "t": "仕事を"
+    },
+    {
+     "w": "pendant",
+     "t": "間"
+    },
+    {
+     "w": "de",
+     "t": "の"
+    },
+    {
+     "w": "nombreuses",
+     "t": "多くの"
+    },
+    {
+     "w": "années.",
+     "t": "年々。"
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "それから私は新しい国に到着しました。",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "それから"
+    },
+    {
+     "w": "je",
+     "t": "私は"
+    },
+    {
+     "w": "suis",
+     "t": "(です)"
+    },
+    {
+     "w": "arrivé",
+     "t": "到着した"
+    },
+    {
+     "w": "dans",
+     "t": "に"
+    },
+    {
+     "w": "un",
+     "t": "一つの"
+    },
+    {
+     "w": "nouveau",
+     "t": "新しい"
+    },
+    {
+     "w": "pays.",
+     "t": "国。"
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "今、私は言葉を学んでいます。",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "今、"
+    },
+    {
+     "w": "j'apprends",
+     "t": "私'は学んでいる"
+    },
+    {
+     "w": "la",
+     "t": "その"
+    },
+    {
+     "w": "langue.",
+     "t": "言葉を。"
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "もうすぐ、私は自分の仕事に再び戻ります。",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "もうすぐ、"
+    },
+    {
+     "w": "je",
+     "t": "私は"
+    },
+    {
+     "w": "reprendrai",
+     "t": "再開するだろう"
+    },
+    {
+     "w": "mon",
+     "t": "私の"
+    },
+    {
+     "w": "métier.",
+     "t": "仕事を。"
+    }
+   ]
+  }
+ ]
+}

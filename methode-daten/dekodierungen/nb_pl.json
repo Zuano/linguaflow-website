@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "pl",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Pracowałem wiele lat w mojej dziedzinie.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ja"
+    },
+    {
+     "w": "har",
+     "t": "mam (czasownik pomocniczy)"
+    },
+    {
+     "w": "jobbet",
+     "t": "pracowane"
+    },
+    {
+     "w": "i",
+     "t": "w"
+    },
+    {
+     "w": "mange",
+     "t": "wiele"
+    },
+    {
+     "w": "år",
+     "t": "lat"
+    },
+    {
+     "w": "innen",
+     "t": "w-zakresie"
+    },
+    {
+     "w": "mitt",
+     "t": "mojej"
+    },
+    {
+     "w": "fagområde.",
+     "t": "dziedziny-zawodowej."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Potem"
+    },
+    {
+     "w": "flyttet",
+     "t": "przeprowadziłem-się"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "til",
+     "t": "do"
+    },
+    {
+     "w": "et",
+     "t": "jednego"
+    },
+    {
+     "w": "nytt",
+     "t": "nowego"
+    },
+    {
+     "w": "land.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Teraz"
+    },
+    {
+     "w": "lærer",
+     "t": "uczę-się"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "språket.",
+     "t": "języka-(tego)."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Wkrótce znowu będę pracować w mojej dziedzinie.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "skal",
+     "t": "będę"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "jobbe",
+     "t": "pracować"
+    },
+    {
+     "w": "innen",
+     "t": "w-zakresie"
+    },
+    {
+     "w": "mitt",
+     "t": "mojej"
+    },
+    {
+     "w": "fagområde",
+     "t": "dziedziny-zawodowej"
+    },
+    {
+     "w": "igjen.",
+     "t": "znowu."
+    }
+   ]
+  }
+ ]
+}

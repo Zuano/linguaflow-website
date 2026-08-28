@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "nl",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Ik heb vele jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "ik-werkte",
+     "r": "avadti"
+    },
+    {
+     "w": "שנים",
+     "t": "jaren",
+     "r": "shanim"
+    },
+    {
+     "w": "רבות",
+     "t": "vele",
+     "r": "rabot"
+    },
+    {
+     "w": "במקצוע",
+     "t": "in-het-vak",
+     "r": "be-miktsoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "van-mij.",
+     "r": "sheli."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Daarna kwam ik aan in een nieuw land.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "na",
+     "r": "le'achar"
+    },
+    {
+     "w": "מכן",
+     "t": "dat",
+     "r": "mikhen"
+    },
+    {
+     "w": "הגעתי",
+     "t": "ik-arriveerde",
+     "r": "higati"
+    },
+    {
+     "w": "למדינה",
+     "t": "naar-een-land",
+     "r": "le-medina"
+    },
+    {
+     "w": "חדשה.",
+     "t": "nieuw.",
+     "r": "chadasha."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "nu",
+     "r": "ka'et"
+    },
+    {
+     "w": "אני",
+     "t": "ik",
+     "r": "ani"
+    },
+    {
+     "w": "לומד",
+     "t": "leer",
+     "r": "lomed"
+    },
+    {
+     "w": "את",
+     "t": "(lijdend-voorwerp)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "de-taal.",
+     "r": "ha-safa."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Binnenkort zal ik weer in mijn vak gaan werken.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "binnenkort",
+     "r": "be-karov"
+    },
+    {
+     "w": "אחזור",
+     "t": "ik-zal-terugkeren",
+     "r": "echzor"
+    },
+    {
+     "w": "לעבוד",
+     "t": "om-te-werken",
+     "r": "la'avod"
+    },
+    {
+     "w": "במקצוע",
+     "t": "in-het-vak",
+     "r": "be-miktsoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "van-mij.",
+     "r": "sheli."
+    }
+   ]
+  }
+ ]
+}

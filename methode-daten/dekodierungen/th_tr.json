@@ -1,0 +1,232 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "tr",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Yıllar boyunca kendi meslek alanımda çalıştım.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "ben",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "çalış-",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "içinde",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "şube",
+     "r": "sakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "meslek",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "ait-(possessive marker)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "ben-in",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(aspect: starting)",
+     "r": "maa"
+    },
+    {
+     "w": "หลายปี",
+     "t": "çok-yıl",
+     "r": "laai-pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "(aspect: completed)",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Bundan sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "sonra",
+     "r": "lang"
+    },
+    {
+     "w": "จาก",
+     "t": "(preposition)",
+     "r": "chak"
+    },
+    {
+     "w": "นั้น",
+     "t": "o",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "ben",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "taşın-",
+     "r": "yaai"
+    },
+    {
+     "w": "ไป",
+     "t": "(direction marker)",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "kal-",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "ülke",
+     "r": "prathes"
+    },
+    {
+     "w": "ใหม่",
+     "t": "yeni",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Şu anda dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "şu-an",
+     "r": "ton-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "ben",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(progressive aspect)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "öğren-",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "dil",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(progressive aspect)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Ve yakında meslek alanımda yeniden çalışmaya geri döneceğim.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "ve",
+     "r": "ae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "çabuk-çabuk",
+     "r": "reo-reo"
+    },
+    {
+     "w": "นี้",
+     "t": "bu",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "ben",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(future marker)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "geri-dön-",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(direction marker)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "çalış-",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "içinde",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "şube",
+     "r": "sakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "meslek",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "ait-(possessive marker)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "ben-in",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "tekrar",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "(noun classifier: occasion)",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

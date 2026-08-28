@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "bg",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Работих в моята област в продължение на много години.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Аз"
+    },
+    {
+     "w": "telah",
+     "t": "вече"
+    },
+    {
+     "w": "bekerja",
+     "t": "работил"
+    },
+    {
+     "w": "di",
+     "t": "в"
+    },
+    {
+     "w": "bidang",
+     "t": "областта"
+    },
+    {
+     "w": "saya",
+     "t": "моята"
+    },
+    {
+     "w": "selama",
+     "t": "през"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "много-години."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "После се преместих в нова страна.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "После"
+    },
+    {
+     "w": "saya",
+     "t": "аз"
+    },
+    {
+     "w": "pindah",
+     "t": "се-преместих"
+    },
+    {
+     "w": "ke",
+     "t": "в"
+    },
+    {
+     "w": "negara",
+     "t": "страна"
+    },
+    {
+     "w": "baru.",
+     "t": "нова."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Сега"
+    },
+    {
+     "w": "saya",
+     "t": "аз"
+    },
+    {
+     "w": "sedang",
+     "t": "в-момента"
+    },
+    {
+     "w": "belajar",
+     "t": "уча"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "езика-му."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Съвсем скоро отново ще работя в моята област.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Скоро"
+    },
+    {
+     "w": "lagi",
+     "t": "пак"
+    },
+    {
+     "w": "saya",
+     "t": "аз"
+    },
+    {
+     "w": "akan",
+     "t": "ще"
+    },
+    {
+     "w": "kembali",
+     "t": "отново"
+    },
+    {
+     "w": "bekerja",
+     "t": "работя"
+    },
+    {
+     "w": "di",
+     "t": "в"
+    },
+    {
+     "w": "bidang",
+     "t": "областта"
+    },
+    {
+     "w": "saya.",
+     "t": "моята."
+    }
+   ]
+  }
+ ]
+}

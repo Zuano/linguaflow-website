@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "ro",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Am lucrat mulți ani în specialitatea mea.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "eu",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "mulți",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "ani",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "am-lucrat",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "în",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "a-mea-proprie",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "specialitate.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "apoi",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "am-venit",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "în",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "nouă",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "țară.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "acum",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "învăț",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "limba.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "În curând voi începe din nou să lucrez în specialitatea mea.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "în-curând",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "din-nou",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "voi-începe",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "să-lucrez",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "în",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "a-mea-proprie",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "specialitate.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

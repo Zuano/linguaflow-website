@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "sk",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Pracoval som vo svojej profesii mnoho rokov.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "(zdôrazňuje minulosť)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "pracoval som",
+     "r": "'amiltu"
+    },
+    {
+     "w": "في",
+     "t": "v",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mojej profesii",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "po roky",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "mnohé.",
+     "r": "'adīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "potom",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "presťahoval som sa",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "do",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "krajiny",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "novej.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "A teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "a'teraz",
+     "r": "wal-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "učím sa",
+     "r": "ata'allamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "jazyk.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "A čoskoro sa vrátim k práci vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "a'vrátim-sa",
+     "r": "wa-sa'a'ūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "čoskoro",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "k",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "práci",
+     "r": "al-'amal"
+    },
+    {
+     "w": "في",
+     "t": "v",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "mojej profesii.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

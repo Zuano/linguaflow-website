@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "vi",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Tôi đã làm việc nhiều năm trong ngành nghề của mình.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Tôi"
+    },
+    {
+     "w": "har",
+     "t": "đã"
+    },
+    {
+     "w": "arbetat",
+     "t": "làm-việc"
+    },
+    {
+     "w": "många",
+     "t": "nhiều"
+    },
+    {
+     "w": "år",
+     "t": "năm"
+    },
+    {
+     "w": "inom",
+     "t": "trong"
+    },
+    {
+     "w": "mitt",
+     "t": "của-tôi"
+    },
+    {
+     "w": "yrke.",
+     "t": "ngành-nghề."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "flyttade",
+     "t": "đã-chuyển"
+    },
+    {
+     "w": "jag",
+     "t": "tôi"
+    },
+    {
+     "w": "till",
+     "t": "đến"
+    },
+    {
+     "w": "ett",
+     "t": "một"
+    },
+    {
+     "w": "nytt",
+     "t": "mới"
+    },
+    {
+     "w": "land.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "lär",
+     "t": "học"
+    },
+    {
+     "w": "jag",
+     "t": "tôi"
+    },
+    {
+     "w": "mig",
+     "t": "(bản-thân-tôi)"
+    },
+    {
+     "w": "språket.",
+     "t": "ngôn-ngữ-đó."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Sắp tới tôi sẽ bắt đầu làm việc trong ngành nghề của mình trở lại.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Sắp-tới"
+    },
+    {
+     "w": "ska",
+     "t": "sẽ"
+    },
+    {
+     "w": "jag",
+     "t": "tôi"
+    },
+    {
+     "w": "börja",
+     "t": "bắt-đầu"
+    },
+    {
+     "w": "arbeta",
+     "t": "làm-việc"
+    },
+    {
+     "w": "inom",
+     "t": "trong"
+    },
+    {
+     "w": "mitt",
+     "t": "của-tôi"
+    },
+    {
+     "w": "yrke",
+     "t": "ngành-nghề"
+    },
+    {
+     "w": "igen.",
+     "t": "lại."
+    }
+   ]
+  }
+ ]
+}

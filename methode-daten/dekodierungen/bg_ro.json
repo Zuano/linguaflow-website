@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "ro",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Am muncit mulți ani în profesia mea.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "muncit",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "am",
+     "r": "săm"
+    },
+    {
+     "w": "дълги",
+     "t": "lungi",
+     "r": "dălgi"
+    },
+    {
+     "w": "години",
+     "t": "ani",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "în",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "a-mea",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesie.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "apoi",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "am-venit",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "în",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "nouă",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "țară.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Acum studiez limba.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "acum",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "studiez",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "limba.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "În scurt timp voi lucra din nou în profesia mea.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "în-scurt-timp",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "din-nou",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "voi",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "lucra",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "în",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "a-mea",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesie.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

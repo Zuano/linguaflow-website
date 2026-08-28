@@ -1,0 +1,182 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "hu",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Már sok éve dolgozom a saját szakterületemen.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "én",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "(-ban/-ben)",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "saját",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "szakterület",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "terület",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "dolgozni",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(múlt)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "sok",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "év.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Később egy új földre érkeztem.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "később,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "én",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "érkezni",
+     "r": "lái dào"
+    },
+    {
+     "w": "了",
+     "t": "(múlt)",
+     "r": "le"
+    },
+    {
+     "w": "一片",
+     "t": "egy-(terület)",
+     "r": "yī piàn"
+    },
+    {
+     "w": "新的",
+     "t": "új",
+     "r": "xīn de"
+    },
+    {
+     "w": "土地。",
+     "t": "föld.",
+     "r": "tǔdì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Jelenleg a helyi nyelvet tanulom.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "jelenleg,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "én",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "(folyamatban)",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "tanulni",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "helyi",
+     "r": "dāngdì de"
+    },
+    {
+     "w": "语言。",
+     "t": "nyelv.",
+     "r": "yǔyán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Hamarosan visszatérek a szakterületemre dolgozni.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "hamarosan,",
+     "r": "hěnkuài,"
+    },
+    {
+     "w": "我",
+     "t": "én",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(jövő)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "visszatérni",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "saját",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "szakterület",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "terület",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "dolgozni.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

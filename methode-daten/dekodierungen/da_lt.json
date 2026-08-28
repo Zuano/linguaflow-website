@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "lt",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Aš dirbau savo profesijoje daug metų.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Aš"
+    },
+    {
+     "w": "har",
+     "t": "esu"
+    },
+    {
+     "w": "arbejdet",
+     "t": "dirbęs"
+    },
+    {
+     "w": "i",
+     "t": "savo"
+    },
+    {
+     "w": "mit",
+     "t": "savo"
+    },
+    {
+     "w": "fag",
+     "t": "profesijoje"
+    },
+    {
+     "w": "i",
+     "t": "per"
+    },
+    {
+     "w": "mange",
+     "t": "daug"
+    },
+    {
+     "w": "år.",
+     "t": "metų."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Tada aš persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Tada"
+    },
+    {
+     "w": "flyttede",
+     "t": "persikėliau"
+    },
+    {
+     "w": "jeg",
+     "t": "aš"
+    },
+    {
+     "w": "til",
+     "t": "į"
+    },
+    {
+     "w": "et",
+     "t": "vieną"
+    },
+    {
+     "w": "nyt",
+     "t": "naują"
+    },
+    {
+     "w": "land.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Dabar"
+    },
+    {
+     "w": "lærer",
+     "t": "mokausi"
+    },
+    {
+     "w": "jeg",
+     "t": "aš"
+    },
+    {
+     "w": "sproget.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Netrukus aš vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Netrukus"
+    },
+    {
+     "w": "skal",
+     "t": "turėsiu"
+    },
+    {
+     "w": "jeg",
+     "t": "aš"
+    },
+    {
+     "w": "arbejde",
+     "t": "dirbti"
+    },
+    {
+     "w": "i",
+     "t": "savo"
+    },
+    {
+     "w": "mit",
+     "t": "savo"
+    },
+    {
+     "w": "fag",
+     "t": "profesijoje"
+    },
+    {
+     "w": "igen.",
+     "t": "vėl."
+    }
+   ]
+  }
+ ]
+}

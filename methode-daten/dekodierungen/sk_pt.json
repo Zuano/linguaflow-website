@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "pt",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Trabalhei muitos anos na minha área.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Na"
+    },
+    {
+     "w": "mojom",
+     "t": "minha"
+    },
+    {
+     "w": "odbore",
+     "t": "área"
+    },
+    {
+     "w": "som",
+     "t": "(eu)-tenho"
+    },
+    {
+     "w": "pracoval",
+     "t": "trabalhado"
+    },
+    {
+     "w": "mnoho",
+     "t": "muitos"
+    },
+    {
+     "w": "rokov.",
+     "t": "anos."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Depois vim para um novo país.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Depois"
+    },
+    {
+     "w": "som",
+     "t": "(eu)-tenho"
+    },
+    {
+     "w": "prišiel",
+     "t": "vindo"
+    },
+    {
+     "w": "do",
+     "t": "para"
+    },
+    {
+     "w": "novej",
+     "t": "novo"
+    },
+    {
+     "w": "krajiny.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Agora estou a aprender a língua.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Agora"
+    },
+    {
+     "w": "sa",
+     "t": "(reflexivo)"
+    },
+    {
+     "w": "učím",
+     "t": "aprendo"
+    },
+    {
+     "w": "jazyk.",
+     "t": "língua."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Em breve voltarei a trabalhar na minha área.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Em-breve"
+    },
+    {
+     "w": "budem",
+     "t": "vou"
+    },
+    {
+     "w": "opäť",
+     "t": "novamente"
+    },
+    {
+     "w": "pracovať",
+     "t": "trabalhar"
+    },
+    {
+     "w": "vo",
+     "t": "na"
+    },
+    {
+     "w": "svojom",
+     "t": "minha"
+    },
+    {
+     "w": "odbore.",
+     "t": "área."
+    }
+   ]
+  }
+ ]
+}

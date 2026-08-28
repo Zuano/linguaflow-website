@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "tr",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Mesleğimde uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "çalıştım",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "için",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "birçok",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "yıl",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "içinde",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "mesleğim",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "benim.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Ardından, yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "sonra",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "devamında,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "geldim",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "-e",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "bir",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "yeni",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "ülke.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "şimdi",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "öğreniyorum",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "-i",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "dil.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Yakında mesleğimde yeniden çalışacağım.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "yakında",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "(gelecek-zaman-eki)",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "yeniden-çalışacağım",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "içinde",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "mesleğim",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "benim.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "de",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Habe"
+    },
+    {
+     "w": "lucrat",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "mulți",
+     "t": "viele"
+    },
+    {
+     "w": "ani",
+     "t": "Jahre"
+    },
+    {
+     "w": "în",
+     "t": "in"
+    },
+    {
+     "w": "meseria",
+     "t": "dem-Beruf"
+    },
+    {
+     "w": "mea.",
+     "t": "meinem."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Dann bin ich in ein neues Land gezogen.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Dann"
+    },
+    {
+     "w": "m-am",
+     "t": "mich'habe"
+    },
+    {
+     "w": "mutat",
+     "t": "gezogen"
+    },
+    {
+     "w": "într-o",
+     "t": "in'ein"
+    },
+    {
+     "w": "țară",
+     "t": "Land"
+    },
+    {
+     "w": "nouă.",
+     "t": "neues."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Jetzt"
+    },
+    {
+     "w": "învăț",
+     "t": "lerne"
+    },
+    {
+     "w": "limba.",
+     "t": "die-Sprache."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "In"
+    },
+    {
+     "w": "curând",
+     "t": "Kürze (bald)"
+    },
+    {
+     "w": "voi",
+     "t": "werde-ich"
+    },
+    {
+     "w": "lucra",
+     "t": "arbeiten"
+    },
+    {
+     "w": "din",
+     "t": "von"
+    },
+    {
+     "w": "nou",
+     "t": "neuem (wieder)"
+    },
+    {
+     "w": "în",
+     "t": "in"
+    },
+    {
+     "w": "meseria",
+     "t": "dem-Beruf"
+    },
+    {
+     "w": "mea.",
+     "t": "meinem."
+    }
+   ]
+  }
+ ]
+}

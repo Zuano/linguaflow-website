@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "de",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Ich habe viele Jahre lang in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ich",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "viele",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "Jahre",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "habe'gearbeitet",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "in (gemäß)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "meinem-eigenen",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "Beruf.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Dann kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Dann",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "ich",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "bin'angekommen",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "in",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "neues",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "Land.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Jetzt",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "ich",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "lerne",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "die-Sprache.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Bald werde ich wieder anfangen, in meinem Beruf zu arbeiten.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Bald",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "ich",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "wieder",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "werde'anfangen",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "zu-arbeiten",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "in (gemäß)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "meinem-eigenen",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "Beruf.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "nl",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Ik heb jaren in mijn beroepsveld gewerkt.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "ik",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "werk",
+     "r": "tham-ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "tak",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "beroeps-",
+     "r": "aa-chii-phop"
+    },
+    {
+     "w": "ของ",
+     "t": "van",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "ik",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(ervaring)",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "veel",
+     "r": "laai"
+    },
+    {
+     "w": "ปี",
+     "t": "jaar",
+     "r": "pii"
+    },
+    {
+     "w": "แล้ว",
+     "t": "al",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Daarna ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "หลังจาก",
+     "t": "na",
+     "r": "lang-jaak"
+    },
+    {
+     "w": "นั้น",
+     "t": "dat",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "ik",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "verhuisd",
+     "r": "yaai"
+    },
+    {
+     "w": "ไป",
+     "t": "naar-toe",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "wonen",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "land",
+     "r": "pra-theed"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nieuw",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Op dit moment ben ik een taal aan het leren.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "op-dit-moment",
+     "r": "ton-nii"
+    },
+    {
+     "w": "ผม",
+     "t": "ik",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "aan-het-(werkwoord)",
+     "r": "gam-lang"
+    },
+    {
+     "w": "เรียน",
+     "t": "leren",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "taal",
+     "r": "phaa-saa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(voortdurend)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "En binnenkort zal ik weer in mijn beroepsveld gaan werken.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "en",
+     "r": "lae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "snel-snel",
+     "r": "reo-reo"
+    },
+    {
+     "w": "นี้",
+     "t": "dit",
+     "r": "nii"
+    },
+    {
+     "w": "ผม",
+     "t": "ik",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "zal",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "terug",
+     "r": "glab"
+    },
+    {
+     "w": "มา",
+     "t": "komen",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "werken",
+     "r": "tham-ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "tak",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "beroeps-",
+     "r": "aa-chii-phop"
+    },
+    {
+     "w": "ของ",
+     "t": "van",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "ik",
+     "r": "phom"
+    },
+    {
+     "w": "อีกครั้ง",
+     "t": "nog-een-keer",
+     "r": "ik-khrang"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "ru",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Я много лет работал в своей профессиональной области.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Я"
+    },
+    {
+     "w": "har",
+     "t": "имею (вспом. глагол)"
+    },
+    {
+     "w": "jobbet",
+     "t": "работал"
+    },
+    {
+     "w": "i",
+     "t": "в"
+    },
+    {
+     "w": "mange",
+     "t": "много"
+    },
+    {
+     "w": "år",
+     "t": "лет"
+    },
+    {
+     "w": "innen",
+     "t": "в-рамках"
+    },
+    {
+     "w": "mitt",
+     "t": "своей"
+    },
+    {
+     "w": "fagområde.",
+     "t": "профессиональной-области."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Потом я переехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Потом"
+    },
+    {
+     "w": "flyttet",
+     "t": "переехал"
+    },
+    {
+     "w": "jeg",
+     "t": "я"
+    },
+    {
+     "w": "til",
+     "t": "в"
+    },
+    {
+     "w": "et",
+     "t": "одну"
+    },
+    {
+     "w": "nytt",
+     "t": "новую"
+    },
+    {
+     "w": "land.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Сейчас я учу язык.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Сейчас"
+    },
+    {
+     "w": "lærer",
+     "t": "учу"
+    },
+    {
+     "w": "jeg",
+     "t": "я"
+    },
+    {
+     "w": "språket.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Скоро я снова буду работать в своей профессиональной области.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Скоро"
+    },
+    {
+     "w": "skal",
+     "t": "буду (собираюсь)"
+    },
+    {
+     "w": "jeg",
+     "t": "я"
+    },
+    {
+     "w": "jobbe",
+     "t": "работать"
+    },
+    {
+     "w": "innen",
+     "t": "в-рамках"
+    },
+    {
+     "w": "mitt",
+     "t": "своей"
+    },
+    {
+     "w": "fagområde",
+     "t": "профессиональной-области"
+    },
+    {
+     "w": "igjen.",
+     "t": "снова."
+    }
+   ]
+  }
+ ]
+}

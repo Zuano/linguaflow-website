@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "el",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Δούλευα στον τομέα μου για χρόνια.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "εγώ"
+    },
+    {
+     "w": "telah",
+     "t": "έχω-(ήδη)"
+    },
+    {
+     "w": "bekerja",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "di",
+     "t": "στον"
+    },
+    {
+     "w": "bidang",
+     "t": "τομέα"
+    },
+    {
+     "w": "saya",
+     "t": "μου"
+    },
+    {
+     "w": "selama",
+     "t": "για-διάστημα"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "πολλά-χρόνια."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Έπειτα μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "έπειτα"
+    },
+    {
+     "w": "saya",
+     "t": "εγώ"
+    },
+    {
+     "w": "pindah",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "ke",
+     "t": "σε"
+    },
+    {
+     "w": "negara",
+     "t": "χώρα"
+    },
+    {
+     "w": "baru.",
+     "t": "νέα."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "τώρα"
+    },
+    {
+     "w": "saya",
+     "t": "εγώ"
+    },
+    {
+     "w": "sedang",
+     "t": "αυτή-τη-στιγμή"
+    },
+    {
+     "w": "belajar",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "τη-γλώσσα-(της)."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Σε λίγο καιρό θα ξαναδουλέψω στον τομέα μου.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "λίγο"
+    },
+    {
+     "w": "lagi",
+     "t": "ακόμα (σε λίγο καιρό)"
+    },
+    {
+     "w": "saya",
+     "t": "εγώ"
+    },
+    {
+     "w": "akan",
+     "t": "θα"
+    },
+    {
+     "w": "kembali",
+     "t": "ξανά (επιστρέψω)"
+    },
+    {
+     "w": "bekerja",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "di",
+     "t": "στον"
+    },
+    {
+     "w": "bidang",
+     "t": "τομέα"
+    },
+    {
+     "w": "saya.",
+     "t": "μου."
+    }
+   ]
+  }
+ ]
+}

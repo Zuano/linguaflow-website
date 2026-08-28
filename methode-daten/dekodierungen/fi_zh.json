@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "zh",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "我在我的专业领域已经工作了很多年。",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "我-已经"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "工作过"
+    },
+    {
+     "w": "alallani",
+     "t": "在我的-领域"
+    },
+    {
+     "w": "monta",
+     "t": "许多"
+    },
+    {
+     "w": "vuotta.",
+     "t": "年。"
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "然后我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "然后"
+    },
+    {
+     "w": "muutin",
+     "t": "我-搬家了"
+    },
+    {
+     "w": "uuteen",
+     "t": "新的"
+    },
+    {
+     "w": "maahan.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "现在我在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "现在"
+    },
+    {
+     "w": "opiskelen",
+     "t": "我-学习"
+    },
+    {
+     "w": "kieltä.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "很快我打算继续在我的专业领域工作。",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "很快"
+    },
+    {
+     "w": "aion",
+     "t": "我-打算"
+    },
+    {
+     "w": "jatkaa",
+     "t": "继续"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "工作"
+    },
+    {
+     "w": "alallani.",
+     "t": "在我的-领域。"
+    }
+   ]
+  }
+ ]
+}

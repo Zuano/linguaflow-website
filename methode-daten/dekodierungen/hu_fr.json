@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "fr",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Pendant de nombreuses années, j'ai travaillé dans mon métier.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Beaucoup-de"
+    },
+    {
+     "w": "éven",
+     "t": "années (sur)"
+    },
+    {
+     "w": "át",
+     "t": "à-travers"
+    },
+    {
+     "w": "a",
+     "t": "le/la"
+    },
+    {
+     "w": "szakmámban",
+     "t": "dans-mon-métier"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "j'ai-travaillé."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Puis j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Puis"
+    },
+    {
+     "w": "egy",
+     "t": "un"
+    },
+    {
+     "w": "új",
+     "t": "nouveau"
+    },
+    {
+     "w": "országba",
+     "t": "dans-le-pays"
+    },
+    {
+     "w": "költöztem.",
+     "t": "j'ai-déménagé."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Maintenant"
+    },
+    {
+     "w": "a",
+     "t": "la"
+    },
+    {
+     "w": "nyelvet",
+     "t": "langue (objet)"
+    },
+    {
+     "w": "tanulom.",
+     "t": "je-l'apprends."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Bientôt je vais retravailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Bientôt"
+    },
+    {
+     "w": "újra",
+     "t": "à-nouveau"
+    },
+    {
+     "w": "a",
+     "t": "le/la"
+    },
+    {
+     "w": "szakmámban",
+     "t": "dans-mon-métier"
+    },
+    {
+     "w": "fogok",
+     "t": "je-vais"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "travailler."
+    }
+   ]
+  }
+ ]
+}

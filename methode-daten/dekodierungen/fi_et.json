@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "et",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Olen töötanud oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Olen"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "töötanud"
+    },
+    {
+     "w": "alallani",
+     "t": "oma-erialal"
+    },
+    {
+     "w": "monta",
+     "t": "palju"
+    },
+    {
+     "w": "vuotta.",
+     "t": "aastaid."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Siis muutsin uude riiki.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Siis"
+    },
+    {
+     "w": "muutin",
+     "t": "muutsin"
+    },
+    {
+     "w": "uuteen",
+     "t": "uude"
+    },
+    {
+     "w": "maahan.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Nüüd"
+    },
+    {
+     "w": "opiskelen",
+     "t": "õpin"
+    },
+    {
+     "w": "kieltä.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Varsti kavatsen jätkata töötamist oma erialal.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Varsti"
+    },
+    {
+     "w": "aion",
+     "t": "kavatsen"
+    },
+    {
+     "w": "jatkaa",
+     "t": "jätkata"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "töötamist"
+    },
+    {
+     "w": "alallani.",
+     "t": "oma-erialal."
+    }
+   ]
+  }
+ ]
+}

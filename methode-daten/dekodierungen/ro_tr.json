@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "tr",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Mesleğimde birçok yıl çalıştım.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "(geçmiş-zaman-yardımcısı)"
+    },
+    {
+     "w": "lucrat",
+     "t": "çalıştım"
+    },
+    {
+     "w": "mulți",
+     "t": "birçok"
+    },
+    {
+     "w": "ani",
+     "t": "yıl"
+    },
+    {
+     "w": "în",
+     "t": "içinde"
+    },
+    {
+     "w": "meseria",
+     "t": "mesleğinde"
+    },
+    {
+     "w": "mea.",
+     "t": "benim."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "sonra"
+    },
+    {
+     "w": "m-am",
+     "t": "kendim'taşındım"
+    },
+    {
+     "w": "mutat",
+     "t": "taşındım"
+    },
+    {
+     "w": "într-o",
+     "t": "bir-içine"
+    },
+    {
+     "w": "țară",
+     "t": "ülke"
+    },
+    {
+     "w": "nouă.",
+     "t": "yeni."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "şimdi"
+    },
+    {
+     "w": "învăț",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "limba.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Yakında yeniden mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "içinde"
+    },
+    {
+     "w": "curând",
+     "t": "yakında"
+    },
+    {
+     "w": "voi",
+     "t": "(gelecek-zaman-yardımcısı)"
+    },
+    {
+     "w": "lucra",
+     "t": "çalışmak"
+    },
+    {
+     "w": "din",
+     "t": "-den"
+    },
+    {
+     "w": "nou",
+     "t": "yeni (yeniden)"
+    },
+    {
+     "w": "în",
+     "t": "içinde"
+    },
+    {
+     "w": "meseria",
+     "t": "mesleğinde"
+    },
+    {
+     "w": "mea.",
+     "t": "benim."
+    }
+   ]
+  }
+ ]
+}

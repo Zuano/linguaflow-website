@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "cs",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Pracoval jsem mnoho let ve svém oboru.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "pracoval-jsem",
+     "r": "avadti"
+    },
+    {
+     "w": "שנים",
+     "t": "léta",
+     "r": "shanim"
+    },
+    {
+     "w": "רבות",
+     "t": "mnohé",
+     "r": "rabot"
+    },
+    {
+     "w": "במקצוע",
+     "t": "v-oboru",
+     "r": "bemiktzoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mém.",
+     "r": "sheli."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Poté jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "po",
+     "r": "le'achar"
+    },
+    {
+     "w": "מכן",
+     "t": "tom",
+     "r": "miken"
+    },
+    {
+     "w": "הגעתי",
+     "t": "přijel-jsem",
+     "r": "higati"
+    },
+    {
+     "w": "למדינה",
+     "t": "do-země",
+     "r": "lemedina"
+    },
+    {
+     "w": "חדשה.",
+     "t": "nové.",
+     "r": "chadasha."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Nyní se učím jazyk.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "nyní",
+     "r": "ka'et"
+    },
+    {
+     "w": "אני",
+     "t": "já",
+     "r": "ani"
+    },
+    {
+     "w": "לומד",
+     "t": "učím-se",
+     "r": "lomed"
+    },
+    {
+     "w": "את",
+     "t": "(předmět)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "jazyk.",
+     "r": "hasafa."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Brzy se vrátím k práci ve svém oboru.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "brzy",
+     "r": "bekarov"
+    },
+    {
+     "w": "אחזור",
+     "t": "vrátím-se",
+     "r": "echzor"
+    },
+    {
+     "w": "לעבוד",
+     "t": "pracovat",
+     "r": "la'avod"
+    },
+    {
+     "w": "במקצוע",
+     "t": "v-oboru",
+     "r": "bemiktzoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mém.",
+     "r": "sheli."
+    }
+   ]
+  }
+ ]
+}

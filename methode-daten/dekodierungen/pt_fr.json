@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "fr",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "J'ai travaillé de nombreuses années dans ma profession.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "J'ai-travaillé"
+    },
+    {
+     "w": "muitos",
+     "t": "de-nombreuses"
+    },
+    {
+     "w": "anos",
+     "t": "années"
+    },
+    {
+     "w": "na",
+     "t": "dans-la"
+    },
+    {
+     "w": "minha",
+     "t": "ma"
+    },
+    {
+     "w": "profissão.",
+     "t": "profession."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Ensuite, je suis venu(e) dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Ensuite,"
+    },
+    {
+     "w": "vim",
+     "t": "je-suis-venu(e)"
+    },
+    {
+     "w": "para",
+     "t": "dans"
+    },
+    {
+     "w": "um",
+     "t": "un"
+    },
+    {
+     "w": "novo",
+     "t": "nouveau"
+    },
+    {
+     "w": "país.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Maintenant"
+    },
+    {
+     "w": "estou",
+     "t": "je-suis"
+    },
+    {
+     "w": "a",
+     "t": "en-train-de"
+    },
+    {
+     "w": "aprender",
+     "t": "apprendre"
+    },
+    {
+     "w": "a",
+     "t": "la"
+    },
+    {
+     "w": "língua.",
+     "t": "langue."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Bientôt, je recommencerai à travailler dans ma profession.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "(Wortteil)"
+    },
+    {
+     "w": "breve,",
+     "t": "bientôt,"
+    },
+    {
+     "w": "voltarei",
+     "t": "je-recommencerai"
+    },
+    {
+     "w": "a",
+     "t": "à"
+    },
+    {
+     "w": "trabalhar",
+     "t": "travailler"
+    },
+    {
+     "w": "na",
+     "t": "dans-la"
+    },
+    {
+     "w": "minha",
+     "t": "ma"
+    },
+    {
+     "w": "profissão.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

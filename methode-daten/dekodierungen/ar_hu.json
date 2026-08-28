@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "hu",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "már-valóban",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "dolgoztam",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "-ban/-ben",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "a-szakmámban",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "éveken-át",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "sok.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Aztán egy új országba költöztem.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "aztán",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "átköltöztem",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "-ba/-be",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "országba",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "új.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "És most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "és-most",
+     "r": "wa-al-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "tanulom",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "a-nyelvet.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "És nemsokára visszatérek dolgozni a szakmámba.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "és-visszatérek-majd",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "hamarosan",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "-hoz/-hez",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "a-munkához",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "-ban/-ben",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "a-szakmámban.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

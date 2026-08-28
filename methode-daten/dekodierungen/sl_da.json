@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "da",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "I mange år arbejdede jeg i mit fag.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Mange"
+    },
+    {
+     "w": "leta",
+     "t": "år"
+    },
+    {
+     "w": "sem",
+     "t": "jeg-har"
+    },
+    {
+     "w": "delal",
+     "t": "arbejdet"
+    },
+    {
+     "w": "v",
+     "t": "i"
+    },
+    {
+     "w": "svojem",
+     "t": "mit-eget"
+    },
+    {
+     "w": "poklicu.",
+     "t": "fag."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Så kom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Så"
+    },
+    {
+     "w": "sem",
+     "t": "jeg-er"
+    },
+    {
+     "w": "prišel",
+     "t": "kommet"
+    },
+    {
+     "w": "v",
+     "t": "til"
+    },
+    {
+     "w": "novo",
+     "t": "nyt"
+    },
+    {
+     "w": "državo.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Nu"
+    },
+    {
+     "w": "se",
+     "t": "(sig)"
+    },
+    {
+     "w": "učim",
+     "t": "lærer-jeg"
+    },
+    {
+     "w": "jezika.",
+     "t": "sproget."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Snart vil jeg igen arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Snart"
+    },
+    {
+     "w": "bom",
+     "t": "vil-jeg"
+    },
+    {
+     "w": "spet",
+     "t": "igen"
+    },
+    {
+     "w": "delal",
+     "t": "arbejde"
+    },
+    {
+     "w": "v",
+     "t": "i"
+    },
+    {
+     "w": "svojem",
+     "t": "mit-eget"
+    },
+    {
+     "w": "poklicu.",
+     "t": "fag."
+    }
+   ]
+  }
+ ]
+}

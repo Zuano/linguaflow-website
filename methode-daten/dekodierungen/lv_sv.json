@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "sv",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Jag har arbetat många år inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Jag-har"
+    },
+    {
+     "w": "daudzus",
+     "t": "många"
+    },
+    {
+     "w": "gadus",
+     "t": "år"
+    },
+    {
+     "w": "strādājis",
+     "t": "arbetat"
+    },
+    {
+     "w": "savā",
+     "t": "i-sitt-(eget)"
+    },
+    {
+     "w": "profesijā.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Sedan flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "Efter"
+    },
+    {
+     "w": "tam",
+     "t": "det"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "flyttade-jag"
+    },
+    {
+     "w": "uz",
+     "t": "till"
+    },
+    {
+     "w": "jaunu",
+     "t": "nytt"
+    },
+    {
+     "w": "valsti.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Nu"
+    },
+    {
+     "w": "apgūstu",
+     "t": "lär-jag-mig"
+    },
+    {
+     "w": "valodu.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Snart ska jag återigen arbeta inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "Snart"
+    },
+    {
+     "w": "atkal",
+     "t": "igen"
+    },
+    {
+     "w": "strādāšu",
+     "t": "ska-jag-arbeta"
+    },
+    {
+     "w": "savā",
+     "t": "i-sitt-(eget)"
+    },
+    {
+     "w": "profesijā.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

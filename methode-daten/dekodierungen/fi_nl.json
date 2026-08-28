@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "nl",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Ik heb vele jaren in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Ik-heb"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "gewerkt"
+    },
+    {
+     "w": "alallani",
+     "t": "in-mijn-vakgebied"
+    },
+    {
+     "w": "monta",
+     "t": "vele"
+    },
+    {
+     "w": "vuotta.",
+     "t": "jaren."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Toen ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Toen"
+    },
+    {
+     "w": "muutin",
+     "t": "verhuisde-ik"
+    },
+    {
+     "w": "uuteen",
+     "t": "naar-een-nieuw"
+    },
+    {
+     "w": "maahan.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Nu"
+    },
+    {
+     "w": "opiskelen",
+     "t": "studeer-ik"
+    },
+    {
+     "w": "kieltä.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Binnenkort ben ik van plan om verder te werken in mijn vakgebied.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "aion",
+     "t": "ben-ik-van-plan"
+    },
+    {
+     "w": "jatkaa",
+     "t": "verder-te-gaan"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "met-werken"
+    },
+    {
+     "w": "alallani.",
+     "t": "in-mijn-vakgebied."
+    }
+   ]
+  }
+ ]
+}

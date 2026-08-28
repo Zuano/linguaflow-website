@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "hu",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "A szakmámban sok évig dolgoztam.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mojom",
+     "t": "az-én"
+    },
+    {
+     "w": "odbore",
+     "t": "szakmámban"
+    },
+    {
+     "w": "som",
+     "t": "(múlt-idő-segédszó)"
+    },
+    {
+     "w": "pracoval",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "mnoho",
+     "t": "sok"
+    },
+    {
+     "w": "rokov.",
+     "t": "évig."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Aztán egy új országba jöttem.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "aztán"
+    },
+    {
+     "w": "som",
+     "t": "(múlt-idő-segédszó)"
+    },
+    {
+     "w": "prišiel",
+     "t": "jöttem"
+    },
+    {
+     "w": "do",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "novej",
+     "t": "új"
+    },
+    {
+     "w": "krajiny.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Most nyelvet tanulok.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "most"
+    },
+    {
+     "w": "sa",
+     "t": "magamat"
+    },
+    {
+     "w": "učím",
+     "t": "tanítom (tanulom)"
+    },
+    {
+     "w": "jazyk.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "hamarosan"
+    },
+    {
+     "w": "budem",
+     "t": "fogok"
+    },
+    {
+     "w": "opäť",
+     "t": "újra"
+    },
+    {
+     "w": "pracovať",
+     "t": "dolgozni"
+    },
+    {
+     "w": "vo",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "svojom",
+     "t": "a-saját"
+    },
+    {
+     "w": "odbore.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

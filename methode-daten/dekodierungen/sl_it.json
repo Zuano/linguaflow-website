@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "it",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Ho lavorato per lunghi anni nella mia professione.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Lunghi"
+    },
+    {
+     "w": "leta",
+     "t": "anni"
+    },
+    {
+     "w": "sem",
+     "t": "ho"
+    },
+    {
+     "w": "delal",
+     "t": "lavorato"
+    },
+    {
+     "w": "v",
+     "t": "nella"
+    },
+    {
+     "w": "svojem",
+     "t": "mia (propria)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "professione."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Poi sono arrivato in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Poi"
+    },
+    {
+     "w": "sem",
+     "t": "sono"
+    },
+    {
+     "w": "prišel",
+     "t": "arrivato"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "novo",
+     "t": "nuovo"
+    },
+    {
+     "w": "državo.",
+     "t": "paese."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Ora"
+    },
+    {
+     "w": "se",
+     "t": "(riflessivo)"
+    },
+    {
+     "w": "učim",
+     "t": "imparo"
+    },
+    {
+     "w": "jezika.",
+     "t": "la-lingua."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Presto lavorerò di nuovo nella mia professione.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Presto"
+    },
+    {
+     "w": "bom",
+     "t": "lavorerò (ausiliare futuro)"
+    },
+    {
+     "w": "spet",
+     "t": "di-nuovo"
+    },
+    {
+     "w": "delal",
+     "t": "lavorato"
+    },
+    {
+     "w": "v",
+     "t": "nella"
+    },
+    {
+     "w": "svojem",
+     "t": "mia (propria)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "professione."
+    }
+   ]
+  }
+ ]
+}

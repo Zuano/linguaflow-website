@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "ro",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Am lucrat mulți ani în profesia mea.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "am"
+    },
+    {
+     "w": "trabajado",
+     "t": "lucrat"
+    },
+    {
+     "w": "muchos",
+     "t": "mulți"
+    },
+    {
+     "w": "años",
+     "t": "ani"
+    },
+    {
+     "w": "en",
+     "t": "în"
+    },
+    {
+     "w": "mi",
+     "t": "a-mea"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesie."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Apoi m-am mutat în altă țară.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "apoi"
+    },
+    {
+     "w": "me",
+     "t": "m(ă)"
+    },
+    {
+     "w": "mudé",
+     "t": "am-mutat"
+    },
+    {
+     "w": "a",
+     "t": "în"
+    },
+    {
+     "w": "otro",
+     "t": "altă"
+    },
+    {
+     "w": "país.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "acum"
+    },
+    {
+     "w": "estoy",
+     "t": "sunt"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "învățând"
+    },
+    {
+     "w": "el",
+     "t": "(-)"
+    },
+    {
+     "w": "idioma.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "În curând voi reveni să lucrez în profesia mea.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "în-curând"
+    },
+    {
+     "w": "volveré",
+     "t": "voi-reveni"
+    },
+    {
+     "w": "a",
+     "t": "să"
+    },
+    {
+     "w": "trabajar",
+     "t": "lucrez"
+    },
+    {
+     "w": "en",
+     "t": "în"
+    },
+    {
+     "w": "mi",
+     "t": "a-mea"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesie."
+    }
+   ]
+  }
+ ]
+}

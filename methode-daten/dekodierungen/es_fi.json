@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "fi",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Olen työskennellyt monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Olen"
+    },
+    {
+     "w": "trabajado",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "muchos",
+     "t": "monta"
+    },
+    {
+     "w": "años",
+     "t": "vuotta"
+    },
+    {
+     "w": "en",
+     "t": "-ssa"
+    },
+    {
+     "w": "mi",
+     "t": "minun"
+    },
+    {
+     "w": "profesión.",
+     "t": "ammatissani."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Sitten muutin toiseen maahan.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Sitten"
+    },
+    {
+     "w": "me",
+     "t": "itseni-(minä)"
+    },
+    {
+     "w": "mudé",
+     "t": "muutin"
+    },
+    {
+     "w": "a",
+     "t": "-an"
+    },
+    {
+     "w": "otro",
+     "t": "toiseen"
+    },
+    {
+     "w": "país.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Nyt opettelen kieltä.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Nyt"
+    },
+    {
+     "w": "estoy",
+     "t": "olen"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "oppimassa"
+    },
+    {
+     "w": "el",
+     "t": "sitä"
+    },
+    {
+     "w": "idioma.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Pian palaan taas työskentelemään ammatissani.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Pian"
+    },
+    {
+     "w": "volveré",
+     "t": "palaan"
+    },
+    {
+     "w": "a",
+     "t": "(apusana)"
+    },
+    {
+     "w": "trabajar",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "en",
+     "t": "-ssa"
+    },
+    {
+     "w": "mi",
+     "t": "minun"
+    },
+    {
+     "w": "profesión.",
+     "t": "ammatissani."
+    }
+   ]
+  }
+ ]
+}

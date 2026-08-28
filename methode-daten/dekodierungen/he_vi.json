@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "vi",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Tôi đã làm việc nhiều năm trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "tôi-đã-làm-việc",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "những năm",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "nhiều",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "trong nghề",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "của tôi.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Sau đó tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "sau",
+     "r": "le-akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "đó",
+     "r": "mikén"
+    },
+    {
+     "w": "הגעתי",
+     "t": "tôi-đã-đến",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "đến đất nước",
+     "r": "le-medinah"
+    },
+    {
+     "w": "חדשה.",
+     "t": "mới.",
+     "r": "khadashah."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "bây giờ",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "tôi",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "đang học",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(từ-chỉ-tân-ngữ)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "ngôn ngữ.",
+     "r": "ha-safáh."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Sắp tới tôi sẽ quay lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "sắp tới",
+     "r": "be-karóv"
+    },
+    {
+     "w": "אחזור",
+     "t": "tôi-sẽ-quay-lại",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "để làm việc",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "trong nghề",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "của tôi.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

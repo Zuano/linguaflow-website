@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "hu",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Sok éve dolgoztam a saját szakmámban.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Vagyok (vagyis: dolgoztam)"
+    },
+    {
+     "w": "daudzus",
+     "t": "sok"
+    },
+    {
+     "w": "gadus",
+     "t": "évet"
+    },
+    {
+     "w": "strādājis",
+     "t": "dolgozott (én, hímnem)"
+    },
+    {
+     "w": "savā",
+     "t": "a saját"
+    },
+    {
+     "w": "profesijā.",
+     "t": "szakmájában."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Azután egy új országba költöztem.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "után"
+    },
+    {
+     "w": "tam",
+     "t": "az(után)"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "átköltöztem"
+    },
+    {
+     "w": "uz",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "jaunu",
+     "t": "új"
+    },
+    {
+     "w": "valsti.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "most"
+    },
+    {
+     "w": "apgūstu",
+     "t": "tanulom"
+    },
+    {
+     "w": "valodu.",
+     "t": "a nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "hamarosan"
+    },
+    {
+     "w": "atkal",
+     "t": "újra"
+    },
+    {
+     "w": "strādāšu",
+     "t": "dolgozni fogok"
+    },
+    {
+     "w": "savā",
+     "t": "a saját"
+    },
+    {
+     "w": "profesijā.",
+     "t": "szakmájában."
+    }
+   ]
+  }
+ ]
+}

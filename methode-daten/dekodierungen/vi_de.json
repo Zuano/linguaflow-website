@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "de",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Ich habe viele Jahre lang in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Ich"
+    },
+    {
+     "w": "đã",
+     "t": "(Vergangenheit)"
+    },
+    {
+     "w": "làm",
+     "t": "machen"
+    },
+    {
+     "w": "việc",
+     "t": "Arbeit"
+    },
+    {
+     "w": "trong",
+     "t": "in"
+    },
+    {
+     "w": "ngành",
+     "t": "Branche"
+    },
+    {
+     "w": "nghề",
+     "t": "Beruf"
+    },
+    {
+     "w": "của",
+     "t": "von"
+    },
+    {
+     "w": "mình",
+     "t": "mir-selbst"
+    },
+    {
+     "w": "nhiều",
+     "t": "viele"
+    },
+    {
+     "w": "năm.",
+     "t": "Jahre."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Danach kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Nach"
+    },
+    {
+     "w": "đó,",
+     "t": "dem,"
+    },
+    {
+     "w": "tôi",
+     "t": "ich"
+    },
+    {
+     "w": "đến",
+     "t": "kam-an"
+    },
+    {
+     "w": "một",
+     "t": "ein"
+    },
+    {
+     "w": "đất",
+     "t": "Land"
+    },
+    {
+     "w": "nước",
+     "t": "(Wortteil)"
+    },
+    {
+     "w": "mới.",
+     "t": "neues."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Momentan lerne ich hier die Sprache.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Gegenwärtig"
+    },
+    {
+     "w": "tại,",
+     "t": "(Wortteil),"
+    },
+    {
+     "w": "tôi",
+     "t": "ich"
+    },
+    {
+     "w": "đang",
+     "t": "gerade-dabei"
+    },
+    {
+     "w": "học",
+     "t": "lernen"
+    },
+    {
+     "w": "ngôn",
+     "t": "Sprache"
+    },
+    {
+     "w": "ngữ",
+     "t": "(Wortteil)"
+    },
+    {
+     "w": "ở",
+     "t": "an"
+    },
+    {
+     "w": "đây.",
+     "t": "diesem-Ort."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Demnächst werde ich weiterhin in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Bald"
+    },
+    {
+     "w": "tới,",
+     "t": "kommend,"
+    },
+    {
+     "w": "tôi",
+     "t": "ich"
+    },
+    {
+     "w": "sẽ",
+     "t": "werde"
+    },
+    {
+     "w": "tiếp",
+     "t": "weiter"
+    },
+    {
+     "w": "tục",
+     "t": "fort"
+    },
+    {
+     "w": "làm",
+     "t": "machen"
+    },
+    {
+     "w": "việc",
+     "t": "Arbeit"
+    },
+    {
+     "w": "trong",
+     "t": "in"
+    },
+    {
+     "w": "ngành",
+     "t": "Branche"
+    },
+    {
+     "w": "nghề",
+     "t": "Beruf"
+    },
+    {
+     "w": "của",
+     "t": "von"
+    },
+    {
+     "w": "mình.",
+     "t": "mir-selbst."
+    }
+   ]
+  }
+ ]
+}

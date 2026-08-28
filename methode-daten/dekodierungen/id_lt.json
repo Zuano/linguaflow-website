@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "lt",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Aš daugelį metų dirbau savo srityje.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Aš"
+    },
+    {
+     "w": "telah",
+     "t": "jau (praeities žymuo)"
+    },
+    {
+     "w": "bekerja",
+     "t": "dirbau"
+    },
+    {
+     "w": "di",
+     "t": "(esantis) srityje"
+    },
+    {
+     "w": "bidang",
+     "t": "srityje"
+    },
+    {
+     "w": "saya",
+     "t": "savo"
+    },
+    {
+     "w": "selama",
+     "t": "per"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "daugelį-metų."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Tada aš persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Tada"
+    },
+    {
+     "w": "saya",
+     "t": "aš"
+    },
+    {
+     "w": "pindah",
+     "t": "persikėliau"
+    },
+    {
+     "w": "ke",
+     "t": "į"
+    },
+    {
+     "w": "negara",
+     "t": "šalį"
+    },
+    {
+     "w": "baru.",
+     "t": "naują."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Dabar aš mokausi tos kalbos.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Dabar"
+    },
+    {
+     "w": "saya",
+     "t": "aš"
+    },
+    {
+     "w": "sedang",
+     "t": "šiuo-metu"
+    },
+    {
+     "w": "belajar",
+     "t": "mokausi"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "jos-kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Netrukus aš vėl dirbsiu savo srityje.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Trumpai"
+    },
+    {
+     "w": "lagi",
+     "t": "vėl (netrukus)"
+    },
+    {
+     "w": "saya",
+     "t": "aš"
+    },
+    {
+     "w": "akan",
+     "t": "(ateities žymuo)"
+    },
+    {
+     "w": "kembali",
+     "t": "sugrįšiu"
+    },
+    {
+     "w": "bekerja",
+     "t": "dirbti"
+    },
+    {
+     "w": "di",
+     "t": "(esantis) srityje"
+    },
+    {
+     "w": "bidang",
+     "t": "srityje"
+    },
+    {
+     "w": "saya.",
+     "t": "savo."
+    }
+   ]
+  }
+ ]
+}

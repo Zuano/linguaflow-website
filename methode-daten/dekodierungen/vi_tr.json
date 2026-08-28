@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "tr",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Kendi mesleğimde uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Ben"
+    },
+    {
+     "w": "đã",
+     "t": "(geçmiş zaman)"
+    },
+    {
+     "w": "làm",
+     "t": "yaptım"
+    },
+    {
+     "w": "việc",
+     "t": "iş"
+    },
+    {
+     "w": "trong",
+     "t": "içinde"
+    },
+    {
+     "w": "ngành",
+     "t": "alanında"
+    },
+    {
+     "w": "nghề",
+     "t": "meslek"
+    },
+    {
+     "w": "của",
+     "t": "-in"
+    },
+    {
+     "w": "mình",
+     "t": "kendim"
+    },
+    {
+     "w": "nhiều",
+     "t": "çok"
+    },
+    {
+     "w": "năm.",
+     "t": "yıl."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Sonra, yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Sonra"
+    },
+    {
+     "w": "đó,",
+     "t": "o (zaman),"
+    },
+    {
+     "w": "tôi",
+     "t": "ben"
+    },
+    {
+     "w": "đến",
+     "t": "geldim"
+    },
+    {
+     "w": "một",
+     "t": "bir"
+    },
+    {
+     "w": "đất",
+     "t": "toprak"
+    },
+    {
+     "w": "nước",
+     "t": "ülke"
+    },
+    {
+     "w": "mới.",
+     "t": "yeni."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Şu anda, burada dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Şimdiki"
+    },
+    {
+     "w": "tại,",
+     "t": "an,"
+    },
+    {
+     "w": "tôi",
+     "t": "ben"
+    },
+    {
+     "w": "đang",
+     "t": "(şu an yapıyorum)"
+    },
+    {
+     "w": "học",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "ngôn",
+     "t": "dil"
+    },
+    {
+     "w": "ngữ",
+     "t": "(dil kelimesinin devamı)"
+    },
+    {
+     "w": "ở",
+     "t": "-de"
+    },
+    {
+     "w": "đây.",
+     "t": "burada."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Yakında, kendi mesleğimde çalışmaya devam edeceğim.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Yakında"
+    },
+    {
+     "w": "tới,",
+     "t": "gelecekte,"
+    },
+    {
+     "w": "tôi",
+     "t": "ben"
+    },
+    {
+     "w": "sẽ",
+     "t": "(gelecek zaman)"
+    },
+    {
+     "w": "tiếp",
+     "t": "devam"
+    },
+    {
+     "w": "tục",
+     "t": "(devam kelimesinin devamı)"
+    },
+    {
+     "w": "làm",
+     "t": "yapmaya"
+    },
+    {
+     "w": "việc",
+     "t": "iş"
+    },
+    {
+     "w": "trong",
+     "t": "içinde"
+    },
+    {
+     "w": "ngành",
+     "t": "alanında"
+    },
+    {
+     "w": "nghề",
+     "t": "meslek"
+    },
+    {
+     "w": "của",
+     "t": "-in"
+    },
+    {
+     "w": "mình.",
+     "t": "kendim."
+    }
+   ]
+  }
+ ]
+}

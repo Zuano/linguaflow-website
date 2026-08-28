@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "lt",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Aš dirbau daug metų savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Dirbau",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "per",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "daug",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "metų",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "savo",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profesijoje",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mano.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Vėliau atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Po-to",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "tęsinio,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "atvykau",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "į",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "vieną",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "naują",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "šalį.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Dabar",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "mokausi",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "tos",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "kalbos.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Greitai vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Greitai",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "(ateities-dalelė)",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "vėl-dirbsiu",
+     "r": "ksanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "savo",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profesijoje",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mano.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

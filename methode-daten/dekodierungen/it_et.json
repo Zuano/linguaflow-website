@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "et",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Olen"
+    },
+    {
+     "w": "lavorato",
+     "t": "töötanud"
+    },
+    {
+     "w": "per",
+     "t": "jaoks (juba)"
+    },
+    {
+     "w": "molti",
+     "t": "paljud"
+    },
+    {
+     "w": "anni",
+     "t": "aastad"
+    },
+    {
+     "w": "nella",
+     "t": "selles"
+    },
+    {
+     "w": "mia",
+     "t": "minu"
+    },
+    {
+     "w": "professione.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Siis kolisin uude riiki.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Siis"
+    },
+    {
+     "w": "mi",
+     "t": "end"
+    },
+    {
+     "w": "sono",
+     "t": "olen"
+    },
+    {
+     "w": "trasferito",
+     "t": "kolinud"
+    },
+    {
+     "w": "in",
+     "t": "sisse"
+    },
+    {
+     "w": "un",
+     "t": "ühte"
+    },
+    {
+     "w": "nuovo",
+     "t": "uude"
+    },
+    {
+     "w": "Paese.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Praegu õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Praegu"
+    },
+    {
+     "w": "sto",
+     "t": "olen (parasjagu)"
+    },
+    {
+     "w": "imparando",
+     "t": "õppimas"
+    },
+    {
+     "w": "la",
+     "t": "seda"
+    },
+    {
+     "w": "lingua.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Varsti hakkan taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Varsti"
+    },
+    {
+     "w": "tornerò",
+     "t": "naasen"
+    },
+    {
+     "w": "a",
+     "t": "et"
+    },
+    {
+     "w": "lavorare",
+     "t": "töötada"
+    },
+    {
+     "w": "nella",
+     "t": "selles"
+    },
+    {
+     "w": "mia",
+     "t": "minu"
+    },
+    {
+     "w": "professione.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "hu",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Én"
+    },
+    {
+     "w": "har",
+     "t": "vagyok (segédige)"
+    },
+    {
+     "w": "arbejdet",
+     "t": "dolgozott"
+    },
+    {
+     "w": "i",
+     "t": "-ban"
+    },
+    {
+     "w": "mit",
+     "t": "az-én"
+    },
+    {
+     "w": "fag",
+     "t": "szakmám"
+    },
+    {
+     "w": "i",
+     "t": "-ban (idő)"
+    },
+    {
+     "w": "mange",
+     "t": "sok"
+    },
+    {
+     "w": "år.",
+     "t": "évben."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Aztán"
+    },
+    {
+     "w": "flyttede",
+     "t": "költöztem"
+    },
+    {
+     "w": "jeg",
+     "t": "én"
+    },
+    {
+     "w": "til",
+     "t": "-be"
+    },
+    {
+     "w": "et",
+     "t": "egy"
+    },
+    {
+     "w": "nyt",
+     "t": "új"
+    },
+    {
+     "w": "land.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Most"
+    },
+    {
+     "w": "lærer",
+     "t": "tanulom"
+    },
+    {
+     "w": "jeg",
+     "t": "én"
+    },
+    {
+     "w": "sproget.",
+     "t": "a-nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "skal",
+     "t": "fogok"
+    },
+    {
+     "w": "jeg",
+     "t": "én"
+    },
+    {
+     "w": "arbejde",
+     "t": "dolgozni"
+    },
+    {
+     "w": "i",
+     "t": "-ban"
+    },
+    {
+     "w": "mit",
+     "t": "az-én"
+    },
+    {
+     "w": "fag",
+     "t": "szakmám"
+    },
+    {
+     "w": "igen.",
+     "t": "újra."
+    }
+   ]
+  }
+ ]
+}

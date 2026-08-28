@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "cs",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Pracoval jsem mnoho let ve svém oboru.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Jsem-(pomocné-sloveso)"
+    },
+    {
+     "w": "trabajado",
+     "t": "pracoval"
+    },
+    {
+     "w": "muchos",
+     "t": "mnoho"
+    },
+    {
+     "w": "años",
+     "t": "let"
+    },
+    {
+     "w": "en",
+     "t": "v"
+    },
+    {
+     "w": "mi",
+     "t": "mém"
+    },
+    {
+     "w": "profesión.",
+     "t": "oboru."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Poté jsem se přestěhoval do jiné země.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "poté"
+    },
+    {
+     "w": "me",
+     "t": "se"
+    },
+    {
+     "w": "mudé",
+     "t": "přestěhoval-jsem"
+    },
+    {
+     "w": "a",
+     "t": "do"
+    },
+    {
+     "w": "otro",
+     "t": "jiné"
+    },
+    {
+     "w": "país.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "teď"
+    },
+    {
+     "w": "estoy",
+     "t": "jsem-(právě)"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "učící-se"
+    },
+    {
+     "w": "el",
+     "t": "ten"
+    },
+    {
+     "w": "idioma.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Brzy se vrátím k práci ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "brzy"
+    },
+    {
+     "w": "volveré",
+     "t": "vrátím-se"
+    },
+    {
+     "w": "a",
+     "t": "k"
+    },
+    {
+     "w": "trabajar",
+     "t": "pracovat"
+    },
+    {
+     "w": "en",
+     "t": "v"
+    },
+    {
+     "w": "mi",
+     "t": "mém"
+    },
+    {
+     "w": "profesión.",
+     "t": "oboru."
+    }
+   ]
+  }
+ ]
+}

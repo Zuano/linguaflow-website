@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "ko",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "저는 오랫동안 제 직업에서 일했습니다.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "오랜"
+    },
+    {
+     "w": "leta",
+     "t": "세월(동안)"
+    },
+    {
+     "w": "sem",
+     "t": "나는-했다"
+    },
+    {
+     "w": "delal",
+     "t": "일했다"
+    },
+    {
+     "w": "v",
+     "t": "~에서"
+    },
+    {
+     "w": "svojem",
+     "t": "나의"
+    },
+    {
+     "w": "poklicu.",
+     "t": "직업."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "그 후 저는 새로운 나라로 왔습니다.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "그 후"
+    },
+    {
+     "w": "sem",
+     "t": "나는-했다"
+    },
+    {
+     "w": "prišel",
+     "t": "왔다"
+    },
+    {
+     "w": "v",
+     "t": "~로"
+    },
+    {
+     "w": "novo",
+     "t": "새로운"
+    },
+    {
+     "w": "državo.",
+     "t": "나라."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "지금은 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "지금"
+    },
+    {
+     "w": "se",
+     "t": "(재귀-표현)"
+    },
+    {
+     "w": "učim",
+     "t": "배운다"
+    },
+    {
+     "w": "jezika.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "곧 다시 제 직업에서 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "곧"
+    },
+    {
+     "w": "bom",
+     "t": "나는-할-것이다"
+    },
+    {
+     "w": "spet",
+     "t": "다시"
+    },
+    {
+     "w": "delal",
+     "t": "일하다"
+    },
+    {
+     "w": "v",
+     "t": "~에서"
+    },
+    {
+     "w": "svojem",
+     "t": "나의"
+    },
+    {
+     "w": "poklicu.",
+     "t": "직업."
+    }
+   ]
+  }
+ ]
+}

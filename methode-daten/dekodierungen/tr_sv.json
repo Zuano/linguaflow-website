@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "sv",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Jag arbetade i mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "I-mitt-yrke"
+    },
+    {
+     "w": "uzun",
+     "t": "långa"
+    },
+    {
+     "w": "yıllar",
+     "t": "år"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "jag-arbetade."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "Sedan"
+    },
+    {
+     "w": "yeni",
+     "t": "nytt"
+    },
+    {
+     "w": "bir",
+     "t": "ett"
+    },
+    {
+     "w": "ülkeye",
+     "t": "till-land"
+    },
+    {
+     "w": "geldim.",
+     "t": "jag-kom."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "Nu"
+    },
+    {
+     "w": "dili",
+     "t": "språket"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "jag-lär-mig."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Snart kommer jag att börja arbeta i mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "Snart"
+    },
+    {
+     "w": "tekrar",
+     "t": "igen"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "i-mitt-yrke"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "att-arbeta"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "jag-kommer-att-börja."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "hu",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Én"
+    },
+    {
+     "w": "heb",
+     "t": "(segédige a múlt időhöz)"
+    },
+    {
+     "w": "vele",
+     "t": "sok"
+    },
+    {
+     "w": "jaren",
+     "t": "évig"
+    },
+    {
+     "w": "in",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mijn",
+     "t": "az-én"
+    },
+    {
+     "w": "vak",
+     "t": "szakmámban"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "dolgoztam."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Utána egy új országba jöttem.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Utána"
+    },
+    {
+     "w": "ben",
+     "t": "(segédige a múlt időhöz)"
+    },
+    {
+     "w": "ik",
+     "t": "én"
+    },
+    {
+     "w": "naar",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "een",
+     "t": "egy"
+    },
+    {
+     "w": "nieuw",
+     "t": "új"
+    },
+    {
+     "w": "land",
+     "t": "országba"
+    },
+    {
+     "w": "gekomen.",
+     "t": "jöttem."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Most"
+    },
+    {
+     "w": "leer",
+     "t": "tanulom"
+    },
+    {
+     "w": "ik",
+     "t": "én"
+    },
+    {
+     "w": "de",
+     "t": "a"
+    },
+    {
+     "w": "taal.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "ga",
+     "t": "fogok"
+    },
+    {
+     "w": "ik",
+     "t": "én"
+    },
+    {
+     "w": "weer",
+     "t": "újra"
+    },
+    {
+     "w": "in",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mijn",
+     "t": "az-én"
+    },
+    {
+     "w": "vak",
+     "t": "szakmámban"
+    },
+    {
+     "w": "werken.",
+     "t": "dolgozni."
+    }
+   ]
+  }
+ ]
+}

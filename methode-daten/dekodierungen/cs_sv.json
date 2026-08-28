@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "sv",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Jag jobbade i mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "I"
+    },
+    {
+     "w": "svém",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "oboru",
+     "t": "yrke"
+    },
+    {
+     "w": "jsem",
+     "t": "har (jag)"
+    },
+    {
+     "w": "pracoval",
+     "t": "arbetat"
+    },
+    {
+     "w": "mnoho",
+     "t": "många"
+    },
+    {
+     "w": "let.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Sedan flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Sedan"
+    },
+    {
+     "w": "jsem",
+     "t": "har (jag)"
+    },
+    {
+     "w": "se",
+     "t": "sig (reflexiv)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "flyttat"
+    },
+    {
+     "w": "do",
+     "t": "till"
+    },
+    {
+     "w": "nové",
+     "t": "nytt"
+    },
+    {
+     "w": "země.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Nu lär jag mig ett språk.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Nu"
+    },
+    {
+     "w": "se",
+     "t": "mig (reflexiv)"
+    },
+    {
+     "w": "učím",
+     "t": "lär (jag)"
+    },
+    {
+     "w": "jazyk.",
+     "t": "språk."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Snart kommer jag att jobba i mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Snart"
+    },
+    {
+     "w": "budu",
+     "t": "kommer (jag) att"
+    },
+    {
+     "w": "zase",
+     "t": "igen"
+    },
+    {
+     "w": "pracovat",
+     "t": "jobba"
+    },
+    {
+     "w": "ve",
+     "t": "i"
+    },
+    {
+     "w": "svém",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "oboru.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

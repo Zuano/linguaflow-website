@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "es",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Trabajé muchos años en mi profesión.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "En"
+    },
+    {
+     "w": "svém",
+     "t": "mi-propio"
+    },
+    {
+     "w": "oboru",
+     "t": "campo-(profesión)"
+    },
+    {
+     "w": "jsem",
+     "t": "he-(aux.)"
+    },
+    {
+     "w": "pracoval",
+     "t": "trabajado"
+    },
+    {
+     "w": "mnoho",
+     "t": "muchos"
+    },
+    {
+     "w": "let.",
+     "t": "años."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Después me mudé a un país nuevo.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Después"
+    },
+    {
+     "w": "jsem",
+     "t": "he-(aux.)"
+    },
+    {
+     "w": "se",
+     "t": "me-(reflexivo)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "mudado"
+    },
+    {
+     "w": "do",
+     "t": "a"
+    },
+    {
+     "w": "nové",
+     "t": "nuevo"
+    },
+    {
+     "w": "země.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Ahora"
+    },
+    {
+     "w": "se",
+     "t": "me-(reflexivo)"
+    },
+    {
+     "w": "učím",
+     "t": "aprendo"
+    },
+    {
+     "w": "jazyk.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Pronto"
+    },
+    {
+     "w": "budu",
+     "t": "estaré-(futuro)"
+    },
+    {
+     "w": "zase",
+     "t": "de-nuevo"
+    },
+    {
+     "w": "pracovat",
+     "t": "trabajar"
+    },
+    {
+     "w": "ve",
+     "t": "en"
+    },
+    {
+     "w": "svém",
+     "t": "mi-propio"
+    },
+    {
+     "w": "oboru.",
+     "t": "campo-(profesión)."
+    }
+   ]
+  }
+ ]
+}

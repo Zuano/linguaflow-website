@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "et",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "ma-töötasin",
+     "r": "avadti"
+    },
+    {
+     "w": "שנים",
+     "t": "aastaid",
+     "r": "shanim"
+    },
+    {
+     "w": "רבות",
+     "t": "palju",
+     "r": "rabot"
+    },
+    {
+     "w": "במקצוע",
+     "t": "erialal",
+     "r": "be-miktzoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "minu.",
+     "r": "sheli."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Pärast seda jõudsin uude riiki.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "pärast",
+     "r": "le-achar"
+    },
+    {
+     "w": "מכן",
+     "t": "seda",
+     "r": "machen"
+    },
+    {
+     "w": "הגעתי",
+     "t": "ma-jõudsin",
+     "r": "higati"
+    },
+    {
+     "w": "למדינה",
+     "t": "riiki",
+     "r": "le-medina"
+    },
+    {
+     "w": "חדשה.",
+     "t": "uude.",
+     "r": "chadasha."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Praegu õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "praegu",
+     "r": "ka'et"
+    },
+    {
+     "w": "אני",
+     "t": "mina",
+     "r": "ani"
+    },
+    {
+     "w": "לומד",
+     "t": "õpin",
+     "r": "lomed"
+    },
+    {
+     "w": "את",
+     "t": "(sihitise-märkija)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "keelt.",
+     "r": "ha-safa."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Varsti naasen tööle oma erialale.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "varsti",
+     "r": "be-karov"
+    },
+    {
+     "w": "אחזור",
+     "t": "ma-naasen",
+     "r": "echzor"
+    },
+    {
+     "w": "לעבוד",
+     "t": "tööle",
+     "r": "la'avod"
+    },
+    {
+     "w": "במקצוע",
+     "t": "erialale",
+     "r": "be-miktzoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "minu.",
+     "r": "sheli."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "hu",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Sok éven át gyakoroltam a szakmámat.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Én'gyakoroltam (segédige: van)"
+    },
+    {
+     "w": "exercé",
+     "t": "gyakoroltam"
+    },
+    {
+     "w": "mon",
+     "t": "az-én"
+    },
+    {
+     "w": "métier",
+     "t": "szakmámat"
+    },
+    {
+     "w": "pendant",
+     "t": "alatt"
+    },
+    {
+     "w": "de",
+     "t": "(sok)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "számos"
+    },
+    {
+     "w": "années.",
+     "t": "éven-át."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Aztán megérkeztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Aztán"
+    },
+    {
+     "w": "je",
+     "t": "én"
+    },
+    {
+     "w": "suis",
+     "t": "vagyok (segédige)"
+    },
+    {
+     "w": "arrivé",
+     "t": "megérkezett"
+    },
+    {
+     "w": "dans",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "un",
+     "t": "egy"
+    },
+    {
+     "w": "nouveau",
+     "t": "új"
+    },
+    {
+     "w": "pays.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Most,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "én'tanulom"
+    },
+    {
+     "w": "la",
+     "t": "a"
+    },
+    {
+     "w": "langue.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Hamarosan folytatom a szakmámat.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Hamarosan,"
+    },
+    {
+     "w": "je",
+     "t": "én"
+    },
+    {
+     "w": "reprendrai",
+     "t": "újra-elkezdem-majd"
+    },
+    {
+     "w": "mon",
+     "t": "az-én"
+    },
+    {
+     "w": "métier.",
+     "t": "szakmámat."
+    }
+   ]
+  }
+ ]
+}

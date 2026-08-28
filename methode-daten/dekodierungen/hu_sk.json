@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "sk",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Mnoho rokov som pracoval vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Mnoho"
+    },
+    {
+     "w": "éven",
+     "t": "rokov(-mi)"
+    },
+    {
+     "w": "át",
+     "t": "cez"
+    },
+    {
+     "w": "a",
+     "t": "vo"
+    },
+    {
+     "w": "szakmámban",
+     "t": "odbore-mojom"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "pracoval-som."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Potom"
+    },
+    {
+     "w": "egy",
+     "t": "jednej"
+    },
+    {
+     "w": "új",
+     "t": "novej"
+    },
+    {
+     "w": "országba",
+     "t": "krajiny-do"
+    },
+    {
+     "w": "költöztem.",
+     "t": "presťahoval-som-sa."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Teraz"
+    },
+    {
+     "w": "a",
+     "t": "(ten)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "jazyk"
+    },
+    {
+     "w": "tanulom.",
+     "t": "učím-sa-ho."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Čoskoro budem znova pracovať vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Čoskoro"
+    },
+    {
+     "w": "újra",
+     "t": "znova"
+    },
+    {
+     "w": "a",
+     "t": "vo"
+    },
+    {
+     "w": "szakmámban",
+     "t": "odbore-mojom"
+    },
+    {
+     "w": "fogok",
+     "t": "budem"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "pracovať."
+    }
+   ]
+  }
+ ]
+}

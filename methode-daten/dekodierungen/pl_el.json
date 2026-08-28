@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "el",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Για πολλά χρόνια εργαζόμουν στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Για"
+    },
+    {
+     "w": "wiele",
+     "t": "πολλά"
+    },
+    {
+     "w": "lat",
+     "t": "χρόνια"
+    },
+    {
+     "w": "pracowałem",
+     "t": "εργαζόμουν"
+    },
+    {
+     "w": "w",
+     "t": "στο"
+    },
+    {
+     "w": "swoim",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Έπειτα ήρθα σε μια καινούργια χώρα.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "ήρθα"
+    },
+    {
+     "w": "do",
+     "t": "σε"
+    },
+    {
+     "w": "nowego",
+     "t": "καινούργια"
+    },
+    {
+     "w": "kraju.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Τώρα"
+    },
+    {
+     "w": "uczę",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "się",
+     "t": "(εαυτόν-μου)"
+    },
+    {
+     "w": "języka.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "znów",
+     "t": "ξανά"
+    },
+    {
+     "w": "będę",
+     "t": "θα"
+    },
+    {
+     "w": "pracował",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "w",
+     "t": "στο"
+    },
+    {
+     "w": "swoim",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

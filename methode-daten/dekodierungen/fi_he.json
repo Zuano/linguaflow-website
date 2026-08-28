@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "he",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "עבדתי בתחום שלי הרבה שנים.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "אני-נמצא (עזר-להווה-מושלם)"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "עבדתי"
+    },
+    {
+     "w": "alallani",
+     "t": "בתחום-שלי"
+    },
+    {
+     "w": "monta",
+     "t": "הרבה"
+    },
+    {
+     "w": "vuotta.",
+     "t": "שנים."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "אחר כך עברתי לגור בארץ חדשה.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "muutin",
+     "t": "עברתי-לגור"
+    },
+    {
+     "w": "uuteen",
+     "t": "לחדשה"
+    },
+    {
+     "w": "maahan.",
+     "t": "לארץ."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "עכשיו אני לומד שפה.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "עכשיו"
+    },
+    {
+     "w": "opiskelen",
+     "t": "אני-לומד"
+    },
+    {
+     "w": "kieltä.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "בקרוב אני מתכוון להמשיך לעבוד בתחום שלי.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "בקרוב"
+    },
+    {
+     "w": "aion",
+     "t": "אני-מתכוון"
+    },
+    {
+     "w": "jatkaa",
+     "t": "להמשיך"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "לעבוד (עבודה)"
+    },
+    {
+     "w": "alallani.",
+     "t": "בתחום-שלי."
+    }
+   ]
+  }
+ ]
+}

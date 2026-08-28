@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "ro",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Am lucrat în domeniul meu timp de mulți ani.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Eu"
+    },
+    {
+     "w": "telah",
+     "t": "am-deja"
+    },
+    {
+     "w": "bekerja",
+     "t": "lucrat"
+    },
+    {
+     "w": "di",
+     "t": "în"
+    },
+    {
+     "w": "bidang",
+     "t": "domeniul"
+    },
+    {
+     "w": "saya",
+     "t": "meu"
+    },
+    {
+     "w": "selama",
+     "t": "timp-de"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "mulți-ani."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Apoi"
+    },
+    {
+     "w": "saya",
+     "t": "eu"
+    },
+    {
+     "w": "pindah",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "ke",
+     "t": "în"
+    },
+    {
+     "w": "negara",
+     "t": "țara"
+    },
+    {
+     "w": "baru.",
+     "t": "nouă."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Acum"
+    },
+    {
+     "w": "saya",
+     "t": "eu"
+    },
+    {
+     "w": "sedang",
+     "t": "sunt-în-curs-de"
+    },
+    {
+     "w": "belajar",
+     "t": "a-învăța"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "limba-aceasta."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "În curând mă voi întoarce să lucrez în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Curând"
+    },
+    {
+     "w": "lagi",
+     "t": "din-nou"
+    },
+    {
+     "w": "saya",
+     "t": "eu"
+    },
+    {
+     "w": "akan",
+     "t": "voi"
+    },
+    {
+     "w": "kembali",
+     "t": "reveni"
+    },
+    {
+     "w": "bekerja",
+     "t": "să-lucrez"
+    },
+    {
+     "w": "di",
+     "t": "în"
+    },
+    {
+     "w": "bidang",
+     "t": "domeniul"
+    },
+    {
+     "w": "saya.",
+     "t": "meu."
+    }
+   ]
+  }
+ ]
+}

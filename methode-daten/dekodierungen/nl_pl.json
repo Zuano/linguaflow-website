@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "pl",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Pracowałem wiele lat w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Ja"
+    },
+    {
+     "w": "heb",
+     "t": "mam (czasownik pomocniczy - czas przeszły)"
+    },
+    {
+     "w": "vele",
+     "t": "wiele"
+    },
+    {
+     "w": "jaren",
+     "t": "lat"
+    },
+    {
+     "w": "in",
+     "t": "w"
+    },
+    {
+     "w": "mijn",
+     "t": "moim"
+    },
+    {
+     "w": "vak",
+     "t": "zawodzie"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "pracowałem."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Potem"
+    },
+    {
+     "w": "ben",
+     "t": "jestem (czasownik pomocniczy - czas przeszły)"
+    },
+    {
+     "w": "ik",
+     "t": "ja"
+    },
+    {
+     "w": "naar",
+     "t": "do"
+    },
+    {
+     "w": "een",
+     "t": "jednego"
+    },
+    {
+     "w": "nieuw",
+     "t": "nowego"
+    },
+    {
+     "w": "land",
+     "t": "kraju"
+    },
+    {
+     "w": "gekomen.",
+     "t": "przyjechałem."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Teraz"
+    },
+    {
+     "w": "leer",
+     "t": "uczę-się"
+    },
+    {
+     "w": "ik",
+     "t": "ja"
+    },
+    {
+     "w": "de",
+     "t": "tego"
+    },
+    {
+     "w": "taal.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Wkrótce znowu będę pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "ga",
+     "t": "idę (czasownik pomocniczy - przyszłość)"
+    },
+    {
+     "w": "ik",
+     "t": "ja"
+    },
+    {
+     "w": "weer",
+     "t": "znowu"
+    },
+    {
+     "w": "in",
+     "t": "w"
+    },
+    {
+     "w": "mijn",
+     "t": "moim"
+    },
+    {
+     "w": "vak",
+     "t": "zawodzie"
+    },
+    {
+     "w": "werken.",
+     "t": "pracować."
+    }
+   ]
+  }
+ ]
+}

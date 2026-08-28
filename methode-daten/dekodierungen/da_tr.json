@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "tr",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Uzun yıllardır kendi mesleğimde çalışıyorum.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ben"
+    },
+    {
+     "w": "har",
+     "t": "-dım (var yardımcı fiili)"
+    },
+    {
+     "w": "arbejdet",
+     "t": "çalışmış"
+    },
+    {
+     "w": "i",
+     "t": "içinde"
+    },
+    {
+     "w": "mit",
+     "t": "benim"
+    },
+    {
+     "w": "fag",
+     "t": "mesleğim(de)"
+    },
+    {
+     "w": "i",
+     "t": "içinde (süresince)"
+    },
+    {
+     "w": "mange",
+     "t": "birçok"
+    },
+    {
+     "w": "år.",
+     "t": "yıl."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Sonra"
+    },
+    {
+     "w": "flyttede",
+     "t": "taşındı"
+    },
+    {
+     "w": "jeg",
+     "t": "ben"
+    },
+    {
+     "w": "til",
+     "t": "-e"
+    },
+    {
+     "w": "et",
+     "t": "bir"
+    },
+    {
+     "w": "nyt",
+     "t": "yeni"
+    },
+    {
+     "w": "land.",
+     "t": "ülke."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Şimdi"
+    },
+    {
+     "w": "lærer",
+     "t": "öğreniyor"
+    },
+    {
+     "w": "jeg",
+     "t": "ben"
+    },
+    {
+     "w": "sproget.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Yakında yine kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Yakında"
+    },
+    {
+     "w": "skal",
+     "t": "-eceğim (gelecek yardımcı fiili)"
+    },
+    {
+     "w": "jeg",
+     "t": "ben"
+    },
+    {
+     "w": "arbejde",
+     "t": "çalışmak"
+    },
+    {
+     "w": "i",
+     "t": "içinde"
+    },
+    {
+     "w": "mit",
+     "t": "benim"
+    },
+    {
+     "w": "fag",
+     "t": "mesleğim(de)"
+    },
+    {
+     "w": "igen.",
+     "t": "yine."
+    }
+   ]
+  }
+ ]
+}

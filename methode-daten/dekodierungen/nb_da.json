@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "da",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Jeg har arbejdet i mange år inden for mit fagområde.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Jeg"
+    },
+    {
+     "w": "har",
+     "t": "har"
+    },
+    {
+     "w": "jobbet",
+     "t": "arbejdet"
+    },
+    {
+     "w": "i",
+     "t": "i"
+    },
+    {
+     "w": "mange",
+     "t": "mange"
+    },
+    {
+     "w": "år",
+     "t": "år"
+    },
+    {
+     "w": "innen",
+     "t": "inden-for"
+    },
+    {
+     "w": "mitt",
+     "t": "mit"
+    },
+    {
+     "w": "fagområde.",
+     "t": "fagområde."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Så flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Så"
+    },
+    {
+     "w": "flyttet",
+     "t": "flyttede"
+    },
+    {
+     "w": "jeg",
+     "t": "jeg"
+    },
+    {
+     "w": "til",
+     "t": "til"
+    },
+    {
+     "w": "et",
+     "t": "et"
+    },
+    {
+     "w": "nytt",
+     "t": "nyt"
+    },
+    {
+     "w": "land.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Nu"
+    },
+    {
+     "w": "lærer",
+     "t": "lærer"
+    },
+    {
+     "w": "jeg",
+     "t": "jeg"
+    },
+    {
+     "w": "språket.",
+     "t": "sproget."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Snart skal jeg arbejde inden for mit fagområde igen.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Snart"
+    },
+    {
+     "w": "skal",
+     "t": "skal"
+    },
+    {
+     "w": "jeg",
+     "t": "jeg"
+    },
+    {
+     "w": "jobbe",
+     "t": "arbejde"
+    },
+    {
+     "w": "innen",
+     "t": "inden-for"
+    },
+    {
+     "w": "mitt",
+     "t": "mit"
+    },
+    {
+     "w": "fagområde",
+     "t": "fagområde"
+    },
+    {
+     "w": "igjen.",
+     "t": "igen."
+    }
+   ]
+  }
+ ]
+}

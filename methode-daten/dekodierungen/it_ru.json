@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "ru",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Я работал много лет в своей профессии.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Я'имею (вспом. глагол)"
+    },
+    {
+     "w": "lavorato",
+     "t": "работал"
+    },
+    {
+     "w": "per",
+     "t": "на-протяжении"
+    },
+    {
+     "w": "molti",
+     "t": "многих"
+    },
+    {
+     "w": "anni",
+     "t": "лет"
+    },
+    {
+     "w": "nella",
+     "t": "в'этой"
+    },
+    {
+     "w": "mia",
+     "t": "моей"
+    },
+    {
+     "w": "professione.",
+     "t": "профессии."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Потом я переехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Потом"
+    },
+    {
+     "w": "mi",
+     "t": "себя"
+    },
+    {
+     "w": "sono",
+     "t": "я'есть (вспом. глагол)"
+    },
+    {
+     "w": "trasferito",
+     "t": "переехавший"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "un",
+     "t": "одну"
+    },
+    {
+     "w": "nuovo",
+     "t": "новую"
+    },
+    {
+     "w": "Paese.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Сейчас я учу язык.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Сейчас"
+    },
+    {
+     "w": "sto",
+     "t": "я'нахожусь (вспом. глагол)"
+    },
+    {
+     "w": "imparando",
+     "t": "изучающий (в процессе)"
+    },
+    {
+     "w": "la",
+     "t": "этот"
+    },
+    {
+     "w": "lingua.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Скоро я вернусь работать в своей профессии.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Скоро"
+    },
+    {
+     "w": "tornerò",
+     "t": "вернусь"
+    },
+    {
+     "w": "a",
+     "t": "чтобы"
+    },
+    {
+     "w": "lavorare",
+     "t": "работать"
+    },
+    {
+     "w": "nella",
+     "t": "в'этой"
+    },
+    {
+     "w": "mia",
+     "t": "моей"
+    },
+    {
+     "w": "professione.",
+     "t": "профессии."
+    }
+   ]
+  }
+ ]
+}

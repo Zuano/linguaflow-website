@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "nb",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Jeg har jobbet innenfor mitt felt i mange år.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Jeg"
+    },
+    {
+     "w": "telah",
+     "t": "har"
+    },
+    {
+     "w": "bekerja",
+     "t": "jobbet"
+    },
+    {
+     "w": "di",
+     "t": "i"
+    },
+    {
+     "w": "bidang",
+     "t": "felt"
+    },
+    {
+     "w": "saya",
+     "t": "mitt"
+    },
+    {
+     "w": "selama",
+     "t": "i-løpet-av"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "mange-år."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Deretter flyttet jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Deretter"
+    },
+    {
+     "w": "saya",
+     "t": "jeg"
+    },
+    {
+     "w": "pindah",
+     "t": "flyttet"
+    },
+    {
+     "w": "ke",
+     "t": "til"
+    },
+    {
+     "w": "negara",
+     "t": "land"
+    },
+    {
+     "w": "baru.",
+     "t": "nytt."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Nå holder jeg på å lære språket.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Nå"
+    },
+    {
+     "w": "saya",
+     "t": "jeg"
+    },
+    {
+     "w": "sedang",
+     "t": "holder-på-å"
+    },
+    {
+     "w": "belajar",
+     "t": "lære"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Om ikke lenge skal jeg jobbe innenfor mitt felt igjen.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Snart"
+    },
+    {
+     "w": "lagi",
+     "t": "igjen"
+    },
+    {
+     "w": "saya",
+     "t": "jeg"
+    },
+    {
+     "w": "akan",
+     "t": "skal"
+    },
+    {
+     "w": "kembali",
+     "t": "tilbake"
+    },
+    {
+     "w": "bekerja",
+     "t": "jobbe"
+    },
+    {
+     "w": "di",
+     "t": "i"
+    },
+    {
+     "w": "bidang",
+     "t": "felt"
+    },
+    {
+     "w": "saya.",
+     "t": "mitt."
+    }
+   ]
+  }
+ ]
+}

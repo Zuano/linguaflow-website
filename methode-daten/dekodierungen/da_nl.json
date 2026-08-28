@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "nl",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Ik heb vele jaren in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ik"
+    },
+    {
+     "w": "har",
+     "t": "heb"
+    },
+    {
+     "w": "arbejdet",
+     "t": "gewerkt"
+    },
+    {
+     "w": "i",
+     "t": "in"
+    },
+    {
+     "w": "mit",
+     "t": "mijn"
+    },
+    {
+     "w": "fag",
+     "t": "vakgebied"
+    },
+    {
+     "w": "i",
+     "t": "in"
+    },
+    {
+     "w": "mange",
+     "t": "vele"
+    },
+    {
+     "w": "år.",
+     "t": "jaren."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Toen ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Toen"
+    },
+    {
+     "w": "flyttede",
+     "t": "verhuisde"
+    },
+    {
+     "w": "jeg",
+     "t": "ik"
+    },
+    {
+     "w": "til",
+     "t": "naar"
+    },
+    {
+     "w": "et",
+     "t": "een"
+    },
+    {
+     "w": "nyt",
+     "t": "nieuw"
+    },
+    {
+     "w": "land.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nu"
+    },
+    {
+     "w": "lærer",
+     "t": "leer"
+    },
+    {
+     "w": "jeg",
+     "t": "ik"
+    },
+    {
+     "w": "sproget.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Binnenkort ga ik weer in mijn vakgebied werken.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "skal",
+     "t": "zal"
+    },
+    {
+     "w": "jeg",
+     "t": "ik"
+    },
+    {
+     "w": "arbejde",
+     "t": "werken"
+    },
+    {
+     "w": "i",
+     "t": "in"
+    },
+    {
+     "w": "mit",
+     "t": "mijn"
+    },
+    {
+     "w": "fag",
+     "t": "vakgebied"
+    },
+    {
+     "w": "igen.",
+     "t": "weer."
+    }
+   ]
+  }
+ ]
+}

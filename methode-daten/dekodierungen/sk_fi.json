@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "fi",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Työskentelin alallani monta vuotta.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "(minun) alallani"
+    },
+    {
+     "w": "mojom",
+     "t": "omassa"
+    },
+    {
+     "w": "odbore",
+     "t": "alassa (ammattialalla)"
+    },
+    {
+     "w": "som",
+     "t": "olen (apusana: minä olen)"
+    },
+    {
+     "w": "pracoval",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "mnoho",
+     "t": "monta"
+    },
+    {
+     "w": "rokov.",
+     "t": "vuotta."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "sitten"
+    },
+    {
+     "w": "som",
+     "t": "olen (apusana: minä olen)"
+    },
+    {
+     "w": "prišiel",
+     "t": "tullut (saapunut)"
+    },
+    {
+     "w": "do",
+     "t": "-uun (mihin)"
+    },
+    {
+     "w": "novej",
+     "t": "uuteen"
+    },
+    {
+     "w": "krajiny.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "nyt"
+    },
+    {
+     "w": "sa",
+     "t": "(refleksiivi-sana)"
+    },
+    {
+     "w": "učím",
+     "t": "opiskelen"
+    },
+    {
+     "w": "jazyk.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Pian työskentelen jälleen omalla alallani.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "pian"
+    },
+    {
+     "w": "budem",
+     "t": "tulen (olemaan)"
+    },
+    {
+     "w": "opäť",
+     "t": "jälleen"
+    },
+    {
+     "w": "pracovať",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "vo",
+     "t": "-lla (missä)"
+    },
+    {
+     "w": "svojom",
+     "t": "omalla"
+    },
+    {
+     "w": "odbore.",
+     "t": "alalla."
+    }
+   ]
+  }
+ ]
+}

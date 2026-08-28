@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "vi",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Tôi đã làm việc trong ngành nghề của mình trong nhiều năm.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Tôi"
+    },
+    {
+     "w": "worked",
+     "t": "đã-làm-việc"
+    },
+    {
+     "w": "in",
+     "t": "trong"
+    },
+    {
+     "w": "my",
+     "t": "của-tôi"
+    },
+    {
+     "w": "profession",
+     "t": "ngành-nghề"
+    },
+    {
+     "w": "for",
+     "t": "trong-suốt"
+    },
+    {
+     "w": "many",
+     "t": "nhiều"
+    },
+    {
+     "w": "years.",
+     "t": "năm."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "I",
+     "t": "tôi"
+    },
+    {
+     "w": "moved",
+     "t": "đã-chuyển"
+    },
+    {
+     "w": "to",
+     "t": "đến"
+    },
+    {
+     "w": "a",
+     "t": "một"
+    },
+    {
+     "w": "new",
+     "t": "mới"
+    },
+    {
+     "w": "country.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "I'm",
+     "t": "Tôi'đang"
+    },
+    {
+     "w": "learning",
+     "t": "học"
+    },
+    {
+     "w": "the",
+     "t": "(cái)"
+    },
+    {
+     "w": "language.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Sớm thôi, tôi sẽ lại làm việc trong ngành nghề của mình.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Sớm-thôi"
+    },
+    {
+     "w": "I'll",
+     "t": "Tôi'sẽ"
+    },
+    {
+     "w": "be",
+     "t": "(sẽ)"
+    },
+    {
+     "w": "working",
+     "t": "làm-việc"
+    },
+    {
+     "w": "in",
+     "t": "trong"
+    },
+    {
+     "w": "my",
+     "t": "của-tôi"
+    },
+    {
+     "w": "profession",
+     "t": "ngành-nghề"
+    },
+    {
+     "w": "again.",
+     "t": "lại."
+    }
+   ]
+  }
+ ]
+}

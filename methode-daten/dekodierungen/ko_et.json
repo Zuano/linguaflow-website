@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "et",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Ma olen pikka aega töötanud oma erialal.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "mina-(teema)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "pika-aja-jooksul",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "minu",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "ametis",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "töötanud",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "olen-(tulnud).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Siis tulin uude riiki.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "siis",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "uude",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "riiki",
+     "r": "narae-ro"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "tulin.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Praegu õpin selle riigi keelt.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "praegu-(teema)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "selle",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "riigi",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "keelt",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "õppides",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "olen.",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Peagi hakkan taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "peagi",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "taas",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "oma",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "erialal",
+     "r": "jigeobeu-ro"
+    },
+    {
+     "w": "일하게",
+     "t": "töötama",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "hakkan-(saama)",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "(see-on).",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

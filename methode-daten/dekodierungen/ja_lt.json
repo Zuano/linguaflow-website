@@ -1,0 +1,192 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "lt",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Aš ilgus metus dirbau savo profesijoje.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "Aš",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(žymė)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "ilgus-metus,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分",
+     "t": "savo",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(savybės)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "profesija",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "(vieta)",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "pradėjęs",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "dirbti-tėsiausi.",
+     "r": "hataraite-kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Po to persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "to",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "po,-",
+     "r": "ato,"
+    },
+    {
+     "w": "新しい",
+     "t": "nauja",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "šalis",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "į",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "persikėliau.",
+     "r": "utsuri-sumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Dabar aš mokausi tos šalies kalbos.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "Dabar",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(žymė)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "to",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "šalis",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(savybės)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "kalba",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(tikslas)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "mokausios.",
+     "r": "manande-imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Netrukus vėl pradėsiu dirbti savo profesijoje.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "Netrukus",
+     "r": "mō-sugu"
+    },
+    {
+     "w": "また、",
+     "t": "vėl,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "savo",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(savybės)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "profesija",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "(priemonė)",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "dirbti-pradėti",
+     "r": "hataraki-hajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "planas",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "(yra).",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

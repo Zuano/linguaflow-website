@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "cs",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Dlouhou dobu jsem pracoval ve svém oboru.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "já-(co-se-týče)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "dlouhou-dobu",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "svém",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "v-povolání",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "pracoval",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "přišel-jsem-(až-doteď).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Pak jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "a-pak",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "novou",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "do-země",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "přišel-jsem.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Teď se učím jazyk té země.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "teď-(co-se-týče)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "té",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "země",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "jazyk",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "učím-se-a",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "právě-teď.",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Brzy budu zase pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "brzy",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "znovu",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "svém",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "v-povolání",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "pracovat",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "budu-(stanu-se)",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "to-bude.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

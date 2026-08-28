@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "nl",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Ik heb vele jaren in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "In"
+    },
+    {
+     "w": "svém",
+     "t": "mijn-eigen"
+    },
+    {
+     "w": "oboru",
+     "t": "vakgebied"
+    },
+    {
+     "w": "jsem",
+     "t": "heb"
+    },
+    {
+     "w": "pracoval",
+     "t": "gewerkt"
+    },
+    {
+     "w": "mnoho",
+     "t": "veel"
+    },
+    {
+     "w": "let.",
+     "t": "jaren."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Daarna ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Daarna"
+    },
+    {
+     "w": "jsem",
+     "t": "ben"
+    },
+    {
+     "w": "se",
+     "t": "(wederkerig-deel)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "verhuisd"
+    },
+    {
+     "w": "do",
+     "t": "naar"
+    },
+    {
+     "w": "nové",
+     "t": "nieuw"
+    },
+    {
+     "w": "země.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Nu leer ik een taal.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Nu"
+    },
+    {
+     "w": "se",
+     "t": "(wederkerig-deel)"
+    },
+    {
+     "w": "učím",
+     "t": "leer"
+    },
+    {
+     "w": "jazyk.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Binnenkort zal ik weer in mijn vakgebied werken.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "budu",
+     "t": "zal-ik"
+    },
+    {
+     "w": "zase",
+     "t": "weer"
+    },
+    {
+     "w": "pracovat",
+     "t": "werken"
+    },
+    {
+     "w": "ve",
+     "t": "in"
+    },
+    {
+     "w": "svém",
+     "t": "mijn-eigen"
+    },
+    {
+     "w": "oboru.",
+     "t": "vakgebied."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "id",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Saya bekerja bertahun-tahun lamanya dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Saya-bekerja",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "selama",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "banyak",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "tahun",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "dalam",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profesi",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "saya.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Kemudian, saya datang ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Pada",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "kelanjutan,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "saya-datang",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "ke",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "sebuah",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "baru",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "negara.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Sekarang saya sedang belajar bahasa itu.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Sekarang",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "saya-belajar",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "itu (bahasa)",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "bahasa.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Sebentar lagi saya akan kembali bekerja dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Sebentar-lagi",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "akan",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "saya-bekerja-lagi",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "dalam",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profesi",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "saya.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

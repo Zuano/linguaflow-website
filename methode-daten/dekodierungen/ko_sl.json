@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "sl",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Že dolgo časa delam v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "jaz-(kar se tiče)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "dolgo časa",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "moj",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "v-poklicu",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "delal-(sem)",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "prišel'sem-(vse-do-zdaj).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Potem sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "potem-(med-tem)",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "novo",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "v-državo",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "sem-prišel.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Zdaj se učim jezika te države.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "zdaj-(kar se tiče)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "te",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "države",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "jezik-(predmet)",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "učim-in",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "sem-(trenutno).",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Kmalu bom spet delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "kmalu",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "spet",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "svojem",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "v-poklicu-(smer)",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "delati-(tako-da)",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "bom-postal",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "to-je-(bo).",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

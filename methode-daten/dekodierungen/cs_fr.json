@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "fr",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "J'ai travaillé de nombreuses années dans mon domaine.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Dans"
+    },
+    {
+     "w": "svém",
+     "t": "mon-propre"
+    },
+    {
+     "w": "oboru",
+     "t": "domaine"
+    },
+    {
+     "w": "jsem",
+     "t": "j'ai (auxiliaire)"
+    },
+    {
+     "w": "pracoval",
+     "t": "travaillé"
+    },
+    {
+     "w": "mnoho",
+     "t": "beaucoup-de"
+    },
+    {
+     "w": "let.",
+     "t": "années."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Ensuite, j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Ensuite"
+    },
+    {
+     "w": "jsem",
+     "t": "j'ai (auxiliaire)"
+    },
+    {
+     "w": "se",
+     "t": "me (réfléchi)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "déménagé"
+    },
+    {
+     "w": "do",
+     "t": "dans"
+    },
+    {
+     "w": "nové",
+     "t": "nouveau"
+    },
+    {
+     "w": "země.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Maintenant j'apprends une langue.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Maintenant"
+    },
+    {
+     "w": "se",
+     "t": "me (réfléchi)"
+    },
+    {
+     "w": "učím",
+     "t": "j'apprends"
+    },
+    {
+     "w": "jazyk.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Bientôt je retravaillerai dans mon domaine.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Bientôt"
+    },
+    {
+     "w": "budu",
+     "t": "je-serai (futur)"
+    },
+    {
+     "w": "zase",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "pracovat",
+     "t": "travailler"
+    },
+    {
+     "w": "ve",
+     "t": "dans"
+    },
+    {
+     "w": "svém",
+     "t": "mon-propre"
+    },
+    {
+     "w": "oboru.",
+     "t": "domaine."
+    }
+   ]
+  }
+ ]
+}

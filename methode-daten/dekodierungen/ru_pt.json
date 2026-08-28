@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "pt",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Trabalhei muitos anos na minha área profissional.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Eu",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "muitos",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "anos",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "trabalhei",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "na",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "minha-área-profissional.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Depois eu me mudei para um novo país.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Depois",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "me-mudei",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "para",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "novo",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "país.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Agora estou aprendendo o idioma.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Agora",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "estou-aprendendo",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "o-idioma.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Em breve vou começar de novo a trabalhar na minha área profissional.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Em-breve",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "de-novo",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "vou-começar",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "a-trabalhar",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "na",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "minha-área-profissional.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

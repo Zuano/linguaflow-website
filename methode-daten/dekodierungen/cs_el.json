@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "el",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Δούλευα στον τομέα μου πολλά χρόνια.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Στον"
+    },
+    {
+     "w": "svém",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "oboru",
+     "t": "τομέα"
+    },
+    {
+     "w": "jsem",
+     "t": "(βοηθητικό-ρήμα)-έχω"
+    },
+    {
+     "w": "pracoval",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "mnoho",
+     "t": "πολλά"
+    },
+    {
+     "w": "let.",
+     "t": "χρόνια."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Μετά μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Μετά"
+    },
+    {
+     "w": "jsem",
+     "t": "(βοηθητικό-ρήμα)-έχω"
+    },
+    {
+     "w": "se",
+     "t": "(αυτοπαθές)-ο-εαυτός-μου"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "μετακομίσει"
+    },
+    {
+     "w": "do",
+     "t": "σε"
+    },
+    {
+     "w": "nové",
+     "t": "νέα"
+    },
+    {
+     "w": "země.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Τώρα"
+    },
+    {
+     "w": "se",
+     "t": "(αυτοπαθές)"
+    },
+    {
+     "w": "učím",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "jazyk.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Σύντομα θα δουλεύω ξανά στον τομέα μου.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "budu",
+     "t": "θα-είμαι"
+    },
+    {
+     "w": "zase",
+     "t": "ξανά"
+    },
+    {
+     "w": "pracovat",
+     "t": "δουλεύω"
+    },
+    {
+     "w": "ve",
+     "t": "στον"
+    },
+    {
+     "w": "svém",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "oboru.",
+     "t": "τομέα."
+    }
+   ]
+  }
+ ]
+}

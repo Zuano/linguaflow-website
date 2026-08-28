@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "sl",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Delal sem v svojem poklicu mnogo let.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Sem"
+    },
+    {
+     "w": "lavorato",
+     "t": "delal"
+    },
+    {
+     "w": "per",
+     "t": "za"
+    },
+    {
+     "w": "molti",
+     "t": "mnogo"
+    },
+    {
+     "w": "anni",
+     "t": "let"
+    },
+    {
+     "w": "nella",
+     "t": "v'(tej)"
+    },
+    {
+     "w": "mia",
+     "t": "svojem"
+    },
+    {
+     "w": "professione.",
+     "t": "poklicu."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Nato"
+    },
+    {
+     "w": "mi",
+     "t": "se"
+    },
+    {
+     "w": "sono",
+     "t": "sem"
+    },
+    {
+     "w": "trasferito",
+     "t": "preselil"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "un",
+     "t": "eno"
+    },
+    {
+     "w": "nuovo",
+     "t": "novo"
+    },
+    {
+     "w": "Paese.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Zdaj"
+    },
+    {
+     "w": "sto",
+     "t": "sem-(v-procesu)"
+    },
+    {
+     "w": "imparando",
+     "t": "učeč-se"
+    },
+    {
+     "w": "la",
+     "t": "tega"
+    },
+    {
+     "w": "lingua.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Kmalu se bom vrnil k delu v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Kmalu"
+    },
+    {
+     "w": "tornerò",
+     "t": "se-bom-vrnil"
+    },
+    {
+     "w": "a",
+     "t": "k"
+    },
+    {
+     "w": "lavorare",
+     "t": "delati"
+    },
+    {
+     "w": "nella",
+     "t": "v'(tem)"
+    },
+    {
+     "w": "mia",
+     "t": "svojem"
+    },
+    {
+     "w": "professione.",
+     "t": "poklicu."
+    }
+   ]
+  }
+ ]
+}

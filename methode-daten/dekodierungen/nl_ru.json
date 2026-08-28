@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "ru",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Я много лет работал по своей профессии.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Я"
+    },
+    {
+     "w": "heb",
+     "t": "имею (вспом. глагол)"
+    },
+    {
+     "w": "vele",
+     "t": "много"
+    },
+    {
+     "w": "jaren",
+     "t": "лет"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "mijn",
+     "t": "моей"
+    },
+    {
+     "w": "vak",
+     "t": "профессии"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "работал."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Потом я приехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Потом"
+    },
+    {
+     "w": "ben",
+     "t": "есть (вспом. глагол)"
+    },
+    {
+     "w": "ik",
+     "t": "я"
+    },
+    {
+     "w": "naar",
+     "t": "в"
+    },
+    {
+     "w": "een",
+     "t": "одну"
+    },
+    {
+     "w": "nieuw",
+     "t": "новую"
+    },
+    {
+     "w": "land",
+     "t": "страну"
+    },
+    {
+     "w": "gekomen.",
+     "t": "приехал."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Теперь я учу язык.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Теперь"
+    },
+    {
+     "w": "leer",
+     "t": "учу"
+    },
+    {
+     "w": "ik",
+     "t": "я"
+    },
+    {
+     "w": "de",
+     "t": "(артикль)"
+    },
+    {
+     "w": "taal.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Скоро я снова буду работать по своей профессии.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Скоро"
+    },
+    {
+     "w": "ga",
+     "t": "буду (собираюсь)"
+    },
+    {
+     "w": "ik",
+     "t": "я"
+    },
+    {
+     "w": "weer",
+     "t": "снова"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "mijn",
+     "t": "моей"
+    },
+    {
+     "w": "vak",
+     "t": "профессии"
+    },
+    {
+     "w": "werken.",
+     "t": "работать."
+    }
+   ]
+  }
+ ]
+}

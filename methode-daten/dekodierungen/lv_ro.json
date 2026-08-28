@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "ro",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Am lucrat mulți ani în profesia mea.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Sunt (am)"
+    },
+    {
+     "w": "daudzus",
+     "t": "mulți"
+    },
+    {
+     "w": "gadus",
+     "t": "ani"
+    },
+    {
+     "w": "strādājis",
+     "t": "lucrat"
+    },
+    {
+     "w": "savā",
+     "t": "în-a-mea"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profesie."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "După aceea m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "După"
+    },
+    {
+     "w": "tam",
+     "t": "aceea"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "uz",
+     "t": "în"
+    },
+    {
+     "w": "jaunu",
+     "t": "nouă"
+    },
+    {
+     "w": "valsti.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Acum"
+    },
+    {
+     "w": "apgūstu",
+     "t": "învăț"
+    },
+    {
+     "w": "valodu.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "În scurt timp voi lucra din nou în profesia mea.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "În-scurt-timp"
+    },
+    {
+     "w": "atkal",
+     "t": "din-nou"
+    },
+    {
+     "w": "strādāšu",
+     "t": "voi-lucra"
+    },
+    {
+     "w": "savā",
+     "t": "în-a-mea"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profesie."
+    }
+   ]
+  }
+ ]
+}

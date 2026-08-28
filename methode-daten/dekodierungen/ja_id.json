@@ -1,0 +1,137 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "id",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Saya telah bekerja dalam profesi saya sendiri selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "私は",
+     "t": "Saya",
+     "r": "watashi wa"
+    },
+    {
+     "w": "長年、",
+     "t": "bertahun-tahun,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分の",
+     "t": "sendiri-nya",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職に",
+     "t": "profesi-khusus kepada",
+     "r": "senmonshoku ni"
+    },
+    {
+     "w": "就いて",
+     "t": "menjalani",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "bekerja-terus-(telah).",
+     "r": "hataraite kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Setelah itu, saya pindah ke negara yang baru.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "setelah-itu,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "baru",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "negara kepada",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "pindah-tinggal-(telah).",
+     "r": "utsuri sumi mashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Sekarang saya sedang belajar bahasa negara itu.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "sekarang",
+     "r": "ima wa"
+    },
+    {
+     "w": "その",
+     "t": "itu",
+     "r": "sono"
+    },
+    {
+     "w": "国の",
+     "t": "negara dari",
+     "r": "kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "bahasa (objek)",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "belajar-(sedang)-continues.",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Segera lagi, saya akan mulai bekerja dalam profesi saya sendiri.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "segera-sekali",
+     "r": "mou sugu"
+    },
+    {
+     "w": "また、",
+     "t": "lagi,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "sendiri-nya",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "profesi-khusus dengan",
+     "r": "senmonshoku de"
+    },
+    {
+     "w": "働き始める",
+     "t": "bekerja-mulai",
+     "r": "hataraki hajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "rencana-(adalah).",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

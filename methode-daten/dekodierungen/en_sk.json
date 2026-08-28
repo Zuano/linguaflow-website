@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "sk",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Pracoval som vo svojej profesii mnoho rokov.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Ja"
+    },
+    {
+     "w": "worked",
+     "t": "pracoval"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "my",
+     "t": "mojej"
+    },
+    {
+     "w": "profession",
+     "t": "profesii"
+    },
+    {
+     "w": "for",
+     "t": "po"
+    },
+    {
+     "w": "many",
+     "t": "mnoho"
+    },
+    {
+     "w": "years.",
+     "t": "rokov."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Potom"
+    },
+    {
+     "w": "I",
+     "t": "ja"
+    },
+    {
+     "w": "moved",
+     "t": "presťahoval-som-sa"
+    },
+    {
+     "w": "to",
+     "t": "do"
+    },
+    {
+     "w": "a",
+     "t": "(člen)"
+    },
+    {
+     "w": "new",
+     "t": "novej"
+    },
+    {
+     "w": "country.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Teraz"
+    },
+    {
+     "w": "I'm",
+     "t": "ja'som"
+    },
+    {
+     "w": "learning",
+     "t": "učiaci-sa"
+    },
+    {
+     "w": "the",
+     "t": "(člen)"
+    },
+    {
+     "w": "language.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Už skoro budem znova pracovať vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Skoro"
+    },
+    {
+     "w": "I'll",
+     "t": "ja'budem"
+    },
+    {
+     "w": "be",
+     "t": "(pomoc. sloveso)"
+    },
+    {
+     "w": "working",
+     "t": "pracujúci"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "my",
+     "t": "mojej"
+    },
+    {
+     "w": "profession",
+     "t": "profesii"
+    },
+    {
+     "w": "again.",
+     "t": "znova."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "sl",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Vrsto časa sem delal v svojem strokovnem področju.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "Jaz",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "na",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "svojem",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "strokovnem",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "področju",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "delal",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(dokončano)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "veliko",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "let.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Kasneje sem prišel v novo deželo.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "Kasneje,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "jaz",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到了",
+     "t": "sem-prišel",
+     "r": "lái-dào-le"
+    },
+    {
+     "w": "一片",
+     "t": "en",
+     "r": "yī-piàn"
+    },
+    {
+     "w": "新的",
+     "t": "novo",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地。",
+     "t": "deželo.",
+     "r": "tǔdì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Zdaj se učim lokalnega jezika.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "Zdaj,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "jaz",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "sem-pri-(učenju)",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "učim",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "lokalnega",
+     "r": "dāngdì-de"
+    },
+    {
+     "w": "语言。",
+     "t": "jezika.",
+     "r": "yǔyán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Kmalu se bom vrnil v svoje strokovno področje.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "Kmalu,",
+     "r": "hěnkuài,"
+    },
+    {
+     "w": "我",
+     "t": "jaz",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(prihodnost)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "vrnem-se",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "svojem",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "strokovnem",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "področju",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "delati.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

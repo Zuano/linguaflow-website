@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "he",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "עבדתי שנים רבות במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "(עזר-לעבר)"
+    },
+    {
+     "w": "lucrat",
+     "t": "עבדתי"
+    },
+    {
+     "w": "mulți",
+     "t": "רבות"
+    },
+    {
+     "w": "ani",
+     "t": "שנים"
+    },
+    {
+     "w": "în",
+     "t": "ב"
+    },
+    {
+     "w": "meseria",
+     "t": "המקצוע"
+    },
+    {
+     "w": "mea.",
+     "t": "שלי."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "m-am",
+     "t": "את-עצמי'עברתי"
+    },
+    {
+     "w": "mutat",
+     "t": "העברתי (עברתי)"
+    },
+    {
+     "w": "într-o",
+     "t": "לתוך-"
+    },
+    {
+     "w": "țară",
+     "t": "מדינה"
+    },
+    {
+     "w": "nouă.",
+     "t": "חדשה."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "עכשיו"
+    },
+    {
+     "w": "învăț",
+     "t": "אני-לומד"
+    },
+    {
+     "w": "limba.",
+     "t": "את-השפה."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "בקרוב אני אעבוד מחדש במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "ב"
+    },
+    {
+     "w": "curând",
+     "t": "קרוב"
+    },
+    {
+     "w": "voi",
+     "t": "(עזר-עתיד) אני"
+    },
+    {
+     "w": "lucra",
+     "t": "אעבוד"
+    },
+    {
+     "w": "din",
+     "t": "מ"
+    },
+    {
+     "w": "nou",
+     "t": "חדש"
+    },
+    {
+     "w": "în",
+     "t": "ב"
+    },
+    {
+     "w": "meseria",
+     "t": "המקצוע"
+    },
+    {
+     "w": "mea.",
+     "t": "שלי."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "cs",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Dlouhá léta jsem pracoval ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Dlouhá"
+    },
+    {
+     "w": "leta",
+     "t": "léta"
+    },
+    {
+     "w": "sem",
+     "t": "jsem"
+    },
+    {
+     "w": "delal",
+     "t": "pracoval"
+    },
+    {
+     "w": "v",
+     "t": "ve"
+    },
+    {
+     "w": "svojem",
+     "t": "svém"
+    },
+    {
+     "w": "poklicu.",
+     "t": "oboru."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Potom jsem přišel do nové země.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Potom"
+    },
+    {
+     "w": "sem",
+     "t": "jsem"
+    },
+    {
+     "w": "prišel",
+     "t": "přišel"
+    },
+    {
+     "w": "v",
+     "t": "do"
+    },
+    {
+     "w": "novo",
+     "t": "nové"
+    },
+    {
+     "w": "državo.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Teď"
+    },
+    {
+     "w": "se",
+     "t": "se"
+    },
+    {
+     "w": "učim",
+     "t": "učím"
+    },
+    {
+     "w": "jezika.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Brzy budu zase pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Brzy"
+    },
+    {
+     "w": "bom",
+     "t": "budu"
+    },
+    {
+     "w": "spet",
+     "t": "zase"
+    },
+    {
+     "w": "delal",
+     "t": "pracovat"
+    },
+    {
+     "w": "v",
+     "t": "ve"
+    },
+    {
+     "w": "svojem",
+     "t": "svém"
+    },
+    {
+     "w": "poklicu.",
+     "t": "oboru."
+    }
+   ]
+  }
+ ]
+}

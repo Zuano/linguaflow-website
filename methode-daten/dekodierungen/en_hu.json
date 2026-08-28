@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "hu",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Sok évig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "én"
+    },
+    {
+     "w": "worked",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "in",
+     "t": "-ban"
+    },
+    {
+     "w": "my",
+     "t": "az-én"
+    },
+    {
+     "w": "profession",
+     "t": "szakmám"
+    },
+    {
+     "w": "for",
+     "t": "-ig"
+    },
+    {
+     "w": "many",
+     "t": "sok"
+    },
+    {
+     "w": "years.",
+     "t": "év."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Aztán egy új országba mentem.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "aztán"
+    },
+    {
+     "w": "I",
+     "t": "én"
+    },
+    {
+     "w": "moved",
+     "t": "elköltöztem"
+    },
+    {
+     "w": "to",
+     "t": "-ba"
+    },
+    {
+     "w": "a",
+     "t": "egy"
+    },
+    {
+     "w": "new",
+     "t": "új"
+    },
+    {
+     "w": "country.",
+     "t": "ország."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "most"
+    },
+    {
+     "w": "I'm",
+     "t": "én'vagyok"
+    },
+    {
+     "w": "learning",
+     "t": "tanuló"
+    },
+    {
+     "w": "the",
+     "t": "a"
+    },
+    {
+     "w": "language.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "hamarosan"
+    },
+    {
+     "w": "I'll",
+     "t": "én'fogok"
+    },
+    {
+     "w": "be",
+     "t": "lenni"
+    },
+    {
+     "w": "working",
+     "t": "dolgozó"
+    },
+    {
+     "w": "in",
+     "t": "-ban"
+    },
+    {
+     "w": "my",
+     "t": "az-én"
+    },
+    {
+     "w": "profession",
+     "t": "szakmám"
+    },
+    {
+     "w": "again.",
+     "t": "újra."
+    }
+   ]
+  }
+ ]
+}

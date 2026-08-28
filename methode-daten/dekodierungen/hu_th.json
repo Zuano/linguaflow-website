@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "th",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "ฉันทำงานในสายอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "หลาย"
+    },
+    {
+     "w": "éven",
+     "t": "ปี"
+    },
+    {
+     "w": "át",
+     "t": "ตลอด"
+    },
+    {
+     "w": "a",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "szakmámban",
+     "t": "ในอาชีพของฉัน"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "ฉันทำงาน"
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "หลังจากนั้นฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "หลังจากนั้น"
+    },
+    {
+     "w": "egy",
+     "t": "หนึ่ง(ประเทศ)"
+    },
+    {
+     "w": "új",
+     "t": "ใหม่"
+    },
+    {
+     "w": "országba",
+     "t": "เข้าไปในประเทศ"
+    },
+    {
+     "w": "költöztem.",
+     "t": "ฉันย้าย"
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษาอยู่",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "a",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "ภาษา"
+    },
+    {
+     "w": "tanulom.",
+     "t": "ฉันเรียน"
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "เร็วๆนี้ฉันจะกลับไปทำงานในสายอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "เร็วๆนี้"
+    },
+    {
+     "w": "újra",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "a",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "szakmámban",
+     "t": "ในอาชีพของฉัน"
+    },
+    {
+     "w": "fogok",
+     "t": "ฉันจะ"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "ทำงาน"
+    }
+   ]
+  }
+ ]
+}

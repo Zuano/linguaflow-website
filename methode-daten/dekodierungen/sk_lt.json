@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "lt",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Savo srityje dirbau daug metų.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Savo"
+    },
+    {
+     "w": "mojom",
+     "t": "savo"
+    },
+    {
+     "w": "odbore",
+     "t": "srityje"
+    },
+    {
+     "w": "som",
+     "t": "(aš)"
+    },
+    {
+     "w": "pracoval",
+     "t": "dirbau"
+    },
+    {
+     "w": "mnoho",
+     "t": "daug"
+    },
+    {
+     "w": "rokov.",
+     "t": "metų."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Paskui atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Paskui"
+    },
+    {
+     "w": "som",
+     "t": "(aš)"
+    },
+    {
+     "w": "prišiel",
+     "t": "atvykau"
+    },
+    {
+     "w": "do",
+     "t": "į"
+    },
+    {
+     "w": "novej",
+     "t": "naują"
+    },
+    {
+     "w": "krajiny.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Dabar"
+    },
+    {
+     "w": "sa",
+     "t": "-si"
+    },
+    {
+     "w": "učím",
+     "t": "mokausi"
+    },
+    {
+     "w": "jazyk.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Netrukus vėl dirbsiu savo srityje.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Netrukus"
+    },
+    {
+     "w": "budem",
+     "t": "dirbsiu"
+    },
+    {
+     "w": "opäť",
+     "t": "vėl"
+    },
+    {
+     "w": "pracovať",
+     "t": "dirbti"
+    },
+    {
+     "w": "vo",
+     "t": "savo"
+    },
+    {
+     "w": "svojom",
+     "t": "savo"
+    },
+    {
+     "w": "odbore.",
+     "t": "srityje."
+    }
+   ]
+  }
+ ]
+}

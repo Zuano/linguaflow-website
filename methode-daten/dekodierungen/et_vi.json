@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "vi",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Tôi đã làm việc trong ngành chuyên môn của mình nhiều năm rồi.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Tôi-đã"
+    },
+    {
+     "w": "palju",
+     "t": "nhiều"
+    },
+    {
+     "w": "aastaid",
+     "t": "năm"
+    },
+    {
+     "w": "oma",
+     "t": "của-mình"
+    },
+    {
+     "w": "erialal",
+     "t": "trong-ngành-chuyên-môn"
+    },
+    {
+     "w": "töötanud.",
+     "t": "làm-việc-rồi."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "kolisin",
+     "t": "tôi-đã-chuyển"
+    },
+    {
+     "w": "uude",
+     "t": "đến-mới"
+    },
+    {
+     "w": "riiki.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "õpin",
+     "t": "tôi-học"
+    },
+    {
+     "w": "keelt.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong ngành chuyên môn của mình.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "hakkan",
+     "t": "tôi-sẽ-bắt-đầu"
+    },
+    {
+     "w": "jälle",
+     "t": "lại"
+    },
+    {
+     "w": "oma",
+     "t": "của-mình"
+    },
+    {
+     "w": "erialal",
+     "t": "trong-ngành-chuyên-môn"
+    },
+    {
+     "w": "töötama.",
+     "t": "làm-việc."
+    }
+   ]
+  }
+ ]
+}

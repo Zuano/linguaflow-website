@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "es",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "He trabajado muchos años en mi oficio.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Yo"
+    },
+    {
+     "w": "heb",
+     "t": "he"
+    },
+    {
+     "w": "vele",
+     "t": "muchos"
+    },
+    {
+     "w": "jaren",
+     "t": "años"
+    },
+    {
+     "w": "in",
+     "t": "en"
+    },
+    {
+     "w": "mijn",
+     "t": "mi"
+    },
+    {
+     "w": "vak",
+     "t": "oficio"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "trabajado."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Después vine a un país nuevo.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Después"
+    },
+    {
+     "w": "ben",
+     "t": "soy (he)"
+    },
+    {
+     "w": "ik",
+     "t": "yo"
+    },
+    {
+     "w": "naar",
+     "t": "hacia"
+    },
+    {
+     "w": "een",
+     "t": "un"
+    },
+    {
+     "w": "nieuw",
+     "t": "nuevo"
+    },
+    {
+     "w": "land",
+     "t": "país"
+    },
+    {
+     "w": "gekomen.",
+     "t": "venido."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Ahora"
+    },
+    {
+     "w": "leer",
+     "t": "aprendo"
+    },
+    {
+     "w": "ik",
+     "t": "yo"
+    },
+    {
+     "w": "de",
+     "t": "el"
+    },
+    {
+     "w": "taal.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Pronto volveré a trabajar en mi oficio.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Pronto"
+    },
+    {
+     "w": "ga",
+     "t": "voy"
+    },
+    {
+     "w": "ik",
+     "t": "yo"
+    },
+    {
+     "w": "weer",
+     "t": "de-nuevo"
+    },
+    {
+     "w": "in",
+     "t": "en"
+    },
+    {
+     "w": "mijn",
+     "t": "mi"
+    },
+    {
+     "w": "vak",
+     "t": "oficio"
+    },
+    {
+     "w": "werken.",
+     "t": "trabajar."
+    }
+   ]
+  }
+ ]
+}

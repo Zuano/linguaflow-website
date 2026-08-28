@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "en",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "I worked in my profession for many years.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "For"
+    },
+    {
+     "w": "wiele",
+     "t": "many"
+    },
+    {
+     "w": "lat",
+     "t": "years"
+    },
+    {
+     "w": "pracowałem",
+     "t": "I-worked"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "my-own"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profession."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Then I came to a new country.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Then"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "I-arrived"
+    },
+    {
+     "w": "do",
+     "t": "to"
+    },
+    {
+     "w": "nowego",
+     "t": "new"
+    },
+    {
+     "w": "kraju.",
+     "t": "country."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Now I am learning the language.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Now"
+    },
+    {
+     "w": "uczę",
+     "t": "I-teach(learn)"
+    },
+    {
+     "w": "się",
+     "t": "myself"
+    },
+    {
+     "w": "języka.",
+     "t": "of-the-language."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Soon I will be working in my profession again.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Soon"
+    },
+    {
+     "w": "znów",
+     "t": "again"
+    },
+    {
+     "w": "będę",
+     "t": "I-will-be"
+    },
+    {
+     "w": "pracował",
+     "t": "working"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "my-own"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

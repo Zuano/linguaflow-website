@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "pt",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Trabalhei muitos anos na minha profissão.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Tenho"
+    },
+    {
+     "w": "trabajado",
+     "t": "trabalhado"
+    },
+    {
+     "w": "muchos",
+     "t": "muitos"
+    },
+    {
+     "w": "años",
+     "t": "anos"
+    },
+    {
+     "w": "en",
+     "t": "na"
+    },
+    {
+     "w": "mi",
+     "t": "minha"
+    },
+    {
+     "w": "profesión.",
+     "t": "profissão."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Depois, mudei-me para outro país.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Depois"
+    },
+    {
+     "w": "me",
+     "t": "me"
+    },
+    {
+     "w": "mudé",
+     "t": "mudei"
+    },
+    {
+     "w": "a",
+     "t": "para"
+    },
+    {
+     "w": "otro",
+     "t": "outro"
+    },
+    {
+     "w": "país.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Agora estou aprendendo o idioma.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Agora"
+    },
+    {
+     "w": "estoy",
+     "t": "estou"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "aprendendo"
+    },
+    {
+     "w": "el",
+     "t": "o"
+    },
+    {
+     "w": "idioma.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Em breve voltarei a trabalhar na minha profissão.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Em-breve"
+    },
+    {
+     "w": "volveré",
+     "t": "voltarei"
+    },
+    {
+     "w": "a",
+     "t": "a"
+    },
+    {
+     "w": "trabajar",
+     "t": "trabalhar"
+    },
+    {
+     "w": "en",
+     "t": "na"
+    },
+    {
+     "w": "mi",
+     "t": "minha"
+    },
+    {
+     "w": "profesión.",
+     "t": "profissão."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "id",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Selama bertahun-tahun saya bekerja dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Selama-bertahun"
+    },
+    {
+     "w": "leta",
+     "t": "tahun-tahun"
+    },
+    {
+     "w": "sem",
+     "t": "saya-telah"
+    },
+    {
+     "w": "delal",
+     "t": "bekerja"
+    },
+    {
+     "w": "v",
+     "t": "dalam"
+    },
+    {
+     "w": "svojem",
+     "t": "profesi-saya-sendiri"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profesi."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Kemudian saya datang ke negara baru.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Kemudian"
+    },
+    {
+     "w": "sem",
+     "t": "saya-telah"
+    },
+    {
+     "w": "prišel",
+     "t": "datang"
+    },
+    {
+     "w": "v",
+     "t": "ke"
+    },
+    {
+     "w": "novo",
+     "t": "baru"
+    },
+    {
+     "w": "državo.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Sekarang"
+    },
+    {
+     "w": "se",
+     "t": "(diri)"
+    },
+    {
+     "w": "učim",
+     "t": "belajar"
+    },
+    {
+     "w": "jezika.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Segera saya akan bekerja lagi dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Segera"
+    },
+    {
+     "w": "bom",
+     "t": "saya-akan"
+    },
+    {
+     "w": "spet",
+     "t": "lagi"
+    },
+    {
+     "w": "delal",
+     "t": "bekerja"
+    },
+    {
+     "w": "v",
+     "t": "dalam"
+    },
+    {
+     "w": "svojem",
+     "t": "profesi-saya-sendiri"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

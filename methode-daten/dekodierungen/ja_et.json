@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "et",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Olen pikalt oma erialal töötanud.",
+   "pairs": [
+    {
+     "w": "私は",
+     "t": "Mina",
+     "r": "Watashi wa"
+    },
+    {
+     "w": "長年、",
+     "t": "pikalt (pikka-aega),",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分の",
+     "t": "enda",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職に",
+     "t": "erialale",
+     "r": "senmonshoku ni"
+    },
+    {
+     "w": "就いて",
+     "t": "nõustunud",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "töötanud.",
+     "r": "hataraite kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Pärast seda kollisin uude riiki.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "Selle-järel,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "uus",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "riiki",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "kollisin.",
+     "r": "yori sumimasita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Praegu õpin selle riigi keelt.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "Praegu",
+     "r": "ima wa"
+    },
+    {
+     "w": "その国の",
+     "t": "selle-riigi",
+     "r": "sono kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "keelt",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "õpin.",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Peagi hakkan uuesti oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "Peagi",
+     "r": "mou sugu"
+    },
+    {
+     "w": "また、",
+     "t": "uuesti,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "enda",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "erialal",
+     "r": "senmonshoku de"
+    },
+    {
+     "w": "働き始める",
+     "t": "töötama-hakkan",
+     "r": "hatarakihajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "plaan-on.",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

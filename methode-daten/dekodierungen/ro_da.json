@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "da",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Jeg har arbejdet mange år i mit fag.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Har'jeg"
+    },
+    {
+     "w": "lucrat",
+     "t": "arbejdet"
+    },
+    {
+     "w": "mulți",
+     "t": "mange"
+    },
+    {
+     "w": "ani",
+     "t": "år"
+    },
+    {
+     "w": "în",
+     "t": "i"
+    },
+    {
+     "w": "meseria",
+     "t": "faget"
+    },
+    {
+     "w": "mea.",
+     "t": "mit."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Så flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Så"
+    },
+    {
+     "w": "m-am",
+     "t": "mig'har"
+    },
+    {
+     "w": "mutat",
+     "t": "flyttet"
+    },
+    {
+     "w": "într-o",
+     "t": "til'et"
+    },
+    {
+     "w": "țară",
+     "t": "land"
+    },
+    {
+     "w": "nouă.",
+     "t": "nyt."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Nu"
+    },
+    {
+     "w": "învăț",
+     "t": "lærer'jeg"
+    },
+    {
+     "w": "limba.",
+     "t": "sproget."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Snart vil jeg arbejde igen i mit fag.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Om"
+    },
+    {
+     "w": "curând",
+     "t": "kort-tid"
+    },
+    {
+     "w": "voi",
+     "t": "vil'jeg"
+    },
+    {
+     "w": "lucra",
+     "t": "arbejde"
+    },
+    {
+     "w": "din",
+     "t": "på"
+    },
+    {
+     "w": "nou",
+     "t": "ny"
+    },
+    {
+     "w": "în",
+     "t": "i"
+    },
+    {
+     "w": "meseria",
+     "t": "faget"
+    },
+    {
+     "w": "mea.",
+     "t": "mit."
+    }
+   ]
+  }
+ ]
+}

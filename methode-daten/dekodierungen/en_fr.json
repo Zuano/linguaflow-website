@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "fr",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "J'ai travaillé dans ma profession pendant de nombreuses années.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Je"
+    },
+    {
+     "w": "worked",
+     "t": "ai-travaillé"
+    },
+    {
+     "w": "in",
+     "t": "dans"
+    },
+    {
+     "w": "my",
+     "t": "ma"
+    },
+    {
+     "w": "profession",
+     "t": "profession"
+    },
+    {
+     "w": "for",
+     "t": "pendant"
+    },
+    {
+     "w": "many",
+     "t": "de-nombreuses"
+    },
+    {
+     "w": "years.",
+     "t": "années."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Ensuite, j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Ensuite"
+    },
+    {
+     "w": "I",
+     "t": "je"
+    },
+    {
+     "w": "moved",
+     "t": "ai-déménagé"
+    },
+    {
+     "w": "to",
+     "t": "vers"
+    },
+    {
+     "w": "a",
+     "t": "un"
+    },
+    {
+     "w": "new",
+     "t": "nouveau"
+    },
+    {
+     "w": "country.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Maintenant"
+    },
+    {
+     "w": "I'm",
+     "t": "je'suis"
+    },
+    {
+     "w": "learning",
+     "t": "en-train-d'apprendre"
+    },
+    {
+     "w": "the",
+     "t": "la"
+    },
+    {
+     "w": "language.",
+     "t": "langue."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Bientôt, je travaillerai de nouveau dans ma profession.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Bientôt"
+    },
+    {
+     "w": "I'll",
+     "t": "je'vais"
+    },
+    {
+     "w": "be",
+     "t": "être"
+    },
+    {
+     "w": "working",
+     "t": "en-train-de-travailler"
+    },
+    {
+     "w": "in",
+     "t": "dans"
+    },
+    {
+     "w": "my",
+     "t": "ma"
+    },
+    {
+     "w": "profession",
+     "t": "profession"
+    },
+    {
+     "w": "again.",
+     "t": "de-nouveau."
+    }
+   ]
+  }
+ ]
+}

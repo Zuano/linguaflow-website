@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "ru",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Много лет я работал по своей профессии.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Много"
+    },
+    {
+     "w": "éven",
+     "t": "лет (в течение)"
+    },
+    {
+     "w": "át",
+     "t": "через"
+    },
+    {
+     "w": "a",
+     "t": "(артикль)"
+    },
+    {
+     "w": "szakmámban",
+     "t": "в-профессии-моей"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "я-работал."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Потом я переехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Потом"
+    },
+    {
+     "w": "egy",
+     "t": "одну"
+    },
+    {
+     "w": "új",
+     "t": "новую"
+    },
+    {
+     "w": "országba",
+     "t": "в-страну"
+    },
+    {
+     "w": "költöztem.",
+     "t": "я-переехал."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Сейчас я учу язык.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Сейчас"
+    },
+    {
+     "w": "a",
+     "t": "(артикль)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "язык"
+    },
+    {
+     "w": "tanulom.",
+     "t": "я-учу-его."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Скоро я снова буду работать по своей профессии.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Скоро"
+    },
+    {
+     "w": "újra",
+     "t": "снова"
+    },
+    {
+     "w": "a",
+     "t": "(артикль)"
+    },
+    {
+     "w": "szakmámban",
+     "t": "в-профессии-моей"
+    },
+    {
+     "w": "fogok",
+     "t": "буду"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "работать."
+    }
+   ]
+  }
+ ]
+}

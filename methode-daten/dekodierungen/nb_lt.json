@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "lt",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Aš dirbau daugelį metų savo srityje.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Aš"
+    },
+    {
+     "w": "har",
+     "t": "esu"
+    },
+    {
+     "w": "jobbet",
+     "t": "dirbęs"
+    },
+    {
+     "w": "i",
+     "t": "per"
+    },
+    {
+     "w": "mange",
+     "t": "daug"
+    },
+    {
+     "w": "år",
+     "t": "metų"
+    },
+    {
+     "w": "innen",
+     "t": "savo"
+    },
+    {
+     "w": "mitt",
+     "t": "savo"
+    },
+    {
+     "w": "fagområde.",
+     "t": "srityje."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Tada aš persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Tada"
+    },
+    {
+     "w": "flyttet",
+     "t": "persikėliau"
+    },
+    {
+     "w": "jeg",
+     "t": "aš"
+    },
+    {
+     "w": "til",
+     "t": "į"
+    },
+    {
+     "w": "et",
+     "t": "naują"
+    },
+    {
+     "w": "nytt",
+     "t": "naują"
+    },
+    {
+     "w": "land.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Dabar"
+    },
+    {
+     "w": "lærer",
+     "t": "mokausi"
+    },
+    {
+     "w": "jeg",
+     "t": "aš"
+    },
+    {
+     "w": "språket.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Greitai aš vėl dirbsiu savo srityje.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Greitai"
+    },
+    {
+     "w": "skal",
+     "t": "(būsimasis-laikas)"
+    },
+    {
+     "w": "jeg",
+     "t": "aš"
+    },
+    {
+     "w": "jobbe",
+     "t": "dirbsiu"
+    },
+    {
+     "w": "innen",
+     "t": "savo"
+    },
+    {
+     "w": "mitt",
+     "t": "savo"
+    },
+    {
+     "w": "fagområde",
+     "t": "srityje"
+    },
+    {
+     "w": "igjen.",
+     "t": "vėl."
+    }
+   ]
+  }
+ ]
+}

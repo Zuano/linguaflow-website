@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "de",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Ich habe viele Jahre lang in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "Gearbeitet",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "habe (ich)",
+     "r": "sŭm"
+    },
+    {
+     "w": "дълги",
+     "t": "lange",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "Jahre",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "in",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "meinem",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "Beruf.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Danach kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Danach",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "kam (ich)",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "in",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "neues",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "Land.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Jetzt",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "lerne (ich)",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "die-Sprache.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Bald",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "wieder",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "werde (ich)",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "arbeiten",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "in",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "meinem",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "Beruf.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

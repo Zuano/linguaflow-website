@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "ar",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "عملت في مجال تخصصي لسنوات عديدة.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "في"
+    },
+    {
+     "w": "mojom",
+     "t": "مجالي"
+    },
+    {
+     "w": "odbore",
+     "t": "(تخصص)"
+    },
+    {
+     "w": "som",
+     "t": "(فعل مساعد-كنت)"
+    },
+    {
+     "w": "pracoval",
+     "t": "عملت"
+    },
+    {
+     "w": "mnoho",
+     "t": "كثير-من"
+    },
+    {
+     "w": "rokov.",
+     "t": "السنوات."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "ثم أتيت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "ثم"
+    },
+    {
+     "w": "som",
+     "t": "(فعل مساعد-كنت)"
+    },
+    {
+     "w": "prišiel",
+     "t": "أتيت"
+    },
+    {
+     "w": "do",
+     "t": "إلى"
+    },
+    {
+     "w": "novej",
+     "t": "جديدة"
+    },
+    {
+     "w": "krajiny.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "الآن"
+    },
+    {
+     "w": "sa",
+     "t": "(ضمير-انعكاسي)"
+    },
+    {
+     "w": "učím",
+     "t": "أتعلم"
+    },
+    {
+     "w": "jazyk.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "قريبًا سأعمل مرة أخرى في مجال تخصصي.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "قريبًا"
+    },
+    {
+     "w": "budem",
+     "t": "سأكون"
+    },
+    {
+     "w": "opäť",
+     "t": "مرة-أخرى"
+    },
+    {
+     "w": "pracovať",
+     "t": "أعمل"
+    },
+    {
+     "w": "vo",
+     "t": "في"
+    },
+    {
+     "w": "svojom",
+     "t": "تخصصي (الخاص بي)"
+    },
+    {
+     "w": "odbore.",
+     "t": "مجال."
+    }
+   ]
+  }
+ ]
+}

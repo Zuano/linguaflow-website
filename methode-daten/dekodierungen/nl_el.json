@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "el",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Δούλεψα πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Εγώ"
+    },
+    {
+     "w": "heb",
+     "t": "έχω"
+    },
+    {
+     "w": "vele",
+     "t": "πολλά"
+    },
+    {
+     "w": "jaren",
+     "t": "χρόνια"
+    },
+    {
+     "w": "in",
+     "t": "στο (μέσα-σε)"
+    },
+    {
+     "w": "mijn",
+     "t": "μου"
+    },
+    {
+     "w": "vak",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "δουλέψει."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Μετά ήρθα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Μετά"
+    },
+    {
+     "w": "ben",
+     "t": "είμαι"
+    },
+    {
+     "w": "ik",
+     "t": "εγώ"
+    },
+    {
+     "w": "naar",
+     "t": "προς"
+    },
+    {
+     "w": "een",
+     "t": "μια"
+    },
+    {
+     "w": "nieuw",
+     "t": "νέα"
+    },
+    {
+     "w": "land",
+     "t": "χώρα"
+    },
+    {
+     "w": "gekomen.",
+     "t": "έρθει."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Τώρα"
+    },
+    {
+     "w": "leer",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "ik",
+     "t": "εγώ"
+    },
+    {
+     "w": "de",
+     "t": "τη"
+    },
+    {
+     "w": "taal.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "ga",
+     "t": "θα (πρόκειται)"
+    },
+    {
+     "w": "ik",
+     "t": "εγώ"
+    },
+    {
+     "w": "weer",
+     "t": "ξανά"
+    },
+    {
+     "w": "in",
+     "t": "στο (μέσα-σε)"
+    },
+    {
+     "w": "mijn",
+     "t": "μου"
+    },
+    {
+     "w": "vak",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "werken.",
+     "t": "δουλέψω."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "hu",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "(én)-vagyok"
+    },
+    {
+     "w": "lavorato",
+     "t": "dolgozott"
+    },
+    {
+     "w": "per",
+     "t": "-ért (ideig)"
+    },
+    {
+     "w": "molti",
+     "t": "sok"
+    },
+    {
+     "w": "anni",
+     "t": "évig"
+    },
+    {
+     "w": "nella",
+     "t": "a-ban"
+    },
+    {
+     "w": "mia",
+     "t": "az-én"
+    },
+    {
+     "w": "professione.",
+     "t": "szakmámban."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "aztán"
+    },
+    {
+     "w": "mi",
+     "t": "magamat"
+    },
+    {
+     "w": "sono",
+     "t": "(én)-vagyok"
+    },
+    {
+     "w": "trasferito",
+     "t": "átköltözött"
+    },
+    {
+     "w": "in",
+     "t": "-ba"
+    },
+    {
+     "w": "un",
+     "t": "egy"
+    },
+    {
+     "w": "nuovo",
+     "t": "új"
+    },
+    {
+     "w": "Paese.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Most éppen tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "most"
+    },
+    {
+     "w": "sto",
+     "t": "(én)-vagyok-éppen"
+    },
+    {
+     "w": "imparando",
+     "t": "tanulva"
+    },
+    {
+     "w": "la",
+     "t": "a"
+    },
+    {
+     "w": "lingua.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Hamarosan visszatérek dolgozni a szakmámban.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "hamarosan"
+    },
+    {
+     "w": "tornerò",
+     "t": "visszatérek-majd"
+    },
+    {
+     "w": "a",
+     "t": "-hoz (hogy)"
+    },
+    {
+     "w": "lavorare",
+     "t": "dolgozni"
+    },
+    {
+     "w": "nella",
+     "t": "a-ban"
+    },
+    {
+     "w": "mia",
+     "t": "az-én"
+    },
+    {
+     "w": "professione.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "he",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "עבדתי במשך שנים רבות בתחום המקצועי שלי.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "אני"
+    },
+    {
+     "w": "har",
+     "t": "יש-לי (עברית: פועל עזר)"
+    },
+    {
+     "w": "jobbet",
+     "t": "עבדתי"
+    },
+    {
+     "w": "i",
+     "t": "במשך"
+    },
+    {
+     "w": "mange",
+     "t": "רבות"
+    },
+    {
+     "w": "år",
+     "t": "שנים"
+    },
+    {
+     "w": "innen",
+     "t": "בתוך (בתחום)"
+    },
+    {
+     "w": "mitt",
+     "t": "שלי"
+    },
+    {
+     "w": "fagområde.",
+     "t": "תחום-המקצוע."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "flyttet",
+     "t": "עברתי (הובלתי מגורים)"
+    },
+    {
+     "w": "jeg",
+     "t": "אני"
+    },
+    {
+     "w": "til",
+     "t": "אל"
+    },
+    {
+     "w": "et",
+     "t": "(מילת יידוע לא מיודע)"
+    },
+    {
+     "w": "nytt",
+     "t": "חדשה"
+    },
+    {
+     "w": "land.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "עכשיו"
+    },
+    {
+     "w": "lærer",
+     "t": "לומד"
+    },
+    {
+     "w": "jeg",
+     "t": "אני"
+    },
+    {
+     "w": "språket.",
+     "t": "את-השפה."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "בקרוב אני אעבוד בתחום המקצועי שלי שוב.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "בקרוב"
+    },
+    {
+     "w": "skal",
+     "t": "אמור (עברית: פועל עזר לעתיד)"
+    },
+    {
+     "w": "jeg",
+     "t": "אני"
+    },
+    {
+     "w": "jobbe",
+     "t": "לעבוד"
+    },
+    {
+     "w": "innen",
+     "t": "בתוך (בתחום)"
+    },
+    {
+     "w": "mitt",
+     "t": "שלי"
+    },
+    {
+     "w": "fagområde",
+     "t": "תחום-המקצוע"
+    },
+    {
+     "w": "igjen.",
+     "t": "שוב."
+    }
+   ]
+  }
+ ]
+}

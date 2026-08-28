@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "sk",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Pracoval som mnoho rokov v svojej profesii.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Ja"
+    },
+    {
+     "w": "har",
+     "t": "som"
+    },
+    {
+     "w": "arbetat",
+     "t": "pracoval"
+    },
+    {
+     "w": "många",
+     "t": "mnoho"
+    },
+    {
+     "w": "år",
+     "t": "rokov"
+    },
+    {
+     "w": "inom",
+     "t": "v"
+    },
+    {
+     "w": "mitt",
+     "t": "svojej"
+    },
+    {
+     "w": "yrke.",
+     "t": "profesii."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Potom"
+    },
+    {
+     "w": "flyttade",
+     "t": "presťahoval-sa"
+    },
+    {
+     "w": "jag",
+     "t": "ja"
+    },
+    {
+     "w": "till",
+     "t": "do"
+    },
+    {
+     "w": "ett",
+     "t": "jednej"
+    },
+    {
+     "w": "nytt",
+     "t": "novej"
+    },
+    {
+     "w": "land.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Teraz"
+    },
+    {
+     "w": "lär",
+     "t": "učím"
+    },
+    {
+     "w": "jag",
+     "t": "ja"
+    },
+    {
+     "w": "mig",
+     "t": "sa"
+    },
+    {
+     "w": "språket.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Skoro znova začnem pracovať v svojej profesii.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Skoro"
+    },
+    {
+     "w": "ska",
+     "t": "budem"
+    },
+    {
+     "w": "jag",
+     "t": "ja"
+    },
+    {
+     "w": "börja",
+     "t": "začať"
+    },
+    {
+     "w": "arbeta",
+     "t": "pracovať"
+    },
+    {
+     "w": "inom",
+     "t": "v"
+    },
+    {
+     "w": "mitt",
+     "t": "svojej"
+    },
+    {
+     "w": "yrke",
+     "t": "profesii"
+    },
+    {
+     "w": "igen.",
+     "t": "znova."
+    }
+   ]
+  }
+ ]
+}

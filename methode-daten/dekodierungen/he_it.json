@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "it",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Ho lavorato molti anni nella mia professione.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "ho-lavorato",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "anni",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "molti",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "nella-professione",
+     "r": "bemiktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mia.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Dopo di che sono arrivato in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "dopo",
+     "r": "le'akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "di-ciò",
+     "r": "mikán"
+    },
+    {
+     "w": "הגעתי",
+     "t": "sono-arrivato",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "in-un-paese",
+     "r": "lemedináh"
+    },
+    {
+     "w": "חדשה.",
+     "t": "nuovo.",
+     "r": "khadasháh."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Adesso sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "adesso",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "io",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "sto-imparando",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(particella-oggetto)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "la-lingua.",
+     "r": "hasafáh."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Presto tornerò a lavorare nella mia professione.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "presto",
+     "r": "bekaróv"
+    },
+    {
+     "w": "אחזור",
+     "t": "tornerò",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "a-lavorare",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "nella-professione",
+     "r": "bemiktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mia.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

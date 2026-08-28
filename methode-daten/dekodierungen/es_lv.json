@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "lv",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Es esmu strādājis daudzus gadus savā profesijā.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Esmu"
+    },
+    {
+     "w": "trabajado",
+     "t": "strādājis"
+    },
+    {
+     "w": "muchos",
+     "t": "daudzus"
+    },
+    {
+     "w": "años",
+     "t": "gadus"
+    },
+    {
+     "w": "en",
+     "t": "savā"
+    },
+    {
+     "w": "mi",
+     "t": "savā"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesijā."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Pēc tam es pārcēlos uz citu valsti.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "me",
+     "t": "es-(sev)"
+    },
+    {
+     "w": "mudé",
+     "t": "pārcēlos"
+    },
+    {
+     "w": "a",
+     "t": "uz"
+    },
+    {
+     "w": "otro",
+     "t": "citu"
+    },
+    {
+     "w": "país.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Tagad"
+    },
+    {
+     "w": "estoy",
+     "t": "esmu"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "mācoties"
+    },
+    {
+     "w": "el",
+     "t": "(šo)"
+    },
+    {
+     "w": "idioma.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Drīz es atkal sākšu strādāt savā profesijā.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Drīz"
+    },
+    {
+     "w": "volveré",
+     "t": "atkal-sākšu"
+    },
+    {
+     "w": "a",
+     "t": "(darīt)"
+    },
+    {
+     "w": "trabajar",
+     "t": "strādāt"
+    },
+    {
+     "w": "en",
+     "t": "savā"
+    },
+    {
+     "w": "mi",
+     "t": "savā"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesijā."
+    }
+   ]
+  }
+ ]
+}

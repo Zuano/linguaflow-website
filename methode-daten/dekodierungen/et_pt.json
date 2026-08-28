@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "pt",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Trabalhei muitos anos na minha área profissional.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Tenho"
+    },
+    {
+     "w": "palju",
+     "t": "muitos"
+    },
+    {
+     "w": "aastaid",
+     "t": "anos"
+    },
+    {
+     "w": "oma",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "erialal",
+     "t": "na-área-profissional"
+    },
+    {
+     "w": "töötanud.",
+     "t": "trabalhado."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Depois mudei-me para um novo país.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Depois"
+    },
+    {
+     "w": "kolisin",
+     "t": "mudei-me"
+    },
+    {
+     "w": "uude",
+     "t": "para-novo"
+    },
+    {
+     "w": "riiki.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Agora estou a aprender a língua.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Agora"
+    },
+    {
+     "w": "õpin",
+     "t": "aprendo"
+    },
+    {
+     "w": "keelt.",
+     "t": "a-língua."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Em breve voltarei a trabalhar na minha área profissional.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Em-breve"
+    },
+    {
+     "w": "hakkan",
+     "t": "vou-começar"
+    },
+    {
+     "w": "jälle",
+     "t": "de-novo"
+    },
+    {
+     "w": "oma",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "erialal",
+     "t": "na-área-profissional"
+    },
+    {
+     "w": "töötama.",
+     "t": "a-trabalhar."
+    }
+   ]
+  }
+ ]
+}

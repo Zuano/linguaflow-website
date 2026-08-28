@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "ja",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "私は長年、自分の職業で働いてきました。",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "長い"
+    },
+    {
+     "w": "leta",
+     "t": "年月を"
+    },
+    {
+     "w": "sem",
+     "t": "(私は)〜だった"
+    },
+    {
+     "w": "delal",
+     "t": "働いていた"
+    },
+    {
+     "w": "v",
+     "t": "〜で"
+    },
+    {
+     "w": "svojem",
+     "t": "自分の"
+    },
+    {
+     "w": "poklicu.",
+     "t": "職業。"
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "それから私は新しい国にやって来ました。",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "それから"
+    },
+    {
+     "w": "sem",
+     "t": "(私は)〜だった"
+    },
+    {
+     "w": "prišel",
+     "t": "来た"
+    },
+    {
+     "w": "v",
+     "t": "〜へ"
+    },
+    {
+     "w": "novo",
+     "t": "新しい"
+    },
+    {
+     "w": "državo.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "今、私は言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "今"
+    },
+    {
+     "w": "se",
+     "t": "(再帰の言葉)"
+    },
+    {
+     "w": "učim",
+     "t": "学んでいる"
+    },
+    {
+     "w": "jezika.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "まもなく私はまた自分の職業で働くでしょう。",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "まもなく"
+    },
+    {
+     "w": "bom",
+     "t": "(私は)〜だろう"
+    },
+    {
+     "w": "spet",
+     "t": "再び"
+    },
+    {
+     "w": "delal",
+     "t": "働く"
+    },
+    {
+     "w": "v",
+     "t": "〜で"
+    },
+    {
+     "w": "svojem",
+     "t": "自分の"
+    },
+    {
+     "w": "poklicu.",
+     "t": "職業。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "et",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Olen töötanud oma kutsealal paljud aastad juba.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "Mina",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "töötama",
+     "r": "tham-ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "sees",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ala",
+     "r": "saakh-khaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "kutse",
+     "r": "aa-chīp"
+    },
+    {
+     "w": "ของ",
+     "t": "(omamise-märk)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "minu",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "käiva-(protsess)",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "palju",
+     "r": "laai"
+    },
+    {
+     "w": "ปี",
+     "t": "aasta",
+     "r": "pī"
+    },
+    {
+     "w": "แล้ว",
+     "t": "juba.",
+     "r": "lɛɛw"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Pärast seda kolisid olen uude riiki.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "Pärast",
+     "r": "lang"
+    },
+    {
+     "w": "จาก",
+     "t": "(aeg-märk)",
+     "r": "chak"
+    },
+    {
+     "w": "นั้น",
+     "t": "seda,",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "mina",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "kolima",
+     "r": "yâai"
+    },
+    {
+     "w": "ไป",
+     "t": "ära-(suund)",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "elama",
+     "r": "yuu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "riik",
+     "r": "pra-thêet"
+    },
+    {
+     "w": "ใหม่",
+     "t": "uus",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Praegu õpin keelt.",
+   "pairs": [
+    {
+     "w": "ตอน",
+     "t": "aeg-(märk)",
+     "r": "ton"
+    },
+    {
+     "w": "นี้",
+     "t": "see",
+     "r": "nīi"
+    },
+    {
+     "w": "ผม",
+     "t": "mina",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "käiv-(protsess)",
+     "r": "kam-lang"
+    },
+    {
+     "w": "เรียน",
+     "t": "õpib",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "keel",
+     "r": "phaa-sǎa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(käiv-märk).",
+     "r": "yuu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Ja varsti naaseb oma kutsealale töötama uuesti.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "Ja",
+     "r": "ʻae"
+    },
+    {
+     "w": "เร็ว",
+     "t": "kiire",
+     "r": "rew"
+    },
+    {
+     "w": "ๆ",
+     "t": "(kordusmärk)",
+     "r": "thai-repeat-sign"
+    },
+    {
+     "w": "นี้",
+     "t": "see,",
+     "r": "nīi"
+    },
+    {
+     "w": "ผม",
+     "t": "mina",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "tule-(tulevik)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "naasma",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(käiv-suund)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "töötama",
+     "r": "tham-ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "sees",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ala",
+     "r": "saakh-khaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "kutse",
+     "r": "aa-chīp"
+    },
+    {
+     "w": "ของ",
+     "t": "(omamise-märk)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "minu",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "uus-(kord)",
+     "r": "ʻīk"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "kord.",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

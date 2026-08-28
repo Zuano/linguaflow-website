@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "lv",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Savā jomā es strādāju daudzus gadus.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Savā"
+    },
+    {
+     "w": "mojom",
+     "t": "savā (manā)"
+    },
+    {
+     "w": "odbore",
+     "t": "jomā"
+    },
+    {
+     "w": "som",
+     "t": "esmu"
+    },
+    {
+     "w": "pracoval",
+     "t": "strādājis"
+    },
+    {
+     "w": "mnoho",
+     "t": "daudz"
+    },
+    {
+     "w": "rokov.",
+     "t": "gadu."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Pēc tam es atbraucu uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "som",
+     "t": "esmu"
+    },
+    {
+     "w": "prišiel",
+     "t": "atbraucis"
+    },
+    {
+     "w": "do",
+     "t": "uz"
+    },
+    {
+     "w": "novej",
+     "t": "jaunas"
+    },
+    {
+     "w": "krajiny.",
+     "t": "valsts."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Tagad"
+    },
+    {
+     "w": "sa",
+     "t": "(sevis)"
+    },
+    {
+     "w": "učím",
+     "t": "mācos"
+    },
+    {
+     "w": "jazyk.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Drīz es atkal strādāšu savā jomā.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Drīz"
+    },
+    {
+     "w": "budem",
+     "t": "būšu"
+    },
+    {
+     "w": "opäť",
+     "t": "atkal"
+    },
+    {
+     "w": "pracovať",
+     "t": "strādāt"
+    },
+    {
+     "w": "vo",
+     "t": "savā"
+    },
+    {
+     "w": "svojom",
+     "t": "savā"
+    },
+    {
+     "w": "odbore.",
+     "t": "jomā."
+    }
+   ]
+  }
+ ]
+}

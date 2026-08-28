@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "vi",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Tôi đã làm việc trong nghề của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "đã (nhấn mạnh)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "tôi đã làm việc",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "trong",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "nghề của tôi",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "trong nhiều năm",
+     "r": "li-sanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "nhiều.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "sau đó",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "tôi đã chuyển",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "đến",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "đất nước",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "mới.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Và bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "và bây giờ",
+     "r": "wa-al-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "tôi đang học",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "ngôn ngữ.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Và tôi sẽ sớm quay lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "và tôi sẽ quay lại",
+     "r": "wa-sa-aʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "sớm",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "đến (với)",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "công việc",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "trong",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "nghề của tôi.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

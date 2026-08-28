@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "sk",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Pracoval som mnoho rokov vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Som (pomocné-sloveso)"
+    },
+    {
+     "w": "trabajado",
+     "t": "pracoval"
+    },
+    {
+     "w": "muchos",
+     "t": "mnoho"
+    },
+    {
+     "w": "años",
+     "t": "rokov"
+    },
+    {
+     "w": "en",
+     "t": "vo"
+    },
+    {
+     "w": "mi",
+     "t": "svojej"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesii."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Potom som sa presťahoval do inej krajiny.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Potom"
+    },
+    {
+     "w": "me",
+     "t": "sa"
+    },
+    {
+     "w": "mudé",
+     "t": "presťahoval"
+    },
+    {
+     "w": "a",
+     "t": "do"
+    },
+    {
+     "w": "otro",
+     "t": "inej"
+    },
+    {
+     "w": "país.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Teraz"
+    },
+    {
+     "w": "estoy",
+     "t": "som (práve)"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "učiaci-sa"
+    },
+    {
+     "w": "el",
+     "t": "ten"
+    },
+    {
+     "w": "idioma.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Čoskoro sa vrátim k práci vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Čoskoro"
+    },
+    {
+     "w": "volveré",
+     "t": "vrátim-sa"
+    },
+    {
+     "w": "a",
+     "t": "k"
+    },
+    {
+     "w": "trabajar",
+     "t": "pracovať"
+    },
+    {
+     "w": "en",
+     "t": "vo"
+    },
+    {
+     "w": "mi",
+     "t": "svojej"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesii."
+    }
+   ]
+  }
+ ]
+}

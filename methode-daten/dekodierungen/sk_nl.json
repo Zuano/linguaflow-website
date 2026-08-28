@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "nl",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "In mijn vakgebied heb ik vele jaren gewerkt.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "In"
+    },
+    {
+     "w": "mojom",
+     "t": "mijn"
+    },
+    {
+     "w": "odbore",
+     "t": "vakgebied"
+    },
+    {
+     "w": "som",
+     "t": "heb (ik)"
+    },
+    {
+     "w": "pracoval",
+     "t": "gewerkt"
+    },
+    {
+     "w": "mnoho",
+     "t": "veel"
+    },
+    {
+     "w": "rokov.",
+     "t": "jaren."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Daarna kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Daarna"
+    },
+    {
+     "w": "som",
+     "t": "ben (ik)"
+    },
+    {
+     "w": "prišiel",
+     "t": "gekomen"
+    },
+    {
+     "w": "do",
+     "t": "naar"
+    },
+    {
+     "w": "novej",
+     "t": "nieuw"
+    },
+    {
+     "w": "krajiny.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Nu leer ik een taal.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nu"
+    },
+    {
+     "w": "sa",
+     "t": "(wederkerend-woord)"
+    },
+    {
+     "w": "učím",
+     "t": "leer (ik)"
+    },
+    {
+     "w": "jazyk.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Binnenkort zal ik weer in mijn vakgebied werken.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "budem",
+     "t": "zal (ik)"
+    },
+    {
+     "w": "opäť",
+     "t": "weer"
+    },
+    {
+     "w": "pracovať",
+     "t": "werken"
+    },
+    {
+     "w": "vo",
+     "t": "in"
+    },
+    {
+     "w": "svojom",
+     "t": "mijn (eigen)"
+    },
+    {
+     "w": "odbore.",
+     "t": "vakgebied."
+    }
+   ]
+  }
+ ]
+}

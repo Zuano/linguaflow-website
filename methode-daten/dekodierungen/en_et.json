@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "et",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Mina"
+    },
+    {
+     "w": "worked",
+     "t": "töötasin"
+    },
+    {
+     "w": "in",
+     "t": "omal"
+    },
+    {
+     "w": "my",
+     "t": "minu"
+    },
+    {
+     "w": "profession",
+     "t": "erialal"
+    },
+    {
+     "w": "for",
+     "t": "jooksul"
+    },
+    {
+     "w": "many",
+     "t": "palju"
+    },
+    {
+     "w": "years.",
+     "t": "aastaid."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Siis siirdusin uude riiki.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Siis"
+    },
+    {
+     "w": "I",
+     "t": "mina"
+    },
+    {
+     "w": "moved",
+     "t": "siirdusin"
+    },
+    {
+     "w": "to",
+     "t": "sisse"
+    },
+    {
+     "w": "a",
+     "t": "üks(riik)"
+    },
+    {
+     "w": "new",
+     "t": "uude"
+    },
+    {
+     "w": "country.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Nüüd"
+    },
+    {
+     "w": "I'm",
+     "t": "mina'olen"
+    },
+    {
+     "w": "learning",
+     "t": "õppimas"
+    },
+    {
+     "w": "the",
+     "t": "seda"
+    },
+    {
+     "w": "language.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Varsti hakkan taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Varsti"
+    },
+    {
+     "w": "I'll",
+     "t": "mina'saan"
+    },
+    {
+     "w": "be",
+     "t": "olema"
+    },
+    {
+     "w": "working",
+     "t": "töötamas"
+    },
+    {
+     "w": "in",
+     "t": "omal"
+    },
+    {
+     "w": "my",
+     "t": "minu"
+    },
+    {
+     "w": "profession",
+     "t": "erialal"
+    },
+    {
+     "w": "again.",
+     "t": "taas."
+    }
+   ]
+  }
+ ]
+}

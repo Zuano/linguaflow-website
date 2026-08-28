@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "vi",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Tôi đã làm việc trong nghề của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Tôi-đã (là)"
+    },
+    {
+     "w": "daudzus",
+     "t": "nhiều"
+    },
+    {
+     "w": "gadus",
+     "t": "năm"
+    },
+    {
+     "w": "strādājis",
+     "t": "làm-việc"
+    },
+    {
+     "w": "savā",
+     "t": "trong-của-mình"
+    },
+    {
+     "w": "profesijā.",
+     "t": "nghề."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "Sau"
+    },
+    {
+     "w": "tam",
+     "t": "đó"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "tôi-đã-chuyển"
+    },
+    {
+     "w": "uz",
+     "t": "đến"
+    },
+    {
+     "w": "jaunu",
+     "t": "mới"
+    },
+    {
+     "w": "valsti.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Bây giờ tôi đang học một ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "apgūstu",
+     "t": "tôi-đang-học"
+    },
+    {
+     "w": "valodu.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "atkal",
+     "t": "lại"
+    },
+    {
+     "w": "strādāšu",
+     "t": "tôi-sẽ-làm-việc"
+    },
+    {
+     "w": "savā",
+     "t": "trong-của-mình"
+    },
+    {
+     "w": "profesijā.",
+     "t": "nghề."
+    }
+   ]
+  }
+ ]
+}

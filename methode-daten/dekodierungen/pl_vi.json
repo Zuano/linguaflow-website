@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "vi",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Tôi đã làm việc trong nghề của mình suốt nhiều năm.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Trong-suốt"
+    },
+    {
+     "w": "wiele",
+     "t": "nhiều"
+    },
+    {
+     "w": "lat",
+     "t": "năm"
+    },
+    {
+     "w": "pracowałem",
+     "t": "tôi-đã-làm-việc"
+    },
+    {
+     "w": "w",
+     "t": "trong"
+    },
+    {
+     "w": "swoim",
+     "t": "của-mình"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "nghề."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Sau đó tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "tôi-đã-đến"
+    },
+    {
+     "w": "do",
+     "t": "đến"
+    },
+    {
+     "w": "nowego",
+     "t": "mới"
+    },
+    {
+     "w": "kraju.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "uczę",
+     "t": "tôi-học"
+    },
+    {
+     "w": "się",
+     "t": "(bản-thân)"
+    },
+    {
+     "w": "języka.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "znów",
+     "t": "lại"
+    },
+    {
+     "w": "będę",
+     "t": "tôi-sẽ"
+    },
+    {
+     "w": "pracował",
+     "t": "làm-việc"
+    },
+    {
+     "w": "w",
+     "t": "trong"
+    },
+    {
+     "w": "swoim",
+     "t": "của-mình"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "nghề."
+    }
+   ]
+  }
+ ]
+}

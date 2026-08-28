@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "et",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Pikki aastaid töötasin oma erialal.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Pikki"
+    },
+    {
+     "w": "leta",
+     "t": "aastaid"
+    },
+    {
+     "w": "sem",
+     "t": "olen (abisõna)"
+    },
+    {
+     "w": "delal",
+     "t": "töötanud"
+    },
+    {
+     "w": "v",
+     "t": "omal"
+    },
+    {
+     "w": "svojem",
+     "t": "omal"
+    },
+    {
+     "w": "poklicu.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Siis tulin uude riiki.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Siis"
+    },
+    {
+     "w": "sem",
+     "t": "olen (abisõna)"
+    },
+    {
+     "w": "prišel",
+     "t": "tulnud"
+    },
+    {
+     "w": "v",
+     "t": "sisse"
+    },
+    {
+     "w": "novo",
+     "t": "uude"
+    },
+    {
+     "w": "državo.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Nüüd"
+    },
+    {
+     "w": "se",
+     "t": "end (enesekohane)"
+    },
+    {
+     "w": "učim",
+     "t": "õpin"
+    },
+    {
+     "w": "jezika.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Peagi hakkan taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Peagi"
+    },
+    {
+     "w": "bom",
+     "t": "hakkan (tulen)"
+    },
+    {
+     "w": "spet",
+     "t": "taas"
+    },
+    {
+     "w": "delal",
+     "t": "töötama"
+    },
+    {
+     "w": "v",
+     "t": "omal"
+    },
+    {
+     "w": "svojem",
+     "t": "omal"
+    },
+    {
+     "w": "poklicu.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

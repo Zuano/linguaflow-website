@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "es",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Trabajé muchos años en mi especialidad.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Yo",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "muchos",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "años",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "trabajaba",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "en",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "mi-propia",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "especialidad.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Luego llegué a un nuevo país.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Luego",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "yo",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "llegué",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "a",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "nuevo",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "país.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Ahora",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "yo",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "estoy-aprendiendo",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "el-idioma.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Pronto volveré a trabajar en mi especialidad.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Pronto",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "yo",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "de-nuevo",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "empezaré",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "a-trabajar",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "en",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "mi-propia",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "especialidad.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

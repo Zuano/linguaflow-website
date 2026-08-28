@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "lt",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Aš dirbau savo profesijoje daugelį metų.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "jau",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "aš dirbau",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "-",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "savo profesijoje",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "metus (per)",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "daugelį.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Tada persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "tada",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "aš persikėliau",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "į",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "šalį",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "naują.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "O dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "o'dabar",
+     "r": "wal-ʾān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "aš mokausi",
+     "r": "ataʿallam"
+    },
+    {
+     "w": "اللغة.",
+     "t": "kalbos.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Ir netrukus grįšiu dirbti savo profesijoje.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "ir'aš'grįšiu",
+     "r": "wa-saʾaʿūd"
+    },
+    {
+     "w": "قريبًا",
+     "t": "netrukus",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "į",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "darbą",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "-",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "savo-profesijoje.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

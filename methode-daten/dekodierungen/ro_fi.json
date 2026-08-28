@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "fi",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Työskentelin monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Olen"
+    },
+    {
+     "w": "lucrat",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "mulți",
+     "t": "monta"
+    },
+    {
+     "w": "ani",
+     "t": "vuotta"
+    },
+    {
+     "w": "în",
+     "t": "(minun)"
+    },
+    {
+     "w": "meseria",
+     "t": "ammatissa"
+    },
+    {
+     "w": "mea.",
+     "t": "omassani."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Sitten"
+    },
+    {
+     "w": "m-am",
+     "t": "itseni'olen"
+    },
+    {
+     "w": "mutat",
+     "t": "muuttanut"
+    },
+    {
+     "w": "într-o",
+     "t": "johonkin"
+    },
+    {
+     "w": "țară",
+     "t": "maahan"
+    },
+    {
+     "w": "nouă.",
+     "t": "uuteen."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Nyt"
+    },
+    {
+     "w": "învăț",
+     "t": "opiskelen"
+    },
+    {
+     "w": "limba.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Pian työskentelen taas ammatissani.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "(ajan"
+    },
+    {
+     "w": "curând",
+     "t": "kuluessa)"
+    },
+    {
+     "w": "voi",
+     "t": "tulen"
+    },
+    {
+     "w": "lucra",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "din",
+     "t": "uudestaan"
+    },
+    {
+     "w": "nou",
+     "t": "(taas)"
+    },
+    {
+     "w": "în",
+     "t": "(minun)"
+    },
+    {
+     "w": "meseria",
+     "t": "ammatissa"
+    },
+    {
+     "w": "mea.",
+     "t": "omassani."
+    }
+   ]
+  }
+ ]
+}

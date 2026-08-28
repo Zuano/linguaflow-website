@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "ro",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Am lucrat în meseria mea timp de mulți ani.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Eu"
+    },
+    {
+     "w": "har",
+     "t": "am"
+    },
+    {
+     "w": "arbejdet",
+     "t": "lucrat"
+    },
+    {
+     "w": "i",
+     "t": "în"
+    },
+    {
+     "w": "mit",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "fag",
+     "t": "(a-mea)"
+    },
+    {
+     "w": "i",
+     "t": "timp-de"
+    },
+    {
+     "w": "mange",
+     "t": "mulți"
+    },
+    {
+     "w": "år.",
+     "t": "ani."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Apoi"
+    },
+    {
+     "w": "flyttede",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "jeg",
+     "t": "eu"
+    },
+    {
+     "w": "til",
+     "t": "în"
+    },
+    {
+     "w": "et",
+     "t": "o"
+    },
+    {
+     "w": "nyt",
+     "t": "nouă"
+    },
+    {
+     "w": "land.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Acum"
+    },
+    {
+     "w": "lærer",
+     "t": "învăț"
+    },
+    {
+     "w": "jeg",
+     "t": "eu"
+    },
+    {
+     "w": "sproget.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "În curând voi lucra din nou în meseria mea.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "În-curând"
+    },
+    {
+     "w": "skal",
+     "t": "voi"
+    },
+    {
+     "w": "jeg",
+     "t": "eu"
+    },
+    {
+     "w": "arbejde",
+     "t": "lucra"
+    },
+    {
+     "w": "i",
+     "t": "în"
+    },
+    {
+     "w": "mit",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "fag",
+     "t": "(a-mea)"
+    },
+    {
+     "w": "igen.",
+     "t": "din-nou."
+    }
+   ]
+  }
+ ]
+}

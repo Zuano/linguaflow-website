@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "zh",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "多年来我在自己的专业领域工作。",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "许多"
+    },
+    {
+     "w": "éven",
+     "t": "年"
+    },
+    {
+     "w": "át",
+     "t": "经过(在…期间)"
+    },
+    {
+     "w": "a",
+     "t": "（这个）"
+    },
+    {
+     "w": "szakmámban",
+     "t": "在我的专业里"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "我工作了。"
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "后来我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "然后"
+    },
+    {
+     "w": "egy",
+     "t": "一个"
+    },
+    {
+     "w": "új",
+     "t": "新的"
+    },
+    {
+     "w": "országba",
+     "t": "到（这个）国家"
+    },
+    {
+     "w": "költöztem.",
+     "t": "我搬家了。"
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "现在我在学这门语言。",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "现在"
+    },
+    {
+     "w": "a",
+     "t": "（这门）"
+    },
+    {
+     "w": "nyelvet",
+     "t": "语言（宾格）"
+    },
+    {
+     "w": "tanulom.",
+     "t": "我在学习它。"
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "不久我将重新在自己的专业领域工作。",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "不久"
+    },
+    {
+     "w": "újra",
+     "t": "再次"
+    },
+    {
+     "w": "a",
+     "t": "（这个）"
+    },
+    {
+     "w": "szakmámban",
+     "t": "在我的专业里"
+    },
+    {
+     "w": "fogok",
+     "t": "我将（要）"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "工作。"
+    }
+   ]
+  }
+ ]
+}

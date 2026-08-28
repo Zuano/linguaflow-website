@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "he",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "עבדתי במשך שנים רבות בתחום שלי.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "אני-נמצא(מצב-הווה)"
+    },
+    {
+     "w": "palju",
+     "t": "הרבה"
+    },
+    {
+     "w": "aastaid",
+     "t": "שנים"
+    },
+    {
+     "w": "oma",
+     "t": "שלי"
+    },
+    {
+     "w": "erialal",
+     "t": "בתחום-מקצועי"
+    },
+    {
+     "w": "töötanud.",
+     "t": "עבדתי."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "אז עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "אז"
+    },
+    {
+     "w": "kolisin",
+     "t": "עברתי-לגור"
+    },
+    {
+     "w": "uude",
+     "t": "לחדשה"
+    },
+    {
+     "w": "riiki.",
+     "t": "למדינה."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "עכשיו אני לומד שפה.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "עכשיו"
+    },
+    {
+     "w": "õpin",
+     "t": "אני-לומד"
+    },
+    {
+     "w": "keelt.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "בקרוב אתחיל לעבוד שוב בתחום שלי.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "בקרוב"
+    },
+    {
+     "w": "hakkan",
+     "t": "אתחיל"
+    },
+    {
+     "w": "jälle",
+     "t": "שוב"
+    },
+    {
+     "w": "oma",
+     "t": "שלי"
+    },
+    {
+     "w": "erialal",
+     "t": "בתחום-מקצועי"
+    },
+    {
+     "w": "töötama.",
+     "t": "לעבוד."
+    }
+   ]
+  }
+ ]
+}

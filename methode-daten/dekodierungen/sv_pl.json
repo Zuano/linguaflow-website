@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "pl",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Pracowałem wiele lat w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Ja"
+    },
+    {
+     "w": "har",
+     "t": "mam (czasownik-pomocniczy)"
+    },
+    {
+     "w": "arbetat",
+     "t": "pracowane (pracowałem)"
+    },
+    {
+     "w": "många",
+     "t": "wiele"
+    },
+    {
+     "w": "år",
+     "t": "lat"
+    },
+    {
+     "w": "inom",
+     "t": "w-obrębie"
+    },
+    {
+     "w": "mitt",
+     "t": "moim"
+    },
+    {
+     "w": "yrke.",
+     "t": "zawodzie."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Potem"
+    },
+    {
+     "w": "flyttade",
+     "t": "przeprowadziłem-się"
+    },
+    {
+     "w": "jag",
+     "t": "ja"
+    },
+    {
+     "w": "till",
+     "t": "do"
+    },
+    {
+     "w": "ett",
+     "t": "jednego"
+    },
+    {
+     "w": "nytt",
+     "t": "nowego"
+    },
+    {
+     "w": "land.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Teraz"
+    },
+    {
+     "w": "lär",
+     "t": "uczę"
+    },
+    {
+     "w": "jag",
+     "t": "ja"
+    },
+    {
+     "w": "mig",
+     "t": "się"
+    },
+    {
+     "w": "språket.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Wkrótce zacznę znowu pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "ska",
+     "t": "będę (czasownik-pomocniczy)"
+    },
+    {
+     "w": "jag",
+     "t": "ja"
+    },
+    {
+     "w": "börja",
+     "t": "zaczynać"
+    },
+    {
+     "w": "arbeta",
+     "t": "pracować"
+    },
+    {
+     "w": "inom",
+     "t": "w-obrębie"
+    },
+    {
+     "w": "mitt",
+     "t": "moim"
+    },
+    {
+     "w": "yrke",
+     "t": "zawodzie"
+    },
+    {
+     "w": "igen.",
+     "t": "znowu."
+    }
+   ]
+  }
+ ]
+}

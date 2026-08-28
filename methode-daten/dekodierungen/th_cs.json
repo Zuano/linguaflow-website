@@ -1,0 +1,227 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "cs",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆนี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Pracuji v oboru své profese už mnoho let.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "já",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "pracuji",
+     "r": "tham ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "v",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "obor",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profese",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "(possesivo)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "já",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "už",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "mnoho",
+     "r": "laai"
+    },
+    {
+     "w": "ปี",
+     "t": "let",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "(perfektum)",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Poté jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "หลังจาก",
+     "t": "po",
+     "r": "lang jaak"
+    },
+    {
+     "w": "นั้น",
+     "t": "tom",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "já",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "se-přestěhuji",
+     "r": "yaai"
+    },
+    {
+     "w": "ไป",
+     "t": "jít-směrem",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "bydlet",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "země",
+     "r": "prathes"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nová",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Momentálně studuju jazyky.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "nyní",
+     "r": "toon-nii"
+    },
+    {
+     "w": "ผม",
+     "t": "já",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "právě-(durativum)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "učit-se",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "jazyk",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(durativum)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆนี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "A brzy se vrátím do své profese.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "a",
+     "r": "lae"
+    },
+    {
+     "w": "เร็วๆนี้",
+     "t": "brzy",
+     "r": "rew-rew-nii"
+    },
+    {
+     "w": "ผม",
+     "t": "já",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(futurum)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "vrátit-se",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(směr-zpět)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "pracovat",
+     "r": "tham-ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "v",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "obor",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profese",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "(possesivo)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "já",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "znovu",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "(krát/čas)",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

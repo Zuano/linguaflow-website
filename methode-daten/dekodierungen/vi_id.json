@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "id",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Saya sudah bekerja di bidang profesi saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Saya"
+    },
+    {
+     "w": "đã",
+     "t": "sudah"
+    },
+    {
+     "w": "làm",
+     "t": "melakukan"
+    },
+    {
+     "w": "việc",
+     "t": "pekerjaan"
+    },
+    {
+     "w": "trong",
+     "t": "di-dalam"
+    },
+    {
+     "w": "ngành",
+     "t": "bidang"
+    },
+    {
+     "w": "nghề",
+     "t": "profesi"
+    },
+    {
+     "w": "của",
+     "t": "milik"
+    },
+    {
+     "w": "mình",
+     "t": "sendiri"
+    },
+    {
+     "w": "nhiều",
+     "t": "banyak"
+    },
+    {
+     "w": "năm.",
+     "t": "tahun."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Setelah itu, saya pergi ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Setelah"
+    },
+    {
+     "w": "đó,",
+     "t": "itu,"
+    },
+    {
+     "w": "tôi",
+     "t": "saya"
+    },
+    {
+     "w": "đến",
+     "t": "pergi-ke"
+    },
+    {
+     "w": "một",
+     "t": "sebuah"
+    },
+    {
+     "w": "đất",
+     "t": "tanah"
+    },
+    {
+     "w": "nước",
+     "t": "air (negara)"
+    },
+    {
+     "w": "mới.",
+     "t": "baru."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Saat ini, saya sedang belajar bahasa di sini.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Saat"
+    },
+    {
+     "w": "tại,",
+     "t": "ini,"
+    },
+    {
+     "w": "tôi",
+     "t": "saya"
+    },
+    {
+     "w": "đang",
+     "t": "sedang"
+    },
+    {
+     "w": "học",
+     "t": "belajar"
+    },
+    {
+     "w": "ngôn",
+     "t": "lidah"
+    },
+    {
+     "w": "ngữ",
+     "t": "bahasa"
+    },
+    {
+     "w": "ở",
+     "t": "di"
+    },
+    {
+     "w": "đây.",
+     "t": "sini."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Ke depannya, saya akan melanjutkan bekerja di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Akan-segera"
+    },
+    {
+     "w": "tới,",
+     "t": "datang,"
+    },
+    {
+     "w": "tôi",
+     "t": "saya"
+    },
+    {
+     "w": "sẽ",
+     "t": "akan"
+    },
+    {
+     "w": "tiếp",
+     "t": "lanjut"
+    },
+    {
+     "w": "tục",
+     "t": "sambung"
+    },
+    {
+     "w": "làm",
+     "t": "melakukan"
+    },
+    {
+     "w": "việc",
+     "t": "pekerjaan"
+    },
+    {
+     "w": "trong",
+     "t": "di-dalam"
+    },
+    {
+     "w": "ngành",
+     "t": "bidang"
+    },
+    {
+     "w": "nghề",
+     "t": "profesi"
+    },
+    {
+     "w": "của",
+     "t": "milik"
+    },
+    {
+     "w": "mình.",
+     "t": "sendiri."
+    }
+   ]
+  }
+ ]
+}

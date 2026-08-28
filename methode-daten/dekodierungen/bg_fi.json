@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "fi",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Olen työskennellyt pitkiä vuosia omalla ammattialallani.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "työskennellyt",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "olen",
+     "r": "sam"
+    },
+    {
+     "w": "дълги",
+     "t": "pitkiä",
+     "r": "dalgi"
+    },
+    {
+     "w": "години",
+     "t": "vuosia",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "omassa",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "minun",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "ammatissani.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Sitten tulin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "sitten",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "tulin",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "-an",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "uuteen",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "maahan.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "nyt",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "opiskelen",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "kieltä.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Pian työskentelen taas omalla ammattialallani.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "pian",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "taas",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "tulen",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "työskentelemään",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "omassa",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "minun",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "ammatissani.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

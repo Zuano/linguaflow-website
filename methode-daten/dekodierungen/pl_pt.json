@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "pt",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Durante muitos anos trabalhei na minha profissão.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Durante"
+    },
+    {
+     "w": "wiele",
+     "t": "muitos"
+    },
+    {
+     "w": "lat",
+     "t": "anos"
+    },
+    {
+     "w": "pracowałem",
+     "t": "eu-trabalhava"
+    },
+    {
+     "w": "w",
+     "t": "na"
+    },
+    {
+     "w": "swoim",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profissão."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Depois vim para um novo país.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Depois"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "eu-vim (de-carro/veículo)"
+    },
+    {
+     "w": "do",
+     "t": "para"
+    },
+    {
+     "w": "nowego",
+     "t": "novo"
+    },
+    {
+     "w": "kraju.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Agora estou a aprender a língua.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Agora"
+    },
+    {
+     "w": "uczę",
+     "t": "eu-aprendo"
+    },
+    {
+     "w": "się",
+     "t": "-me (a-mim-mesmo)"
+    },
+    {
+     "w": "języka.",
+     "t": "da-língua."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Em breve voltarei a trabalhar na minha profissão.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Em-breve"
+    },
+    {
+     "w": "znów",
+     "t": "novamente"
+    },
+    {
+     "w": "będę",
+     "t": "eu-vou (estar)"
+    },
+    {
+     "w": "pracował",
+     "t": "a-trabalhar"
+    },
+    {
+     "w": "w",
+     "t": "na"
+    },
+    {
+     "w": "swoim",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profissão."
+    }
+   ]
+  }
+ ]
+}

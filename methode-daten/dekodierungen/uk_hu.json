@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "hu",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Én",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "sok",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "évig",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "dolgoztam",
+     "r": "pratsiuvav"
+    },
+    {
+     "w": "за",
+     "t": "(a) szerint",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "saját",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "szakmám.",
+     "r": "spetsialʹnistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Aztán egy új országba érkeztem.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Aztán",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "én",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "megérkeztem",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "-ba/-be",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "új",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "országba.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Most nyelvet tanulok.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Most",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "én",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "tanulom",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "a nyelvet.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Hamarosan újra elkezdek dolgozni a szakmámban.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Hamarosan",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "én",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "újra",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "elkezdek",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "dolgozni",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "(a) szerint",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "saját",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "szakmám.",
+     "r": "spetsialʹnistyu."
+    }
+   ]
+  }
+ ]
+}

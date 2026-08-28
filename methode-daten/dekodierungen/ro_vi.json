@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "vi",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Tôi đã làm việc nhiều năm trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Tôi-đã"
+    },
+    {
+     "w": "lucrat",
+     "t": "làm-việc"
+    },
+    {
+     "w": "mulți",
+     "t": "nhiều"
+    },
+    {
+     "w": "ani",
+     "t": "năm"
+    },
+    {
+     "w": "în",
+     "t": "trong"
+    },
+    {
+     "w": "meseria",
+     "t": "nghề"
+    },
+    {
+     "w": "mea.",
+     "t": "của-tôi."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Sau đó tôi đã chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "m-am",
+     "t": "tôi'đã"
+    },
+    {
+     "w": "mutat",
+     "t": "chuyển-đi"
+    },
+    {
+     "w": "într-o",
+     "t": "vào-một"
+    },
+    {
+     "w": "țară",
+     "t": "đất-nước"
+    },
+    {
+     "w": "nouă.",
+     "t": "mới."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "învăț",
+     "t": "tôi-học"
+    },
+    {
+     "w": "limba.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Trong"
+    },
+    {
+     "w": "curând",
+     "t": "thời-gian-ngắn-tới"
+    },
+    {
+     "w": "voi",
+     "t": "tôi-sẽ"
+    },
+    {
+     "w": "lucra",
+     "t": "làm-việc"
+    },
+    {
+     "w": "din",
+     "t": "lại-một-lần"
+    },
+    {
+     "w": "nou",
+     "t": "nữa"
+    },
+    {
+     "w": "în",
+     "t": "trong"
+    },
+    {
+     "w": "meseria",
+     "t": "nghề"
+    },
+    {
+     "w": "mea.",
+     "t": "của-tôi."
+    }
+   ]
+  }
+ ]
+}

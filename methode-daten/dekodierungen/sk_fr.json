@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "fr",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "J'ai travaillé dans mon domaine pendant de nombreuses années.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Dans"
+    },
+    {
+     "w": "mojom",
+     "t": "mon"
+    },
+    {
+     "w": "odbore",
+     "t": "domaine"
+    },
+    {
+     "w": "som",
+     "t": "j'ai (auxiliaire)"
+    },
+    {
+     "w": "pracoval",
+     "t": "travaillé"
+    },
+    {
+     "w": "mnoho",
+     "t": "beaucoup-de"
+    },
+    {
+     "w": "rokov.",
+     "t": "années."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Ensuite, je suis arrivé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Ensuite"
+    },
+    {
+     "w": "som",
+     "t": "je-suis (auxiliaire)"
+    },
+    {
+     "w": "prišiel",
+     "t": "arrivé"
+    },
+    {
+     "w": "do",
+     "t": "dans"
+    },
+    {
+     "w": "novej",
+     "t": "nouveau"
+    },
+    {
+     "w": "krajiny.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Maintenant"
+    },
+    {
+     "w": "sa",
+     "t": "(réfléchi)"
+    },
+    {
+     "w": "učím",
+     "t": "j'apprends"
+    },
+    {
+     "w": "jazyk.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Bientôt, je vais de nouveau travailler dans mon domaine.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Bientôt"
+    },
+    {
+     "w": "budem",
+     "t": "je-vais (futur)"
+    },
+    {
+     "w": "opäť",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "pracovať",
+     "t": "travailler"
+    },
+    {
+     "w": "vo",
+     "t": "dans"
+    },
+    {
+     "w": "svojom",
+     "t": "mon"
+    },
+    {
+     "w": "odbore.",
+     "t": "domaine."
+    }
+   ]
+  }
+ ]
+}

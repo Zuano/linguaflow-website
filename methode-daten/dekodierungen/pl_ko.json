@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "ko",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "저는 오랫동안 제 직업 분야에서 일했습니다.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "동안"
+    },
+    {
+     "w": "wiele",
+     "t": "많은"
+    },
+    {
+     "w": "lat",
+     "t": "해(년)를"
+    },
+    {
+     "w": "pracowałem",
+     "t": "저는-일했다(남성)"
+    },
+    {
+     "w": "w",
+     "t": "~에서"
+    },
+    {
+     "w": "swoim",
+     "t": "자신의"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "직업(에서)."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "그 후 저는 새로운 나라로 왔습니다.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "그 후"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "저는-도착했다(남성)"
+    },
+    {
+     "w": "do",
+     "t": "~로"
+    },
+    {
+     "w": "nowego",
+     "t": "새로운"
+    },
+    {
+     "w": "kraju.",
+     "t": "나라(로)."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "지금 저는 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "지금"
+    },
+    {
+     "w": "uczę",
+     "t": "배우다(저는)"
+    },
+    {
+     "w": "się",
+     "t": "자신을(재귀)"
+    },
+    {
+     "w": "języka.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "곧 저는 다시 제 직업 분야에서 일하게 될 것입니다.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "곧"
+    },
+    {
+     "w": "znów",
+     "t": "다시"
+    },
+    {
+     "w": "będę",
+     "t": "저는-될-것이다"
+    },
+    {
+     "w": "pracował",
+     "t": "일하는-것(남성)"
+    },
+    {
+     "w": "w",
+     "t": "~에서"
+    },
+    {
+     "w": "swoim",
+     "t": "자신의"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "직업(에서)."
+    }
+   ]
+  }
+ ]
+}

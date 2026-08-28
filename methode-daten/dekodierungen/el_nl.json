@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "nl",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Ik heb vele jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Ik-werkte",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "voor",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "veel",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "jaren",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "in-het",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "vak",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mijn.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Daarna kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "In-de",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "vervolg,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "kwam-ik",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "naar",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "een",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "nieuw",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "land.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Nu",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "leer-ik",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "de",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "taal.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Binnenkort zal ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Binnenkort",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "zal",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "opnieuw-werken",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "in-het",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "vak",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mijn.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

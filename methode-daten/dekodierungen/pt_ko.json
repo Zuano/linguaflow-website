@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "ko",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "저는 제 직업에서 오랫동안 일했습니다.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "나는-일했다"
+    },
+    {
+     "w": "muitos",
+     "t": "많은"
+    },
+    {
+     "w": "anos",
+     "t": "해(년)들을"
+    },
+    {
+     "w": "na",
+     "t": "~에서"
+    },
+    {
+     "w": "minha",
+     "t": "나의"
+    },
+    {
+     "w": "profissão.",
+     "t": "직업."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "그 후, 저는 새로운 나라로 왔습니다.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "그 후에,"
+    },
+    {
+     "w": "vim",
+     "t": "나는-왔다"
+    },
+    {
+     "w": "para",
+     "t": "~로"
+    },
+    {
+     "w": "um",
+     "t": "하나의"
+    },
+    {
+     "w": "novo",
+     "t": "새로운"
+    },
+    {
+     "w": "país.",
+     "t": "나라."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "지금"
+    },
+    {
+     "w": "estou",
+     "t": "나는-있다"
+    },
+    {
+     "w": "a",
+     "t": "(진행형-표시)"
+    },
+    {
+     "w": "aprender",
+     "t": "배우는-것"
+    },
+    {
+     "w": "a",
+     "t": "그"
+    },
+    {
+     "w": "língua.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "곧, 저는 제 직업으로 다시 돌아가 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "~안에"
+    },
+    {
+     "w": "breve,",
+     "t": "곧,"
+    },
+    {
+     "w": "voltarei",
+     "t": "나는-다시-할-것이다"
+    },
+    {
+     "w": "a",
+     "t": "~하기를"
+    },
+    {
+     "w": "trabalhar",
+     "t": "일하는-것을"
+    },
+    {
+     "w": "na",
+     "t": "~에서"
+    },
+    {
+     "w": "minha",
+     "t": "나의"
+    },
+    {
+     "w": "profissão.",
+     "t": "직업."
+    }
+   ]
+  }
+ ]
+}

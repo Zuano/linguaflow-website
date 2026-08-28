@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "el",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Έχω δουλέψει στον τομέα μου πολλά χρόνια.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Έχω"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "alallani",
+     "t": "στον-τομέα-μου"
+    },
+    {
+     "w": "monta",
+     "t": "πολλά"
+    },
+    {
+     "w": "vuotta.",
+     "t": "χρόνια."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Έπειτα μετακόμισα σε νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "muutin",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "uuteen",
+     "t": "σε-νέα"
+    },
+    {
+     "w": "maahan.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Τώρα σπουδάζω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Τώρα"
+    },
+    {
+     "w": "opiskelen",
+     "t": "σπουδάζω"
+    },
+    {
+     "w": "kieltä.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Σύντομα σκοπεύω να συνεχίσω να εργάζομαι στον τομέα μου.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "aion",
+     "t": "σκοπεύω"
+    },
+    {
+     "w": "jatkaa",
+     "t": "να-συνεχίσω"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "το-εργάζεσθαι (τη-δουλειά)"
+    },
+    {
+     "w": "alallani.",
+     "t": "στον-τομέα-μου."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "lt",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Aš daug metų dirbau pagal savo specialybę.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Aš",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "daug",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "metų",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "dirbau",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "pagal",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "savo",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "specialybę.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Vėliau aš atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Vėliau",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "aš",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "atvykau",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "į",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "naują",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "šalį.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Dabar",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "aš",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "mokausi",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "kalbos.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Netrukus aš vėl pradėsiu dirbti pagal savo specialybę.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Netrukus",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "aš",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "vėl",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "pradėsiu",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "dirbti",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "pagal",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "savo",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "specialybę.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

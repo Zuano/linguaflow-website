@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "uk",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Я довгі роки працював у своїй професії.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "У-моїй-професії"
+    },
+    {
+     "w": "uzun",
+     "t": "довгі"
+    },
+    {
+     "w": "yıllar",
+     "t": "роки"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "я-працював."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Потім я приїхав у нову країну.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "потім"
+    },
+    {
+     "w": "yeni",
+     "t": "нову"
+    },
+    {
+     "w": "bir",
+     "t": "одну (артикль)"
+    },
+    {
+     "w": "ülkeye",
+     "t": "у-країну"
+    },
+    {
+     "w": "geldim.",
+     "t": "я-приїхав."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Тепер я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "тепер"
+    },
+    {
+     "w": "dili",
+     "t": "мову"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "я-вивчаю."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Скоро я знову почну працювати у своїй професії.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "скоро"
+    },
+    {
+     "w": "tekrar",
+     "t": "знову"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "у-моїй-професії"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "працювати"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "я-почну."
+    }
+   ]
+  }
+ ]
+}

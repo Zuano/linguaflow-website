@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "da",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Jeg har arbejdet i mange år i mit fag.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Jeg-har"
+    },
+    {
+     "w": "lavorato",
+     "t": "arbejdet"
+    },
+    {
+     "w": "per",
+     "t": "i"
+    },
+    {
+     "w": "molti",
+     "t": "mange"
+    },
+    {
+     "w": "anni",
+     "t": "år"
+    },
+    {
+     "w": "nella",
+     "t": "i-den"
+    },
+    {
+     "w": "mia",
+     "t": "min"
+    },
+    {
+     "w": "professione.",
+     "t": "profession."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Bagefter flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Bagefter"
+    },
+    {
+     "w": "mi",
+     "t": "mig"
+    },
+    {
+     "w": "sono",
+     "t": "er"
+    },
+    {
+     "w": "trasferito",
+     "t": "flyttet"
+    },
+    {
+     "w": "in",
+     "t": "til"
+    },
+    {
+     "w": "un",
+     "t": "et"
+    },
+    {
+     "w": "nuovo",
+     "t": "nyt"
+    },
+    {
+     "w": "Paese.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Nu er jeg ved at lære sproget.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Nu"
+    },
+    {
+     "w": "sto",
+     "t": "er-jeg"
+    },
+    {
+     "w": "imparando",
+     "t": "ved-at-lære"
+    },
+    {
+     "w": "la",
+     "t": "det"
+    },
+    {
+     "w": "lingua.",
+     "t": "sprog."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Snart vender jeg tilbage til at arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Snart"
+    },
+    {
+     "w": "tornerò",
+     "t": "vender-jeg-tilbage"
+    },
+    {
+     "w": "a",
+     "t": "til"
+    },
+    {
+     "w": "lavorare",
+     "t": "at-arbejde"
+    },
+    {
+     "w": "nella",
+     "t": "i-den"
+    },
+    {
+     "w": "mia",
+     "t": "min"
+    },
+    {
+     "w": "professione.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

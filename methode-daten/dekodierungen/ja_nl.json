@@ -1,0 +1,192 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "nl",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Ik heb jaren lang in mijn beroep gewerkt.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "ik",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(onderwerp)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "vele-jaren,",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分",
+     "t": "zelf",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "van",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "beroep",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "in",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "werkzaam",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "heb-gewerkt.",
+     "r": "hataraite-kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Daarna ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "die",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "na,",
+     "r": "ato,"
+    },
+    {
+     "w": "新しい",
+     "t": "nieuwe",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "land",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "naar",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "ben-verhuisd.",
+     "r": "irisumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Nu studeer ik de taal van dat land.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "nu",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(onderwerp)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "die",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "land",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "van",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "taal",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(voorwerp)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "ben-aan-het-leren.",
+     "r": "manande-imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Binnenkort begin ik weer in mijn beroep te werken.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "binnenkort",
+     "r": "mousugu"
+    },
+    {
+     "w": "また、",
+     "t": "weer,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "zelf",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "van",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "beroep",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "in",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "begin-te-werken",
+     "r": "hatarakihajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "plan",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "is.",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

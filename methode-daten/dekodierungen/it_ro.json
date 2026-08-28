@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "ro",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Am lucrat mulți ani în profesia mea.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Am"
+    },
+    {
+     "w": "lavorato",
+     "t": "lucrat"
+    },
+    {
+     "w": "per",
+     "t": "pentru"
+    },
+    {
+     "w": "molti",
+     "t": "mulți"
+    },
+    {
+     "w": "anni",
+     "t": "ani"
+    },
+    {
+     "w": "nella",
+     "t": "în-a"
+    },
+    {
+     "w": "mia",
+     "t": "mea"
+    },
+    {
+     "w": "professione.",
+     "t": "profesie."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Apoi"
+    },
+    {
+     "w": "mi",
+     "t": "mă"
+    },
+    {
+     "w": "sono",
+     "t": "am"
+    },
+    {
+     "w": "trasferito",
+     "t": "mutat"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "un",
+     "t": "o"
+    },
+    {
+     "w": "nuovo",
+     "t": "nouă"
+    },
+    {
+     "w": "Paese.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Acum"
+    },
+    {
+     "w": "sto",
+     "t": "stau (sunt-în-curs)"
+    },
+    {
+     "w": "imparando",
+     "t": "învățând"
+    },
+    {
+     "w": "la",
+     "t": "(pe)"
+    },
+    {
+     "w": "lingua.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "În curând mă voi întoarce să lucrez în profesia mea.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "În-curând"
+    },
+    {
+     "w": "tornerò",
+     "t": "mă-voi-întoarce"
+    },
+    {
+     "w": "a",
+     "t": "să"
+    },
+    {
+     "w": "lavorare",
+     "t": "lucrez"
+    },
+    {
+     "w": "nella",
+     "t": "în-a"
+    },
+    {
+     "w": "mia",
+     "t": "mea"
+    },
+    {
+     "w": "professione.",
+     "t": "profesie."
+    }
+   ]
+  }
+ ]
+}

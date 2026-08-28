@@ -1,0 +1,232 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "sl",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Delal sem v svoji strokovni panogi že več let.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "jaz",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "delam",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "v",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "panoga",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "strokovni",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "od",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "mene",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(že)",
+     "r": "maa"
+    },
+    {
+     "w": "หลายปี",
+     "t": "več-let",
+     "r": "laaipi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "(je-preteklost)",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "nato",
+     "r": "lang"
+    },
+    {
+     "w": "จาก",
+     "t": "(od)",
+     "r": "jak"
+    },
+    {
+     "w": "นั้น",
+     "t": "tega",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "jaz",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "se-preseljujem",
+     "r": "yaai"
+    },
+    {
+     "w": "ไป",
+     "t": "(smer)",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "bivam",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "država",
+     "r": "prathets"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nova",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Trenutno se učim jezik.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "trenutno",
+     "r": "tonn-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "jaz",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(trajnost)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "se-učim",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "jezik",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(Wortteil)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "In kmalu se bom vrnil, da bi spet delal v svoji strokovni panogi.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "in",
+     "r": "ae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "hitro-hitro",
+     "r": "rew-rew"
+    },
+    {
+     "w": "นี้",
+     "t": "sedaj",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "jaz",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(prihodnost)",
+     "r": "ja"
+    },
+    {
+     "w": "กลับ",
+     "t": "se-vrnem",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(vrtoče-se)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "delam",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "v",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "panoga",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "strokovni",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "od",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "mene",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "spet",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "(krat)",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

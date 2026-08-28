@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "fi",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Työskentelin monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "työskentelin",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "vuosia",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "monta",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "ammatissa",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "minun.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Sen jälkeen saavuin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "sen jälkeen",
+     "r": "le-akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "(siitä)",
+     "r": "mikén"
+    },
+    {
+     "w": "הגעתי",
+     "t": "saavuin",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "maahan",
+     "r": "le-medina"
+    },
+    {
+     "w": "חדשה.",
+     "t": "uuteen.",
+     "r": "khadashá."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "nyt",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "minä",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "opiskelen",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(kohde)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "kielen.",
+     "r": "ha-safá."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Pian palaan työskentelemään ammatissani.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "pian",
+     "r": "be-karóv"
+    },
+    {
+     "w": "אחזור",
+     "t": "palaan",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "työskentelemään",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "ammatissa",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "minun.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

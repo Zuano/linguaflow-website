@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "pt",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Eu trabalhei na minha profissão durante muitos anos.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Eu"
+    },
+    {
+     "w": "đã",
+     "t": "(passado)"
+    },
+    {
+     "w": "làm",
+     "t": "fazer"
+    },
+    {
+     "w": "việc",
+     "t": "trabalho"
+    },
+    {
+     "w": "trong",
+     "t": "em/na"
+    },
+    {
+     "w": "ngành",
+     "t": "área"
+    },
+    {
+     "w": "nghề",
+     "t": "profissão"
+    },
+    {
+     "w": "của",
+     "t": "de"
+    },
+    {
+     "w": "mình",
+     "t": "mim-mesmo"
+    },
+    {
+     "w": "nhiều",
+     "t": "muitos"
+    },
+    {
+     "w": "năm.",
+     "t": "anos."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Depois, eu vim para um país novo.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Depois"
+    },
+    {
+     "w": "đó,",
+     "t": "disso,"
+    },
+    {
+     "w": "tôi",
+     "t": "eu"
+    },
+    {
+     "w": "đến",
+     "t": "vim/cheguei"
+    },
+    {
+     "w": "một",
+     "t": "um"
+    },
+    {
+     "w": "đất",
+     "t": "terra"
+    },
+    {
+     "w": "nước",
+     "t": "país (água)"
+    },
+    {
+     "w": "mới.",
+     "t": "novo."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Atualmente, estou aprendendo o idioma aqui.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Atual"
+    },
+    {
+     "w": "tại,",
+     "t": "-mente,"
+    },
+    {
+     "w": "tôi",
+     "t": "eu"
+    },
+    {
+     "w": "đang",
+     "t": "estou (a)"
+    },
+    {
+     "w": "học",
+     "t": "estudar"
+    },
+    {
+     "w": "ngôn",
+     "t": "língua"
+    },
+    {
+     "w": "ngữ",
+     "t": "idioma"
+    },
+    {
+     "w": "ở",
+     "t": "em"
+    },
+    {
+     "w": "đây.",
+     "t": "aqui."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Em breve, vou continuar a trabalhar na minha profissão.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Em-breve"
+    },
+    {
+     "w": "tới,",
+     "t": "-vindouro,"
+    },
+    {
+     "w": "tôi",
+     "t": "eu"
+    },
+    {
+     "w": "sẽ",
+     "t": "vou (futuro)"
+    },
+    {
+     "w": "tiếp",
+     "t": "continuar"
+    },
+    {
+     "w": "tục",
+     "t": "-continuar"
+    },
+    {
+     "w": "làm",
+     "t": "fazer"
+    },
+    {
+     "w": "việc",
+     "t": "trabalho"
+    },
+    {
+     "w": "trong",
+     "t": "em/na"
+    },
+    {
+     "w": "ngành",
+     "t": "área"
+    },
+    {
+     "w": "nghề",
+     "t": "profissão"
+    },
+    {
+     "w": "của",
+     "t": "de"
+    },
+    {
+     "w": "mình.",
+     "t": "mim-mesmo."
+    }
+   ]
+  }
+ ]
+}

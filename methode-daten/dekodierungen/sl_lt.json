@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "lt",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Ilgus metus dirbau savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Ilgus"
+    },
+    {
+     "w": "leta",
+     "t": "metus"
+    },
+    {
+     "w": "sem",
+     "t": "(aš)"
+    },
+    {
+     "w": "delal",
+     "t": "dirbau"
+    },
+    {
+     "w": "v",
+     "t": "savo"
+    },
+    {
+     "w": "svojem",
+     "t": "(nuosavoje)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profesijoje."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Paskui atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Paskui"
+    },
+    {
+     "w": "sem",
+     "t": "(aš)"
+    },
+    {
+     "w": "prišel",
+     "t": "atvykau"
+    },
+    {
+     "w": "v",
+     "t": "į"
+    },
+    {
+     "w": "novo",
+     "t": "naują"
+    },
+    {
+     "w": "državo.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Dabar"
+    },
+    {
+     "w": "se",
+     "t": "(refleksinis)"
+    },
+    {
+     "w": "učim",
+     "t": "mokausi"
+    },
+    {
+     "w": "jezika.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Netrukus vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Netrukus"
+    },
+    {
+     "w": "bom",
+     "t": "(aš)-būsiu"
+    },
+    {
+     "w": "spet",
+     "t": "vėl"
+    },
+    {
+     "w": "delal",
+     "t": "dirbantis"
+    },
+    {
+     "w": "v",
+     "t": "savo"
+    },
+    {
+     "w": "svojem",
+     "t": "(nuosavoje)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profesijoje."
+    }
+   ]
+  }
+ ]
+}

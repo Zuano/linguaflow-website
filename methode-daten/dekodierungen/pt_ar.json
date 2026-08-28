@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "ar",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "عملت سنوات كثيرة في مهنتي.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "عملتُ"
+    },
+    {
+     "w": "muitos",
+     "t": "كثيرة"
+    },
+    {
+     "w": "anos",
+     "t": "سنوات"
+    },
+    {
+     "w": "na",
+     "t": "في"
+    },
+    {
+     "w": "minha",
+     "t": "مهنتي (خاصتي)"
+    },
+    {
+     "w": "profissão.",
+     "t": "مهنة."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "بعد ذلك، جئت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "بعد-ذلك،"
+    },
+    {
+     "w": "vim",
+     "t": "جئتُ"
+    },
+    {
+     "w": "para",
+     "t": "إلى"
+    },
+    {
+     "w": "um",
+     "t": "بلد (واحد)"
+    },
+    {
+     "w": "novo",
+     "t": "جديد"
+    },
+    {
+     "w": "país.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "الآن أنا أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "الآن"
+    },
+    {
+     "w": "estou",
+     "t": "أنا-حاليًا"
+    },
+    {
+     "w": "a",
+     "t": "(جزء-من-الفعل)"
+    },
+    {
+     "w": "aprender",
+     "t": "أتعلم"
+    },
+    {
+     "w": "a",
+     "t": "اللغة (أداة-التعريف)"
+    },
+    {
+     "w": "língua.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "سأعود قريبًا للعمل في مهنتي.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "في"
+    },
+    {
+     "w": "breve,",
+     "t": "القريب،"
+    },
+    {
+     "w": "voltarei",
+     "t": "سأعود"
+    },
+    {
+     "w": "a",
+     "t": "إلى"
+    },
+    {
+     "w": "trabalhar",
+     "t": "العمل"
+    },
+    {
+     "w": "na",
+     "t": "في"
+    },
+    {
+     "w": "minha",
+     "t": "مهنتي (خاصتي)"
+    },
+    {
+     "w": "profissão.",
+     "t": "مهنة."
+    }
+   ]
+  }
+ ]
+}

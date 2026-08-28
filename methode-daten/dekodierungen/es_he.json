@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "he",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "עבדתי הרבה שנים במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "עבדתי (עזר)"
+    },
+    {
+     "w": "trabajado",
+     "t": "עבדתי"
+    },
+    {
+     "w": "muchos",
+     "t": "הרבה"
+    },
+    {
+     "w": "años",
+     "t": "שנים"
+    },
+    {
+     "w": "en",
+     "t": "ב"
+    },
+    {
+     "w": "mi",
+     "t": "שלי"
+    },
+    {
+     "w": "profesión.",
+     "t": "מקצוע."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "אחר כך עברתי למדינה אחרת.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "me",
+     "t": "את-עצמי"
+    },
+    {
+     "w": "mudé",
+     "t": "העברתי"
+    },
+    {
+     "w": "a",
+     "t": "ל"
+    },
+    {
+     "w": "otro",
+     "t": "אחרת"
+    },
+    {
+     "w": "país.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "עכשיו"
+    },
+    {
+     "w": "estoy",
+     "t": "אני-נמצא"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "לומד"
+    },
+    {
+     "w": "el",
+     "t": "את-ה"
+    },
+    {
+     "w": "idioma.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "בקרוב"
+    },
+    {
+     "w": "volveré",
+     "t": "אחזור"
+    },
+    {
+     "w": "a",
+     "t": "ל"
+    },
+    {
+     "w": "trabajar",
+     "t": "לעבוד"
+    },
+    {
+     "w": "en",
+     "t": "ב"
+    },
+    {
+     "w": "mi",
+     "t": "שלי"
+    },
+    {
+     "w": "profesión.",
+     "t": "מקצוע."
+    }
+   ]
+  }
+ ]
+}

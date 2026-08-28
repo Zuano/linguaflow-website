@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "id",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Saya telah bekerja selama bertahun-tahun dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Saya-telah"
+    },
+    {
+     "w": "lavorato",
+     "t": "bekerja"
+    },
+    {
+     "w": "per",
+     "t": "selama"
+    },
+    {
+     "w": "molti",
+     "t": "banyak"
+    },
+    {
+     "w": "anni",
+     "t": "tahun"
+    },
+    {
+     "w": "nella",
+     "t": "dalam"
+    },
+    {
+     "w": "mia",
+     "t": "saya-punya"
+    },
+    {
+     "w": "professione.",
+     "t": "profesi."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Kemudian"
+    },
+    {
+     "w": "mi",
+     "t": "diri-saya"
+    },
+    {
+     "w": "sono",
+     "t": "telah"
+    },
+    {
+     "w": "trasferito",
+     "t": "berpindah"
+    },
+    {
+     "w": "in",
+     "t": "ke"
+    },
+    {
+     "w": "un",
+     "t": "sebuah"
+    },
+    {
+     "w": "nuovo",
+     "t": "baru"
+    },
+    {
+     "w": "Paese.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Sekarang saya sedang belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Sekarang"
+    },
+    {
+     "w": "sto",
+     "t": "saya-sedang"
+    },
+    {
+     "w": "imparando",
+     "t": "belajar"
+    },
+    {
+     "w": "la",
+     "t": "(kata-sandang)"
+    },
+    {
+     "w": "lingua.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Segera saya akan kembali bekerja dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Segera"
+    },
+    {
+     "w": "tornerò",
+     "t": "saya-akan-kembali"
+    },
+    {
+     "w": "a",
+     "t": "untuk"
+    },
+    {
+     "w": "lavorare",
+     "t": "bekerja"
+    },
+    {
+     "w": "nella",
+     "t": "dalam"
+    },
+    {
+     "w": "mia",
+     "t": "saya-punya"
+    },
+    {
+     "w": "professione.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "pl",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Pracowałem wiele lat w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Mam"
+    },
+    {
+     "w": "lucrat",
+     "t": "pracowane"
+    },
+    {
+     "w": "mulți",
+     "t": "wiele"
+    },
+    {
+     "w": "ani",
+     "t": "lat"
+    },
+    {
+     "w": "în",
+     "t": "w"
+    },
+    {
+     "w": "meseria",
+     "t": "zawodzie"
+    },
+    {
+     "w": "mea.",
+     "t": "moim."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Potem"
+    },
+    {
+     "w": "m-am",
+     "t": "się'przeprowadziłem"
+    },
+    {
+     "w": "mutat",
+     "t": "przeprowadzone"
+    },
+    {
+     "w": "într-o",
+     "t": "do-jednego"
+    },
+    {
+     "w": "țară",
+     "t": "kraju"
+    },
+    {
+     "w": "nouă.",
+     "t": "nowego."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Teraz"
+    },
+    {
+     "w": "învăț",
+     "t": "uczę-się"
+    },
+    {
+     "w": "limba.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Wkrótce znowu będę pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "W"
+    },
+    {
+     "w": "curând",
+     "t": "krótce"
+    },
+    {
+     "w": "voi",
+     "t": "będę"
+    },
+    {
+     "w": "lucra",
+     "t": "pracować"
+    },
+    {
+     "w": "din",
+     "t": "z"
+    },
+    {
+     "w": "nou",
+     "t": "nowu"
+    },
+    {
+     "w": "în",
+     "t": "w"
+    },
+    {
+     "w": "meseria",
+     "t": "zawodzie"
+    },
+    {
+     "w": "mea.",
+     "t": "moim."
+    }
+   ]
+  }
+ ]
+}

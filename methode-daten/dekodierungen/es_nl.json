@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "nl",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Ik heb veel jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Ik-heb"
+    },
+    {
+     "w": "trabajado",
+     "t": "gewerkt"
+    },
+    {
+     "w": "muchos",
+     "t": "veel"
+    },
+    {
+     "w": "años",
+     "t": "jaren"
+    },
+    {
+     "w": "en",
+     "t": "in"
+    },
+    {
+     "w": "mi",
+     "t": "mijn"
+    },
+    {
+     "w": "profesión.",
+     "t": "vak."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Daarna ben ik naar een ander land verhuisd.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Daarna"
+    },
+    {
+     "w": "me",
+     "t": "me-(verhuisde)"
+    },
+    {
+     "w": "mudé",
+     "t": "verhuisde"
+    },
+    {
+     "w": "a",
+     "t": "naar"
+    },
+    {
+     "w": "otro",
+     "t": "een-ander"
+    },
+    {
+     "w": "país.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Nu ben ik de taal aan het leren.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Nu"
+    },
+    {
+     "w": "estoy",
+     "t": "ben-ik"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "aan-het-leren"
+    },
+    {
+     "w": "el",
+     "t": "de"
+    },
+    {
+     "w": "idioma.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Binnenkort zal ik weer in mijn vak gaan werken.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "volveré",
+     "t": "zal-ik-weer"
+    },
+    {
+     "w": "a",
+     "t": "(gaan)"
+    },
+    {
+     "w": "trabajar",
+     "t": "werken"
+    },
+    {
+     "w": "en",
+     "t": "in"
+    },
+    {
+     "w": "mi",
+     "t": "mijn"
+    },
+    {
+     "w": "profesión.",
+     "t": "vak."
+    }
+   ]
+  }
+ ]
+}

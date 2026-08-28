@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "ro",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Am lucrat mulți ani în domeniul meu.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "În"
+    },
+    {
+     "w": "mojom",
+     "t": "al-meu"
+    },
+    {
+     "w": "odbore",
+     "t": "domeniu"
+    },
+    {
+     "w": "som",
+     "t": "am"
+    },
+    {
+     "w": "pracoval",
+     "t": "lucrat"
+    },
+    {
+     "w": "mnoho",
+     "t": "mulți"
+    },
+    {
+     "w": "rokov.",
+     "t": "ani."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Apoi"
+    },
+    {
+     "w": "som",
+     "t": "am"
+    },
+    {
+     "w": "prišiel",
+     "t": "venit"
+    },
+    {
+     "w": "do",
+     "t": "în"
+    },
+    {
+     "w": "novej",
+     "t": "nouă"
+    },
+    {
+     "w": "krajiny.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Acum"
+    },
+    {
+     "w": "sa",
+     "t": "(reflexiv)"
+    },
+    {
+     "w": "učím",
+     "t": "învăț"
+    },
+    {
+     "w": "jazyk.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "În scurt timp voi lucra din nou în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "În-scurt-timp"
+    },
+    {
+     "w": "budem",
+     "t": "voi"
+    },
+    {
+     "w": "opäť",
+     "t": "din-nou"
+    },
+    {
+     "w": "pracovať",
+     "t": "lucra"
+    },
+    {
+     "w": "vo",
+     "t": "în"
+    },
+    {
+     "w": "svojom",
+     "t": "al-meu"
+    },
+    {
+     "w": "odbore.",
+     "t": "domeniu."
+    }
+   ]
+  }
+ ]
+}

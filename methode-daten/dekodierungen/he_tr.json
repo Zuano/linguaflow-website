@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "tr",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Uzun yıllar mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "çalıştım",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "yıllar",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "çok",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "meslekte",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "benim.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "sonra",
+     "r": "le-akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "ondan",
+     "r": "mikán"
+    },
+    {
+     "w": "הגעתי",
+     "t": "geldim",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "ülkeye",
+     "r": "le-medinấ"
+    },
+    {
+     "w": "חדשה.",
+     "t": "yeni.",
+     "r": "khadashấ."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "şimdi",
+     "r": "ka-ét"
+    },
+    {
+     "w": "אני",
+     "t": "ben",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "öğreniyorum",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(belirtme-eki)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "dili.",
+     "r": "ha-safấ."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Yakında mesleğime geri döneceğim.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "yakında",
+     "r": "be-karóv"
+    },
+    {
+     "w": "אחזור",
+     "t": "geri-döneceğim",
+     "r": "ekhezór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "çalışmaya",
+     "r": "la-avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "meslekte",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "benim.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

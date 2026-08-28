@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "ko",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "저는 제 분야에서 여러 해 동안 일해 왔습니다.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "나는-이다"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "일해-왔다"
+    },
+    {
+     "w": "alallani",
+     "t": "내-분야에서"
+    },
+    {
+     "w": "monta",
+     "t": "여러"
+    },
+    {
+     "w": "vuotta.",
+     "t": "해를."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "그런 다음 저는 새로운 나라로 이주했습니다.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "그런-다음"
+    },
+    {
+     "w": "muutin",
+     "t": "나는-이주했다"
+    },
+    {
+     "w": "uuteen",
+     "t": "새로운(으로)"
+    },
+    {
+     "w": "maahan.",
+     "t": "나라로."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "지금 저는 언어를 공부하고 있습니다.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "지금"
+    },
+    {
+     "w": "opiskelen",
+     "t": "나는-공부한다"
+    },
+    {
+     "w": "kieltä.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "곧 저는 제 분야에서 다시 일하기 시작할 계획입니다.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "곧"
+    },
+    {
+     "w": "aion",
+     "t": "나는-계획한다"
+    },
+    {
+     "w": "jatkaa",
+     "t": "계속하기를"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "일하는-것을"
+    },
+    {
+     "w": "alallani.",
+     "t": "내-분야에서."
+    }
+   ]
+  }
+ ]
+}

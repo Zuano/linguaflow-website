@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "ro",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Am lucrat în profesia mea timp de mulți ani.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "deja (întărire)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "am-lucrat",
+     "r": "'amiltu"
+    },
+    {
+     "w": "في",
+     "t": "în",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "profesia-mea",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "timp-de-ani",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "numeroși.",
+     "r": "‘adīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "apoi",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "m-am-mutat",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "spre",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "țară",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "nouă.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Și acum învăț limba.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "și'acum",
+     "r": "wal-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "învăț",
+     "r": "ata‘allamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "limba.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Și mă voi întoarce în curând la lucru în profesia mea.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "și'mă-voi-întoarce",
+     "r": "wasa'a‘ūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "în-curând",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "la",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "lucrul",
+     "r": "al-‘amal"
+    },
+    {
+     "w": "في",
+     "t": "în",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "profesia-mea.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

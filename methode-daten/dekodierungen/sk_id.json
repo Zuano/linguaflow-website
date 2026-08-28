@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "id",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Saya bekerja di bidang saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Di"
+    },
+    {
+     "w": "mojom",
+     "t": "saya-punya (dalam)"
+    },
+    {
+     "w": "odbore",
+     "t": "bidang"
+    },
+    {
+     "w": "som",
+     "t": "saya-adalah (sudah)"
+    },
+    {
+     "w": "pracoval",
+     "t": "bekerja"
+    },
+    {
+     "w": "mnoho",
+     "t": "banyak"
+    },
+    {
+     "w": "rokov.",
+     "t": "tahun."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Kemudian saya datang ke negara baru.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Kemudian"
+    },
+    {
+     "w": "som",
+     "t": "saya-telah"
+    },
+    {
+     "w": "prišiel",
+     "t": "datang"
+    },
+    {
+     "w": "do",
+     "t": "ke"
+    },
+    {
+     "w": "novej",
+     "t": "baru"
+    },
+    {
+     "w": "krajiny.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Sekarang"
+    },
+    {
+     "w": "sa",
+     "t": "diri (kata-bantu)"
+    },
+    {
+     "w": "učím",
+     "t": "belajar"
+    },
+    {
+     "w": "jazyk.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Segera saya akan bekerja lagi di bidang saya.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Segera"
+    },
+    {
+     "w": "budem",
+     "t": "saya-akan"
+    },
+    {
+     "w": "opäť",
+     "t": "lagi"
+    },
+    {
+     "w": "pracovať",
+     "t": "bekerja"
+    },
+    {
+     "w": "vo",
+     "t": "di"
+    },
+    {
+     "w": "svojom",
+     "t": "sendiri (saya-punya)"
+    },
+    {
+     "w": "odbore.",
+     "t": "bidang."
+    }
+   ]
+  }
+ ]
+}

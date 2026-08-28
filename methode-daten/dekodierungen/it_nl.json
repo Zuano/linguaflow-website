@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "nl",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Ik heb vele jaren in mijn beroep gewerkt.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Ik-heb"
+    },
+    {
+     "w": "lavorato",
+     "t": "gewerkt"
+    },
+    {
+     "w": "per",
+     "t": "voor"
+    },
+    {
+     "w": "molti",
+     "t": "vele"
+    },
+    {
+     "w": "anni",
+     "t": "jaren"
+    },
+    {
+     "w": "nella",
+     "t": "in-de"
+    },
+    {
+     "w": "mia",
+     "t": "mijn"
+    },
+    {
+     "w": "professione.",
+     "t": "beroep."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Daarna ben ik verhuisd naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Daarna"
+    },
+    {
+     "w": "mi",
+     "t": "me"
+    },
+    {
+     "w": "sono",
+     "t": "ben"
+    },
+    {
+     "w": "trasferito",
+     "t": "verhuisd"
+    },
+    {
+     "w": "in",
+     "t": "naar"
+    },
+    {
+     "w": "un",
+     "t": "een"
+    },
+    {
+     "w": "nuovo",
+     "t": "nieuw"
+    },
+    {
+     "w": "Paese.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Nu ben ik de taal aan het leren.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Nu"
+    },
+    {
+     "w": "sto",
+     "t": "ben-ik-aan-het"
+    },
+    {
+     "w": "imparando",
+     "t": "leren"
+    },
+    {
+     "w": "la",
+     "t": "de"
+    },
+    {
+     "w": "lingua.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Binnenkort ga ik weer werken in mijn beroep.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "tornerò",
+     "t": "zal-ik-terugkeren"
+    },
+    {
+     "w": "a",
+     "t": "om"
+    },
+    {
+     "w": "lavorare",
+     "t": "te-werken"
+    },
+    {
+     "w": "nella",
+     "t": "in-de"
+    },
+    {
+     "w": "mia",
+     "t": "mijn"
+    },
+    {
+     "w": "professione.",
+     "t": "beroep."
+    }
+   ]
+  }
+ ]
+}

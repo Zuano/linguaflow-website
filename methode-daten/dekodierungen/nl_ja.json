@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "ja",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "私は長年、自分の専門分野で働いてきました。",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "私は"
+    },
+    {
+     "w": "heb",
+     "t": "(私は)~した"
+    },
+    {
+     "w": "vele",
+     "t": "多くの"
+    },
+    {
+     "w": "jaren",
+     "t": "年(を)"
+    },
+    {
+     "w": "in",
+     "t": "の中で"
+    },
+    {
+     "w": "mijn",
+     "t": "私の"
+    },
+    {
+     "w": "vak",
+     "t": "専門・仕事"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "働いた。"
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "その後、私は新しい国に来ました。",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "その後"
+    },
+    {
+     "w": "ben",
+     "t": "(私は)~した"
+    },
+    {
+     "w": "ik",
+     "t": "私は"
+    },
+    {
+     "w": "naar",
+     "t": "~へ"
+    },
+    {
+     "w": "een",
+     "t": "一つの"
+    },
+    {
+     "w": "nieuw",
+     "t": "新しい"
+    },
+    {
+     "w": "land",
+     "t": "国"
+    },
+    {
+     "w": "gekomen.",
+     "t": "来た。"
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "今、私はその言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "今"
+    },
+    {
+     "w": "leer",
+     "t": "学ぶ"
+    },
+    {
+     "w": "ik",
+     "t": "私は"
+    },
+    {
+     "w": "de",
+     "t": "その"
+    },
+    {
+     "w": "taal.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "近いうちに、私は再び自分の専門分野で働くつもりです。",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "近いうちに"
+    },
+    {
+     "w": "ga",
+     "t": "(私は)~するつもり"
+    },
+    {
+     "w": "ik",
+     "t": "私は"
+    },
+    {
+     "w": "weer",
+     "t": "再び"
+    },
+    {
+     "w": "in",
+     "t": "の中で"
+    },
+    {
+     "w": "mijn",
+     "t": "私の"
+    },
+    {
+     "w": "vak",
+     "t": "専門・仕事"
+    },
+    {
+     "w": "werken.",
+     "t": "働く。"
+    }
+   ]
+  }
+ ]
+}

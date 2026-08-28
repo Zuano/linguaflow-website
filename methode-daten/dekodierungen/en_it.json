@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "it",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Ho lavorato nella mia professione per molti anni.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Io"
+    },
+    {
+     "w": "worked",
+     "t": "ho-lavorato"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "my",
+     "t": "mia"
+    },
+    {
+     "w": "profession",
+     "t": "professione"
+    },
+    {
+     "w": "for",
+     "t": "per"
+    },
+    {
+     "w": "many",
+     "t": "molti"
+    },
+    {
+     "w": "years.",
+     "t": "anni."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Poi mi sono trasferito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Poi"
+    },
+    {
+     "w": "I",
+     "t": "io"
+    },
+    {
+     "w": "moved",
+     "t": "mi-sono-trasferito"
+    },
+    {
+     "w": "to",
+     "t": "in"
+    },
+    {
+     "w": "a",
+     "t": "un"
+    },
+    {
+     "w": "new",
+     "t": "nuovo"
+    },
+    {
+     "w": "country.",
+     "t": "paese."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Ora"
+    },
+    {
+     "w": "I'm",
+     "t": "io'sto"
+    },
+    {
+     "w": "learning",
+     "t": "imparando"
+    },
+    {
+     "w": "the",
+     "t": "la"
+    },
+    {
+     "w": "language.",
+     "t": "lingua."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Presto lavorerò di nuovo nella mia professione.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Presto"
+    },
+    {
+     "w": "I'll",
+     "t": "io'avrò"
+    },
+    {
+     "w": "be",
+     "t": "(ausiliare-futuro)"
+    },
+    {
+     "w": "working",
+     "t": "lavorando"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "my",
+     "t": "mia"
+    },
+    {
+     "w": "profession",
+     "t": "professione"
+    },
+    {
+     "w": "again.",
+     "t": "di-nuovo."
+    }
+   ]
+  }
+ ]
+}

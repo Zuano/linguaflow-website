@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "nl",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Ik heb jarenlang in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "(hulpwoord-voor-voltooid-verleden-tijd)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "heb-gewerkt",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "in",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mijn-beroep",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "voor-jaren",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "vele.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Toen ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "toen",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "ben-verhuisd",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "naar",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "land",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "nieuw.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "En nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "en'nu",
+     "r": "wal-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "leer-ik",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "de-taal.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "En binnenkort ga ik terug naar het werk in mijn vakgebied.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "en'zal-ik-terugkeren",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "binnenkort",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "naar",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "het-werk",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "in",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "mijn-beroep.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

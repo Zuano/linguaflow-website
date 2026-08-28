@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "cs",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Po mnoho let jsem pracoval ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Po"
+    },
+    {
+     "w": "wiele",
+     "t": "mnoho"
+    },
+    {
+     "w": "lat",
+     "t": "let"
+    },
+    {
+     "w": "pracowałem",
+     "t": "pracoval-jsem"
+    },
+    {
+     "w": "w",
+     "t": "v"
+    },
+    {
+     "w": "swoim",
+     "t": "svém"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "oboru."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Potom jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Potom"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "přijel-jsem"
+    },
+    {
+     "w": "do",
+     "t": "do"
+    },
+    {
+     "w": "nowego",
+     "t": "nové"
+    },
+    {
+     "w": "kraju.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Teď"
+    },
+    {
+     "w": "uczę",
+     "t": "učím"
+    },
+    {
+     "w": "się",
+     "t": "se"
+    },
+    {
+     "w": "języka.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Brzy budu zase pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Brzy"
+    },
+    {
+     "w": "znów",
+     "t": "zase"
+    },
+    {
+     "w": "będę",
+     "t": "budu"
+    },
+    {
+     "w": "pracował",
+     "t": "pracovat"
+    },
+    {
+     "w": "w",
+     "t": "v"
+    },
+    {
+     "w": "swoim",
+     "t": "svém"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "oboru."
+    }
+   ]
+  }
+ ]
+}

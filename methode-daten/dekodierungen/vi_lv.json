@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "lv",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Es strādāju savā profesijā vairākus gadus.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Es"
+    },
+    {
+     "w": "đã",
+     "t": "(pagātnes-rādītājs)"
+    },
+    {
+     "w": "làm",
+     "t": "strādāt"
+    },
+    {
+     "w": "việc",
+     "t": "darbu"
+    },
+    {
+     "w": "trong",
+     "t": "savā"
+    },
+    {
+     "w": "ngành",
+     "t": "nozarē"
+    },
+    {
+     "w": "nghề",
+     "t": "profesijas"
+    },
+    {
+     "w": "của",
+     "t": "no"
+    },
+    {
+     "w": "mình",
+     "t": "sevis"
+    },
+    {
+     "w": "nhiều",
+     "t": "daudz"
+    },
+    {
+     "w": "năm.",
+     "t": "gadus."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Pēc tam es ierados jaunā valstī.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Pēc"
+    },
+    {
+     "w": "đó,",
+     "t": "tam,"
+    },
+    {
+     "w": "tôi",
+     "t": "es"
+    },
+    {
+     "w": "đến",
+     "t": "ierados"
+    },
+    {
+     "w": "một",
+     "t": "vienā"
+    },
+    {
+     "w": "đất",
+     "t": "zeme"
+    },
+    {
+     "w": "nước",
+     "t": "valstī"
+    },
+    {
+     "w": "mới.",
+     "t": "jaunā."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Šobrīd es mācos valodu šeit.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Tagad"
+    },
+    {
+     "w": "tại,",
+     "t": "šobrīd,"
+    },
+    {
+     "w": "tôi",
+     "t": "es"
+    },
+    {
+     "w": "đang",
+     "t": "(tagadnes-process)"
+    },
+    {
+     "w": "học",
+     "t": "mācos"
+    },
+    {
+     "w": "ngôn",
+     "t": "valodu"
+    },
+    {
+     "w": "ngữ",
+     "t": "(valodas)"
+    },
+    {
+     "w": "ở",
+     "t": "pie"
+    },
+    {
+     "w": "đây.",
+     "t": "šeit."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Tuvākajā laikā es turpināšu strādāt savā profesijā.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Tuvākajā"
+    },
+    {
+     "w": "tới,",
+     "t": "laikā,"
+    },
+    {
+     "w": "tôi",
+     "t": "es"
+    },
+    {
+     "w": "sẽ",
+     "t": "(nākotnes-rādītājs)"
+    },
+    {
+     "w": "tiếp",
+     "t": "turpināt"
+    },
+    {
+     "w": "tục",
+     "t": "(turpināt-daļa)"
+    },
+    {
+     "w": "làm",
+     "t": "strādāt"
+    },
+    {
+     "w": "việc",
+     "t": "darbu"
+    },
+    {
+     "w": "trong",
+     "t": "savā"
+    },
+    {
+     "w": "ngành",
+     "t": "nozarē"
+    },
+    {
+     "w": "nghề",
+     "t": "profesijas"
+    },
+    {
+     "w": "của",
+     "t": "no"
+    },
+    {
+     "w": "mình.",
+     "t": "sevis."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "ro",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Am lucrat mulți ani în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "În"
+    },
+    {
+     "w": "svém",
+     "t": "al-meu (propriul)"
+    },
+    {
+     "w": "oboru",
+     "t": "domeniu"
+    },
+    {
+     "w": "jsem",
+     "t": "am (aux.)"
+    },
+    {
+     "w": "pracoval",
+     "t": "lucrat"
+    },
+    {
+     "w": "mnoho",
+     "t": "mulți"
+    },
+    {
+     "w": "let.",
+     "t": "ani."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Apoi"
+    },
+    {
+     "w": "jsem",
+     "t": "am (aux.)"
+    },
+    {
+     "w": "se",
+     "t": "mă (reflexiv)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "mutat"
+    },
+    {
+     "w": "do",
+     "t": "în"
+    },
+    {
+     "w": "nové",
+     "t": "nouă"
+    },
+    {
+     "w": "země.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Acum"
+    },
+    {
+     "w": "se",
+     "t": "mă (reflexiv)"
+    },
+    {
+     "w": "učím",
+     "t": "învăț"
+    },
+    {
+     "w": "jazyk.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "În curând voi lucra din nou în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "În-curând"
+    },
+    {
+     "w": "budu",
+     "t": "voi (aux.)"
+    },
+    {
+     "w": "zase",
+     "t": "din-nou"
+    },
+    {
+     "w": "pracovat",
+     "t": "lucra"
+    },
+    {
+     "w": "ve",
+     "t": "în"
+    },
+    {
+     "w": "svém",
+     "t": "al-meu (propriul)"
+    },
+    {
+     "w": "oboru.",
+     "t": "domeniu."
+    }
+   ]
+  }
+ ]
+}

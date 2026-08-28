@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "zh",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "我在我的专业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "我"
+    },
+    {
+     "w": "worked",
+     "t": "工作了"
+    },
+    {
+     "w": "in",
+     "t": "在"
+    },
+    {
+     "w": "my",
+     "t": "我的"
+    },
+    {
+     "w": "profession",
+     "t": "专业(领域)"
+    },
+    {
+     "w": "for",
+     "t": "长达"
+    },
+    {
+     "w": "many",
+     "t": "许多"
+    },
+    {
+     "w": "years.",
+     "t": "年。"
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "然后我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "然后"
+    },
+    {
+     "w": "I",
+     "t": "我"
+    },
+    {
+     "w": "moved",
+     "t": "搬了"
+    },
+    {
+     "w": "to",
+     "t": "到"
+    },
+    {
+     "w": "a",
+     "t": "一个"
+    },
+    {
+     "w": "new",
+     "t": "新的"
+    },
+    {
+     "w": "country.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "现在我在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "现在"
+    },
+    {
+     "w": "I'm",
+     "t": "我'正在"
+    },
+    {
+     "w": "learning",
+     "t": "学习"
+    },
+    {
+     "w": "the",
+     "t": "这门"
+    },
+    {
+     "w": "language.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "很快我又会在我的专业领域工作了。",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "很快"
+    },
+    {
+     "w": "I'll",
+     "t": "我'将"
+    },
+    {
+     "w": "be",
+     "t": "会"
+    },
+    {
+     "w": "working",
+     "t": "工作"
+    },
+    {
+     "w": "in",
+     "t": "在"
+    },
+    {
+     "w": "my",
+     "t": "我的"
+    },
+    {
+     "w": "profession",
+     "t": "专业(领域)"
+    },
+    {
+     "w": "again.",
+     "t": "再次。"
+    }
+   ]
+  }
+ ]
+}

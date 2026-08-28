@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "es",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "He trabajado en mi profesión durante muchos años.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Yo"
+    },
+    {
+     "w": "har",
+     "t": "he"
+    },
+    {
+     "w": "arbejdet",
+     "t": "trabajado"
+    },
+    {
+     "w": "i",
+     "t": "en"
+    },
+    {
+     "w": "mit",
+     "t": "mi"
+    },
+    {
+     "w": "fag",
+     "t": "profesión"
+    },
+    {
+     "w": "i",
+     "t": "durante"
+    },
+    {
+     "w": "mange",
+     "t": "muchos"
+    },
+    {
+     "w": "år.",
+     "t": "años."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Luego me mudé a un país nuevo.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Luego"
+    },
+    {
+     "w": "flyttede",
+     "t": "me-mudé"
+    },
+    {
+     "w": "jeg",
+     "t": "yo"
+    },
+    {
+     "w": "til",
+     "t": "a"
+    },
+    {
+     "w": "et",
+     "t": "un"
+    },
+    {
+     "w": "nyt",
+     "t": "nuevo"
+    },
+    {
+     "w": "land.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Ahora"
+    },
+    {
+     "w": "lærer",
+     "t": "aprendo"
+    },
+    {
+     "w": "jeg",
+     "t": "yo"
+    },
+    {
+     "w": "sproget.",
+     "t": "el-idioma."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Pronto"
+    },
+    {
+     "w": "skal",
+     "t": "voy-a"
+    },
+    {
+     "w": "jeg",
+     "t": "yo"
+    },
+    {
+     "w": "arbejde",
+     "t": "trabajar"
+    },
+    {
+     "w": "i",
+     "t": "en"
+    },
+    {
+     "w": "mit",
+     "t": "mi"
+    },
+    {
+     "w": "fag",
+     "t": "profesión"
+    },
+    {
+     "w": "igen.",
+     "t": "otra-vez."
+    }
+   ]
+  }
+ ]
+}

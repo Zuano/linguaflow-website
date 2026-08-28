@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "sv",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Jag arbetade i många år inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Jag-arbetade"
+    },
+    {
+     "w": "muitos",
+     "t": "många"
+    },
+    {
+     "w": "anos",
+     "t": "år"
+    },
+    {
+     "w": "na",
+     "t": "i"
+    },
+    {
+     "w": "minha",
+     "t": "mitt"
+    },
+    {
+     "w": "profissão.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Sedan,"
+    },
+    {
+     "w": "vim",
+     "t": "kom-jag"
+    },
+    {
+     "w": "para",
+     "t": "till"
+    },
+    {
+     "w": "um",
+     "t": "ett"
+    },
+    {
+     "w": "novo",
+     "t": "nytt"
+    },
+    {
+     "w": "país.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Nu håller jag på att lära mig språket.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Nu"
+    },
+    {
+     "w": "estou",
+     "t": "håller-jag"
+    },
+    {
+     "w": "a",
+     "t": "på-att"
+    },
+    {
+     "w": "aprender",
+     "t": "lära-mig"
+    },
+    {
+     "w": "a",
+     "t": "(det)"
+    },
+    {
+     "w": "língua.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Snart kommer jag att arbeta inom mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Inom"
+    },
+    {
+     "w": "breve,",
+     "t": "kort,"
+    },
+    {
+     "w": "voltarei",
+     "t": "kommer-jag-åter"
+    },
+    {
+     "w": "a",
+     "t": "att"
+    },
+    {
+     "w": "trabalhar",
+     "t": "arbeta"
+    },
+    {
+     "w": "na",
+     "t": "i"
+    },
+    {
+     "w": "minha",
+     "t": "mitt"
+    },
+    {
+     "w": "profissão.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

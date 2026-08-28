@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "fr",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "J'ai travaillé longtemps dans mon métier.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "moi (sujet)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "pendant-longtemps",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "mon",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "dans-le-métier",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "travaillant",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "suis-venu(e) (j'ai continué à).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Puis je suis venu(e) dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "et-puis",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "nouveau",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "vers-le-pays",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "suis-venu(e).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Maintenant, j'apprends la langue de ce pays.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "maintenant (thème)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "ce",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "du-pays",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "la-langue",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "apprenant",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "suis-en-train-de.",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Bientôt, je recommencerai à travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "bientôt",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "encore (à-nouveau)",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "mon",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "dans-le-métier (vers)",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "à-travailler",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "devenir (qui-va)",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "cela-sera.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

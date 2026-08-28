@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "th",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "ฉันทำงานในสายอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "ฉัน"
+    },
+    {
+     "w": "worked",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "in",
+     "t": "ใน"
+    },
+    {
+     "w": "my",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "profession",
+     "t": "สายอาชีพ"
+    },
+    {
+     "w": "for",
+     "t": "เป็นเวลา"
+    },
+    {
+     "w": "many",
+     "t": "หลาย"
+    },
+    {
+     "w": "years.",
+     "t": "ปี"
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "จากนั้นฉันก็ย้ายไปยังประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "I",
+     "t": "ฉัน"
+    },
+    {
+     "w": "moved",
+     "t": "ย้าย"
+    },
+    {
+     "w": "to",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "a",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "new",
+     "t": "ใหม่"
+    },
+    {
+     "w": "country.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษาอยู่",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "I'm",
+     "t": "ฉัน'กำลัง"
+    },
+    {
+     "w": "learning",
+     "t": "เรียนรู้"
+    },
+    {
+     "w": "the",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "language.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "อีกไม่นานฉันจะได้กลับไปทำงานในสายอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "เร็วๆ-นี้"
+    },
+    {
+     "w": "I'll",
+     "t": "ฉัน'จะ"
+    },
+    {
+     "w": "be",
+     "t": "(ตัวช่วยกริยา)"
+    },
+    {
+     "w": "working",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "in",
+     "t": "ใน"
+    },
+    {
+     "w": "my",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "profession",
+     "t": "สายอาชีพ"
+    },
+    {
+     "w": "again.",
+     "t": "อีกครั้ง"
+    }
+   ]
+  }
+ ]
+}

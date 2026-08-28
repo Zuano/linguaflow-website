@@ -1,0 +1,237 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "pl",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Pracowałem w mojej branży przez wiele lat.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "ja",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "pracowałem",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "w",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "gałąź",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "zawodu",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "z",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "mnie",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "przez",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "wiele",
+     "r": "laai"
+    },
+    {
+     "w": "ปี",
+     "t": "lat",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "już.",
+     "r": "laew"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Następnie przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "หลังจาก",
+     "t": "Po",
+     "r": "langchaak"
+    },
+    {
+     "w": "นั้น",
+     "t": "tym,",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "ja",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "przeprowadziłem-się",
+     "r": "yaai"
+    },
+    {
+     "w": "ไป",
+     "t": "do",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "(mieszkać)",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "kraju",
+     "r": "prathes"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nowego.",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "Teraz",
+     "r": "tawnni"
+    },
+    {
+     "w": "ผม",
+     "t": "ja",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(właśnie)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "uczę-się",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "języka",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(trwający-stan).",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "A wkrótce wrócimy do pracy w mojej branży ponownie.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "I",
+     "r": "ae"
+    },
+    {
+     "w": "เร็ว",
+     "t": "szybko",
+     "r": "rew"
+    },
+    {
+     "w": "ๆ",
+     "t": "(powtórzenie),",
+     "r": "(repetition marker)"
+    },
+    {
+     "w": "นี้",
+     "t": "teraz",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "ja",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "będę",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "wracać",
+     "r": "klab"
+    },
+    {
+     "w": "มา",
+     "t": "(przychodzić-z-powrotem)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "pracować",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "w",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "gałęzi",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "zawodu",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "z",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "mnie",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "jeszcze",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "raz.",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

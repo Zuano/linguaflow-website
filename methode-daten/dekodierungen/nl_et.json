@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "et",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Olen palju aastaid oma erialal töötanud.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Mina"
+    },
+    {
+     "w": "heb",
+     "t": "olen"
+    },
+    {
+     "w": "vele",
+     "t": "palju"
+    },
+    {
+     "w": "jaren",
+     "t": "aastaid"
+    },
+    {
+     "w": "in",
+     "t": "oma"
+    },
+    {
+     "w": "mijn",
+     "t": "(mõte:oma)"
+    },
+    {
+     "w": "vak",
+     "t": "erialal"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "töötanud."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Pärast seda tulin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Pärast-seda"
+    },
+    {
+     "w": "ben",
+     "t": "olen"
+    },
+    {
+     "w": "ik",
+     "t": "mina"
+    },
+    {
+     "w": "naar",
+     "t": "(suunas)"
+    },
+    {
+     "w": "een",
+     "t": "ühte"
+    },
+    {
+     "w": "nieuw",
+     "t": "uude"
+    },
+    {
+     "w": "land",
+     "t": "riiki"
+    },
+    {
+     "w": "gekomen.",
+     "t": "tulnud."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Nüüd õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nüüd"
+    },
+    {
+     "w": "leer",
+     "t": "õpin"
+    },
+    {
+     "w": "ik",
+     "t": "mina"
+    },
+    {
+     "w": "de",
+     "t": "seda"
+    },
+    {
+     "w": "taal.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Varsti hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Varsti"
+    },
+    {
+     "w": "ga",
+     "t": "hakkan"
+    },
+    {
+     "w": "ik",
+     "t": "mina"
+    },
+    {
+     "w": "weer",
+     "t": "taas"
+    },
+    {
+     "w": "in",
+     "t": "oma"
+    },
+    {
+     "w": "mijn",
+     "t": "(mõte:oma)"
+    },
+    {
+     "w": "vak",
+     "t": "erialal"
+    },
+    {
+     "w": "werken.",
+     "t": "töötama."
+    }
+   ]
+  }
+ ]
+}

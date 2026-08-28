@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "et",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Olen töötanud oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Olen"
+    },
+    {
+     "w": "trabajado",
+     "t": "töötanud"
+    },
+    {
+     "w": "muchos",
+     "t": "palju"
+    },
+    {
+     "w": "años",
+     "t": "aastaid"
+    },
+    {
+     "w": "en",
+     "t": "oma"
+    },
+    {
+     "w": "mi",
+     "t": "minu"
+    },
+    {
+     "w": "profesión.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Pärast kolisin ma teise riiki.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Pärast"
+    },
+    {
+     "w": "me",
+     "t": "end"
+    },
+    {
+     "w": "mudé",
+     "t": "kolisin"
+    },
+    {
+     "w": "a",
+     "t": "(suunda-näitav-sõna)"
+    },
+    {
+     "w": "otro",
+     "t": "teise"
+    },
+    {
+     "w": "país.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Nüüd õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Nüüd"
+    },
+    {
+     "w": "estoy",
+     "t": "olen"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "õppimas"
+    },
+    {
+     "w": "el",
+     "t": "seda"
+    },
+    {
+     "w": "idioma.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Varsti hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Varsti"
+    },
+    {
+     "w": "volveré",
+     "t": "hakkan-uuesti"
+    },
+    {
+     "w": "a",
+     "t": "(sidesõna)"
+    },
+    {
+     "w": "trabajar",
+     "t": "töötama"
+    },
+    {
+     "w": "en",
+     "t": "oma"
+    },
+    {
+     "w": "mi",
+     "t": "minu"
+    },
+    {
+     "w": "profesión.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

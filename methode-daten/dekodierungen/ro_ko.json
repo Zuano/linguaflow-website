@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "ko",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "저는 제 직업에서 여러 해 동안 일했습니다.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "했다(과거-보조)"
+    },
+    {
+     "w": "lucrat",
+     "t": "일했다"
+    },
+    {
+     "w": "mulți",
+     "t": "많은"
+    },
+    {
+     "w": "ani",
+     "t": "해(년)들"
+    },
+    {
+     "w": "în",
+     "t": "~에서"
+    },
+    {
+     "w": "meseria",
+     "t": "직업"
+    },
+    {
+     "w": "mea.",
+     "t": "나의."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "그 후 저는 새로운 나라로 이사했습니다.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "그 후에"
+    },
+    {
+     "w": "m-am",
+     "t": "나는'~했다(재귀)"
+    },
+    {
+     "w": "mutat",
+     "t": "이사했다"
+    },
+    {
+     "w": "într-o",
+     "t": "어떤 ~안으로"
+    },
+    {
+     "w": "țară",
+     "t": "나라"
+    },
+    {
+     "w": "nouă.",
+     "t": "새로운."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "지금"
+    },
+    {
+     "w": "învăț",
+     "t": "배운다"
+    },
+    {
+     "w": "limba.",
+     "t": "그 언어를."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "곧 저는 다시 제 직업에서 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "~안에"
+    },
+    {
+     "w": "curând",
+     "t": "곧"
+    },
+    {
+     "w": "voi",
+     "t": "할 것이다(미래-보조)"
+    },
+    {
+     "w": "lucra",
+     "t": "일하다"
+    },
+    {
+     "w": "din",
+     "t": "~로부터"
+    },
+    {
+     "w": "nou",
+     "t": "다시(새로)"
+    },
+    {
+     "w": "în",
+     "t": "~에서"
+    },
+    {
+     "w": "meseria",
+     "t": "직업"
+    },
+    {
+     "w": "mea.",
+     "t": "나의."
+    }
+   ]
+  }
+ ]
+}

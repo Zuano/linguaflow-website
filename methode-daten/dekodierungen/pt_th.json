@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "th",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "ฉันทำงาน(อดีต)"
+    },
+    {
+     "w": "muitos",
+     "t": "หลาย"
+    },
+    {
+     "w": "anos",
+     "t": "ปี"
+    },
+    {
+     "w": "na",
+     "t": "ใน"
+    },
+    {
+     "w": "minha",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "profissão.",
+     "t": "อาชีพ."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "หลังจากนั้น ฉันก็มาที่ประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "หลังจากนั้น,"
+    },
+    {
+     "w": "vim",
+     "t": "ฉันมา(อดีต)"
+    },
+    {
+     "w": "para",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "um",
+     "t": "หนึ่ง"
+    },
+    {
+     "w": "novo",
+     "t": "ใหม่"
+    },
+    {
+     "w": "país.",
+     "t": "ประเทศ."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "estou",
+     "t": "ฉันกำลัง"
+    },
+    {
+     "w": "a",
+     "t": "(กำลัง-ทำ)"
+    },
+    {
+     "w": "aprender",
+     "t": "เรียน"
+    },
+    {
+     "w": "a",
+     "t": "(คำนำหน้า)"
+    },
+    {
+     "w": "língua.",
+     "t": "ภาษา."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "อีกไม่นาน ฉันจะกลับไปทำงานในอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "ใน"
+    },
+    {
+     "w": "breve,",
+     "t": "เร็ว-นี้,"
+    },
+    {
+     "w": "voltarei",
+     "t": "ฉันจะกลับ(อนาคต)"
+    },
+    {
+     "w": "a",
+     "t": "ไป"
+    },
+    {
+     "w": "trabalhar",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "na",
+     "t": "ใน"
+    },
+    {
+     "w": "minha",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "profissão.",
+     "t": "อาชีพ."
+    }
+   ]
+  }
+ ]
+}

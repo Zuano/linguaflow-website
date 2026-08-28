@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "id",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Saya bekerja di bidang profesi saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Saya"
+    },
+    {
+     "w": "worked",
+     "t": "bekerja"
+    },
+    {
+     "w": "in",
+     "t": "di"
+    },
+    {
+     "w": "my",
+     "t": "profesi-saya"
+    },
+    {
+     "w": "profession",
+     "t": "(bidang)"
+    },
+    {
+     "w": "for",
+     "t": "selama"
+    },
+    {
+     "w": "many",
+     "t": "banyak"
+    },
+    {
+     "w": "years.",
+     "t": "tahun."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Lalu saya pindah ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Lalu"
+    },
+    {
+     "w": "I",
+     "t": "saya"
+    },
+    {
+     "w": "moved",
+     "t": "pindah"
+    },
+    {
+     "w": "to",
+     "t": "ke"
+    },
+    {
+     "w": "a",
+     "t": "sebuah"
+    },
+    {
+     "w": "new",
+     "t": "baru"
+    },
+    {
+     "w": "country.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Sekarang saya sedang belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Sekarang"
+    },
+    {
+     "w": "I'm",
+     "t": "saya'sedang"
+    },
+    {
+     "w": "learning",
+     "t": "belajar"
+    },
+    {
+     "w": "the",
+     "t": "(itu)"
+    },
+    {
+     "w": "language.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Sebentar lagi saya akan bekerja lagi di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Sebentar-lagi"
+    },
+    {
+     "w": "I'll",
+     "t": "saya'akan"
+    },
+    {
+     "w": "be",
+     "t": "(kata-bantu)"
+    },
+    {
+     "w": "working",
+     "t": "bekerja"
+    },
+    {
+     "w": "in",
+     "t": "di"
+    },
+    {
+     "w": "my",
+     "t": "profesi-saya"
+    },
+    {
+     "w": "profession",
+     "t": "(bidang)"
+    },
+    {
+     "w": "again.",
+     "t": "lagi."
+    }
+   ]
+  }
+ ]
+}

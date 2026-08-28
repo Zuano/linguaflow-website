@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "zh",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "我在我的专业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "在"
+    },
+    {
+     "w": "mojom",
+     "t": "我的"
+    },
+    {
+     "w": "odbore",
+     "t": "专业领域(里)"
+    },
+    {
+     "w": "som",
+     "t": "(我)是/已经"
+    },
+    {
+     "w": "pracoval",
+     "t": "工作过"
+    },
+    {
+     "w": "mnoho",
+     "t": "很多"
+    },
+    {
+     "w": "rokov.",
+     "t": "年。"
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "后来我来到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "后来"
+    },
+    {
+     "w": "som",
+     "t": "(我)是/已经"
+    },
+    {
+     "w": "prišiel",
+     "t": "来到了"
+    },
+    {
+     "w": "do",
+     "t": "到"
+    },
+    {
+     "w": "novej",
+     "t": "新的"
+    },
+    {
+     "w": "krajiny.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "现在我在学习语言。",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "现在"
+    },
+    {
+     "w": "sa",
+     "t": "(反身自己)"
+    },
+    {
+     "w": "učím",
+     "t": "学习"
+    },
+    {
+     "w": "jazyk.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "很快我将再次在我的专业领域工作。",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "很快"
+    },
+    {
+     "w": "budem",
+     "t": "我将"
+    },
+    {
+     "w": "opäť",
+     "t": "再次"
+    },
+    {
+     "w": "pracovať",
+     "t": "工作"
+    },
+    {
+     "w": "vo",
+     "t": "在"
+    },
+    {
+     "w": "svojom",
+     "t": "自己的"
+    },
+    {
+     "w": "odbore.",
+     "t": "专业领域(里)。"
+    }
+   ]
+  }
+ ]
+}

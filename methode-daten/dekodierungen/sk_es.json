@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "es",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "En mi profesión trabajé muchos años.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "En"
+    },
+    {
+     "w": "mojom",
+     "t": "mi"
+    },
+    {
+     "w": "odbore",
+     "t": "profesión"
+    },
+    {
+     "w": "som",
+     "t": "(yo)-he"
+    },
+    {
+     "w": "pracoval",
+     "t": "trabajado"
+    },
+    {
+     "w": "mnoho",
+     "t": "muchos"
+    },
+    {
+     "w": "rokov.",
+     "t": "años."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Después llegué a un nuevo país.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Después"
+    },
+    {
+     "w": "som",
+     "t": "(yo)-he"
+    },
+    {
+     "w": "prišiel",
+     "t": "llegado"
+    },
+    {
+     "w": "do",
+     "t": "a"
+    },
+    {
+     "w": "novej",
+     "t": "nuevo"
+    },
+    {
+     "w": "krajiny.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Ahora"
+    },
+    {
+     "w": "sa",
+     "t": "(reflexivo)"
+    },
+    {
+     "w": "učím",
+     "t": "aprendo"
+    },
+    {
+     "w": "jazyk.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Pronto"
+    },
+    {
+     "w": "budem",
+     "t": "(yo)-estaré"
+    },
+    {
+     "w": "opäť",
+     "t": "de-nuevo"
+    },
+    {
+     "w": "pracovať",
+     "t": "trabajando"
+    },
+    {
+     "w": "vo",
+     "t": "en"
+    },
+    {
+     "w": "svojom",
+     "t": "mi"
+    },
+    {
+     "w": "odbore.",
+     "t": "profesión."
+    }
+   ]
+  }
+ ]
+}

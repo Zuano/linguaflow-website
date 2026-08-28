@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "el",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Δούλεψα για πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Έχω"
+    },
+    {
+     "w": "lavorato",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "per",
+     "t": "για"
+    },
+    {
+     "w": "molti",
+     "t": "πολλά"
+    },
+    {
+     "w": "anni",
+     "t": "χρόνια"
+    },
+    {
+     "w": "nella",
+     "t": "στο (μέσα-στο)"
+    },
+    {
+     "w": "mia",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "professione.",
+     "t": "επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Έπειτα μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "mi",
+     "t": "μου (εαυτόν-μου)"
+    },
+    {
+     "w": "sono",
+     "t": "έχω (είμαι)"
+    },
+    {
+     "w": "trasferito",
+     "t": "μετακομίσει"
+    },
+    {
+     "w": "in",
+     "t": "σε"
+    },
+    {
+     "w": "un",
+     "t": "μια"
+    },
+    {
+     "w": "nuovo",
+     "t": "νέα"
+    },
+    {
+     "w": "Paese.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Τώρα"
+    },
+    {
+     "w": "sto",
+     "t": "είμαι (βρίσκομαι)"
+    },
+    {
+     "w": "imparando",
+     "t": "μαθαίνοντας"
+    },
+    {
+     "w": "la",
+     "t": "τη"
+    },
+    {
+     "w": "lingua.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Σύντομα θα ξαναγυρίσω να δουλέψω στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "tornerò",
+     "t": "θα-ξαναγυρίσω"
+    },
+    {
+     "w": "a",
+     "t": "να"
+    },
+    {
+     "w": "lavorare",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "nella",
+     "t": "στο (μέσα-στο)"
+    },
+    {
+     "w": "mia",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "professione.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "sk",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Dlhé roky som pracoval v mojej odbornej profesii.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "ja",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(subjekt)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "dlhé-roky,",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分の",
+     "t": "svojho",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職",
+     "t": "odborného-povolania",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "(lokalizačný-smer)",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "zavzatí-sa",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "pracoval-som.",
+     "r": "hataraitekimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "potom,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "novej",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "krajiny",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "(smerovací-ciel)",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "presťahoval-som-sa.",
+     "r": "irisumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Teraz učím jazyk tejto krajiny.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "teraz",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(subjekt)",
+     "r": "wa"
+    },
+    {
+     "w": "その国の",
+     "t": "tejto-krajiny",
+     "r": "sono kuni no"
+    },
+    {
+     "w": "言語",
+     "t": "jazyka",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(predmet)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "učím-sa.",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Čoskoro opäť začnem pracovať vo svojej odbornej profesii.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "čoskoro",
+     "r": "mousugu"
+    },
+    {
+     "w": "また、",
+     "t": "opäť,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "svojho",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職",
+     "t": "odborného-povolania",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "(miesto-činu)",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "pracovať-začať",
+     "r": "hatarakihaじmeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "v-pláne-je.",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

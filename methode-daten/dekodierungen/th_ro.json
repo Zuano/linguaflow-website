@@ -1,0 +1,232 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "ro",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Am lucrat in domeniul meu de activitate de mulţi ani.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "lucru",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "în",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ramură (domeniu)",
+     "r": "sakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesie",
+     "r": "a-chīp"
+    },
+    {
+     "w": "ของ",
+     "t": "al/a",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(timp-trecut)",
+     "r": "maa"
+    },
+    {
+     "w": "หลายปี",
+     "t": "mulţi ani",
+     "r": "hlai-pī"
+    },
+    {
+     "w": "แล้ว",
+     "t": "deja",
+     "r": "lǣw"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "După aceea, m-am mutat să locuiesc intr-o ţară nouă.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "după",
+     "r": "hlang"
+    },
+    {
+     "w": "จาก",
+     "t": "de la",
+     "r": "chak"
+    },
+    {
+     "w": "นั้น",
+     "t": "acel",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "muta",
+     "r": "yāi"
+    },
+    {
+     "w": "ไป",
+     "t": "la",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "locui (a fi)",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "ţară",
+     "r": "pra-thēt"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nouă",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Acum înv aţ limba.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "acum",
+     "r": "tʰɔn-nī"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(progresiv)",
+     "r": "kam-lang"
+    },
+    {
+     "w": "เรียน",
+     "t": "înva ţa",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "limbă",
+     "r": "phaasaa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(progresiv)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Şi în curând voi reveni să lucrez din nou în domeniul meu de activitate.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "şi",
+     "r": "lae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "curând (în-scurt)",
+     "r": "rew-rew"
+    },
+    {
+     "w": "นี้",
+     "t": "acesta/asta",
+     "r": "nī"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(viitor)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "se-întoarce",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(direcţie)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "lucru",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "în",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ramură (domeniu)",
+     "r": "sakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesie",
+     "r": "a-chīp"
+    },
+    {
+     "w": "ของ",
+     "t": "al/a",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "iarăşi",
+     "r": "īk"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "dată (ori)",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

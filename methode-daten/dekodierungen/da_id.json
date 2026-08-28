@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "id",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Saya"
+    },
+    {
+     "w": "har",
+     "t": "telah"
+    },
+    {
+     "w": "arbejdet",
+     "t": "bekerja"
+    },
+    {
+     "w": "i",
+     "t": "di"
+    },
+    {
+     "w": "mit",
+     "t": "bidang-saya"
+    },
+    {
+     "w": "fag",
+     "t": "(profesi)"
+    },
+    {
+     "w": "i",
+     "t": "selama"
+    },
+    {
+     "w": "mange",
+     "t": "banyak"
+    },
+    {
+     "w": "år.",
+     "t": "tahun."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Lalu saya pindah ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Lalu"
+    },
+    {
+     "w": "flyttede",
+     "t": "pindah"
+    },
+    {
+     "w": "jeg",
+     "t": "saya"
+    },
+    {
+     "w": "til",
+     "t": "ke"
+    },
+    {
+     "w": "et",
+     "t": "sebuah"
+    },
+    {
+     "w": "nyt",
+     "t": "baru"
+    },
+    {
+     "w": "land.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Sekarang saya belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Sekarang"
+    },
+    {
+     "w": "lærer",
+     "t": "belajar"
+    },
+    {
+     "w": "jeg",
+     "t": "saya"
+    },
+    {
+     "w": "sproget.",
+     "t": "bahasa-itu."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Segera saya akan bekerja di bidang saya lagi.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Segera"
+    },
+    {
+     "w": "skal",
+     "t": "akan"
+    },
+    {
+     "w": "jeg",
+     "t": "saya"
+    },
+    {
+     "w": "arbejde",
+     "t": "bekerja"
+    },
+    {
+     "w": "i",
+     "t": "di"
+    },
+    {
+     "w": "mit",
+     "t": "bidang-saya"
+    },
+    {
+     "w": "fag",
+     "t": "(profesi)"
+    },
+    {
+     "w": "igen.",
+     "t": "lagi."
+    }
+   ]
+  }
+ ]
+}

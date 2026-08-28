@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "vi",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Tôi"
+    },
+    {
+     "w": "har",
+     "t": "đã"
+    },
+    {
+     "w": "arbejdet",
+     "t": "làm việc"
+    },
+    {
+     "w": "i",
+     "t": "trong"
+    },
+    {
+     "w": "mit",
+     "t": "của tôi"
+    },
+    {
+     "w": "fag",
+     "t": "ngành nghề"
+    },
+    {
+     "w": "i",
+     "t": "trong"
+    },
+    {
+     "w": "mange",
+     "t": "nhiều"
+    },
+    {
+     "w": "år.",
+     "t": "năm."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Rồi tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Rồi"
+    },
+    {
+     "w": "flyttede",
+     "t": "đã chuyển"
+    },
+    {
+     "w": "jeg",
+     "t": "tôi"
+    },
+    {
+     "w": "til",
+     "t": "đến"
+    },
+    {
+     "w": "et",
+     "t": "một"
+    },
+    {
+     "w": "nyt",
+     "t": "mới"
+    },
+    {
+     "w": "land.",
+     "t": "đất nước."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ đó.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Bây giờ"
+    },
+    {
+     "w": "lærer",
+     "t": "học"
+    },
+    {
+     "w": "jeg",
+     "t": "tôi"
+    },
+    {
+     "w": "sproget.",
+     "t": "ngôn ngữ (đó)."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Sắp tới tôi sẽ làm việc trong ngành nghề của mình lần nữa.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Sắp tới"
+    },
+    {
+     "w": "skal",
+     "t": "sẽ"
+    },
+    {
+     "w": "jeg",
+     "t": "tôi"
+    },
+    {
+     "w": "arbejde",
+     "t": "làm việc"
+    },
+    {
+     "w": "i",
+     "t": "trong"
+    },
+    {
+     "w": "mit",
+     "t": "của tôi"
+    },
+    {
+     "w": "fag",
+     "t": "ngành nghề"
+    },
+    {
+     "w": "igen.",
+     "t": "lần nữa."
+    }
+   ]
+  }
+ ]
+}

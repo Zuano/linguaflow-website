@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "fr",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "J'ai travaillé pendant de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "J'ai-travaillé",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "pendant",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "de-nombreuses",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "années",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "dans-le",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "métier",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mon.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Ensuite, je suis arrivé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Dans-la",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "suite,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "je-suis-venu",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "dans",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "un",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "nouveau",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "pays.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Maintenant",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "j'apprends",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "la",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "langue.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Bientôt, je retravaillerai dans mon métier.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Bientôt",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "(futur)",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "je-retravaillerai",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "dans-le",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "métier",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mon.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

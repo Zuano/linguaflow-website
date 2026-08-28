@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "th",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "ฉันทำงานในสายงานของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "ฉัน-ได้"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "ทำงาน-แล้ว"
+    },
+    {
+     "w": "alallani",
+     "t": "ในสายงาน-ของฉัน"
+    },
+    {
+     "w": "monta",
+     "t": "หลาย"
+    },
+    {
+     "w": "vuotta.",
+     "t": "ปี."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "จากนั้นฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "muutin",
+     "t": "ฉัน-ย้าย"
+    },
+    {
+     "w": "uuteen",
+     "t": "ใหม่ (สู่)"
+    },
+    {
+     "w": "maahan.",
+     "t": "ประเทศ."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "opiskelen",
+     "t": "ฉัน-เรียน"
+    },
+    {
+     "w": "kieltä.",
+     "t": "ภาษา."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "เร็วๆนี้ฉันตั้งใจจะกลับไปทำงานในสายงานของฉันต่อ",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "เร็วๆนี้"
+    },
+    {
+     "w": "aion",
+     "t": "ฉัน-ตั้งใจ"
+    },
+    {
+     "w": "jatkaa",
+     "t": "ทำต่อ"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "การทำงาน"
+    },
+    {
+     "w": "alallani.",
+     "t": "ในสายงาน-ของฉัน."
+    }
+   ]
+  }
+ ]
+}

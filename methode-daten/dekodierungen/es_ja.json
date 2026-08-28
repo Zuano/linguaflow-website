@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "ja",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "私は自分の職業で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "私は・した(完了)"
+    },
+    {
+     "w": "trabajado",
+     "t": "働いた"
+    },
+    {
+     "w": "muchos",
+     "t": "多くの"
+    },
+    {
+     "w": "años",
+     "t": "年を"
+    },
+    {
+     "w": "en",
+     "t": "〜で"
+    },
+    {
+     "w": "mi",
+     "t": "私の"
+    },
+    {
+     "w": "profesión.",
+     "t": "職業で。"
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "その後、私は別の国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "その後"
+    },
+    {
+     "w": "me",
+     "t": "私・(自分を)"
+    },
+    {
+     "w": "mudé",
+     "t": "引っ越した"
+    },
+    {
+     "w": "a",
+     "t": "〜へ"
+    },
+    {
+     "w": "otro",
+     "t": "別の"
+    },
+    {
+     "w": "país.",
+     "t": "国へ。"
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "今、私はその言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "今"
+    },
+    {
+     "w": "estoy",
+     "t": "私は・いる"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "学んでいる"
+    },
+    {
+     "w": "el",
+     "t": "その"
+    },
+    {
+     "w": "idioma.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "すぐに私は自分の職業で再び働くつもりです。",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "すぐに"
+    },
+    {
+     "w": "volveré",
+     "t": "私は・再び〜する(未来)"
+    },
+    {
+     "w": "a",
+     "t": "〜こと(に)"
+    },
+    {
+     "w": "trabajar",
+     "t": "働く"
+    },
+    {
+     "w": "en",
+     "t": "〜で"
+    },
+    {
+     "w": "mi",
+     "t": "私の"
+    },
+    {
+     "w": "profesión.",
+     "t": "職業で。"
+    }
+   ]
+  }
+ ]
+}

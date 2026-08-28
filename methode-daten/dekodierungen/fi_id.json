@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "id",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Saya sudah bekerja di bidang saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Saya-telah"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "bekerja"
+    },
+    {
+     "w": "alallani",
+     "t": "di-bidang-saya"
+    },
+    {
+     "w": "monta",
+     "t": "banyak"
+    },
+    {
+     "w": "vuotta.",
+     "t": "tahun."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Kemudian"
+    },
+    {
+     "w": "muutin",
+     "t": "saya-pindah"
+    },
+    {
+     "w": "uuteen",
+     "t": "ke-baru"
+    },
+    {
+     "w": "maahan.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Sekarang saya belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Sekarang"
+    },
+    {
+     "w": "opiskelen",
+     "t": "saya-belajar"
+    },
+    {
+     "w": "kieltä.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Segera saya berencana untuk melanjutkan bekerja di bidang saya.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Segera"
+    },
+    {
+     "w": "aion",
+     "t": "saya-berniat"
+    },
+    {
+     "w": "jatkaa",
+     "t": "melanjutkan"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "bekerja"
+    },
+    {
+     "w": "alallani.",
+     "t": "di-bidang-saya."
+    }
+   ]
+  }
+ ]
+}

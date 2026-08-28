@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "sl",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Delal sem v svojem poklicu mnogo let.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Delal-sem",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "za",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "mnogo",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "let",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "v",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "poklicu",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mojem.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Nato sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "V",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "nadaljevanju,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "sem-prišel",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "v",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "eno",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "novo",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "državo.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Zdaj",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "se-učim",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "jezik(a)",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "jezik.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Kmalu bom spet delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Kmalu",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "bom",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "spet-delal",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "v",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "poklicu",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mojem.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

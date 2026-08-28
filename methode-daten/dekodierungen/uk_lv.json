@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "lv",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Es daudzus gadus strādāju savā specialitātē.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "es",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "daudz",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "gadu",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "strādāju",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "savā (pēc)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "savā",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "specialitātē.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Pēc tam es atbraucu uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "pēc-tam",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "es",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "atbraucu",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "uz",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "jaunu",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "valsti.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "tagad",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "es",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "mācos",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "valodu.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Drīzumā es no jauna sākšu strādāt savā specialitātē.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "drīzumā",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "es",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "no-jauna",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "sākšu",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "strādāt",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "savā (pēc)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "savā",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "specialitātē.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

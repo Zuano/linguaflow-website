@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "da",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "I mange år arbejdede jeg i mit fag.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Mange"
+    },
+    {
+     "w": "metų",
+     "t": "år"
+    },
+    {
+     "w": "dirbau",
+     "t": "arbejdede-jeg"
+    },
+    {
+     "w": "savo",
+     "t": "mit-eget"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "i-faget."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Senere kom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Senere"
+    },
+    {
+     "w": "atvykau",
+     "t": "kom-jeg"
+    },
+    {
+     "w": "į",
+     "t": "til"
+    },
+    {
+     "w": "naują",
+     "t": "et-nyt"
+    },
+    {
+     "w": "šalį.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Nu"
+    },
+    {
+     "w": "mokausi",
+     "t": "lærer-jeg (mig-selv)"
+    },
+    {
+     "w": "kalbos.",
+     "t": "sproget."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Snart vil jeg igen arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "Snart"
+    },
+    {
+     "w": "vėl",
+     "t": "igen"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "vil-jeg-arbejde"
+    },
+    {
+     "w": "savo",
+     "t": "mit-eget"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "i-faget."
+    }
+   ]
+  }
+ ]
+}

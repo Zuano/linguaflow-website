@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "nl",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Ik heb vele jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Vele"
+    },
+    {
+     "w": "metų",
+     "t": "jaren"
+    },
+    {
+     "w": "dirbau",
+     "t": "werkte-ik"
+    },
+    {
+     "w": "savo",
+     "t": "in-mijn"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "vak."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Later kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Later"
+    },
+    {
+     "w": "atvykau",
+     "t": "kwam-ik-aan"
+    },
+    {
+     "w": "į",
+     "t": "naar"
+    },
+    {
+     "w": "naują",
+     "t": "nieuw"
+    },
+    {
+     "w": "šalį.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Nu"
+    },
+    {
+     "w": "mokausi",
+     "t": "leer-ik"
+    },
+    {
+     "w": "kalbos.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Binnenkort zal ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "vėl",
+     "t": "weer"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "zal-ik-werken"
+    },
+    {
+     "w": "savo",
+     "t": "in-mijn"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "vak."
+    }
+   ]
+  }
+ ]
+}

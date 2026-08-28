@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "th",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "ฉันทำงานในสายอาชีพของตัวเองมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "ฉันได้'เป็น(อยู่)"
+    },
+    {
+     "w": "palju",
+     "t": "หลาย"
+    },
+    {
+     "w": "aastaid",
+     "t": "ปี"
+    },
+    {
+     "w": "oma",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "erialal",
+     "t": "ในสายอาชีพ"
+    },
+    {
+     "w": "töötanud.",
+     "t": "ทำงาน(มาแล้ว)."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "หลังจากนั้นฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "kolisin",
+     "t": "ฉันย้าย(ไปอยู่)"
+    },
+    {
+     "w": "uude",
+     "t": "ใหม่(ไปยัง)"
+    },
+    {
+     "w": "riiki.",
+     "t": "ประเทศ."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "õpin",
+     "t": "ฉันเรียน"
+    },
+    {
+     "w": "keelt.",
+     "t": "ภาษา."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "ในไม่ช้าฉันจะกลับไปทำงานในสายอาชีพของตัวเองอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "ในไม่ช้า"
+    },
+    {
+     "w": "hakkan",
+     "t": "ฉันจะเริ่ม"
+    },
+    {
+     "w": "jälle",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "oma",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "erialal",
+     "t": "ในสายอาชีพ"
+    },
+    {
+     "w": "töötama.",
+     "t": "ทำงาน."
+    }
+   ]
+  }
+ ]
+}

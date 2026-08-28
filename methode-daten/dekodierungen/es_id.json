@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "id",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Saya sudah bekerja bertahun-tahun di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Saya-telah"
+    },
+    {
+     "w": "trabajado",
+     "t": "bekerja"
+    },
+    {
+     "w": "muchos",
+     "t": "banyak"
+    },
+    {
+     "w": "años",
+     "t": "tahun"
+    },
+    {
+     "w": "en",
+     "t": "di"
+    },
+    {
+     "w": "mi",
+     "t": "saya (milik)"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesi."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Setelah itu saya pindah ke negara lain.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Setelah-itu"
+    },
+    {
+     "w": "me",
+     "t": "diri-saya"
+    },
+    {
+     "w": "mudé",
+     "t": "pindah"
+    },
+    {
+     "w": "a",
+     "t": "ke"
+    },
+    {
+     "w": "otro",
+     "t": "lain"
+    },
+    {
+     "w": "país.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Sekarang saya sedang belajar bahasa itu.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Sekarang"
+    },
+    {
+     "w": "estoy",
+     "t": "saya-sedang"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "belajar"
+    },
+    {
+     "w": "el",
+     "t": "itu (kata-sandang)"
+    },
+    {
+     "w": "idioma.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Segera saya akan kembali bekerja di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Segera"
+    },
+    {
+     "w": "volveré",
+     "t": "saya-akan-kembali"
+    },
+    {
+     "w": "a",
+     "t": "untuk"
+    },
+    {
+     "w": "trabajar",
+     "t": "bekerja"
+    },
+    {
+     "w": "en",
+     "t": "di"
+    },
+    {
+     "w": "mi",
+     "t": "saya (milik)"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

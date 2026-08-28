@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "id",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Saya sudah bekerja di bidang saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Di-dalam"
+    },
+    {
+     "w": "svém",
+     "t": "bidang-saya-sendiri (punya)"
+    },
+    {
+     "w": "oboru",
+     "t": "bidang"
+    },
+    {
+     "w": "jsem",
+     "t": "saya-telah (kata-bantu)"
+    },
+    {
+     "w": "pracoval",
+     "t": "bekerja"
+    },
+    {
+     "w": "mnoho",
+     "t": "banyak"
+    },
+    {
+     "w": "let.",
+     "t": "tahun."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Kemudian"
+    },
+    {
+     "w": "jsem",
+     "t": "saya-telah (kata-bantu)"
+    },
+    {
+     "w": "se",
+     "t": "diri (refleksif)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "pindah"
+    },
+    {
+     "w": "do",
+     "t": "ke"
+    },
+    {
+     "w": "nové",
+     "t": "baru"
+    },
+    {
+     "w": "země.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Sekarang"
+    },
+    {
+     "w": "se",
+     "t": "diri (refleksif)"
+    },
+    {
+     "w": "učím",
+     "t": "belajar"
+    },
+    {
+     "w": "jazyk.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Sebentar lagi saya akan bekerja lagi di bidang saya.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Sebentar-lagi"
+    },
+    {
+     "w": "budu",
+     "t": "saya-akan (kata-bantu)"
+    },
+    {
+     "w": "zase",
+     "t": "lagi"
+    },
+    {
+     "w": "pracovat",
+     "t": "bekerja"
+    },
+    {
+     "w": "ve",
+     "t": "di-dalam"
+    },
+    {
+     "w": "svém",
+     "t": "bidang-saya-sendiri (punya)"
+    },
+    {
+     "w": "oboru.",
+     "t": "bidang."
+    }
+   ]
+  }
+ ]
+}

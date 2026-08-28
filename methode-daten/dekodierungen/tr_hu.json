@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "hu",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Sokáig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "a-szakmámban"
+    },
+    {
+     "w": "uzun",
+     "t": "hosszú"
+    },
+    {
+     "w": "yıllar",
+     "t": "éveken-át"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "dolgoztam."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Aztán egy új országba érkeztem.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "aztán"
+    },
+    {
+     "w": "yeni",
+     "t": "új"
+    },
+    {
+     "w": "bir",
+     "t": "egy"
+    },
+    {
+     "w": "ülkeye",
+     "t": "országba"
+    },
+    {
+     "w": "geldim.",
+     "t": "jöttem."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "most"
+    },
+    {
+     "w": "dili",
+     "t": "a-nyelvet"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "tanulom."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Hamarosan újra elkezdek dolgozni a szakmámban.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "hamarosan"
+    },
+    {
+     "w": "tekrar",
+     "t": "újra"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "a-szakmámban"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "dolgozni"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "el-fogok-kezdeni."
+    }
+   ]
+  }
+ ]
+}

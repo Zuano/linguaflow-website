@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "nl",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Ik heb vele jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Gedurende"
+    },
+    {
+     "w": "wiele",
+     "t": "veel"
+    },
+    {
+     "w": "lat",
+     "t": "jaren"
+    },
+    {
+     "w": "pracowałem",
+     "t": "werkte-ik"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "mijn-eigen"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "vak."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Daarna ben ik naar een nieuw land gekomen.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Daarna"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "kwam-ik-aan"
+    },
+    {
+     "w": "do",
+     "t": "naar"
+    },
+    {
+     "w": "nowego",
+     "t": "nieuw"
+    },
+    {
+     "w": "kraju.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nu"
+    },
+    {
+     "w": "uczę",
+     "t": "leer"
+    },
+    {
+     "w": "się",
+     "t": "mij(zelf)"
+    },
+    {
+     "w": "języka.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Binnenkort zal ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "znów",
+     "t": "weer"
+    },
+    {
+     "w": "będę",
+     "t": "zal-ik"
+    },
+    {
+     "w": "pracował",
+     "t": "werken"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "mijn-eigen"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "vak."
+    }
+   ]
+  }
+ ]
+}

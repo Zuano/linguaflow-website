@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "id",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Saya telah bekerja bertahun-tahun di bidang keahlian saya.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Saya"
+    },
+    {
+     "w": "heb",
+     "t": "telah"
+    },
+    {
+     "w": "vele",
+     "t": "banyak"
+    },
+    {
+     "w": "jaren",
+     "t": "tahun"
+    },
+    {
+     "w": "in",
+     "t": "di"
+    },
+    {
+     "w": "mijn",
+     "t": "saya"
+    },
+    {
+     "w": "vak",
+     "t": "bidang-keahlian"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "bekerja."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Setelah itu saya datang ke negara baru.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Setelah-itu"
+    },
+    {
+     "w": "ben",
+     "t": "telah"
+    },
+    {
+     "w": "ik",
+     "t": "saya"
+    },
+    {
+     "w": "naar",
+     "t": "ke"
+    },
+    {
+     "w": "een",
+     "t": "sebuah"
+    },
+    {
+     "w": "nieuw",
+     "t": "baru"
+    },
+    {
+     "w": "land",
+     "t": "negara"
+    },
+    {
+     "w": "gekomen.",
+     "t": "datang."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Sekarang saya belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Sekarang"
+    },
+    {
+     "w": "leer",
+     "t": "belajar"
+    },
+    {
+     "w": "ik",
+     "t": "saya"
+    },
+    {
+     "w": "de",
+     "t": "itu"
+    },
+    {
+     "w": "taal.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Sebentar lagi saya akan bekerja lagi di bidang keahlian saya.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Sebentar-lagi"
+    },
+    {
+     "w": "ga",
+     "t": "akan"
+    },
+    {
+     "w": "ik",
+     "t": "saya"
+    },
+    {
+     "w": "weer",
+     "t": "lagi"
+    },
+    {
+     "w": "in",
+     "t": "di"
+    },
+    {
+     "w": "mijn",
+     "t": "saya"
+    },
+    {
+     "w": "vak",
+     "t": "bidang-keahlian"
+    },
+    {
+     "w": "werken.",
+     "t": "bekerja."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "et",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Ma töötasin oma erialal pikkade aastate jooksul.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Ma'olen"
+    },
+    {
+     "w": "exercé",
+     "t": "harjutanud (töötanud)"
+    },
+    {
+     "w": "mon",
+     "t": "oma"
+    },
+    {
+     "w": "métier",
+     "t": "ametit"
+    },
+    {
+     "w": "pendant",
+     "t": "jooksul"
+    },
+    {
+     "w": "de",
+     "t": "(millest)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "arvukate"
+    },
+    {
+     "w": "années.",
+     "t": "aastate."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Seejärel jõudsin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Seejärel"
+    },
+    {
+     "w": "je",
+     "t": "mina"
+    },
+    {
+     "w": "suis",
+     "t": "olen"
+    },
+    {
+     "w": "arrivé",
+     "t": "saabunud"
+    },
+    {
+     "w": "dans",
+     "t": "sisse"
+    },
+    {
+     "w": "un",
+     "t": "üht"
+    },
+    {
+     "w": "nouveau",
+     "t": "uut"
+    },
+    {
+     "w": "pays.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Nüüd õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Nüüd,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "ma'õpin"
+    },
+    {
+     "w": "la",
+     "t": "seda"
+    },
+    {
+     "w": "langue.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Peagi hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Peagi,"
+    },
+    {
+     "w": "je",
+     "t": "mina"
+    },
+    {
+     "w": "reprendrai",
+     "t": "võtan-taas-üles"
+    },
+    {
+     "w": "mon",
+     "t": "oma"
+    },
+    {
+     "w": "métier.",
+     "t": "ameti."
+    }
+   ]
+  }
+ ]
+}

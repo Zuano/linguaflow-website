@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "uk",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Багато років я працював за своєю професією.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Протягом"
+    },
+    {
+     "w": "wiele",
+     "t": "багатьох"
+    },
+    {
+     "w": "lat",
+     "t": "років"
+    },
+    {
+     "w": "pracowałem",
+     "t": "я-працював"
+    },
+    {
+     "w": "w",
+     "t": "за"
+    },
+    {
+     "w": "swoim",
+     "t": "своєю"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "професією."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Потім я приїхав до нової країни.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Потім"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "я-приїхав"
+    },
+    {
+     "w": "do",
+     "t": "до"
+    },
+    {
+     "w": "nowego",
+     "t": "нової"
+    },
+    {
+     "w": "kraju.",
+     "t": "країни."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Зараз я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Зараз"
+    },
+    {
+     "w": "uczę",
+     "t": "вчу"
+    },
+    {
+     "w": "się",
+     "t": "себе (зворотне)"
+    },
+    {
+     "w": "języka.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Незабаром я знову працюватиму за своєю професією.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Незабаром"
+    },
+    {
+     "w": "znów",
+     "t": "знову"
+    },
+    {
+     "w": "będę",
+     "t": "буду"
+    },
+    {
+     "w": "pracował",
+     "t": "працювати"
+    },
+    {
+     "w": "w",
+     "t": "за"
+    },
+    {
+     "w": "swoim",
+     "t": "своєю"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "професією."
+    }
+   ]
+  }
+ ]
+}

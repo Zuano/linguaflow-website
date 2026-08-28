@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "ro",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Am lucrat în domeniul meu mulți ani.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Eu"
+    },
+    {
+     "w": "đã",
+     "t": "(cuvânt-pentru-trecut)"
+    },
+    {
+     "w": "làm",
+     "t": "am-făcut"
+    },
+    {
+     "w": "việc",
+     "t": "muncă"
+    },
+    {
+     "w": "trong",
+     "t": "în"
+    },
+    {
+     "w": "ngành",
+     "t": "domeniul"
+    },
+    {
+     "w": "nghề",
+     "t": "profesiei"
+    },
+    {
+     "w": "của",
+     "t": "al"
+    },
+    {
+     "w": "mình",
+     "t": "meu"
+    },
+    {
+     "w": "nhiều",
+     "t": "mulți"
+    },
+    {
+     "w": "năm.",
+     "t": "ani."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Apoi, am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "După"
+    },
+    {
+     "w": "đó,",
+     "t": "aceea,"
+    },
+    {
+     "w": "tôi",
+     "t": "eu"
+    },
+    {
+     "w": "đến",
+     "t": "am-venit-la"
+    },
+    {
+     "w": "một",
+     "t": "o"
+    },
+    {
+     "w": "đất",
+     "t": "țară"
+    },
+    {
+     "w": "nước",
+     "t": "(parte-din-cuvânt-țară)"
+    },
+    {
+     "w": "mới.",
+     "t": "nouă."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "În prezent, învăț limba aici.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "prezent"
+    },
+    {
+     "w": "tại,",
+     "t": "(în)-timpul,"
+    },
+    {
+     "w": "tôi",
+     "t": "eu"
+    },
+    {
+     "w": "đang",
+     "t": "(cuvânt-pentru-continuu)"
+    },
+    {
+     "w": "học",
+     "t": "învăț"
+    },
+    {
+     "w": "ngôn",
+     "t": "limba"
+    },
+    {
+     "w": "ngữ",
+     "t": "(parte-din-cuvânt-limbă)"
+    },
+    {
+     "w": "ở",
+     "t": "la"
+    },
+    {
+     "w": "đây.",
+     "t": "aici."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "În curând, voi continua să lucrez în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Curând"
+    },
+    {
+     "w": "tới,",
+     "t": "(o-să-vină),"
+    },
+    {
+     "w": "tôi",
+     "t": "eu"
+    },
+    {
+     "w": "sẽ",
+     "t": "(cuvânt-pentru-viitor)"
+    },
+    {
+     "w": "tiếp",
+     "t": "continua"
+    },
+    {
+     "w": "tục",
+     "t": "(parte-din-cuvânt-continua)"
+    },
+    {
+     "w": "làm",
+     "t": "să-fac"
+    },
+    {
+     "w": "việc",
+     "t": "muncă"
+    },
+    {
+     "w": "trong",
+     "t": "în"
+    },
+    {
+     "w": "ngành",
+     "t": "domeniul"
+    },
+    {
+     "w": "nghề",
+     "t": "profesiei"
+    },
+    {
+     "w": "của",
+     "t": "al"
+    },
+    {
+     "w": "mình.",
+     "t": "meu."
+    }
+   ]
+  }
+ ]
+}

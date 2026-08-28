@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "el",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Δούλεψα στο επάγγελμά μου για πολλά χρόνια.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Εγώ"
+    },
+    {
+     "w": "worked",
+     "t": "δούλευα"
+    },
+    {
+     "w": "in",
+     "t": "στο"
+    },
+    {
+     "w": "my",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "profession",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "for",
+     "t": "για"
+    },
+    {
+     "w": "many",
+     "t": "πολλά"
+    },
+    {
+     "w": "years.",
+     "t": "χρόνια."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Μετά μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Μετά"
+    },
+    {
+     "w": "I",
+     "t": "εγώ"
+    },
+    {
+     "w": "moved",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "to",
+     "t": "σε"
+    },
+    {
+     "w": "a",
+     "t": "μία"
+    },
+    {
+     "w": "new",
+     "t": "νέα"
+    },
+    {
+     "w": "country.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Τώρα"
+    },
+    {
+     "w": "I'm",
+     "t": "εγώ'είμαι"
+    },
+    {
+     "w": "learning",
+     "t": "μαθαίνοντας"
+    },
+    {
+     "w": "the",
+     "t": "τη"
+    },
+    {
+     "w": "language.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Σύντομα θα δουλεύω πάλι στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "I'll",
+     "t": "εγώ'θα"
+    },
+    {
+     "w": "be",
+     "t": "είμαι (βοηθητικό)"
+    },
+    {
+     "w": "working",
+     "t": "δουλεύοντας"
+    },
+    {
+     "w": "in",
+     "t": "στο"
+    },
+    {
+     "w": "my",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "profession",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "again.",
+     "t": "πάλι."
+    }
+   ]
+  }
+ ]
+}

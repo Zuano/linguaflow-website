@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "sv",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Jag arbetade i mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Jag-arbetade",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "i",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "många",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "år",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "i-mitt",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "yrke",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mitt.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Sedan",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "(fortsättning),",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "kom-jag",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "till",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "ett",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "nytt",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "land.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Nu",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "lär-jag-mig",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "(det)",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "språket.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Snart kommer jag att jobba igen i mitt yrke.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Snart",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "kommer-att",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "jobba-igen",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "i-mitt",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "yrke",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mitt.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

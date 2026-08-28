@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "id",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Saya telah bekerja selama bertahun-tahun di bidang saya.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Saya"
+    },
+    {
+     "w": "har",
+     "t": "telah"
+    },
+    {
+     "w": "jobbet",
+     "t": "bekerja"
+    },
+    {
+     "w": "i",
+     "t": "selama"
+    },
+    {
+     "w": "mange",
+     "t": "banyak"
+    },
+    {
+     "w": "år",
+     "t": "tahun"
+    },
+    {
+     "w": "innen",
+     "t": "di-dalam"
+    },
+    {
+     "w": "mitt",
+     "t": "bidang-saya"
+    },
+    {
+     "w": "fagområde.",
+     "t": "keahlian."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Kemudian"
+    },
+    {
+     "w": "flyttet",
+     "t": "pindah"
+    },
+    {
+     "w": "jeg",
+     "t": "saya"
+    },
+    {
+     "w": "til",
+     "t": "ke"
+    },
+    {
+     "w": "et",
+     "t": "sebuah"
+    },
+    {
+     "w": "nytt",
+     "t": "baru"
+    },
+    {
+     "w": "land.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Sekarang saya belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Sekarang"
+    },
+    {
+     "w": "lærer",
+     "t": "belajar"
+    },
+    {
+     "w": "jeg",
+     "t": "saya"
+    },
+    {
+     "w": "språket.",
+     "t": "bahasa-itu."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Segera saya akan bekerja lagi di bidang saya.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Segera"
+    },
+    {
+     "w": "skal",
+     "t": "akan"
+    },
+    {
+     "w": "jeg",
+     "t": "saya"
+    },
+    {
+     "w": "jobbe",
+     "t": "bekerja"
+    },
+    {
+     "w": "innen",
+     "t": "di-dalam"
+    },
+    {
+     "w": "mitt",
+     "t": "bidang-saya"
+    },
+    {
+     "w": "fagområde",
+     "t": "keahlian"
+    },
+    {
+     "w": "igjen.",
+     "t": "lagi."
+    }
+   ]
+  }
+ ]
+}

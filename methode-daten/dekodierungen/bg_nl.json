@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "nl",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Ik heb vele jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "Gewerkt",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "heb",
+     "r": "sam"
+    },
+    {
+     "w": "дълги",
+     "t": "lange",
+     "r": "dalgi"
+    },
+    {
+     "w": "години",
+     "t": "jaren",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "in",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "mijn",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "vak.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Daarna kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Daarna",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "kwam-ik",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "naar",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "een-nieuw",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "land.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Nu",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "leer-ik",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "de-taal.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Binnenkort zal ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Binnenkort",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "weer",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "zal",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "werken-ik",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "in",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "mijn",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "vak.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

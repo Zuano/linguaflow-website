@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "th",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "ผมทำงานในอาชีพของตัวเองมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "หลาย(ยาวนาน)"
+    },
+    {
+     "w": "leta",
+     "t": "ปี"
+    },
+    {
+     "w": "sem",
+     "t": "ผม-ได้"
+    },
+    {
+     "w": "delal",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "v",
+     "t": "ใน"
+    },
+    {
+     "w": "svojem",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "poklicu.",
+     "t": "อาชีพ."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "หลังจากนั้นผมก็มาถึงประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "หลังจากนั้น"
+    },
+    {
+     "w": "sem",
+     "t": "ผม-ได้"
+    },
+    {
+     "w": "prišel",
+     "t": "มาถึง"
+    },
+    {
+     "w": "v",
+     "t": "ใน"
+    },
+    {
+     "w": "novo",
+     "t": "ใหม่"
+    },
+    {
+     "w": "državo.",
+     "t": "ประเทศ."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "se",
+     "t": "(คำสะท้อน)"
+    },
+    {
+     "w": "učim",
+     "t": "เรียน"
+    },
+    {
+     "w": "jezika.",
+     "t": "ภาษา."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "อีกไม่นานผมจะได้ทำงานในอาชีพของตัวเองอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "อีกไม่นาน"
+    },
+    {
+     "w": "bom",
+     "t": "ผม-จะ"
+    },
+    {
+     "w": "spet",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "delal",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "v",
+     "t": "ใน"
+    },
+    {
+     "w": "svojem",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "poklicu.",
+     "t": "อาชีพ."
+    }
+   ]
+  }
+ ]
+}

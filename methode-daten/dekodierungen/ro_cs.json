@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "cs",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Pracoval jsem mnoho let ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Jsem-(pomocné-sloveso)"
+    },
+    {
+     "w": "lucrat",
+     "t": "pracoval"
+    },
+    {
+     "w": "mulți",
+     "t": "mnoho"
+    },
+    {
+     "w": "ani",
+     "t": "let"
+    },
+    {
+     "w": "în",
+     "t": "v"
+    },
+    {
+     "w": "meseria",
+     "t": "povolání"
+    },
+    {
+     "w": "mea.",
+     "t": "mém."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Poté jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Poté"
+    },
+    {
+     "w": "m-am",
+     "t": "se'jsem"
+    },
+    {
+     "w": "mutat",
+     "t": "přestěhoval"
+    },
+    {
+     "w": "într-o",
+     "t": "do-jedné"
+    },
+    {
+     "w": "țară",
+     "t": "země"
+    },
+    {
+     "w": "nouă.",
+     "t": "nové."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Teď"
+    },
+    {
+     "w": "învăț",
+     "t": "učím-se"
+    },
+    {
+     "w": "limba.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Brzy budu opět pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "V"
+    },
+    {
+     "w": "curând",
+     "t": "brzku (brzy)"
+    },
+    {
+     "w": "voi",
+     "t": "budu"
+    },
+    {
+     "w": "lucra",
+     "t": "pracovat"
+    },
+    {
+     "w": "din",
+     "t": "z"
+    },
+    {
+     "w": "nou",
+     "t": "nova (znovu)"
+    },
+    {
+     "w": "în",
+     "t": "v"
+    },
+    {
+     "w": "meseria",
+     "t": "povolání"
+    },
+    {
+     "w": "mea.",
+     "t": "mém."
+    }
+   ]
+  }
+ ]
+}

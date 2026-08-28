@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "id",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Saya sudah bekerja bertahun-tahun di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "saya-telah"
+    },
+    {
+     "w": "daudzus",
+     "t": "banyak"
+    },
+    {
+     "w": "gadus",
+     "t": "tahun"
+    },
+    {
+     "w": "strādājis",
+     "t": "bekerja"
+    },
+    {
+     "w": "savā",
+     "t": "di-dalam-milik-sendiri"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profesi."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Setelah itu saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "setelah"
+    },
+    {
+     "w": "tam",
+     "t": "itu"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "saya-pindah"
+    },
+    {
+     "w": "uz",
+     "t": "ke"
+    },
+    {
+     "w": "jaunu",
+     "t": "baru"
+    },
+    {
+     "w": "valsti.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "sekarang"
+    },
+    {
+     "w": "apgūstu",
+     "t": "saya-belajar"
+    },
+    {
+     "w": "valodu.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Segera saya akan bekerja lagi di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "segera"
+    },
+    {
+     "w": "atkal",
+     "t": "lagi"
+    },
+    {
+     "w": "strādāšu",
+     "t": "saya-akan-bekerja"
+    },
+    {
+     "w": "savā",
+     "t": "di-dalam-milik-sendiri"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

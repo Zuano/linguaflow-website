@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "lt",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Aš dirbau savo srityje daug metų.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Esu"
+    },
+    {
+     "w": "palju",
+     "t": "daug"
+    },
+    {
+     "w": "aastaid",
+     "t": "metų"
+    },
+    {
+     "w": "oma",
+     "t": "savo"
+    },
+    {
+     "w": "erialal",
+     "t": "srityje"
+    },
+    {
+     "w": "töötanud.",
+     "t": "dirbęs."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Tada persikrausčiau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Tada"
+    },
+    {
+     "w": "kolisin",
+     "t": "persikrausčiau"
+    },
+    {
+     "w": "uude",
+     "t": "į-naują"
+    },
+    {
+     "w": "riiki.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Dabar"
+    },
+    {
+     "w": "õpin",
+     "t": "mokausi"
+    },
+    {
+     "w": "keelt.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Netrukus vėl pradėsiu dirbti savo srityje.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Netrukus"
+    },
+    {
+     "w": "hakkan",
+     "t": "pradėsiu"
+    },
+    {
+     "w": "jälle",
+     "t": "vėl"
+    },
+    {
+     "w": "oma",
+     "t": "savo"
+    },
+    {
+     "w": "erialal",
+     "t": "srityje"
+    },
+    {
+     "w": "töötama.",
+     "t": "dirbti."
+    }
+   ]
+  }
+ ]
+}

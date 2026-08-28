@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "nb",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Jeg har jobbet mange år i mitt yrke.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Jeg-har"
+    },
+    {
+     "w": "trabajado",
+     "t": "jobbet"
+    },
+    {
+     "w": "muchos",
+     "t": "mange"
+    },
+    {
+     "w": "años",
+     "t": "år"
+    },
+    {
+     "w": "en",
+     "t": "i"
+    },
+    {
+     "w": "mi",
+     "t": "mitt"
+    },
+    {
+     "w": "profesión.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Etterpå flyttet jeg til et annet land.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Etterpå"
+    },
+    {
+     "w": "me",
+     "t": "meg (refleksiv)"
+    },
+    {
+     "w": "mudé",
+     "t": "flyttet"
+    },
+    {
+     "w": "a",
+     "t": "til"
+    },
+    {
+     "w": "otro",
+     "t": "et-annet"
+    },
+    {
+     "w": "país.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Nå holder jeg på å lære språket.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Nå"
+    },
+    {
+     "w": "estoy",
+     "t": "jeg-holder-på (er)"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "å-lære"
+    },
+    {
+     "w": "el",
+     "t": "-et (det)"
+    },
+    {
+     "w": "idioma.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Snart skal jeg begynne å jobbe igjen i mitt yrke.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Snart"
+    },
+    {
+     "w": "volveré",
+     "t": "jeg-skal-igjen"
+    },
+    {
+     "w": "a",
+     "t": "å"
+    },
+    {
+     "w": "trabajar",
+     "t": "jobbe"
+    },
+    {
+     "w": "en",
+     "t": "i"
+    },
+    {
+     "w": "mi",
+     "t": "mitt"
+    },
+    {
+     "w": "profesión.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

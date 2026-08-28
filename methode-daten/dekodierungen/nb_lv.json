@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "lv",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Es esmu daudzus gadus strādājis savā jomā.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Es"
+    },
+    {
+     "w": "har",
+     "t": "esmu"
+    },
+    {
+     "w": "jobbet",
+     "t": "strādājis"
+    },
+    {
+     "w": "i",
+     "t": "(laikā)"
+    },
+    {
+     "w": "mange",
+     "t": "daudzus"
+    },
+    {
+     "w": "år",
+     "t": "gadus"
+    },
+    {
+     "w": "innen",
+     "t": "savā"
+    },
+    {
+     "w": "mitt",
+     "t": "savā (manā)"
+    },
+    {
+     "w": "fagområde.",
+     "t": "jomā."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Tad es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Tad"
+    },
+    {
+     "w": "flyttet",
+     "t": "pārcēlos"
+    },
+    {
+     "w": "jeg",
+     "t": "es"
+    },
+    {
+     "w": "til",
+     "t": "uz"
+    },
+    {
+     "w": "et",
+     "t": "vienu (jaunu)"
+    },
+    {
+     "w": "nytt",
+     "t": "jaunu"
+    },
+    {
+     "w": "land.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Tagad"
+    },
+    {
+     "w": "lærer",
+     "t": "mācos"
+    },
+    {
+     "w": "jeg",
+     "t": "es"
+    },
+    {
+     "w": "språket.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Drīz es atkal strādāšu savā jomā.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Drīz"
+    },
+    {
+     "w": "skal",
+     "t": "(nākotne)"
+    },
+    {
+     "w": "jeg",
+     "t": "es"
+    },
+    {
+     "w": "jobbe",
+     "t": "strādāšu"
+    },
+    {
+     "w": "innen",
+     "t": "savā"
+    },
+    {
+     "w": "mitt",
+     "t": "savā (manā)"
+    },
+    {
+     "w": "fagområde",
+     "t": "jomā"
+    },
+    {
+     "w": "igjen.",
+     "t": "atkal."
+    }
+   ]
+  }
+ ]
+}

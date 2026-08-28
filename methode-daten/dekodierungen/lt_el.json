@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "el",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Δούλεψα πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Πολλά (πλήθος)"
+    },
+    {
+     "w": "metų",
+     "t": "χρόνια"
+    },
+    {
+     "w": "dirbau",
+     "t": "δούλευα"
+    },
+    {
+     "w": "savo",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "στο-επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Αργότερα ήρθα σε μια καινούρια χώρα.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Αργότερα"
+    },
+    {
+     "w": "atvykau",
+     "t": "ήρθα"
+    },
+    {
+     "w": "į",
+     "t": "σε"
+    },
+    {
+     "w": "naują",
+     "t": "καινούρια"
+    },
+    {
+     "w": "šalį.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Τώρα"
+    },
+    {
+     "w": "mokausi",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "kalbos.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "vėl",
+     "t": "ξανά"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "θα-δουλέψω"
+    },
+    {
+     "w": "savo",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "στο-επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

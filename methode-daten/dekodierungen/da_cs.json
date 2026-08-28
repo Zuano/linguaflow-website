@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "cs",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Pracoval jsem ve svém oboru mnoho let.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Já"
+    },
+    {
+     "w": "har",
+     "t": "jsem"
+    },
+    {
+     "w": "arbejdet",
+     "t": "pracoval"
+    },
+    {
+     "w": "i",
+     "t": "v"
+    },
+    {
+     "w": "mit",
+     "t": "svém"
+    },
+    {
+     "w": "fag",
+     "t": "oboru"
+    },
+    {
+     "w": "i",
+     "t": "po"
+    },
+    {
+     "w": "mange",
+     "t": "mnoho"
+    },
+    {
+     "w": "år.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Pak jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Pak"
+    },
+    {
+     "w": "flyttede",
+     "t": "přestěhoval-se"
+    },
+    {
+     "w": "jeg",
+     "t": "já"
+    },
+    {
+     "w": "til",
+     "t": "do"
+    },
+    {
+     "w": "et",
+     "t": "nové"
+    },
+    {
+     "w": "nyt",
+     "t": "nové"
+    },
+    {
+     "w": "land.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Teď"
+    },
+    {
+     "w": "lærer",
+     "t": "učím-se"
+    },
+    {
+     "w": "jeg",
+     "t": "já"
+    },
+    {
+     "w": "sproget.",
+     "t": "jazyk (ten)."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Brzy budu zase pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Brzy"
+    },
+    {
+     "w": "skal",
+     "t": "budu"
+    },
+    {
+     "w": "jeg",
+     "t": "já"
+    },
+    {
+     "w": "arbejde",
+     "t": "pracovat"
+    },
+    {
+     "w": "i",
+     "t": "v"
+    },
+    {
+     "w": "mit",
+     "t": "svém"
+    },
+    {
+     "w": "fag",
+     "t": "oboru"
+    },
+    {
+     "w": "igen.",
+     "t": "zase."
+    }
+   ]
+  }
+ ]
+}

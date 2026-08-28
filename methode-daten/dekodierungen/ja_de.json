@@ -1,0 +1,137 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "de",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Ich habe viele Jahre lang in meinem Fachberuf gearbeitet.",
+   "pairs": [
+    {
+     "w": "私は",
+     "t": "Ich-(Thema)",
+     "r": "watashi wa"
+    },
+    {
+     "w": "長年、",
+     "t": "lange-Jahre,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分の",
+     "t": "eigen-",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職に",
+     "t": "Fachberuf-zu",
+     "r": "senmonyoku ni"
+    },
+    {
+     "w": "就いて",
+     "t": "sich-betätigen-(dabei)",
+     "r": "tsuuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "arbeiten-(kontinuierlich-getan-haben).",
+     "r": "hataraite kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Danach bin ich in ein neues Land gezogen.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "danach,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "neu-",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "Land-zu",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "um-ziehen-(getan-haben).",
+     "r": "harisuumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Jetzt lerne ich die Sprache dieses Landes.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "jetzt-(Thema)",
+     "r": "ima wa"
+    },
+    {
+     "w": "その",
+     "t": "dies-",
+     "r": "sono"
+    },
+    {
+     "w": "国の",
+     "t": "Land-Genitiv",
+     "r": "kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "Sprache-(Objekt)",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "lernen-(gerade-am-Tun).",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Bald werde ich wieder anfangen, in meinem Fachberuf zu arbeiten.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "sehr-bald",
+     "r": "mō sugu"
+    },
+    {
+     "w": "また、",
+     "t": "wieder,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "eigen-",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "Fachberuf-in",
+     "r": "senmonyoku de"
+    },
+    {
+     "w": "働き始める",
+     "t": "arbeiten-anfangen",
+     "r": "hataraki-hajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "Plan-(Aussage).",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

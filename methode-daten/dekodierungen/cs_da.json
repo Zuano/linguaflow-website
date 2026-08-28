@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "da",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Jeg arbejdede i mange år inden for mit fag.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "I"
+    },
+    {
+     "w": "svém",
+     "t": "mit-eget"
+    },
+    {
+     "w": "oboru",
+     "t": "fag"
+    },
+    {
+     "w": "jsem",
+     "t": "har (jeg)"
+    },
+    {
+     "w": "pracoval",
+     "t": "arbejdet"
+    },
+    {
+     "w": "mnoho",
+     "t": "mange"
+    },
+    {
+     "w": "let.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Bagefter flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Bagefter"
+    },
+    {
+     "w": "jsem",
+     "t": "har (jeg)"
+    },
+    {
+     "w": "se",
+     "t": "sig (refleksiv)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "flyttet"
+    },
+    {
+     "w": "do",
+     "t": "til"
+    },
+    {
+     "w": "nové",
+     "t": "nyt"
+    },
+    {
+     "w": "země.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Nu lærer jeg et sprog.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Nu"
+    },
+    {
+     "w": "se",
+     "t": "sig (refleksiv)"
+    },
+    {
+     "w": "učím",
+     "t": "lærer (jeg)"
+    },
+    {
+     "w": "jazyk.",
+     "t": "sprog."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Snart vil jeg igen arbejde inden for mit fag.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Snart"
+    },
+    {
+     "w": "budu",
+     "t": "vil (jeg)"
+    },
+    {
+     "w": "zase",
+     "t": "igen"
+    },
+    {
+     "w": "pracovat",
+     "t": "arbejde"
+    },
+    {
+     "w": "ve",
+     "t": "i"
+    },
+    {
+     "w": "svém",
+     "t": "mit-eget"
+    },
+    {
+     "w": "oboru.",
+     "t": "fag."
+    }
+   ]
+  }
+ ]
+}

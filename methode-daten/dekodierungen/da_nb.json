@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "nb",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Jeg har arbeidet i mitt fag i mange år.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Jeg"
+    },
+    {
+     "w": "har",
+     "t": "har"
+    },
+    {
+     "w": "arbejdet",
+     "t": "arbeidet"
+    },
+    {
+     "w": "i",
+     "t": "i"
+    },
+    {
+     "w": "mit",
+     "t": "mitt"
+    },
+    {
+     "w": "fag",
+     "t": "fag"
+    },
+    {
+     "w": "i",
+     "t": "i"
+    },
+    {
+     "w": "mange",
+     "t": "mange"
+    },
+    {
+     "w": "år.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Så flyttet jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Så"
+    },
+    {
+     "w": "flyttede",
+     "t": "flyttet"
+    },
+    {
+     "w": "jeg",
+     "t": "jeg"
+    },
+    {
+     "w": "til",
+     "t": "til"
+    },
+    {
+     "w": "et",
+     "t": "et"
+    },
+    {
+     "w": "nyt",
+     "t": "nytt"
+    },
+    {
+     "w": "land.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Nå lærer jeg språket.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nå"
+    },
+    {
+     "w": "lærer",
+     "t": "lærer"
+    },
+    {
+     "w": "jeg",
+     "t": "jeg"
+    },
+    {
+     "w": "sproget.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Snart skal jeg arbeide i mitt fag igjen.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Snart"
+    },
+    {
+     "w": "skal",
+     "t": "skal"
+    },
+    {
+     "w": "jeg",
+     "t": "jeg"
+    },
+    {
+     "w": "arbejde",
+     "t": "arbeide"
+    },
+    {
+     "w": "i",
+     "t": "i"
+    },
+    {
+     "w": "mit",
+     "t": "mitt"
+    },
+    {
+     "w": "fag",
+     "t": "fag"
+    },
+    {
+     "w": "igen.",
+     "t": "igjen."
+    }
+   ]
+  }
+ ]
+}

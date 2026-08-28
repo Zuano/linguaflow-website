@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "sk",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Pracoval som vo svojom odbore mnoho rokov.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ja"
+    },
+    {
+     "w": "har",
+     "t": "som"
+    },
+    {
+     "w": "arbejdet",
+     "t": "pracoval"
+    },
+    {
+     "w": "i",
+     "t": "v"
+    },
+    {
+     "w": "mit",
+     "t": "svojom"
+    },
+    {
+     "w": "fag",
+     "t": "odbore"
+    },
+    {
+     "w": "i",
+     "t": "po"
+    },
+    {
+     "w": "mange",
+     "t": "mnoho"
+    },
+    {
+     "w": "år.",
+     "t": "rokov."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Potom"
+    },
+    {
+     "w": "flyttede",
+     "t": "presťahoval-sa"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "til",
+     "t": "do"
+    },
+    {
+     "w": "et",
+     "t": "jednej"
+    },
+    {
+     "w": "nyt",
+     "t": "novej"
+    },
+    {
+     "w": "land.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Teraz"
+    },
+    {
+     "w": "lærer",
+     "t": "učím-sa"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "sproget.",
+     "t": "jazyk (ten)."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Čoskoro"
+    },
+    {
+     "w": "skal",
+     "t": "budem"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "arbejde",
+     "t": "pracovať"
+    },
+    {
+     "w": "i",
+     "t": "v"
+    },
+    {
+     "w": "mit",
+     "t": "svojom"
+    },
+    {
+     "w": "fag",
+     "t": "odbore"
+    },
+    {
+     "w": "igen.",
+     "t": "znova."
+    }
+   ]
+  }
+ ]
+}

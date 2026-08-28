@@ -1,0 +1,247 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "fr",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "J'ai travaillé dans mon domaine professionnel pendant de nombreuses années.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "je (sujet)",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "travailler",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "dans",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "branche",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profession",
+     "r": "achip"
+    },
+    {
+     "w": "ของ",
+     "t": "de (possession)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "je",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(depuis, aspect)",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "plusieurs",
+     "r": "laay"
+    },
+    {
+     "w": "ปี",
+     "t": "an(s)",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "(passé composé)",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Après cela, j'ai déménagé pour vivre dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "après",
+     "r": "lang"
+    },
+    {
+     "w": "จาก",
+     "t": "de (provenance)",
+     "r": "chak"
+    },
+    {
+     "w": "นั้น",
+     "t": "cela",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "je",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "déménager",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "aller",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "habiter",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "pays",
+     "r": "prathes"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nouveau",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Maintenant, j'étudie une langue.",
+   "pairs": [
+    {
+     "w": "ตอน",
+     "t": "maintenant (à ce moment)",
+     "r": "ton"
+    },
+    {
+     "w": "นี้",
+     "t": "ci",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "je",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(en-train-de)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "étudier",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "langue",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(aspect continu)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Et bientôt, je reviendrai travailler dans mon domaine professionnel.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "et",
+     "r": "lae"
+    },
+    {
+     "w": "เร็ว",
+     "t": "vite",
+     "r": "rew"
+    },
+    {
+     "w": "ๆ",
+     "t": "(répétition)",
+     "r": "(répétition)"
+    },
+    {
+     "w": "นี้",
+     "t": "ci",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "je",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(futur)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "revenir",
+     "r": "klab"
+    },
+    {
+     "w": "มา",
+     "t": "(vers-le-locuteur)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "travailler",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "dans",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "branche",
+     "r": "saakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profession",
+     "r": "achip"
+    },
+    {
+     "w": "ของ",
+     "t": "de (possession)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "je",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "encore",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "fois",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

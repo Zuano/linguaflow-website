@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "sv",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Under många år arbetade jag inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Under"
+    },
+    {
+     "w": "wiele",
+     "t": "många"
+    },
+    {
+     "w": "lat",
+     "t": "år"
+    },
+    {
+     "w": "pracowałem",
+     "t": "arbetade-jag"
+    },
+    {
+     "w": "w",
+     "t": "i"
+    },
+    {
+     "w": "swoim",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Sedan flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sedan"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "kom-jag(åkte-hit)"
+    },
+    {
+     "w": "do",
+     "t": "till"
+    },
+    {
+     "w": "nowego",
+     "t": "nytt"
+    },
+    {
+     "w": "kraju.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nu"
+    },
+    {
+     "w": "uczę",
+     "t": "lär"
+    },
+    {
+     "w": "się",
+     "t": "mig"
+    },
+    {
+     "w": "języka.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Snart kommer jag åter att arbeta inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Snart"
+    },
+    {
+     "w": "znów",
+     "t": "igen"
+    },
+    {
+     "w": "będę",
+     "t": "kommer-jag(ska)"
+    },
+    {
+     "w": "pracował",
+     "t": "arbeta"
+    },
+    {
+     "w": "w",
+     "t": "i"
+    },
+    {
+     "w": "swoim",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

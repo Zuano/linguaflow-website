@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "el",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Άσκησα το επάγγελμά μου για πολλά χρόνια.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Έχω'(βοηθητικό)"
+    },
+    {
+     "w": "exercé",
+     "t": "ασκήσει"
+    },
+    {
+     "w": "mon",
+     "t": "το-δικό-μου"
+    },
+    {
+     "w": "métier",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "pendant",
+     "t": "για"
+    },
+    {
+     "w": "de",
+     "t": "(από)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "πολλά"
+    },
+    {
+     "w": "années.",
+     "t": "χρόνια."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Έπειτα έφτασα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "je",
+     "t": "εγώ"
+    },
+    {
+     "w": "suis",
+     "t": "είμαι'(βοηθητικό)"
+    },
+    {
+     "w": "arrivé",
+     "t": "φτάσας"
+    },
+    {
+     "w": "dans",
+     "t": "σε"
+    },
+    {
+     "w": "un",
+     "t": "μια"
+    },
+    {
+     "w": "nouveau",
+     "t": "νέα"
+    },
+    {
+     "w": "pays.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Τώρα, μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Τώρα,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "εγώ'μαθαίνω"
+    },
+    {
+     "w": "la",
+     "t": "τη"
+    },
+    {
+     "w": "langue.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Σύντομα, θα ξαναρχίσω το επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Σύντομα,"
+    },
+    {
+     "w": "je",
+     "t": "εγώ"
+    },
+    {
+     "w": "reprendrai",
+     "t": "θα-ξαναρχίσω"
+    },
+    {
+     "w": "mon",
+     "t": "το-δικό-μου"
+    },
+    {
+     "w": "métier.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

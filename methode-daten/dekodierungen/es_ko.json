@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "ko",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "저는 제 직업에서 여러 해 동안 일했습니다.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "나는-했다"
+    },
+    {
+     "w": "trabajado",
+     "t": "일한-것"
+    },
+    {
+     "w": "muchos",
+     "t": "많은"
+    },
+    {
+     "w": "años",
+     "t": "해(년)들"
+    },
+    {
+     "w": "en",
+     "t": "에서"
+    },
+    {
+     "w": "mi",
+     "t": "내"
+    },
+    {
+     "w": "profesión.",
+     "t": "직업에서."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "그 후에 저는 다른 나라로 이사했습니다.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "그-후에"
+    },
+    {
+     "w": "me",
+     "t": "나-자신을"
+    },
+    {
+     "w": "mudé",
+     "t": "이사했다"
+    },
+    {
+     "w": "a",
+     "t": "~로"
+    },
+    {
+     "w": "otro",
+     "t": "다른"
+    },
+    {
+     "w": "país.",
+     "t": "나라로."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "지금"
+    },
+    {
+     "w": "estoy",
+     "t": "나는-있다"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "배우고-있는-중"
+    },
+    {
+     "w": "el",
+     "t": "그"
+    },
+    {
+     "w": "idioma.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "곧 저는 제 직업으로 다시 돌아가서 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "곧"
+    },
+    {
+     "w": "volveré",
+     "t": "나는-다시-할-것이다"
+    },
+    {
+     "w": "a",
+     "t": "~하러"
+    },
+    {
+     "w": "trabajar",
+     "t": "일하는-것"
+    },
+    {
+     "w": "en",
+     "t": "에서"
+    },
+    {
+     "w": "mi",
+     "t": "내"
+    },
+    {
+     "w": "profesión.",
+     "t": "직업에서."
+    }
+   ]
+  }
+ ]
+}

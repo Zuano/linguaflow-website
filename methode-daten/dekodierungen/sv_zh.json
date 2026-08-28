@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "zh",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "我在我的职业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "我"
+    },
+    {
+     "w": "har",
+     "t": "已经"
+    },
+    {
+     "w": "arbetat",
+     "t": "工作了"
+    },
+    {
+     "w": "många",
+     "t": "很多"
+    },
+    {
+     "w": "år",
+     "t": "年"
+    },
+    {
+     "w": "inom",
+     "t": "在...领域内"
+    },
+    {
+     "w": "mitt",
+     "t": "我的"
+    },
+    {
+     "w": "yrke.",
+     "t": "职业。"
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "后来我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "然后"
+    },
+    {
+     "w": "flyttade",
+     "t": "搬了"
+    },
+    {
+     "w": "jag",
+     "t": "我"
+    },
+    {
+     "w": "till",
+     "t": "到"
+    },
+    {
+     "w": "ett",
+     "t": "一个"
+    },
+    {
+     "w": "nytt",
+     "t": "新的"
+    },
+    {
+     "w": "land.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "现在我在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "现在"
+    },
+    {
+     "w": "lär",
+     "t": "学习"
+    },
+    {
+     "w": "jag",
+     "t": "我"
+    },
+    {
+     "w": "mig",
+     "t": "自己(反身)"
+    },
+    {
+     "w": "språket.",
+     "t": "这门语言。"
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "很快我将再次开始从事我的职业。",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "很快"
+    },
+    {
+     "w": "ska",
+     "t": "将要"
+    },
+    {
+     "w": "jag",
+     "t": "我"
+    },
+    {
+     "w": "börja",
+     "t": "开始"
+    },
+    {
+     "w": "arbeta",
+     "t": "工作"
+    },
+    {
+     "w": "inom",
+     "t": "在...领域内"
+    },
+    {
+     "w": "mitt",
+     "t": "我的"
+    },
+    {
+     "w": "yrke",
+     "t": "职业"
+    },
+    {
+     "w": "igen.",
+     "t": "再次。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "sl",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Vrsto let sem delal na svojem področju.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Jaz"
+    },
+    {
+     "w": "telah",
+     "t": "sem-že"
+    },
+    {
+     "w": "bekerja",
+     "t": "delal"
+    },
+    {
+     "w": "di",
+     "t": "na"
+    },
+    {
+     "w": "bidang",
+     "t": "področju"
+    },
+    {
+     "w": "saya",
+     "t": "svojem"
+    },
+    {
+     "w": "selama",
+     "t": "tekom"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "mnogih-let."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Potem sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Potem"
+    },
+    {
+     "w": "saya",
+     "t": "jaz"
+    },
+    {
+     "w": "pindah",
+     "t": "preselil-sem-se"
+    },
+    {
+     "w": "ke",
+     "t": "v"
+    },
+    {
+     "w": "negara",
+     "t": "državo"
+    },
+    {
+     "w": "baru.",
+     "t": "novo."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Zdaj se učim njihovega jezika.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Zdaj"
+    },
+    {
+     "w": "saya",
+     "t": "jaz"
+    },
+    {
+     "w": "sedang",
+     "t": "trenutno"
+    },
+    {
+     "w": "belajar",
+     "t": "učim-se"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "njihovega-jezika."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Kmalu se bom vrnil k delu na svojem področju.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Kmalu"
+    },
+    {
+     "w": "lagi",
+     "t": "spet"
+    },
+    {
+     "w": "saya",
+     "t": "jaz"
+    },
+    {
+     "w": "akan",
+     "t": "bom"
+    },
+    {
+     "w": "kembali",
+     "t": "se-vrnil"
+    },
+    {
+     "w": "bekerja",
+     "t": "delati"
+    },
+    {
+     "w": "di",
+     "t": "na"
+    },
+    {
+     "w": "bidang",
+     "t": "področju"
+    },
+    {
+     "w": "saya.",
+     "t": "svojem."
+    }
+   ]
+  }
+ ]
+}

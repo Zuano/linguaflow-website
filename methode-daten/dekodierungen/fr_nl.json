@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "nl",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Ik heb mijn beroep gedurende vele jaren uitgeoefend.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Ik'heb"
+    },
+    {
+     "w": "exercé",
+     "t": "uitgeoefend"
+    },
+    {
+     "w": "mon",
+     "t": "mijn"
+    },
+    {
+     "w": "métier",
+     "t": "beroep"
+    },
+    {
+     "w": "pendant",
+     "t": "gedurende"
+    },
+    {
+     "w": "de",
+     "t": "van"
+    },
+    {
+     "w": "nombreuses",
+     "t": "vele"
+    },
+    {
+     "w": "années.",
+     "t": "jaren."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Daarna ben ik in een nieuw land aangekomen.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Daarna"
+    },
+    {
+     "w": "je",
+     "t": "ik"
+    },
+    {
+     "w": "suis",
+     "t": "ben"
+    },
+    {
+     "w": "arrivé",
+     "t": "aangekomen"
+    },
+    {
+     "w": "dans",
+     "t": "in"
+    },
+    {
+     "w": "un",
+     "t": "een"
+    },
+    {
+     "w": "nouveau",
+     "t": "nieuw"
+    },
+    {
+     "w": "pays.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Nu,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "ik'leer"
+    },
+    {
+     "w": "la",
+     "t": "de"
+    },
+    {
+     "w": "langue.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Binnenkort zal ik mijn beroep weer opnemen.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Binnenkort,"
+    },
+    {
+     "w": "je",
+     "t": "ik"
+    },
+    {
+     "w": "reprendrai",
+     "t": "zal-weer-opnemen"
+    },
+    {
+     "w": "mon",
+     "t": "mijn"
+    },
+    {
+     "w": "métier.",
+     "t": "beroep."
+    }
+   ]
+  }
+ ]
+}

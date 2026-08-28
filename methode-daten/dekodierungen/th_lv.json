@@ -1,0 +1,237 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "lv",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Es jau daudzus gadus strādāju sava profesionālā jomā.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "Es",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "strādāju",
+     "r": "tham-ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "iekšienē",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "nozarē",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesionālā",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "jomā",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "mana",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(jau)",
+     "r": "maa"
+    },
+    {
+     "w": "หลายปี",
+     "t": "daudz-gadi",
+     "r": "laai-pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "(paveikts)",
+     "r": "laew"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Danach zog ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "Pēc-tā",
+     "r": "lang"
+    },
+    {
+     "w": "จาก",
+     "t": "(prievārds)",
+     "r": "chak"
+    },
+    {
+     "w": "นั้น",
+     "t": "(tas)",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "Es",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "pārcēlos",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "(virziens)",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "dzīvot",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "valstī",
+     "r": "pratheth"
+    },
+    {
+     "w": "ใหม่",
+     "t": "jaunā",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Jetzt lerne ich gerade Sprache.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "Tagad",
+     "r": "thon-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "es",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(notiek)",
+     "r": "kamnang"
+    },
+    {
+     "w": "เรียน",
+     "t": "mācījos",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "valodu",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(turpinājums)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Und bald werde ich in meinen Beruf zurückkehren.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "Un",
+     "r": "aeh"
+    },
+    {
+     "w": "เร็ว",
+     "t": "ātri",
+     "r": "reo"
+    },
+    {
+     "w": "ๆ",
+     "t": "(atkārtojums)",
+     "r": "(reduplication mark)"
+    },
+    {
+     "w": "นี้",
+     "t": "šajā-laikā",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "es",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(nākotne)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "atgriezīšos",
+     "r": "klab"
+    },
+    {
+     "w": "มา",
+     "t": "(atgriešanās)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "strādāt",
+     "r": "tham-ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "iekšienē",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "nozarē",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesionālā",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "jomā",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "mana",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "vēl-(vienu)",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "reizi",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

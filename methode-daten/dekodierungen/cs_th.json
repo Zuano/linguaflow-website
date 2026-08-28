@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "th",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "ผมทำงานในสาขาของตัวเองมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "ใน"
+    },
+    {
+     "w": "svém",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "oboru",
+     "t": "สาขาอาชีพ"
+    },
+    {
+     "w": "jsem",
+     "t": "(ฉัน)ได้"
+    },
+    {
+     "w": "pracoval",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "mnoho",
+     "t": "หลาย"
+    },
+    {
+     "w": "let.",
+     "t": "ปี"
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "หลังจากนั้นฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "หลังจากนั้น"
+    },
+    {
+     "w": "jsem",
+     "t": "(ฉัน)ได้"
+    },
+    {
+     "w": "se",
+     "t": "(คำสะท้อนตัวเอง)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "ย้ายที่อยู่"
+    },
+    {
+     "w": "do",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "nové",
+     "t": "ใหม่"
+    },
+    {
+     "w": "země.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "se",
+     "t": "(คำสะท้อนตัวเอง)"
+    },
+    {
+     "w": "učím",
+     "t": "กำลังเรียน"
+    },
+    {
+     "w": "jazyk.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "ในไม่ช้าฉันจะกลับไปทำงานในสาขาของตัวเองอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "ในไม่ช้า"
+    },
+    {
+     "w": "budu",
+     "t": "(ฉัน)จะ"
+    },
+    {
+     "w": "zase",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "pracovat",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "ve",
+     "t": "ใน"
+    },
+    {
+     "w": "svém",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "oboru.",
+     "t": "สาขาอาชีพ"
+    }
+   ]
+  }
+ ]
+}

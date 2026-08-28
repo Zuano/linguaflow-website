@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "hu",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Sok éven át dolgoztam a szakterületemen.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Én"
+    },
+    {
+     "w": "har",
+     "t": "vagyok (segédige)"
+    },
+    {
+     "w": "jobbet",
+     "t": "dolgozott"
+    },
+    {
+     "w": "i",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mange",
+     "t": "sok"
+    },
+    {
+     "w": "år",
+     "t": "évben"
+    },
+    {
+     "w": "innen",
+     "t": "belül (a)"
+    },
+    {
+     "w": "mitt",
+     "t": "az-én"
+    },
+    {
+     "w": "fagområde.",
+     "t": "szakterületem."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Aztán"
+    },
+    {
+     "w": "flyttet",
+     "t": "költözött"
+    },
+    {
+     "w": "jeg",
+     "t": "én"
+    },
+    {
+     "w": "til",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "et",
+     "t": "egy"
+    },
+    {
+     "w": "nytt",
+     "t": "új"
+    },
+    {
+     "w": "land.",
+     "t": "ország."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Most"
+    },
+    {
+     "w": "lærer",
+     "t": "tanul"
+    },
+    {
+     "w": "jeg",
+     "t": "én"
+    },
+    {
+     "w": "språket.",
+     "t": "a-nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Hamarosan újra a szakterületemen fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "skal",
+     "t": "fogok"
+    },
+    {
+     "w": "jeg",
+     "t": "én"
+    },
+    {
+     "w": "jobbe",
+     "t": "dolgozni"
+    },
+    {
+     "w": "innen",
+     "t": "belül (a)"
+    },
+    {
+     "w": "mitt",
+     "t": "az-én"
+    },
+    {
+     "w": "fagområde",
+     "t": "szakterületem"
+    },
+    {
+     "w": "igjen.",
+     "t": "újra."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "tr",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Mesleğimde uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "(ben) sahibim (yardımcı fiil)"
+    },
+    {
+     "w": "lavorato",
+     "t": "çalışmış (oldum)"
+    },
+    {
+     "w": "per",
+     "t": "için/boyunca"
+    },
+    {
+     "w": "molti",
+     "t": "çok"
+    },
+    {
+     "w": "anni",
+     "t": "yıl"
+    },
+    {
+     "w": "nella",
+     "t": "içinde"
+    },
+    {
+     "w": "mia",
+     "t": "benim"
+    },
+    {
+     "w": "professione.",
+     "t": "mesleğim."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "sonra"
+    },
+    {
+     "w": "mi",
+     "t": "kendimi"
+    },
+    {
+     "w": "sono",
+     "t": "(ben) oldum (yardımcı fiil)"
+    },
+    {
+     "w": "trasferito",
+     "t": "taşınmış"
+    },
+    {
+     "w": "in",
+     "t": "içine"
+    },
+    {
+     "w": "un",
+     "t": "bir"
+    },
+    {
+     "w": "nuovo",
+     "t": "yeni"
+    },
+    {
+     "w": "Paese.",
+     "t": "ülke."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "şimdi"
+    },
+    {
+     "w": "sto",
+     "t": "(ben) bulunuyorum (yardımcı fiil)"
+    },
+    {
+     "w": "imparando",
+     "t": "öğrenmekte"
+    },
+    {
+     "w": "la",
+     "t": "o"
+    },
+    {
+     "w": "lingua.",
+     "t": "dil."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Yakında mesleğime çalışmaya geri döneceğim.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "yakında"
+    },
+    {
+     "w": "tornerò",
+     "t": "geri-döneceğim"
+    },
+    {
+     "w": "a",
+     "t": "-maya"
+    },
+    {
+     "w": "lavorare",
+     "t": "çalışmak"
+    },
+    {
+     "w": "nella",
+     "t": "içinde"
+    },
+    {
+     "w": "mia",
+     "t": "benim"
+    },
+    {
+     "w": "professione.",
+     "t": "mesleğim."
+    }
+   ]
+  }
+ ]
+}

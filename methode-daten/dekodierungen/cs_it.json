@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "it",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Ho lavorato nel mio campo per molti anni.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Nel"
+    },
+    {
+     "w": "svém",
+     "t": "proprio"
+    },
+    {
+     "w": "oboru",
+     "t": "campo (professione)"
+    },
+    {
+     "w": "jsem",
+     "t": "(io)-ho"
+    },
+    {
+     "w": "pracoval",
+     "t": "lavorato"
+    },
+    {
+     "w": "mnoho",
+     "t": "molti"
+    },
+    {
+     "w": "let.",
+     "t": "anni."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Poi mi sono trasferito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Poi"
+    },
+    {
+     "w": "jsem",
+     "t": "(io)-sono"
+    },
+    {
+     "w": "se",
+     "t": "mi"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "trasferito"
+    },
+    {
+     "w": "do",
+     "t": "in"
+    },
+    {
+     "w": "nové",
+     "t": "nuovo"
+    },
+    {
+     "w": "země.",
+     "t": "paese."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Ora"
+    },
+    {
+     "w": "se",
+     "t": "mi (riflessivo)"
+    },
+    {
+     "w": "učím",
+     "t": "imparo"
+    },
+    {
+     "w": "jazyk.",
+     "t": "la-lingua."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Presto tornerò a lavorare nel mio campo.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Presto"
+    },
+    {
+     "w": "budu",
+     "t": "(io)-sarò"
+    },
+    {
+     "w": "zase",
+     "t": "di-nuovo"
+    },
+    {
+     "w": "pracovat",
+     "t": "lavorare"
+    },
+    {
+     "w": "ve",
+     "t": "nel"
+    },
+    {
+     "w": "svém",
+     "t": "proprio"
+    },
+    {
+     "w": "oboru.",
+     "t": "campo."
+    }
+   ]
+  }
+ ]
+}

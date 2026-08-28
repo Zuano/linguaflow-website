@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "th",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "ฉัน-ได้"
+    },
+    {
+     "w": "lavorato",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "per",
+     "t": "เป็นเวลา"
+    },
+    {
+     "w": "molti",
+     "t": "หลาย"
+    },
+    {
+     "w": "anni",
+     "t": "ปี"
+    },
+    {
+     "w": "nella",
+     "t": "ใน"
+    },
+    {
+     "w": "mia",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "professione.",
+     "t": "อาชีพ"
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "หลังจากนั้นฉันก็ย้ายไปอยู่ประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "mi",
+     "t": "ตัวเอง"
+    },
+    {
+     "w": "sono",
+     "t": "ฉัน-ได้"
+    },
+    {
+     "w": "trasferito",
+     "t": "ย้าย"
+    },
+    {
+     "w": "in",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "un",
+     "t": "หนึ่ง"
+    },
+    {
+     "w": "nuovo",
+     "t": "ใหม่"
+    },
+    {
+     "w": "Paese.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษาอยู่",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "sto",
+     "t": "ฉัน-กำลัง"
+    },
+    {
+     "w": "imparando",
+     "t": "เรียนรู้"
+    },
+    {
+     "w": "la",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "lingua.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "เร็วๆ นี้ฉันจะกลับไปทำงานในอาชีพของฉัน",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "เร็วๆ-นี้"
+    },
+    {
+     "w": "tornerò",
+     "t": "ฉัน-จะกลับ"
+    },
+    {
+     "w": "a",
+     "t": "ไป"
+    },
+    {
+     "w": "lavorare",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "nella",
+     "t": "ใน"
+    },
+    {
+     "w": "mia",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "professione.",
+     "t": "อาชีพ"
+    }
+   ]
+  }
+ ]
+}

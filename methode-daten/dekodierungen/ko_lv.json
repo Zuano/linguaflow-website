@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "lv",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Es jau ilgu laiku strādāju savā profesijā.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "es (kas attiecas uz)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "ilgu-laiku",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "savā",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "profesijā",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "strādājis(-usi)",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "esmu-bijis.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Tad es atbraucu uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "tad-tā-darot",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "jaunu",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "uz-valsti",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "atbraucu.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Tagad es mācos tās valsts valodu.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "tagad (kas attiecas uz)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "tās",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "valsts",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "valodu",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "mācoties-un",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "esmu (turpinu darīt).",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Drīz es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "drīz",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "atkal",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "savā",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "profesijā (virzienā)",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "strādāt",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "kļūšu (par)",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "tas-būs.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

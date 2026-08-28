@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "bg",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Работил съм много години в своята професия.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Аз"
+    },
+    {
+     "w": "har",
+     "t": "съм"
+    },
+    {
+     "w": "arbetat",
+     "t": "работил"
+    },
+    {
+     "w": "många",
+     "t": "много"
+    },
+    {
+     "w": "år",
+     "t": "години"
+    },
+    {
+     "w": "inom",
+     "t": "в"
+    },
+    {
+     "w": "mitt",
+     "t": "моята"
+    },
+    {
+     "w": "yrke.",
+     "t": "професия."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "После се преместих в нова страна.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "После"
+    },
+    {
+     "w": "flyttade",
+     "t": "преместих-се"
+    },
+    {
+     "w": "jag",
+     "t": "аз"
+    },
+    {
+     "w": "till",
+     "t": "в"
+    },
+    {
+     "w": "ett",
+     "t": "една"
+    },
+    {
+     "w": "nytt",
+     "t": "нова"
+    },
+    {
+     "w": "land.",
+     "t": "страна."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Сега"
+    },
+    {
+     "w": "lär",
+     "t": "уча"
+    },
+    {
+     "w": "jag",
+     "t": "аз"
+    },
+    {
+     "w": "mig",
+     "t": "се"
+    },
+    {
+     "w": "språket.",
+     "t": "езика."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Скоро отново ще започна да работя в своята професия.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Скоро"
+    },
+    {
+     "w": "ska",
+     "t": "ще"
+    },
+    {
+     "w": "jag",
+     "t": "аз"
+    },
+    {
+     "w": "börja",
+     "t": "започна"
+    },
+    {
+     "w": "arbeta",
+     "t": "да-работя"
+    },
+    {
+     "w": "inom",
+     "t": "в"
+    },
+    {
+     "w": "mitt",
+     "t": "моята"
+    },
+    {
+     "w": "yrke",
+     "t": "професия"
+    },
+    {
+     "w": "igen.",
+     "t": "отново."
+    }
+   ]
+  }
+ ]
+}

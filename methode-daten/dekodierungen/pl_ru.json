@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "ru",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Много лет я работал по своей профессии.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "В-течение"
+    },
+    {
+     "w": "wiele",
+     "t": "многих"
+    },
+    {
+     "w": "lat",
+     "t": "лет"
+    },
+    {
+     "w": "pracowałem",
+     "t": "я-работал"
+    },
+    {
+     "w": "w",
+     "t": "в"
+    },
+    {
+     "w": "swoim",
+     "t": "своей"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "профессии."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Потом я приехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Потом"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "я-приехал"
+    },
+    {
+     "w": "do",
+     "t": "в"
+    },
+    {
+     "w": "nowego",
+     "t": "новую"
+    },
+    {
+     "w": "kraju.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Сейчас я учу язык.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Сейчас"
+    },
+    {
+     "w": "uczę",
+     "t": "учу"
+    },
+    {
+     "w": "się",
+     "t": "(себя)"
+    },
+    {
+     "w": "języka.",
+     "t": "языку."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Скоро я снова буду работать по своей профессии.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Скоро"
+    },
+    {
+     "w": "znów",
+     "t": "снова"
+    },
+    {
+     "w": "będę",
+     "t": "буду"
+    },
+    {
+     "w": "pracował",
+     "t": "работать"
+    },
+    {
+     "w": "w",
+     "t": "в"
+    },
+    {
+     "w": "swoim",
+     "t": "своей"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "профессии."
+    }
+   ]
+  }
+ ]
+}

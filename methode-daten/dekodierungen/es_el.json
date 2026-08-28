@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "el",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Έχω δουλέψει πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Έχω"
+    },
+    {
+     "w": "trabajado",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "muchos",
+     "t": "πολλά"
+    },
+    {
+     "w": "años",
+     "t": "χρόνια"
+    },
+    {
+     "w": "en",
+     "t": "στο"
+    },
+    {
+     "w": "mi",
+     "t": "μου"
+    },
+    {
+     "w": "profesión.",
+     "t": "επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Μετά μετακόμισα σε άλλη χώρα.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Μετά"
+    },
+    {
+     "w": "me",
+     "t": "(εαυτό-μου)"
+    },
+    {
+     "w": "mudé",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "a",
+     "t": "σε"
+    },
+    {
+     "w": "otro",
+     "t": "άλλη"
+    },
+    {
+     "w": "país.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Τώρα"
+    },
+    {
+     "w": "estoy",
+     "t": "είμαι"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "μαθαίνοντας"
+    },
+    {
+     "w": "el",
+     "t": "τη"
+    },
+    {
+     "w": "idioma.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "volveré",
+     "t": "θα-ξαναγυρίσω"
+    },
+    {
+     "w": "a",
+     "t": "να"
+    },
+    {
+     "w": "trabajar",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "en",
+     "t": "στο"
+    },
+    {
+     "w": "mi",
+     "t": "μου"
+    },
+    {
+     "w": "profesión.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

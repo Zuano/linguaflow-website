@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "fr",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "J'ai travaillé de nombreuses années dans ma profession.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Je-suis (j'ai)"
+    },
+    {
+     "w": "daudzus",
+     "t": "de-nombreuses"
+    },
+    {
+     "w": "gadus",
+     "t": "années"
+    },
+    {
+     "w": "strādājis",
+     "t": "travaillé"
+    },
+    {
+     "w": "savā",
+     "t": "dans-ma-propre"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profession."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Ensuite, j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "Après"
+    },
+    {
+     "w": "tam",
+     "t": "cela"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "je-me-suis-déménagé"
+    },
+    {
+     "w": "uz",
+     "t": "vers"
+    },
+    {
+     "w": "jaunu",
+     "t": "un-nouveau"
+    },
+    {
+     "w": "valsti.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Maintenant"
+    },
+    {
+     "w": "apgūstu",
+     "t": "j'apprends"
+    },
+    {
+     "w": "valodu.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Bientôt, je retravaillerai dans ma profession.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "Bientôt"
+    },
+    {
+     "w": "atkal",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "strādāšu",
+     "t": "je-travaillerai"
+    },
+    {
+     "w": "savā",
+     "t": "dans-ma-propre"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

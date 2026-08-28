@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "ro",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Am lucrat mulți ani în profesia mea.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "am-lucrat",
+     "r": "avadti"
+    },
+    {
+     "w": "שנים",
+     "t": "ani",
+     "r": "shanim"
+    },
+    {
+     "w": "רבות",
+     "t": "multe",
+     "r": "rabot"
+    },
+    {
+     "w": "במקצוע",
+     "t": "în-profesia",
+     "r": "be-miktzoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mea.",
+     "r": "sheli."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "După aceea am ajuns într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "după",
+     "r": "le-achar"
+    },
+    {
+     "w": "מכן",
+     "t": "aceea",
+     "r": "mikhen"
+    },
+    {
+     "w": "הגעתי",
+     "t": "am-ajuns",
+     "r": "higati"
+    },
+    {
+     "w": "למדינה",
+     "t": "la-o-țară",
+     "r": "le-medina"
+    },
+    {
+     "w": "חדשה.",
+     "t": "nouă.",
+     "r": "chadasha."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "acum",
+     "r": "ka'et"
+    },
+    {
+     "w": "אני",
+     "t": "eu",
+     "r": "ani"
+    },
+    {
+     "w": "לומד",
+     "t": "învăț",
+     "r": "lomed"
+    },
+    {
+     "w": "את",
+     "t": "(marchează-obiectul)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "limba.",
+     "r": "ha-safa."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "În curând mă voi întoarce să lucrez în profesia mea.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "în-curând",
+     "r": "be-karov"
+    },
+    {
+     "w": "אחזור",
+     "t": "mă-voi-întoarce",
+     "r": "echzor"
+    },
+    {
+     "w": "לעבוד",
+     "t": "să-lucrez",
+     "r": "la'avod"
+    },
+    {
+     "w": "במקצוע",
+     "t": "în-profesia",
+     "r": "be-miktzoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mea.",
+     "r": "sheli."
+    }
+   ]
+  }
+ ]
+}

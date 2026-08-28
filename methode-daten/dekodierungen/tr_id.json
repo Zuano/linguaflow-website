@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "id",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Saya bekerja bertahun-tahun lamanya di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "di-profesi-saya"
+    },
+    {
+     "w": "uzun",
+     "t": "panjang (lama)"
+    },
+    {
+     "w": "yıllar",
+     "t": "tahun-tahun"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "saya-bekerja."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Kemudian saya datang ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "kemudian"
+    },
+    {
+     "w": "yeni",
+     "t": "baru"
+    },
+    {
+     "w": "bir",
+     "t": "sebuah"
+    },
+    {
+     "w": "ülkeye",
+     "t": "ke-negara"
+    },
+    {
+     "w": "geldim.",
+     "t": "saya-datang."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Sekarang saya sedang belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "sekarang"
+    },
+    {
+     "w": "dili",
+     "t": "bahasa-nya"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "saya-sedang-belajar."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Sebentar lagi saya akan mulai bekerja lagi di bidang profesi saya.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "sebentar-lagi"
+    },
+    {
+     "w": "tekrar",
+     "t": "lagi (kembali)"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "di-profesi-saya"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "untuk-bekerja"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "saya-akan-mulai."
+    }
+   ]
+  }
+ ]
+}

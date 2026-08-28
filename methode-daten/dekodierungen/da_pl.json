@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "pl",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Pracowałem w moim zawodzie przez wiele lat.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ja"
+    },
+    {
+     "w": "har",
+     "t": "mam (czasownik posiłkowy)"
+    },
+    {
+     "w": "arbejdet",
+     "t": "pracowane"
+    },
+    {
+     "w": "i",
+     "t": "w"
+    },
+    {
+     "w": "mit",
+     "t": "moim"
+    },
+    {
+     "w": "fag",
+     "t": "zawodzie"
+    },
+    {
+     "w": "i",
+     "t": "przez"
+    },
+    {
+     "w": "mange",
+     "t": "wiele"
+    },
+    {
+     "w": "år.",
+     "t": "lat."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Potem"
+    },
+    {
+     "w": "flyttede",
+     "t": "przeprowadziłem-się"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "til",
+     "t": "do"
+    },
+    {
+     "w": "et",
+     "t": "(jakiegoś)"
+    },
+    {
+     "w": "nyt",
+     "t": "nowego"
+    },
+    {
+     "w": "land.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Teraz"
+    },
+    {
+     "w": "lærer",
+     "t": "uczę-się"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "sproget.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Wkrótce znowu będę pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "skal",
+     "t": "mam (zamiar)"
+    },
+    {
+     "w": "jeg",
+     "t": "ja"
+    },
+    {
+     "w": "arbejde",
+     "t": "pracować"
+    },
+    {
+     "w": "i",
+     "t": "w"
+    },
+    {
+     "w": "mit",
+     "t": "moim"
+    },
+    {
+     "w": "fag",
+     "t": "zawodzie"
+    },
+    {
+     "w": "igen.",
+     "t": "znowu."
+    }
+   ]
+  }
+ ]
+}

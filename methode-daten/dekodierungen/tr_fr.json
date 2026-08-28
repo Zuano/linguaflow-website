@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "fr",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "J'ai travaillé de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "Dans-mon-métier"
+    },
+    {
+     "w": "uzun",
+     "t": "longues"
+    },
+    {
+     "w": "yıllar",
+     "t": "années"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "j'ai-travaillé."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Ensuite, je suis venu dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "Ensuite"
+    },
+    {
+     "w": "yeni",
+     "t": "nouveau"
+    },
+    {
+     "w": "bir",
+     "t": "un"
+    },
+    {
+     "w": "ülkeye",
+     "t": "dans-le-pays"
+    },
+    {
+     "w": "geldim.",
+     "t": "je-suis-venu."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "Maintenant"
+    },
+    {
+     "w": "dili",
+     "t": "la-langue"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "j'apprends."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Bientôt, je recommencerai à travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "Bientôt"
+    },
+    {
+     "w": "tekrar",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "dans-mon-métier"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "à-travailler"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "je-vais-commencer."
+    }
+   ]
+  }
+ ]
+}

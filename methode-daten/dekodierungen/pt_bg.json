@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "bg",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Работих много години в моята професия.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "работих"
+    },
+    {
+     "w": "muitos",
+     "t": "много"
+    },
+    {
+     "w": "anos",
+     "t": "години"
+    },
+    {
+     "w": "na",
+     "t": "в"
+    },
+    {
+     "w": "minha",
+     "t": "моята"
+    },
+    {
+     "w": "profissão.",
+     "t": "професия."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "После дойдох в нова страна.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "после,"
+    },
+    {
+     "w": "vim",
+     "t": "дойдох"
+    },
+    {
+     "w": "para",
+     "t": "в"
+    },
+    {
+     "w": "um",
+     "t": "една"
+    },
+    {
+     "w": "novo",
+     "t": "нова"
+    },
+    {
+     "w": "país.",
+     "t": "страна."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "сега"
+    },
+    {
+     "w": "estou",
+     "t": "съм"
+    },
+    {
+     "w": "a",
+     "t": "(за)"
+    },
+    {
+     "w": "aprender",
+     "t": "уча"
+    },
+    {
+     "w": "a",
+     "t": "(частица-за-'the')"
+    },
+    {
+     "w": "língua.",
+     "t": "езика."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Скоро отново ще работя в моята професия.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "в"
+    },
+    {
+     "w": "breve,",
+     "t": "скоро,"
+    },
+    {
+     "w": "voltarei",
+     "t": "ще-се-върна"
+    },
+    {
+     "w": "a",
+     "t": "да"
+    },
+    {
+     "w": "trabalhar",
+     "t": "работя"
+    },
+    {
+     "w": "na",
+     "t": "в"
+    },
+    {
+     "w": "minha",
+     "t": "моята"
+    },
+    {
+     "w": "profissão.",
+     "t": "професия."
+    }
+   ]
+  }
+ ]
+}

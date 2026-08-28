@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "nl",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Ik heb veel jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Heb"
+    },
+    {
+     "w": "lucrat",
+     "t": "gewerkt"
+    },
+    {
+     "w": "mulți",
+     "t": "veel"
+    },
+    {
+     "w": "ani",
+     "t": "jaren"
+    },
+    {
+     "w": "în",
+     "t": "in"
+    },
+    {
+     "w": "meseria",
+     "t": "het-vak"
+    },
+    {
+     "w": "mea.",
+     "t": "mijn."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Daarna ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Daarna"
+    },
+    {
+     "w": "m-am",
+     "t": "me'ben"
+    },
+    {
+     "w": "mutat",
+     "t": "verhuisd"
+    },
+    {
+     "w": "într-o",
+     "t": "in'een"
+    },
+    {
+     "w": "țară",
+     "t": "land"
+    },
+    {
+     "w": "nouă.",
+     "t": "nieuw."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Nu"
+    },
+    {
+     "w": "învăț",
+     "t": "leer"
+    },
+    {
+     "w": "limba.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Binnenkort zal ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Binnen"
+    },
+    {
+     "w": "curând",
+     "t": "kort"
+    },
+    {
+     "w": "voi",
+     "t": "zal(ik)"
+    },
+    {
+     "w": "lucra",
+     "t": "werken"
+    },
+    {
+     "w": "din",
+     "t": "van"
+    },
+    {
+     "w": "nou",
+     "t": "nieuw(weer)"
+    },
+    {
+     "w": "în",
+     "t": "in"
+    },
+    {
+     "w": "meseria",
+     "t": "het-vak"
+    },
+    {
+     "w": "mea.",
+     "t": "mijn."
+    }
+   ]
+  }
+ ]
+}

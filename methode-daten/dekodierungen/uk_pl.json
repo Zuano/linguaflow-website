@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "pl",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Wiele lat pracowałem w swoim fachu.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ja",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "wiele",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "lat",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "pracowałem",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "w",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "swoim",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "fachu.",
+     "r": "spetsialʹnistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Potem",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "przyjechałem",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "do",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "nowego",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "kraju.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Teraz",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "uczę-się",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "języka.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Wkrótce znowu zacznę pracować w swoim fachu.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Wkrótce",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "znowu",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "zacznę",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "pracować",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "w",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "swoim",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "fachu.",
+     "r": "spetsialʹnistyu."
+    }
+   ]
+  }
+ ]
+}

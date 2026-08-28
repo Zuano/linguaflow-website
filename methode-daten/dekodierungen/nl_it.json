@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "it",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Ho lavorato per molti anni nella mia professione.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Io"
+    },
+    {
+     "w": "heb",
+     "t": "ho"
+    },
+    {
+     "w": "vele",
+     "t": "molti"
+    },
+    {
+     "w": "jaren",
+     "t": "anni"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "mijn",
+     "t": "mio"
+    },
+    {
+     "w": "vak",
+     "t": "lavoro (professione)"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "lavorato."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Dopo di che sono venuto in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Dopo-di-che"
+    },
+    {
+     "w": "ben",
+     "t": "sono"
+    },
+    {
+     "w": "ik",
+     "t": "io"
+    },
+    {
+     "w": "naar",
+     "t": "verso"
+    },
+    {
+     "w": "een",
+     "t": "un"
+    },
+    {
+     "w": "nieuw",
+     "t": "nuovo"
+    },
+    {
+     "w": "land",
+     "t": "paese"
+    },
+    {
+     "w": "gekomen.",
+     "t": "venuto."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Adesso sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Adesso"
+    },
+    {
+     "w": "leer",
+     "t": "imparo"
+    },
+    {
+     "w": "ik",
+     "t": "io"
+    },
+    {
+     "w": "de",
+     "t": "la"
+    },
+    {
+     "w": "taal.",
+     "t": "lingua."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Presto tornerò a lavorare nella mia professione.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Presto"
+    },
+    {
+     "w": "ga",
+     "t": "vado (andrò)"
+    },
+    {
+     "w": "ik",
+     "t": "io"
+    },
+    {
+     "w": "weer",
+     "t": "di-nuovo"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "mijn",
+     "t": "mio"
+    },
+    {
+     "w": "vak",
+     "t": "lavoro (professione)"
+    },
+    {
+     "w": "werken.",
+     "t": "lavorare."
+    }
+   ]
+  }
+ ]
+}

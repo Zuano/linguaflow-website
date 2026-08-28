@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "ja",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "私は長年、自分の職業で働いていました。",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "多くの"
+    },
+    {
+     "w": "metų",
+     "t": "年の"
+    },
+    {
+     "w": "dirbau",
+     "t": "私は働いていた"
+    },
+    {
+     "w": "savo",
+     "t": "自分の"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "職業で。"
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "その後、私は新しい国にやって来ました。",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "その後"
+    },
+    {
+     "w": "atvykau",
+     "t": "私は到着した"
+    },
+    {
+     "w": "į",
+     "t": "〜へ"
+    },
+    {
+     "w": "naują",
+     "t": "新しい"
+    },
+    {
+     "w": "šalį.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "今は言語を勉強しています。",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "今"
+    },
+    {
+     "w": "mokausi",
+     "t": "私は勉強している"
+    },
+    {
+     "w": "kalbos.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "もうすぐまた自分の職業で働くつもりです。",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "vėl",
+     "t": "再び"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "私は働くだろう"
+    },
+    {
+     "w": "savo",
+     "t": "自分の"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "職業で。"
+    }
+   ]
+  }
+ ]
+}

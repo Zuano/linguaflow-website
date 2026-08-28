@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "lt",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Aš daugelį metų dirbau savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Esu"
+    },
+    {
+     "w": "daudzus",
+     "t": "daugelį"
+    },
+    {
+     "w": "gadus",
+     "t": "metų"
+    },
+    {
+     "w": "strādājis",
+     "t": "dirbęs"
+    },
+    {
+     "w": "savā",
+     "t": "savo"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profesijoje."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Vėliau persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "Po"
+    },
+    {
+     "w": "tam",
+     "t": "to"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "persikėliau"
+    },
+    {
+     "w": "uz",
+     "t": "į"
+    },
+    {
+     "w": "jaunu",
+     "t": "naują"
+    },
+    {
+     "w": "valsti.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Dabar"
+    },
+    {
+     "w": "apgūstu",
+     "t": "mokausi"
+    },
+    {
+     "w": "valodu.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Netrukus vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "Netrukus"
+    },
+    {
+     "w": "atkal",
+     "t": "vėl"
+    },
+    {
+     "w": "strādāšu",
+     "t": "dirbsiu"
+    },
+    {
+     "w": "savā",
+     "t": "savo"
+    },
+    {
+     "w": "profesijā.",
+     "t": "profesijoje."
+    }
+   ]
+  }
+ ]
+}

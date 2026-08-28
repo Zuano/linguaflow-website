@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "vi",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Tôi đã làm việc nhiều năm trong ngành nghề của mình.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Tôi-đã-làm-việc"
+    },
+    {
+     "w": "muitos",
+     "t": "nhiều"
+    },
+    {
+     "w": "anos",
+     "t": "năm"
+    },
+    {
+     "w": "na",
+     "t": "trong"
+    },
+    {
+     "w": "minha",
+     "t": "của-tôi"
+    },
+    {
+     "w": "profissão.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Sau đó, tôi đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Sau-đó,"
+    },
+    {
+     "w": "vim",
+     "t": "tôi-đã-đến"
+    },
+    {
+     "w": "para",
+     "t": "đến"
+    },
+    {
+     "w": "um",
+     "t": "một"
+    },
+    {
+     "w": "novo",
+     "t": "mới"
+    },
+    {
+     "w": "país.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "estou",
+     "t": "tôi-đang"
+    },
+    {
+     "w": "a",
+     "t": "(từ-nối)"
+    },
+    {
+     "w": "aprender",
+     "t": "học"
+    },
+    {
+     "w": "a",
+     "t": "(mạo-từ)"
+    },
+    {
+     "w": "língua.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Chẳng bao lâu nữa, tôi sẽ quay lại làm việc trong ngành nghề của mình.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Trong"
+    },
+    {
+     "w": "breve,",
+     "t": "chốc-lát-nữa,"
+    },
+    {
+     "w": "voltarei",
+     "t": "tôi-sẽ-quay-lại"
+    },
+    {
+     "w": "a",
+     "t": "để"
+    },
+    {
+     "w": "trabalhar",
+     "t": "làm-việc"
+    },
+    {
+     "w": "na",
+     "t": "trong"
+    },
+    {
+     "w": "minha",
+     "t": "của-tôi"
+    },
+    {
+     "w": "profissão.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "tr",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Mesleğimi uzun yıllar boyunca icra ettim.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Ben'yaptım (icra ettim)"
+    },
+    {
+     "w": "exercé",
+     "t": "icra-ettim"
+    },
+    {
+     "w": "mon",
+     "t": "benim"
+    },
+    {
+     "w": "métier",
+     "t": "mesleğimi"
+    },
+    {
+     "w": "pendant",
+     "t": "boyunca"
+    },
+    {
+     "w": "de",
+     "t": "(belirteç)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "birçok"
+    },
+    {
+     "w": "années.",
+     "t": "yıl-boyunca."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Sonra"
+    },
+    {
+     "w": "je",
+     "t": "ben"
+    },
+    {
+     "w": "suis",
+     "t": "(yardımcı-fiil)"
+    },
+    {
+     "w": "arrivé",
+     "t": "geldim"
+    },
+    {
+     "w": "dans",
+     "t": "içine"
+    },
+    {
+     "w": "un",
+     "t": "bir"
+    },
+    {
+     "w": "nouveau",
+     "t": "yeni"
+    },
+    {
+     "w": "pays.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Şimdi,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "ben'öğreniyorum"
+    },
+    {
+     "w": "la",
+     "t": "(dişil-belirteç)"
+    },
+    {
+     "w": "langue.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Yakında mesleğime yeniden başlayacağım.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Yakında,"
+    },
+    {
+     "w": "je",
+     "t": "ben"
+    },
+    {
+     "w": "reprendrai",
+     "t": "yeniden-başlayacağım"
+    },
+    {
+     "w": "mon",
+     "t": "benim"
+    },
+    {
+     "w": "métier.",
+     "t": "mesleğime."
+    }
+   ]
+  }
+ ]
+}

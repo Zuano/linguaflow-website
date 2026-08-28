@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "ro",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Am lucrat mulți ani în meseria mea.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Eu"
+    },
+    {
+     "w": "heb",
+     "t": "am"
+    },
+    {
+     "w": "vele",
+     "t": "mulți"
+    },
+    {
+     "w": "jaren",
+     "t": "ani"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "mijn",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "vak",
+     "t": "(domeniul-de-lucru)"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "lucrat."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Apoi"
+    },
+    {
+     "w": "ben",
+     "t": "am"
+    },
+    {
+     "w": "ik",
+     "t": "eu"
+    },
+    {
+     "w": "naar",
+     "t": "spre"
+    },
+    {
+     "w": "een",
+     "t": "o"
+    },
+    {
+     "w": "nieuw",
+     "t": "nouă"
+    },
+    {
+     "w": "land",
+     "t": "țară"
+    },
+    {
+     "w": "gekomen.",
+     "t": "venit."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Acum"
+    },
+    {
+     "w": "leer",
+     "t": "învăț"
+    },
+    {
+     "w": "ik",
+     "t": "eu"
+    },
+    {
+     "w": "de",
+     "t": "(cuvânt-pentru-'the')"
+    },
+    {
+     "w": "taal.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "În curând voi lucra din nou în meseria mea.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "În-curând"
+    },
+    {
+     "w": "ga",
+     "t": "voi"
+    },
+    {
+     "w": "ik",
+     "t": "eu"
+    },
+    {
+     "w": "weer",
+     "t": "din-nou"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "mijn",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "vak",
+     "t": "(domeniul-de-lucru)"
+    },
+    {
+     "w": "werken.",
+     "t": "lucra."
+    }
+   ]
+  }
+ ]
+}

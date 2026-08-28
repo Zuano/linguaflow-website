@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "fr",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "J'ai travaillé de longues années dans ma profession.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "travaillé",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "j'ai (auxiliaire)",
+     "r": "sam"
+    },
+    {
+     "w": "дълги",
+     "t": "longues",
+     "r": "dalgi"
+    },
+    {
+     "w": "години",
+     "t": "années",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "dans",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "ma",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profession.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Ensuite je suis arrivé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Ensuite",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "je-suis-arrivé",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "dans",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "un-nouveau",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "pays.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Maintenant",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "j'apprends",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "la-langue.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Bientôt je travaillerai de nouveau dans ma profession.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Bientôt",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "de-nouveau",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "(futur)",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "je-travaillerai",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "dans",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "ma",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profession.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

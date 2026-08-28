@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "vi",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Tôi đã làm việc trong nghề của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Tôi-đã"
+    },
+    {
+     "w": "lavorato",
+     "t": "làm-việc"
+    },
+    {
+     "w": "per",
+     "t": "trong"
+    },
+    {
+     "w": "molti",
+     "t": "nhiều"
+    },
+    {
+     "w": "anni",
+     "t": "năm"
+    },
+    {
+     "w": "nella",
+     "t": "trong"
+    },
+    {
+     "w": "mia",
+     "t": "của-tôi"
+    },
+    {
+     "w": "professione.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Sau đó tôi đã chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "mi",
+     "t": "mình"
+    },
+    {
+     "w": "sono",
+     "t": "đã"
+    },
+    {
+     "w": "trasferito",
+     "t": "chuyển-đi"
+    },
+    {
+     "w": "in",
+     "t": "đến"
+    },
+    {
+     "w": "un",
+     "t": "một"
+    },
+    {
+     "w": "nuovo",
+     "t": "mới"
+    },
+    {
+     "w": "Paese.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "sto",
+     "t": "tôi-đang"
+    },
+    {
+     "w": "imparando",
+     "t": "học"
+    },
+    {
+     "w": "la",
+     "t": "(mạo-từ)"
+    },
+    {
+     "w": "lingua.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Sớm thôi tôi sẽ trở lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Sớm-thôi"
+    },
+    {
+     "w": "tornerò",
+     "t": "tôi-sẽ-trở-lại"
+    },
+    {
+     "w": "a",
+     "t": "để"
+    },
+    {
+     "w": "lavorare",
+     "t": "làm-việc"
+    },
+    {
+     "w": "nella",
+     "t": "trong"
+    },
+    {
+     "w": "mia",
+     "t": "của-tôi"
+    },
+    {
+     "w": "professione.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  }
+ ]
+}

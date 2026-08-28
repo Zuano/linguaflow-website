@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "pt",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Trabalhei muitos anos na minha profissão.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Tenho (auxiliar-de-passado)"
+    },
+    {
+     "w": "lucrat",
+     "t": "trabalhado"
+    },
+    {
+     "w": "mulți",
+     "t": "muitos"
+    },
+    {
+     "w": "ani",
+     "t": "anos"
+    },
+    {
+     "w": "în",
+     "t": "na"
+    },
+    {
+     "w": "meseria",
+     "t": "profissão"
+    },
+    {
+     "w": "mea.",
+     "t": "minha."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Depois mudei-me para um país novo.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Depois"
+    },
+    {
+     "w": "m-am",
+     "t": "eu'me-mudei (auxiliar)"
+    },
+    {
+     "w": "mutat",
+     "t": "mudado"
+    },
+    {
+     "w": "într-o",
+     "t": "para'uma"
+    },
+    {
+     "w": "țară",
+     "t": "país"
+    },
+    {
+     "w": "nouă.",
+     "t": "novo."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Agora estou a aprender a língua.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Agora"
+    },
+    {
+     "w": "învăț",
+     "t": "aprendo"
+    },
+    {
+     "w": "limba.",
+     "t": "a-língua."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Em breve vou trabalhar de novo na minha profissão.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Em"
+    },
+    {
+     "w": "curând",
+     "t": "breve"
+    },
+    {
+     "w": "voi",
+     "t": "vou (auxiliar-de-futuro)"
+    },
+    {
+     "w": "lucra",
+     "t": "trabalhar"
+    },
+    {
+     "w": "din",
+     "t": "de"
+    },
+    {
+     "w": "nou",
+     "t": "novo"
+    },
+    {
+     "w": "în",
+     "t": "na"
+    },
+    {
+     "w": "meseria",
+     "t": "profissão"
+    },
+    {
+     "w": "mea.",
+     "t": "minha."
+    }
+   ]
+  }
+ ]
+}

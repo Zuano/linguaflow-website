@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "he",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "עבדתי במקצוע שלי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "אני"
+    },
+    {
+     "w": "worked",
+     "t": "עבדתי"
+    },
+    {
+     "w": "in",
+     "t": "ב"
+    },
+    {
+     "w": "my",
+     "t": "שלי"
+    },
+    {
+     "w": "profession",
+     "t": "מקצוע"
+    },
+    {
+     "w": "for",
+     "t": "במשך"
+    },
+    {
+     "w": "many",
+     "t": "רבות"
+    },
+    {
+     "w": "years.",
+     "t": "שנים."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "I",
+     "t": "אני"
+    },
+    {
+     "w": "moved",
+     "t": "עברתי"
+    },
+    {
+     "w": "to",
+     "t": "אל"
+    },
+    {
+     "w": "a",
+     "t": "(מילת-יידוע)"
+    },
+    {
+     "w": "new",
+     "t": "חדשה"
+    },
+    {
+     "w": "country.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "עכשיו"
+    },
+    {
+     "w": "I'm",
+     "t": "אני'נמצא"
+    },
+    {
+     "w": "learning",
+     "t": "לומד"
+    },
+    {
+     "w": "the",
+     "t": "את-ה"
+    },
+    {
+     "w": "language.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "בקרוב אני אחזור לעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "בקרוב"
+    },
+    {
+     "w": "I'll",
+     "t": "אני'אעשה"
+    },
+    {
+     "w": "be",
+     "t": "להיות"
+    },
+    {
+     "w": "working",
+     "t": "עובד"
+    },
+    {
+     "w": "in",
+     "t": "ב"
+    },
+    {
+     "w": "my",
+     "t": "שלי"
+    },
+    {
+     "w": "profession",
+     "t": "מקצוע"
+    },
+    {
+     "w": "again.",
+     "t": "שוב."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "nb",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Jeg har arbeidet mange år innen mitt fagområde.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Jeg-har"
+    },
+    {
+     "w": "palju",
+     "t": "mange"
+    },
+    {
+     "w": "aastaid",
+     "t": "år"
+    },
+    {
+     "w": "oma",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "erialal",
+     "t": "i-fagområdet"
+    },
+    {
+     "w": "töötanud.",
+     "t": "arbeidet."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Så flyttet jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Så"
+    },
+    {
+     "w": "kolisin",
+     "t": "flyttet-jeg"
+    },
+    {
+     "w": "uude",
+     "t": "til-nytt"
+    },
+    {
+     "w": "riiki.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Nå lærer jeg språket.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Nå"
+    },
+    {
+     "w": "õpin",
+     "t": "lærer-jeg"
+    },
+    {
+     "w": "keelt.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Snart begynner jeg igjen å arbeide innen mitt fagområde.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Snart"
+    },
+    {
+     "w": "hakkan",
+     "t": "begynner-jeg"
+    },
+    {
+     "w": "jälle",
+     "t": "igjen"
+    },
+    {
+     "w": "oma",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "erialal",
+     "t": "i-fagområdet"
+    },
+    {
+     "w": "töötama.",
+     "t": "å-arbeide."
+    }
+   ]
+  }
+ ]
+}

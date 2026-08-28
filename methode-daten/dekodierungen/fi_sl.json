@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "sl",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Delal sem na svojem področju že veliko let.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Sem"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "delal"
+    },
+    {
+     "w": "alallani",
+     "t": "na-svojem-področju"
+    },
+    {
+     "w": "monta",
+     "t": "veliko"
+    },
+    {
+     "w": "vuotta.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Nato"
+    },
+    {
+     "w": "muutin",
+     "t": "sem-se-preselil"
+    },
+    {
+     "w": "uuteen",
+     "t": "v-novo"
+    },
+    {
+     "w": "maahan.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Zdaj"
+    },
+    {
+     "w": "opiskelen",
+     "t": "se-učim"
+    },
+    {
+     "w": "kieltä.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Kmalu nameravam nadaljevati z delom na svojem področju.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Kmalu"
+    },
+    {
+     "w": "aion",
+     "t": "nameravam"
+    },
+    {
+     "w": "jatkaa",
+     "t": "nadaljevati"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "z-delom"
+    },
+    {
+     "w": "alallani.",
+     "t": "na-svojem-področju."
+    }
+   ]
+  }
+ ]
+}

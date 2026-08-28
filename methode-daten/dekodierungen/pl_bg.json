@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "bg",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "В продължение на много години работих в своята професия.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "В-продължение-на"
+    },
+    {
+     "w": "wiele",
+     "t": "много"
+    },
+    {
+     "w": "lat",
+     "t": "години"
+    },
+    {
+     "w": "pracowałem",
+     "t": "работих"
+    },
+    {
+     "w": "w",
+     "t": "в"
+    },
+    {
+     "w": "swoim",
+     "t": "своята"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "професия."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "После пристигнах в нова държава.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "После"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "пристигнах"
+    },
+    {
+     "w": "do",
+     "t": "в"
+    },
+    {
+     "w": "nowego",
+     "t": "нова"
+    },
+    {
+     "w": "kraju.",
+     "t": "държава."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Сега"
+    },
+    {
+     "w": "uczę",
+     "t": "уча"
+    },
+    {
+     "w": "się",
+     "t": "се"
+    },
+    {
+     "w": "języka.",
+     "t": "на-езика."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Скоро отново ще работя в своята професия.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Скоро"
+    },
+    {
+     "w": "znów",
+     "t": "отново"
+    },
+    {
+     "w": "będę",
+     "t": "ще-съм"
+    },
+    {
+     "w": "pracował",
+     "t": "работил"
+    },
+    {
+     "w": "w",
+     "t": "в"
+    },
+    {
+     "w": "swoim",
+     "t": "своята"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "професия."
+    }
+   ]
+  }
+ ]
+}

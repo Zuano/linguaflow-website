@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "nb",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Jeg jobbet mange år innenfor mitt fagfelt.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "I"
+    },
+    {
+     "w": "mojom",
+     "t": "mitt"
+    },
+    {
+     "w": "odbore",
+     "t": "fagfelt"
+    },
+    {
+     "w": "som",
+     "t": "har"
+    },
+    {
+     "w": "pracoval",
+     "t": "jobbet"
+    },
+    {
+     "w": "mnoho",
+     "t": "mange"
+    },
+    {
+     "w": "rokov.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Deretter kom jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Deretter"
+    },
+    {
+     "w": "som",
+     "t": "har"
+    },
+    {
+     "w": "prišiel",
+     "t": "kommet"
+    },
+    {
+     "w": "do",
+     "t": "til"
+    },
+    {
+     "w": "novej",
+     "t": "nytt"
+    },
+    {
+     "w": "krajiny.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Nå lærer jeg meg språket.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nå"
+    },
+    {
+     "w": "sa",
+     "t": "meg"
+    },
+    {
+     "w": "učím",
+     "t": "lærer"
+    },
+    {
+     "w": "jazyk.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Snart skal jeg jobbe innenfor mitt fagfelt igjen.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Snart"
+    },
+    {
+     "w": "budem",
+     "t": "skal-jeg"
+    },
+    {
+     "w": "opäť",
+     "t": "igjen"
+    },
+    {
+     "w": "pracovať",
+     "t": "jobbe"
+    },
+    {
+     "w": "vo",
+     "t": "i"
+    },
+    {
+     "w": "svojom",
+     "t": "mitt"
+    },
+    {
+     "w": "odbore.",
+     "t": "fagfelt."
+    }
+   ]
+  }
+ ]
+}

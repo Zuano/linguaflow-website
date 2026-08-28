@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "ko",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "나는 오랜 세월 동안 내 직업을 수행했다.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "나는'했다"
+    },
+    {
+     "w": "exercé",
+     "t": "수행했다(직업을)"
+    },
+    {
+     "w": "mon",
+     "t": "나의"
+    },
+    {
+     "w": "métier",
+     "t": "직업을"
+    },
+    {
+     "w": "pendant",
+     "t": "동안"
+    },
+    {
+     "w": "de",
+     "t": "의"
+    },
+    {
+     "w": "nombreuses",
+     "t": "많은"
+    },
+    {
+     "w": "années.",
+     "t": "세월(년)들."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "그런 다음 나는 새로운 나라에 도착했다.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "그다음"
+    },
+    {
+     "w": "je",
+     "t": "나는"
+    },
+    {
+     "w": "suis",
+     "t": "~했다(상태)"
+    },
+    {
+     "w": "arrivé",
+     "t": "도착한"
+    },
+    {
+     "w": "dans",
+     "t": "~안에"
+    },
+    {
+     "w": "un",
+     "t": "한(하나의)"
+    },
+    {
+     "w": "nouveau",
+     "t": "새로운"
+    },
+    {
+     "w": "pays.",
+     "t": "나라에."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "지금은, 나는 그 언어를 배우고 있다.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "지금은,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "나는'배운다"
+    },
+    {
+     "w": "la",
+     "t": "그"
+    },
+    {
+     "w": "langue.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "곧, 나는 내 직업을 다시 시작할 것이다.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "곧,"
+    },
+    {
+     "w": "je",
+     "t": "나는"
+    },
+    {
+     "w": "reprendrai",
+     "t": "다시-시작할-것이다"
+    },
+    {
+     "w": "mon",
+     "t": "나의"
+    },
+    {
+     "w": "métier.",
+     "t": "직업을."
+    }
+   ]
+  }
+ ]
+}

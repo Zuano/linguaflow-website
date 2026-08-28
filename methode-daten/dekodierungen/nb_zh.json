@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "zh",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "我在我的专业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "我"
+    },
+    {
+     "w": "har",
+     "t": "已经(助动词)"
+    },
+    {
+     "w": "jobbet",
+     "t": "工作过"
+    },
+    {
+     "w": "i",
+     "t": "(时间)"
+    },
+    {
+     "w": "mange",
+     "t": "很多"
+    },
+    {
+     "w": "år",
+     "t": "年"
+    },
+    {
+     "w": "innen",
+     "t": "在...领域内"
+    },
+    {
+     "w": "mitt",
+     "t": "我的"
+    },
+    {
+     "w": "fagområde.",
+     "t": "专业领域。"
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "后来我搬到了一个新国家。",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "然后"
+    },
+    {
+     "w": "flyttet",
+     "t": "搬家了"
+    },
+    {
+     "w": "jeg",
+     "t": "我"
+    },
+    {
+     "w": "til",
+     "t": "到"
+    },
+    {
+     "w": "et",
+     "t": "一个"
+    },
+    {
+     "w": "nytt",
+     "t": "新的"
+    },
+    {
+     "w": "land.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "现在我在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "现在"
+    },
+    {
+     "w": "lærer",
+     "t": "学习"
+    },
+    {
+     "w": "jeg",
+     "t": "我"
+    },
+    {
+     "w": "språket.",
+     "t": "这门语言。"
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "很快我将再次在我的专业领域工作。",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "很快"
+    },
+    {
+     "w": "skal",
+     "t": "将要"
+    },
+    {
+     "w": "jeg",
+     "t": "我"
+    },
+    {
+     "w": "jobbe",
+     "t": "工作"
+    },
+    {
+     "w": "innen",
+     "t": "在...领域内"
+    },
+    {
+     "w": "mitt",
+     "t": "我的"
+    },
+    {
+     "w": "fagområde",
+     "t": "专业领域"
+    },
+    {
+     "w": "igjen.",
+     "t": "再次。"
+    }
+   ]
+  }
+ ]
+}

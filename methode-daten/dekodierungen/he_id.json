@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "id",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Saya bekerja bertahun-tahun lamanya dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "saya-bekerja",
+     "r": "avádeti"
+    },
+    {
+     "w": "שנים",
+     "t": "tahun-tahun",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "banyak",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "dalam-profesi",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "saya.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Setelah itu saya tiba di negara baru.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "setelah",
+     "r": "le-akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "itu",
+     "r": "mikén"
+    },
+    {
+     "w": "הגעתי",
+     "t": "saya-tiba",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "ke-negara",
+     "r": "le-medináh"
+    },
+    {
+     "w": "חדשה.",
+     "t": "baru.",
+     "r": "khadasháh."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Sekarang saya sedang belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "sekarang",
+     "r": "ka-ét"
+    },
+    {
+     "w": "אני",
+     "t": "saya",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "sedang-belajar",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(penanda-objek)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "bahasa-itu.",
+     "r": "ha-safáh."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Sebentar lagi saya akan kembali bekerja dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "sebentar-lagi",
+     "r": "be-karóv"
+    },
+    {
+     "w": "אחזור",
+     "t": "saya-akan-kembali",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "untuk-bekerja",
+     "r": "la-avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "dalam-profesi",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "saya.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

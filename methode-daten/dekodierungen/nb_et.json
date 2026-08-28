@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "et",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Ma olen töötanud palju aastaid oma erialal.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Mina"
+    },
+    {
+     "w": "har",
+     "t": "olen"
+    },
+    {
+     "w": "jobbet",
+     "t": "töötanud"
+    },
+    {
+     "w": "i",
+     "t": "(ajaline)"
+    },
+    {
+     "w": "mange",
+     "t": "palju"
+    },
+    {
+     "w": "år",
+     "t": "aastaid"
+    },
+    {
+     "w": "innen",
+     "t": "oma"
+    },
+    {
+     "w": "mitt",
+     "t": "minu"
+    },
+    {
+     "w": "fagområde.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Siis kolisin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Siis"
+    },
+    {
+     "w": "flyttet",
+     "t": "kolisin"
+    },
+    {
+     "w": "jeg",
+     "t": "mina"
+    },
+    {
+     "w": "til",
+     "t": "sisse"
+    },
+    {
+     "w": "et",
+     "t": "üht"
+    },
+    {
+     "w": "nytt",
+     "t": "uut"
+    },
+    {
+     "w": "land.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Nüüd õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Nüüd"
+    },
+    {
+     "w": "lærer",
+     "t": "õpin"
+    },
+    {
+     "w": "jeg",
+     "t": "mina"
+    },
+    {
+     "w": "språket.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Varsti hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Varsti"
+    },
+    {
+     "w": "skal",
+     "t": "hakkan"
+    },
+    {
+     "w": "jeg",
+     "t": "mina"
+    },
+    {
+     "w": "jobbe",
+     "t": "töötama"
+    },
+    {
+     "w": "innen",
+     "t": "oma"
+    },
+    {
+     "w": "mitt",
+     "t": "minu"
+    },
+    {
+     "w": "fagområde",
+     "t": "erialal"
+    },
+    {
+     "w": "igjen.",
+     "t": "jälle."
+    }
+   ]
+  }
+ ]
+}

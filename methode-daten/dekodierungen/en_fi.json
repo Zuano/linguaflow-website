@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "fi",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Työskentelin ammatissani monta vuotta.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Minä"
+    },
+    {
+     "w": "worked",
+     "t": "työskentelin"
+    },
+    {
+     "w": "in",
+     "t": "-ssa"
+    },
+    {
+     "w": "my",
+     "t": "omassa"
+    },
+    {
+     "w": "profession",
+     "t": "ammatissa"
+    },
+    {
+     "w": "for",
+     "t": "ajan"
+    },
+    {
+     "w": "many",
+     "t": "monta"
+    },
+    {
+     "w": "years.",
+     "t": "vuotta."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Sitten"
+    },
+    {
+     "w": "I",
+     "t": "minä"
+    },
+    {
+     "w": "moved",
+     "t": "muutin"
+    },
+    {
+     "w": "to",
+     "t": "-uun"
+    },
+    {
+     "w": "a",
+     "t": "yhteen"
+    },
+    {
+     "w": "new",
+     "t": "uuteen"
+    },
+    {
+     "w": "country.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Nyt opettelen kieltä.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Nyt"
+    },
+    {
+     "w": "I'm",
+     "t": "minä'olen"
+    },
+    {
+     "w": "learning",
+     "t": "opettelemassa"
+    },
+    {
+     "w": "the",
+     "t": "tuota"
+    },
+    {
+     "w": "language.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Pian työskentelen taas ammatissani.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Pian"
+    },
+    {
+     "w": "I'll",
+     "t": "minä'tulen"
+    },
+    {
+     "w": "be",
+     "t": "olemaan"
+    },
+    {
+     "w": "working",
+     "t": "työskentelemässä"
+    },
+    {
+     "w": "in",
+     "t": "-ssa"
+    },
+    {
+     "w": "my",
+     "t": "omassa"
+    },
+    {
+     "w": "profession",
+     "t": "ammatissa"
+    },
+    {
+     "w": "again.",
+     "t": "taas."
+    }
+   ]
+  }
+ ]
+}

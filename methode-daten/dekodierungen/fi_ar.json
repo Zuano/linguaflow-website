@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "ar",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "لقد عملت في مجالي لسنوات عديدة.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "أنا-قد"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "عملت"
+    },
+    {
+     "w": "alallani",
+     "t": "في-مجالي"
+    },
+    {
+     "w": "monta",
+     "t": "عديدة"
+    },
+    {
+     "w": "vuotta.",
+     "t": "سنوات."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "ثم"
+    },
+    {
+     "w": "muutin",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "uuteen",
+     "t": "إلى-جديد"
+    },
+    {
+     "w": "maahan.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "الآن"
+    },
+    {
+     "w": "opiskelen",
+     "t": "أتعلم"
+    },
+    {
+     "w": "kieltä.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "قريبًا أنوي مواصلة العمل في مجالي.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "قريبًا"
+    },
+    {
+     "w": "aion",
+     "t": "أنوي"
+    },
+    {
+     "w": "jatkaa",
+     "t": "مواصلة"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "العمل"
+    },
+    {
+     "w": "alallani.",
+     "t": "في-مجالي."
+    }
+   ]
+  }
+ ]
+}

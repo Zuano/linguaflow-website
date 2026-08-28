@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "id",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Saya telah bekerja bertahun-tahun di bidang pekerjaan saya.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Saya-telah"
+    },
+    {
+     "w": "lucrat",
+     "t": "bekerja"
+    },
+    {
+     "w": "mulți",
+     "t": "banyak"
+    },
+    {
+     "w": "ani",
+     "t": "tahun"
+    },
+    {
+     "w": "în",
+     "t": "di"
+    },
+    {
+     "w": "meseria",
+     "t": "pekerjaan"
+    },
+    {
+     "w": "mea.",
+     "t": "saya."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Kemudian"
+    },
+    {
+     "w": "m-am",
+     "t": "saya-telah"
+    },
+    {
+     "w": "mutat",
+     "t": "pindah"
+    },
+    {
+     "w": "într-o",
+     "t": "ke-suatu"
+    },
+    {
+     "w": "țară",
+     "t": "negara"
+    },
+    {
+     "w": "nouă.",
+     "t": "baru."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Sekarang saya belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Sekarang"
+    },
+    {
+     "w": "învăț",
+     "t": "saya-belajar"
+    },
+    {
+     "w": "limba.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Segera saya akan bekerja lagi di bidang pekerjaan saya.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Dalam"
+    },
+    {
+     "w": "curând",
+     "t": "waktu-dekat"
+    },
+    {
+     "w": "voi",
+     "t": "saya-akan"
+    },
+    {
+     "w": "lucra",
+     "t": "bekerja"
+    },
+    {
+     "w": "din",
+     "t": "dari"
+    },
+    {
+     "w": "nou",
+     "t": "baru (lagi)"
+    },
+    {
+     "w": "în",
+     "t": "di"
+    },
+    {
+     "w": "meseria",
+     "t": "pekerjaan"
+    },
+    {
+     "w": "mea.",
+     "t": "saya."
+    }
+   ]
+  }
+ ]
+}

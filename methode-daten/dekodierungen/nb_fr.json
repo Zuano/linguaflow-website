@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "fr",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "J'ai travaillé pendant de nombreuses années dans mon domaine professionnel.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Je"
+    },
+    {
+     "w": "har",
+     "t": "ai"
+    },
+    {
+     "w": "jobbet",
+     "t": "travaillé"
+    },
+    {
+     "w": "i",
+     "t": "pendant"
+    },
+    {
+     "w": "mange",
+     "t": "nombreuses"
+    },
+    {
+     "w": "år",
+     "t": "années"
+    },
+    {
+     "w": "innen",
+     "t": "dans"
+    },
+    {
+     "w": "mitt",
+     "t": "mon"
+    },
+    {
+     "w": "fagområde.",
+     "t": "domaine-professionnel."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Puis j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Puis"
+    },
+    {
+     "w": "flyttet",
+     "t": "ai-déménagé"
+    },
+    {
+     "w": "jeg",
+     "t": "je"
+    },
+    {
+     "w": "til",
+     "t": "vers"
+    },
+    {
+     "w": "et",
+     "t": "un"
+    },
+    {
+     "w": "nytt",
+     "t": "nouveau"
+    },
+    {
+     "w": "land.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Maintenant"
+    },
+    {
+     "w": "lærer",
+     "t": "apprends"
+    },
+    {
+     "w": "jeg",
+     "t": "je"
+    },
+    {
+     "w": "språket.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Bientôt je vais retravailler dans mon domaine professionnel.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Bientôt"
+    },
+    {
+     "w": "skal",
+     "t": "vais"
+    },
+    {
+     "w": "jeg",
+     "t": "je"
+    },
+    {
+     "w": "jobbe",
+     "t": "travailler"
+    },
+    {
+     "w": "innen",
+     "t": "dans"
+    },
+    {
+     "w": "mitt",
+     "t": "mon"
+    },
+    {
+     "w": "fagområde",
+     "t": "domaine-professionnel"
+    },
+    {
+     "w": "igjen.",
+     "t": "de-nouveau."
+    }
+   ]
+  }
+ ]
+}

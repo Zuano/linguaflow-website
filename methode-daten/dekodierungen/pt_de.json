@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "de",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Ich-arbeitete"
+    },
+    {
+     "w": "muitos",
+     "t": "viele"
+    },
+    {
+     "w": "anos",
+     "t": "Jahre"
+    },
+    {
+     "w": "na",
+     "t": "in-der"
+    },
+    {
+     "w": "minha",
+     "t": "meiner"
+    },
+    {
+     "w": "profissão.",
+     "t": "Beruf."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Danach kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Danach,"
+    },
+    {
+     "w": "vim",
+     "t": "kam-ich"
+    },
+    {
+     "w": "para",
+     "t": "in"
+    },
+    {
+     "w": "um",
+     "t": "ein"
+    },
+    {
+     "w": "novo",
+     "t": "neues"
+    },
+    {
+     "w": "país.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Jetzt"
+    },
+    {
+     "w": "estou",
+     "t": "bin-ich"
+    },
+    {
+     "w": "a",
+     "t": "(Wortteil-zum-Verb)"
+    },
+    {
+     "w": "aprender",
+     "t": "lernen"
+    },
+    {
+     "w": "a",
+     "t": "die"
+    },
+    {
+     "w": "língua.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "In"
+    },
+    {
+     "w": "breve,",
+     "t": "Kürze,"
+    },
+    {
+     "w": "voltarei",
+     "t": "werde-ich-zurückkehren"
+    },
+    {
+     "w": "a",
+     "t": "zu"
+    },
+    {
+     "w": "trabalhar",
+     "t": "arbeiten"
+    },
+    {
+     "w": "na",
+     "t": "in-der"
+    },
+    {
+     "w": "minha",
+     "t": "meiner"
+    },
+    {
+     "w": "profissão.",
+     "t": "Beruf."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "ro",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Am lucrat mulți ani în domeniul meu de specialitate.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Eu"
+    },
+    {
+     "w": "har",
+     "t": "am"
+    },
+    {
+     "w": "jobbet",
+     "t": "lucrat"
+    },
+    {
+     "w": "i",
+     "t": "în"
+    },
+    {
+     "w": "mange",
+     "t": "mulți"
+    },
+    {
+     "w": "år",
+     "t": "ani"
+    },
+    {
+     "w": "innen",
+     "t": "în-cadrul"
+    },
+    {
+     "w": "mitt",
+     "t": "domeniului-meu"
+    },
+    {
+     "w": "fagområde.",
+     "t": "de-specialitate."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Apoi"
+    },
+    {
+     "w": "flyttet",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "jeg",
+     "t": "eu"
+    },
+    {
+     "w": "til",
+     "t": "la"
+    },
+    {
+     "w": "et",
+     "t": "o"
+    },
+    {
+     "w": "nytt",
+     "t": "nouă"
+    },
+    {
+     "w": "land.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Acum"
+    },
+    {
+     "w": "lærer",
+     "t": "învăț"
+    },
+    {
+     "w": "jeg",
+     "t": "eu"
+    },
+    {
+     "w": "språket.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "În curând voi lucra din nou în domeniul meu de specialitate.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "În-curând"
+    },
+    {
+     "w": "skal",
+     "t": "voi"
+    },
+    {
+     "w": "jeg",
+     "t": "eu"
+    },
+    {
+     "w": "jobbe",
+     "t": "lucra"
+    },
+    {
+     "w": "innen",
+     "t": "în-cadrul"
+    },
+    {
+     "w": "mitt",
+     "t": "domeniului-meu"
+    },
+    {
+     "w": "fagområde",
+     "t": "de-specialitate"
+    },
+    {
+     "w": "igjen.",
+     "t": "din-nou."
+    }
+   ]
+  }
+ ]
+}

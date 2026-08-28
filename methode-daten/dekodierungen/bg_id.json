@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "id",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Saya sudah bekerja bertahun-tahun lamanya dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "telah-bekerja",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "saya-(sudah)",
+     "r": "sam"
+    },
+    {
+     "w": "дълги",
+     "t": "panjang",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "tahun-tahun",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "dalam",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "profesi-saya",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesi.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Kemudian saya datang ke negara baru.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Kemudian",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "saya-datang",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "ke",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "baru",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "negara.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Sekarang saya sedang mempelajari bahasanya.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Sekarang",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "saya-mempelajari",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "bahasanya.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Segera saya akan bekerja lagi dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Segera",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "lagi",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "akan",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "saya-bekerja",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "dalam",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "profesi-saya",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesi.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

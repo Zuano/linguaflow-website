@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "de",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ich",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "viele",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "Jahre",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "arbeitete",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "in-(nach)",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "Fachrichtung.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Dann bin ich in ein neues Land umgezogen.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Danach",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "ich",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "zog-um",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "in",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "neues",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "Land.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Jetzt",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "ich",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "lerne",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "Sprache.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Bald werde ich wieder anfangen, in meinem Beruf zu arbeiten.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Bald",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "ich",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "wieder",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "werde-anfangen",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "zu-arbeiten",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "in-(nach)",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "Fachrichtung.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

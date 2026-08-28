@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "et",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Ma töötasin palju aastaid oma eriala järgi.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ma",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "palju",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "aastaid",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "töötasin",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "järgi (vastavalt)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "oma",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "erialale.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Siis saabusin uude riiki.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Siis",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "ma",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "saabusin",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "(kuhu) uude",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "uude",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "riiki.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Praegu õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Praegu",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "ma",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "õpin",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "keelt.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Varsti hakkan ma taas töötama oma eriala järgi.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Varsti",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "ma",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "taas",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "hakkan",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "töötama",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "järgi (vastavalt)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "oma",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "erialale.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "ja",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "私は自分の職業で長年働きました。",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "私は働いた"
+    },
+    {
+     "w": "muitos",
+     "t": "多くの"
+    },
+    {
+     "w": "anos",
+     "t": "年"
+    },
+    {
+     "w": "na",
+     "t": "〜で(に)"
+    },
+    {
+     "w": "minha",
+     "t": "私の"
+    },
+    {
+     "w": "profissão.",
+     "t": "職業。"
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "その後、私は新しい国に来ました。",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "その後、"
+    },
+    {
+     "w": "vim",
+     "t": "私は来た"
+    },
+    {
+     "w": "para",
+     "t": "〜へ"
+    },
+    {
+     "w": "um",
+     "t": "一つの"
+    },
+    {
+     "w": "novo",
+     "t": "新しい"
+    },
+    {
+     "w": "país.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "今、私はその言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "今"
+    },
+    {
+     "w": "estou",
+     "t": "私はいる(〜している)"
+    },
+    {
+     "w": "a",
+     "t": "〜を(進行形の一部)"
+    },
+    {
+     "w": "aprender",
+     "t": "学ぶこと"
+    },
+    {
+     "w": "a",
+     "t": "その"
+    },
+    {
+     "w": "língua.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "まもなく、私は自分の職業で再び働き始めるでしょう。",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "〜の中で(まもなく、の一部)"
+    },
+    {
+     "w": "breve,",
+     "t": "近いうちに、"
+    },
+    {
+     "w": "voltarei",
+     "t": "私は戻るだろう"
+    },
+    {
+     "w": "a",
+     "t": "再び(〜すること)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "働くこと"
+    },
+    {
+     "w": "na",
+     "t": "〜で(に)"
+    },
+    {
+     "w": "minha",
+     "t": "私の"
+    },
+    {
+     "w": "profissão.",
+     "t": "職業。"
+    }
+   ]
+  }
+ ]
+}

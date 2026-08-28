@@ -1,0 +1,217 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "lv",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Es ilgu laiku strādāju savā profesionālajā darbā.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "es",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(pazīme)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "ilgu-laiku,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分",
+     "t": "savs",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(pazīme)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "profesionālais-darbs",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "(pazīme)",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "stāvokļa",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いて",
+     "t": "strādāt",
+     "r": "hataraite"
+    },
+    {
+     "w": "きました。",
+     "t": "turpināja (pagātnē).",
+     "r": "kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "tā",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "pēc-tam,",
+     "r": "ato,"
+    },
+    {
+     "w": "新しい",
+     "t": "jaunas",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "valsts",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "(virziens)",
+     "r": "e"
+    },
+    {
+     "w": "移り",
+     "t": "pārvietojas",
+     "r": "utsuuri"
+    },
+    {
+     "w": "住みました。",
+     "t": "iedzīvojās.",
+     "r": "sumiashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Tagad es mācos tās valsts valodu.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "tagad",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(pazīme)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "tā",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "valsts",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(pazīme)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "valoda",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(objekts)",
+     "r": "wo"
+    },
+    {
+     "w": "学んで",
+     "t": "mācu",
+     "r": "manande"
+    },
+    {
+     "w": "います。",
+     "t": "pavis.",
+     "r": "imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Drīzumā es atkal sākšu strādāt savā profesionālajā darbā.",
+   "pairs": [
+    {
+     "w": "もう",
+     "t": "jau",
+     "r": "mou"
+    },
+    {
+     "w": "すぐ",
+     "t": "drīz",
+     "r": "sugu"
+    },
+    {
+     "w": "また、",
+     "t": "atkal,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "savs",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(pazīme)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "profesionālais-darbs",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "(pazīme)",
+     "r": "de"
+    },
+    {
+     "w": "働き",
+     "t": "strādāt",
+     "r": "hataranki"
+    },
+    {
+     "w": "始める",
+     "t": "sākt",
+     "r": "hajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "plāns",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "ir.",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

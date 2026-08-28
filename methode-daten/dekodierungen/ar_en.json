@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "en",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "I worked in my profession for many years.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "(emphasis-marker: indeed)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "I-worked",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "in",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "my-profession",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "for-years",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "many.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Then I moved to a new country.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "then",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "I-moved",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "to",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "a-country",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "new.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "And now I am learning the language.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "and'now",
+     "r": "wal-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "I-am-learning",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "the-language.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "And I will soon return to working in my profession.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "and'I-will-return",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "soon",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "to",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "the-work",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "in",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "my-profession.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

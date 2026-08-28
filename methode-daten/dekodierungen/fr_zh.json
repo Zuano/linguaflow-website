@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "zh",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "我从事我的职业已经很多年了。",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "我'有(过)"
+    },
+    {
+     "w": "exercé",
+     "t": "从事过"
+    },
+    {
+     "w": "mon",
+     "t": "我的"
+    },
+    {
+     "w": "métier",
+     "t": "职业"
+    },
+    {
+     "w": "pendant",
+     "t": "期间(在...期间)"
+    },
+    {
+     "w": "de",
+     "t": "（表数量）"
+    },
+    {
+     "w": "nombreuses",
+     "t": "许多的"
+    },
+    {
+     "w": "années.",
+     "t": "年份。"
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "然后我到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "然后"
+    },
+    {
+     "w": "je",
+     "t": "我"
+    },
+    {
+     "w": "suis",
+     "t": "（助动词，表已完成）"
+    },
+    {
+     "w": "arrivé",
+     "t": "到达了"
+    },
+    {
+     "w": "dans",
+     "t": "在...里"
+    },
+    {
+     "w": "un",
+     "t": "一个"
+    },
+    {
+     "w": "nouveau",
+     "t": "新的"
+    },
+    {
+     "w": "pays.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "现在，我在学这门语言。",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "现在，"
+    },
+    {
+     "w": "j'apprends",
+     "t": "我'学习"
+    },
+    {
+     "w": "la",
+     "t": "这门（表特指）"
+    },
+    {
+     "w": "langue.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "很快，我将重新开始我的职业。",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "很快，"
+    },
+    {
+     "w": "je",
+     "t": "我"
+    },
+    {
+     "w": "reprendrai",
+     "t": "将重新开始"
+    },
+    {
+     "w": "mon",
+     "t": "我的"
+    },
+    {
+     "w": "métier.",
+     "t": "职业。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "hu",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Vagyok (dolgoztam-)"
+    },
+    {
+     "w": "palju",
+     "t": "sok"
+    },
+    {
+     "w": "aastaid",
+     "t": "évet"
+    },
+    {
+     "w": "oma",
+     "t": "saját"
+    },
+    {
+     "w": "erialal",
+     "t": "szakmában"
+    },
+    {
+     "w": "töötanud.",
+     "t": "dolgoztam-(már)."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "aztán"
+    },
+    {
+     "w": "kolisin",
+     "t": "költöztem"
+    },
+    {
+     "w": "uude",
+     "t": "új-be"
+    },
+    {
+     "w": "riiki.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Most nyelvet tanulok.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "most"
+    },
+    {
+     "w": "õpin",
+     "t": "tanulok"
+    },
+    {
+     "w": "keelt.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "hamarosan"
+    },
+    {
+     "w": "hakkan",
+     "t": "kezdek"
+    },
+    {
+     "w": "jälle",
+     "t": "újra"
+    },
+    {
+     "w": "oma",
+     "t": "saját"
+    },
+    {
+     "w": "erialal",
+     "t": "szakmában"
+    },
+    {
+     "w": "töötama.",
+     "t": "dolgozni."
+    }
+   ]
+  }
+ ]
+}

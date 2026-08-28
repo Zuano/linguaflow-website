@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "it",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Ho lavorato per molti anni nella mia professione.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Molti"
+    },
+    {
+     "w": "éven",
+     "t": "anni (durante)"
+    },
+    {
+     "w": "át",
+     "t": "attraverso"
+    },
+    {
+     "w": "a",
+     "t": "la"
+    },
+    {
+     "w": "szakmámban",
+     "t": "nella-mia-professione"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "ho-lavorato."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Poi mi sono trasferito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Poi"
+    },
+    {
+     "w": "egy",
+     "t": "un"
+    },
+    {
+     "w": "új",
+     "t": "nuovo"
+    },
+    {
+     "w": "országba",
+     "t": "paese-in"
+    },
+    {
+     "w": "költöztem.",
+     "t": "mi-sono-trasferito."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Ora"
+    },
+    {
+     "w": "a",
+     "t": "la"
+    },
+    {
+     "w": "nyelvet",
+     "t": "lingua"
+    },
+    {
+     "w": "tanulom.",
+     "t": "la-studio."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Presto lavorerò di nuovo nella mia professione.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Presto"
+    },
+    {
+     "w": "újra",
+     "t": "di-nuovo"
+    },
+    {
+     "w": "a",
+     "t": "la"
+    },
+    {
+     "w": "szakmámban",
+     "t": "nella-mia-professione"
+    },
+    {
+     "w": "fogok",
+     "t": "(futuro)-avrò"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "lavorare."
+    }
+   ]
+  }
+ ]
+}

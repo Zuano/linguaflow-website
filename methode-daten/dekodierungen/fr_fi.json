@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "fi",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Harjoitin ammattiani monta vuotta.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Minä'olen"
+    },
+    {
+     "w": "exercé",
+     "t": "harjoittanut"
+    },
+    {
+     "w": "mon",
+     "t": "minun"
+    },
+    {
+     "w": "métier",
+     "t": "ammattiani"
+    },
+    {
+     "w": "pendant",
+     "t": "ajan"
+    },
+    {
+     "w": "de",
+     "t": "(monen)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "monien"
+    },
+    {
+     "w": "années.",
+     "t": "vuosien."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Sitten saavuin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Sitten"
+    },
+    {
+     "w": "je",
+     "t": "minä"
+    },
+    {
+     "w": "suis",
+     "t": "olen"
+    },
+    {
+     "w": "arrivé",
+     "t": "saapunut"
+    },
+    {
+     "w": "dans",
+     "t": "(sisään)"
+    },
+    {
+     "w": "un",
+     "t": "yhteen"
+    },
+    {
+     "w": "nouveau",
+     "t": "uuteen"
+    },
+    {
+     "w": "pays.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Nyt,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "minä'opin"
+    },
+    {
+     "w": "la",
+     "t": "(sitä)"
+    },
+    {
+     "w": "langue.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Pian jatkan ammattiani uudelleen.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Pian,"
+    },
+    {
+     "w": "je",
+     "t": "minä"
+    },
+    {
+     "w": "reprendrai",
+     "t": "aloitan-uudelleen"
+    },
+    {
+     "w": "mon",
+     "t": "minun"
+    },
+    {
+     "w": "métier.",
+     "t": "ammattini."
+    }
+   ]
+  }
+ ]
+}

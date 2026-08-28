@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "pt",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Trabalhei muitos anos na minha profissão.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Trabalhei",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "por",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "muitos",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "anos",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "na",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profissão",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "minha.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Depois, vim para um novo país.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Na",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "sequência,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "vim",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "para",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "um",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "novo",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "país.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Agora estou aprendendo a língua.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Agora",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "aprendo",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "a",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "língua.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Em breve voltarei a trabalhar na minha profissão.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Em-breve",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "vou (fut.)",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "voltar-a-trabalhar",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "na",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "profissão",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "minha.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

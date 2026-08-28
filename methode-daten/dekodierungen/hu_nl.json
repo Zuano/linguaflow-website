@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "nl",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Ik heb vele jaren lang in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Veel"
+    },
+    {
+     "w": "éven",
+     "t": "jaar(-lang)"
+    },
+    {
+     "w": "át",
+     "t": "door(heen)"
+    },
+    {
+     "w": "a",
+     "t": "in-het"
+    },
+    {
+     "w": "szakmámban",
+     "t": "mijn-vak"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "werkte-ik."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Daarna ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Daarna"
+    },
+    {
+     "w": "egy",
+     "t": "een"
+    },
+    {
+     "w": "új",
+     "t": "nieuw"
+    },
+    {
+     "w": "országba",
+     "t": "land-naar"
+    },
+    {
+     "w": "költöztem.",
+     "t": "verhuisde-ik."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Nu"
+    },
+    {
+     "w": "a",
+     "t": "de"
+    },
+    {
+     "w": "nyelvet",
+     "t": "taal"
+    },
+    {
+     "w": "tanulom.",
+     "t": "leer-ik-het."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Binnenkort zal ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "újra",
+     "t": "weer"
+    },
+    {
+     "w": "a",
+     "t": "in-het"
+    },
+    {
+     "w": "szakmámban",
+     "t": "mijn-vak"
+    },
+    {
+     "w": "fogok",
+     "t": "zal-ik"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "werken."
+    }
+   ]
+  }
+ ]
+}

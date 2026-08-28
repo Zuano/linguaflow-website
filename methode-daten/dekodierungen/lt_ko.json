@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "ko",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "저는 여러 해 동안 제 직업에서 일했습니다.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "많은"
+    },
+    {
+     "w": "metų",
+     "t": "해를(동안)"
+    },
+    {
+     "w": "dirbau",
+     "t": "나는-일했다"
+    },
+    {
+     "w": "savo",
+     "t": "자신의"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "직업에서."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "그 후에 저는 새로운 나라로 왔습니다.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "나중에"
+    },
+    {
+     "w": "atvykau",
+     "t": "나는-도착했다"
+    },
+    {
+     "w": "į",
+     "t": "~로"
+    },
+    {
+     "w": "naują",
+     "t": "새로운"
+    },
+    {
+     "w": "šalį.",
+     "t": "나라를."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "지금은 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "지금"
+    },
+    {
+     "w": "mokausi",
+     "t": "나는-배운다(스스로)"
+    },
+    {
+     "w": "kalbos.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "곧 다시 제 직업에서 일하게 될 것입니다.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "곧"
+    },
+    {
+     "w": "vėl",
+     "t": "다시"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "나는-일할-것이다"
+    },
+    {
+     "w": "savo",
+     "t": "자신의"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "직업에서."
+    }
+   ]
+  }
+ ]
+}

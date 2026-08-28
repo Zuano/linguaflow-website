@@ -1,0 +1,212 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "ro",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Am lucrat în propriul meu domeniu de specialitate pentru mulți ani.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "eu",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "în",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "propriu",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "specializare",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "domeniu",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "muncă",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(trecut)",
+     "r": "le"
+    },
+    {
+     "w": "许多年",
+     "t": "mulți ani",
+     "r": "xǔduō nián"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Mai târziu, am ajuns pe o nouă pământ.",
+   "pairs": [
+    {
+     "w": "后来",
+     "t": "mai-târziu",
+     "r": "hòulái"
+    },
+    {
+     "w": "，",
+     "t": "，",
+     "r": "，"
+    },
+    {
+     "w": "我",
+     "t": "eu",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "ajunge",
+     "r": "lái dào"
+    },
+    {
+     "w": "了",
+     "t": "(trecut)",
+     "r": "le"
+    },
+    {
+     "w": "一片",
+     "t": "o-bucată",
+     "r": "yī piàn"
+    },
+    {
+     "w": "新的",
+     "t": "nou",
+     "r": "xīn de"
+    },
+    {
+     "w": "土地",
+     "t": "pământ",
+     "r": "tǔdì"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Acum, învăț limba locală.",
+   "pairs": [
+    {
+     "w": "现在",
+     "t": "acum",
+     "r": "xiànzài"
+    },
+    {
+     "w": "，",
+     "t": "，",
+     "r": "，"
+    },
+    {
+     "w": "我",
+     "t": "eu",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "(prezent-continuu)",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "învăț",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "local",
+     "r": "dāngdì de"
+    },
+    {
+     "w": "语言",
+     "t": "limbă",
+     "r": "yǔyán"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "În curând, voi reveni la lucrul în domeniul meu de specialitate.",
+   "pairs": [
+    {
+     "w": "很快",
+     "t": "curând",
+     "r": "hěnkuài"
+    },
+    {
+     "w": "，",
+     "t": "，",
+     "r": "，"
+    },
+    {
+     "w": "我",
+     "t": "eu",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(viitor)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "revin",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "propriu",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "specializare",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "domeniu",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "muncă",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  }
+ ]
+}

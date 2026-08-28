@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "sk",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Dlhé roky som pracoval v svojom povolaní.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Dlhé"
+    },
+    {
+     "w": "leta",
+     "t": "roky"
+    },
+    {
+     "w": "sem",
+     "t": "som"
+    },
+    {
+     "w": "delal",
+     "t": "pracoval"
+    },
+    {
+     "w": "v",
+     "t": "v"
+    },
+    {
+     "w": "svojem",
+     "t": "svojom"
+    },
+    {
+     "w": "poklicu.",
+     "t": "povolaní."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Potom"
+    },
+    {
+     "w": "sem",
+     "t": "som"
+    },
+    {
+     "w": "prišel",
+     "t": "prišiel"
+    },
+    {
+     "w": "v",
+     "t": "do"
+    },
+    {
+     "w": "novo",
+     "t": "novej"
+    },
+    {
+     "w": "državo.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Teraz"
+    },
+    {
+     "w": "se",
+     "t": "sa"
+    },
+    {
+     "w": "učim",
+     "t": "učím"
+    },
+    {
+     "w": "jezika.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Čoskoro budem znova pracovať v svojom povolaní.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Čoskoro"
+    },
+    {
+     "w": "bom",
+     "t": "budem"
+    },
+    {
+     "w": "spet",
+     "t": "znova"
+    },
+    {
+     "w": "delal",
+     "t": "pracovať"
+    },
+    {
+     "w": "v",
+     "t": "v"
+    },
+    {
+     "w": "svojem",
+     "t": "svojom"
+    },
+    {
+     "w": "poklicu.",
+     "t": "povolaní."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "bg",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Дълги години работих в своята професия.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Дълги"
+    },
+    {
+     "w": "leta",
+     "t": "години"
+    },
+    {
+     "w": "sem",
+     "t": "(спомагателен глагол за минало време)"
+    },
+    {
+     "w": "delal",
+     "t": "работил"
+    },
+    {
+     "w": "v",
+     "t": "в"
+    },
+    {
+     "w": "svojem",
+     "t": "своята (собствената си)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "професия."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "После дойдох в нова държава.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "После"
+    },
+    {
+     "w": "sem",
+     "t": "(спомагателен глагол за минало време)"
+    },
+    {
+     "w": "prišel",
+     "t": "дошъл"
+    },
+    {
+     "w": "v",
+     "t": "в"
+    },
+    {
+     "w": "novo",
+     "t": "нова"
+    },
+    {
+     "w": "državo.",
+     "t": "държава."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Сега"
+    },
+    {
+     "w": "se",
+     "t": "се"
+    },
+    {
+     "w": "učim",
+     "t": "уча"
+    },
+    {
+     "w": "jezika.",
+     "t": "на-езика."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Скоро отново ще работя в своята професия.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Скоро"
+    },
+    {
+     "w": "bom",
+     "t": "ще"
+    },
+    {
+     "w": "spet",
+     "t": "отново"
+    },
+    {
+     "w": "delal",
+     "t": "работя (буквално: работил)"
+    },
+    {
+     "w": "v",
+     "t": "в"
+    },
+    {
+     "w": "svojem",
+     "t": "своята (собствената си)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "професия."
+    }
+   ]
+  }
+ ]
+}

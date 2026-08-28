@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "cs",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Pracoval jsem mnoho let ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Já"
+    },
+    {
+     "w": "har",
+     "t": "jsem"
+    },
+    {
+     "w": "jobbet",
+     "t": "pracoval"
+    },
+    {
+     "w": "i",
+     "t": "po"
+    },
+    {
+     "w": "mange",
+     "t": "mnoho"
+    },
+    {
+     "w": "år",
+     "t": "let"
+    },
+    {
+     "w": "innen",
+     "t": "v"
+    },
+    {
+     "w": "mitt",
+     "t": "svém"
+    },
+    {
+     "w": "fagområde.",
+     "t": "oboru."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Pak jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Pak"
+    },
+    {
+     "w": "flyttet",
+     "t": "přestěhoval-se"
+    },
+    {
+     "w": "jeg",
+     "t": "já"
+    },
+    {
+     "w": "til",
+     "t": "do"
+    },
+    {
+     "w": "et",
+     "t": "jedné"
+    },
+    {
+     "w": "nytt",
+     "t": "nové"
+    },
+    {
+     "w": "land.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Teď se učím ten jazyk.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Teď"
+    },
+    {
+     "w": "lærer",
+     "t": "učím-se"
+    },
+    {
+     "w": "jeg",
+     "t": "já"
+    },
+    {
+     "w": "språket.",
+     "t": "jazyk-(ten)."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Brzy budu zase pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Brzy"
+    },
+    {
+     "w": "skal",
+     "t": "budu"
+    },
+    {
+     "w": "jeg",
+     "t": "já"
+    },
+    {
+     "w": "jobbe",
+     "t": "pracovat"
+    },
+    {
+     "w": "innen",
+     "t": "v"
+    },
+    {
+     "w": "mitt",
+     "t": "svém"
+    },
+    {
+     "w": "fagområde",
+     "t": "oboru"
+    },
+    {
+     "w": "igjen.",
+     "t": "zase."
+    }
+   ]
+  }
+ ]
+}

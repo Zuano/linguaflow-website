@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "tr",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Uzun süredir kendi mesleğimde çalışıyorum.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "ben(-ise)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "uzun-süredir",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "benim",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "mesleğimde",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "çalışıp",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "geldim.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "derken",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "yeni",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "ülkeye",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "geldim.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Şimdi o ülkenin dilini öğreniyorum.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "şimdi(-ise)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "o",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "ülkenin",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "dilini",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "öğrenip",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "duruyorum.",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Yakında yine kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "yakında",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "yine",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "kendi",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "mesleğimde",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "çalışır-hale",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "gelecek",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "olacağım.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

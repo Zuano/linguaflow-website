@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "el",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Δούλεψα πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "Στο-επάγγελμά-μου"
+    },
+    {
+     "w": "uzun",
+     "t": "πολλά (μακρά)"
+    },
+    {
+     "w": "yıllar",
+     "t": "χρόνια"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "δούλεψα."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Έπειτα ήρθα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "yeni",
+     "t": "νέα"
+    },
+    {
+     "w": "bir",
+     "t": "μια"
+    },
+    {
+     "w": "ülkeye",
+     "t": "σε-χώρα"
+    },
+    {
+     "w": "geldim.",
+     "t": "ήρθα."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "Τώρα"
+    },
+    {
+     "w": "dili",
+     "t": "τη-γλώσσα"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "μαθαίνω."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Σύντομα θα ξεκινήσω να δουλεύω πάλι στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "tekrar",
+     "t": "πάλι"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "στο-επάγγελμά-μου"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "να-δουλεύω (στο-δουλεύειν)"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "θα-ξεκινήσω."
+    }
+   ]
+  }
+ ]
+}

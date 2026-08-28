@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "ja",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "私は自分の職業で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "私は〜した"
+    },
+    {
+     "w": "lucrat",
+     "t": "働いた"
+    },
+    {
+     "w": "mulți",
+     "t": "多くの"
+    },
+    {
+     "w": "ani",
+     "t": "年"
+    },
+    {
+     "w": "în",
+     "t": "〜において"
+    },
+    {
+     "w": "meseria",
+     "t": "職業"
+    },
+    {
+     "w": "mea.",
+     "t": "私の。"
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "それから私は新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "それから"
+    },
+    {
+     "w": "m-am",
+     "t": "私は'自分を"
+    },
+    {
+     "w": "mutat",
+     "t": "引っ越した"
+    },
+    {
+     "w": "într-o",
+     "t": "〜の中に'一つの"
+    },
+    {
+     "w": "țară",
+     "t": "国"
+    },
+    {
+     "w": "nouă.",
+     "t": "新しい。"
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "今、私はその言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "今"
+    },
+    {
+     "w": "învăț",
+     "t": "私は学ぶ"
+    },
+    {
+     "w": "limba.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "すぐに私はまた自分の職業で働くつもりです。",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "〜の中に"
+    },
+    {
+     "w": "curând",
+     "t": "すぐ"
+    },
+    {
+     "w": "voi",
+     "t": "私は〜するつもり"
+    },
+    {
+     "w": "lucra",
+     "t": "働く"
+    },
+    {
+     "w": "din",
+     "t": "〜から"
+    },
+    {
+     "w": "nou",
+     "t": "新しく(再び)"
+    },
+    {
+     "w": "în",
+     "t": "〜において"
+    },
+    {
+     "w": "meseria",
+     "t": "職業"
+    },
+    {
+     "w": "mea.",
+     "t": "私の。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "sk",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Vykonával som svoje povolanie po dobu mnohých rokov.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Ja'som"
+    },
+    {
+     "w": "exercé",
+     "t": "vykonával"
+    },
+    {
+     "w": "mon",
+     "t": "svoje"
+    },
+    {
+     "w": "métier",
+     "t": "povolanie"
+    },
+    {
+     "w": "pendant",
+     "t": "počas"
+    },
+    {
+     "w": "de",
+     "t": "(z)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "mnohých"
+    },
+    {
+     "w": "années.",
+     "t": "rokov."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Potom"
+    },
+    {
+     "w": "je",
+     "t": "ja"
+    },
+    {
+     "w": "suis",
+     "t": "som"
+    },
+    {
+     "w": "arrivé",
+     "t": "prišiel"
+    },
+    {
+     "w": "dans",
+     "t": "do"
+    },
+    {
+     "w": "un",
+     "t": "jednej"
+    },
+    {
+     "w": "nouveau",
+     "t": "novej"
+    },
+    {
+     "w": "pays.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Teraz,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "ja'sa-učím"
+    },
+    {
+     "w": "la",
+     "t": "(ten)"
+    },
+    {
+     "w": "langue.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Skoro znova začnem vykonávať svoje povolanie.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Skoro,"
+    },
+    {
+     "w": "je",
+     "t": "ja"
+    },
+    {
+     "w": "reprendrai",
+     "t": "znova-začnem"
+    },
+    {
+     "w": "mon",
+     "t": "svoje"
+    },
+    {
+     "w": "métier.",
+     "t": "povolanie."
+    }
+   ]
+  }
+ ]
+}

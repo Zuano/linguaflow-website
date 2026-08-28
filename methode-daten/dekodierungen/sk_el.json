@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "el",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Στον τομέα μου εργαζόμουν πολλά χρόνια.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Στον"
+    },
+    {
+     "w": "mojom",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "odbore",
+     "t": "τομέα"
+    },
+    {
+     "w": "som",
+     "t": "(βοηθητικό-για-παρελθόντα-χρόνο)"
+    },
+    {
+     "w": "pracoval",
+     "t": "εργαζόμουν"
+    },
+    {
+     "w": "mnoho",
+     "t": "πολλά"
+    },
+    {
+     "w": "rokov.",
+     "t": "χρόνια."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Έπειτα ήρθα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "som",
+     "t": "(βοηθητικό-για-παρελθόντα-χρόνο)"
+    },
+    {
+     "w": "prišiel",
+     "t": "ήρθα"
+    },
+    {
+     "w": "do",
+     "t": "σε"
+    },
+    {
+     "w": "novej",
+     "t": "νέα"
+    },
+    {
+     "w": "krajiny.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Τώρα"
+    },
+    {
+     "w": "sa",
+     "t": "(αυτοπαθές-μόριο)"
+    },
+    {
+     "w": "učím",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "jazyk.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Σύντομα θα εργάζομαι ξανά στον τομέα μου.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "budem",
+     "t": "θα-είμαι"
+    },
+    {
+     "w": "opäť",
+     "t": "ξανά"
+    },
+    {
+     "w": "pracovať",
+     "t": "να-εργάζομαι"
+    },
+    {
+     "w": "vo",
+     "t": "στον"
+    },
+    {
+     "w": "svojom",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "odbore.",
+     "t": "τομέα."
+    }
+   ]
+  }
+ ]
+}

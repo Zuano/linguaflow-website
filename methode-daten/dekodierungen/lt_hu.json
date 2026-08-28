@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "hu",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "sok"
+    },
+    {
+     "w": "metų",
+     "t": "évet"
+    },
+    {
+     "w": "dirbau",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "savo",
+     "t": "saját"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "szakmámban."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Később egy új országba érkeztem.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "később"
+    },
+    {
+     "w": "atvykau",
+     "t": "megérkeztem"
+    },
+    {
+     "w": "į",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "naują",
+     "t": "új"
+    },
+    {
+     "w": "šalį.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Most nyelvet tanulok.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "most"
+    },
+    {
+     "w": "mokausi",
+     "t": "tanulom"
+    },
+    {
+     "w": "kalbos.",
+     "t": "a-nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Nemsokára újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "nemsokára"
+    },
+    {
+     "w": "vėl",
+     "t": "újra"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "fogok-dolgozni"
+    },
+    {
+     "w": "savo",
+     "t": "saját"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

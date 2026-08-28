@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "ja",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "私は自分の分野で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "〜で"
+    },
+    {
+     "w": "mojom",
+     "t": "私の"
+    },
+    {
+     "w": "odbore",
+     "t": "分野"
+    },
+    {
+     "w": "som",
+     "t": "(私は)〜だった"
+    },
+    {
+     "w": "pracoval",
+     "t": "働いた"
+    },
+    {
+     "w": "mnoho",
+     "t": "多くの"
+    },
+    {
+     "w": "rokov.",
+     "t": "年を。"
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "それから私は新しい国に来ました。",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "それから"
+    },
+    {
+     "w": "som",
+     "t": "(私は)〜した"
+    },
+    {
+     "w": "prišiel",
+     "t": "来た"
+    },
+    {
+     "w": "do",
+     "t": "〜へ"
+    },
+    {
+     "w": "novej",
+     "t": "新しい"
+    },
+    {
+     "w": "krajiny.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "今、私は言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "今"
+    },
+    {
+     "w": "sa",
+     "t": "(再帰・自分を)"
+    },
+    {
+     "w": "učím",
+     "t": "学んでいる"
+    },
+    {
+     "w": "jazyk.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "もうすぐ再び自分の分野で働くつもりです。",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "budem",
+     "t": "(私は)〜するつもりだ"
+    },
+    {
+     "w": "opäť",
+     "t": "再び"
+    },
+    {
+     "w": "pracovať",
+     "t": "働くこと"
+    },
+    {
+     "w": "vo",
+     "t": "〜で"
+    },
+    {
+     "w": "svojom",
+     "t": "自分の"
+    },
+    {
+     "w": "odbore.",
+     "t": "分野で。"
+    }
+   ]
+  }
+ ]
+}

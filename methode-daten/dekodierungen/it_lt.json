@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "lt",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Aš dirbau savo profesijoje daug metų.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "(aš)-esu"
+    },
+    {
+     "w": "lavorato",
+     "t": "dirbęs"
+    },
+    {
+     "w": "per",
+     "t": "per (per)"
+    },
+    {
+     "w": "molti",
+     "t": "daug"
+    },
+    {
+     "w": "anni",
+     "t": "metų"
+    },
+    {
+     "w": "nella",
+     "t": "savo (į-tą)"
+    },
+    {
+     "w": "mia",
+     "t": "savo"
+    },
+    {
+     "w": "professione.",
+     "t": "profesijoje."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Paskui aš persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Paskui"
+    },
+    {
+     "w": "mi",
+     "t": "savęs (aš)"
+    },
+    {
+     "w": "sono",
+     "t": "esu"
+    },
+    {
+     "w": "trasferito",
+     "t": "persikėlęs"
+    },
+    {
+     "w": "in",
+     "t": "į"
+    },
+    {
+     "w": "un",
+     "t": "naują"
+    },
+    {
+     "w": "nuovo",
+     "t": "naują"
+    },
+    {
+     "w": "Paese.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Dabar"
+    },
+    {
+     "w": "sto",
+     "t": "esu (šiuo-metu)"
+    },
+    {
+     "w": "imparando",
+     "t": "mokydamasis"
+    },
+    {
+     "w": "la",
+     "t": "tos"
+    },
+    {
+     "w": "lingua.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Netrukus grįšiu dirbti savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Netrukus"
+    },
+    {
+     "w": "tornerò",
+     "t": "grįšiu"
+    },
+    {
+     "w": "a",
+     "t": "(dirbti)"
+    },
+    {
+     "w": "lavorare",
+     "t": "dirbti"
+    },
+    {
+     "w": "nella",
+     "t": "savo (į-tą)"
+    },
+    {
+     "w": "mia",
+     "t": "savo"
+    },
+    {
+     "w": "professione.",
+     "t": "profesijoje."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "fi",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Olen työskennellyt monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Minä"
+    },
+    {
+     "w": "har",
+     "t": "olen"
+    },
+    {
+     "w": "arbetat",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "många",
+     "t": "monta"
+    },
+    {
+     "w": "år",
+     "t": "vuotta"
+    },
+    {
+     "w": "inom",
+     "t": "sisällä (parissa)"
+    },
+    {
+     "w": "mitt",
+     "t": "omassa"
+    },
+    {
+     "w": "yrke.",
+     "t": "ammatissani."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Sen jälkeen muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Sen-jälkeen"
+    },
+    {
+     "w": "flyttade",
+     "t": "muutin"
+    },
+    {
+     "w": "jag",
+     "t": "minä"
+    },
+    {
+     "w": "till",
+     "t": "-an/-hin"
+    },
+    {
+     "w": "ett",
+     "t": "yhteen"
+    },
+    {
+     "w": "nytt",
+     "t": "uuteen"
+    },
+    {
+     "w": "land.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Nyt opin kieltä.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nyt"
+    },
+    {
+     "w": "lär",
+     "t": "opetan"
+    },
+    {
+     "w": "jag",
+     "t": "minä"
+    },
+    {
+     "w": "mig",
+     "t": "itseäni"
+    },
+    {
+     "w": "språket.",
+     "t": "kielen."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Pian aloitan taas työskentelyn ammatissani.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Pian"
+    },
+    {
+     "w": "ska",
+     "t": "aion"
+    },
+    {
+     "w": "jag",
+     "t": "minä"
+    },
+    {
+     "w": "börja",
+     "t": "aloittaa"
+    },
+    {
+     "w": "arbeta",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "inom",
+     "t": "sisällä (parissa)"
+    },
+    {
+     "w": "mitt",
+     "t": "omassa"
+    },
+    {
+     "w": "yrke",
+     "t": "ammatissani"
+    },
+    {
+     "w": "igen.",
+     "t": "taas."
+    }
+   ]
+  }
+ ]
+}

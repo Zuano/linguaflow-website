@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "he",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "בתחום שלי עבדתי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "ב"
+    },
+    {
+     "w": "mojom",
+     "t": "שלי (במקרה יחסה)"
+    },
+    {
+     "w": "odbore",
+     "t": "תחום"
+    },
+    {
+     "w": "som",
+     "t": "אני (עזר לעבר)"
+    },
+    {
+     "w": "pracoval",
+     "t": "עבדתי"
+    },
+    {
+     "w": "mnoho",
+     "t": "הרבה"
+    },
+    {
+     "w": "rokov.",
+     "t": "שנים."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "אחר כך הגעתי לארץ חדשה.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "som",
+     "t": "אני (עזר לעבר)"
+    },
+    {
+     "w": "prišiel",
+     "t": "הגעתי"
+    },
+    {
+     "w": "do",
+     "t": "אל"
+    },
+    {
+     "w": "novej",
+     "t": "חדשה"
+    },
+    {
+     "w": "krajiny.",
+     "t": "ארץ."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "כעת אני לומד שפה.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "כעת"
+    },
+    {
+     "w": "sa",
+     "t": "את-עצמי (חלק מהפועל)"
+    },
+    {
+     "w": "učím",
+     "t": "לומד"
+    },
+    {
+     "w": "jazyk.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "בקרוב אעבוד שוב בתחום שלי.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "בקרוב"
+    },
+    {
+     "w": "budem",
+     "t": "אהיה (עזר לעתיד)"
+    },
+    {
+     "w": "opäť",
+     "t": "שוב"
+    },
+    {
+     "w": "pracovať",
+     "t": "לעבוד"
+    },
+    {
+     "w": "vo",
+     "t": "ב"
+    },
+    {
+     "w": "svojom",
+     "t": "שלי (במקרה יחסה)"
+    },
+    {
+     "w": "odbore.",
+     "t": "תחום."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "sl",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Mnogo let sem delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Skozi (čez)"
+    },
+    {
+     "w": "wiele",
+     "t": "mnogo"
+    },
+    {
+     "w": "lat",
+     "t": "let"
+    },
+    {
+     "w": "pracowałem",
+     "t": "sem-delal"
+    },
+    {
+     "w": "w",
+     "t": "v"
+    },
+    {
+     "w": "swoim",
+     "t": "svojem"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "poklicu."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Potem sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Potem"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "sem-prišel (z-vozilom)"
+    },
+    {
+     "w": "do",
+     "t": "v"
+    },
+    {
+     "w": "nowego",
+     "t": "novo"
+    },
+    {
+     "w": "kraju.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Zdaj"
+    },
+    {
+     "w": "uczę",
+     "t": "učim"
+    },
+    {
+     "w": "się",
+     "t": "se"
+    },
+    {
+     "w": "języka.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Kmalu bom spet delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Kmalu"
+    },
+    {
+     "w": "znów",
+     "t": "spet"
+    },
+    {
+     "w": "będę",
+     "t": "bom"
+    },
+    {
+     "w": "pracował",
+     "t": "delal"
+    },
+    {
+     "w": "w",
+     "t": "v"
+    },
+    {
+     "w": "swoim",
+     "t": "svojem"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "poklicu."
+    }
+   ]
+  }
+ ]
+}

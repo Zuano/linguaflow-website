@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "lv",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Es esmu daudzus gadus strādājis savā specialitātē.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Esmu"
+    },
+    {
+     "w": "palju",
+     "t": "daudz"
+    },
+    {
+     "w": "aastaid",
+     "t": "gadus"
+    },
+    {
+     "w": "oma",
+     "t": "savā"
+    },
+    {
+     "w": "erialal",
+     "t": "specialitātē"
+    },
+    {
+     "w": "töötanud.",
+     "t": "strādājis."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Tad es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Tad"
+    },
+    {
+     "w": "kolisin",
+     "t": "es-pārcēlos"
+    },
+    {
+     "w": "uude",
+     "t": "jaunā"
+    },
+    {
+     "w": "riiki.",
+     "t": "valstī."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Tagad"
+    },
+    {
+     "w": "õpin",
+     "t": "es-mācos"
+    },
+    {
+     "w": "keelt.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Drīz es sākšu atkal strādāt savā specialitātē.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Drīz"
+    },
+    {
+     "w": "hakkan",
+     "t": "es-sākšu"
+    },
+    {
+     "w": "jälle",
+     "t": "atkal"
+    },
+    {
+     "w": "oma",
+     "t": "savā"
+    },
+    {
+     "w": "erialal",
+     "t": "specialitātē"
+    },
+    {
+     "w": "töötama.",
+     "t": "strādāt."
+    }
+   ]
+  }
+ ]
+}

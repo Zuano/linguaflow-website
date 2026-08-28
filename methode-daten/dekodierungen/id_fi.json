@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "fi",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Olen työskennellyt alallani vuosien ajan.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Minä"
+    },
+    {
+     "w": "telah",
+     "t": "olen-jo"
+    },
+    {
+     "w": "bekerja",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "di",
+     "t": "-lla"
+    },
+    {
+     "w": "bidang",
+     "t": "alalla"
+    },
+    {
+     "w": "saya",
+     "t": "minun"
+    },
+    {
+     "w": "selama",
+     "t": "ajan"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "vuosikausia."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Sitten"
+    },
+    {
+     "w": "saya",
+     "t": "minä"
+    },
+    {
+     "w": "pindah",
+     "t": "muutin"
+    },
+    {
+     "w": "ke",
+     "t": "-hin"
+    },
+    {
+     "w": "negara",
+     "t": "maahan"
+    },
+    {
+     "w": "baru.",
+     "t": "uuteen."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Nyt opiskelen sen kieltä.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Nyt"
+    },
+    {
+     "w": "saya",
+     "t": "minä"
+    },
+    {
+     "w": "sedang",
+     "t": "parhaillaan"
+    },
+    {
+     "w": "belajar",
+     "t": "opiskelen"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "sen-kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Kohta palaan taas töihin omalle alalleni.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Kohta"
+    },
+    {
+     "w": "lagi",
+     "t": "pian"
+    },
+    {
+     "w": "saya",
+     "t": "minä"
+    },
+    {
+     "w": "akan",
+     "t": "tulen"
+    },
+    {
+     "w": "kembali",
+     "t": "palaamaan"
+    },
+    {
+     "w": "bekerja",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "di",
+     "t": "-lla"
+    },
+    {
+     "w": "bidang",
+     "t": "alalla"
+    },
+    {
+     "w": "saya.",
+     "t": "minun."
+    }
+   ]
+  }
+ ]
+}

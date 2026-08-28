@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "et",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Läbi (jooksul)"
+    },
+    {
+     "w": "wiele",
+     "t": "paljude"
+    },
+    {
+     "w": "lat",
+     "t": "aastate"
+    },
+    {
+     "w": "pracowałem",
+     "t": "ma töötasin"
+    },
+    {
+     "w": "w",
+     "t": "oma"
+    },
+    {
+     "w": "swoim",
+     "t": "omal"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Pärast tulin uude riiki.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Pärast"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "ma-tulin (sõites)"
+    },
+    {
+     "w": "do",
+     "t": "sisse"
+    },
+    {
+     "w": "nowego",
+     "t": "uude"
+    },
+    {
+     "w": "kraju.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nüüd"
+    },
+    {
+     "w": "uczę",
+     "t": "ma-õpin"
+    },
+    {
+     "w": "się",
+     "t": "end (ise)"
+    },
+    {
+     "w": "języka.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Varsti hakkan taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Varsti"
+    },
+    {
+     "w": "znów",
+     "t": "taas"
+    },
+    {
+     "w": "będę",
+     "t": "ma-hakkan"
+    },
+    {
+     "w": "pracował",
+     "t": "töötama"
+    },
+    {
+     "w": "w",
+     "t": "oma"
+    },
+    {
+     "w": "swoim",
+     "t": "omal"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

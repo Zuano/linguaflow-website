@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "ro",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Am lucrat mult timp în domeniul meu de activitate.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "eu(subiect)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "mult-timp",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "meu(al meu)",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "în-profesie",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "muncind",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "am-venit(am-continuat).",
+     "r": "wasseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "apoi(așa-fiind)",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "nouă",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "spre-țară",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "am-venit.",
+     "r": "wasseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Acum învăț limba acelei țări.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "acum(în-privința)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "acea",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "a-țării",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "limba(obiect)",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "învățând",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "sunt(în-curs).",
+     "r": "itseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "În curând voi lucra din nou în profesia mea.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "în-curând",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "din-nou",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "meu(al-meu)",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "în-profesie",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "să-muncesc",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "voi-deveni",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "lucrul(va-fi).",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

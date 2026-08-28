@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "lt",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Aš dirbau daug metų savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Aš"
+    },
+    {
+     "w": "har",
+     "t": "esu"
+    },
+    {
+     "w": "arbetat",
+     "t": "dirbęs"
+    },
+    {
+     "w": "många",
+     "t": "daug"
+    },
+    {
+     "w": "år",
+     "t": "metų"
+    },
+    {
+     "w": "inom",
+     "t": "savo (srityje)"
+    },
+    {
+     "w": "mitt",
+     "t": "savo"
+    },
+    {
+     "w": "yrke.",
+     "t": "profesijoje."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Vėliau aš persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Vėliau"
+    },
+    {
+     "w": "flyttade",
+     "t": "persikėliau"
+    },
+    {
+     "w": "jag",
+     "t": "aš"
+    },
+    {
+     "w": "till",
+     "t": "į"
+    },
+    {
+     "w": "ett",
+     "t": "vieną"
+    },
+    {
+     "w": "nytt",
+     "t": "naują"
+    },
+    {
+     "w": "land.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Dabar"
+    },
+    {
+     "w": "lär",
+     "t": "mokau"
+    },
+    {
+     "w": "jag",
+     "t": "aš"
+    },
+    {
+     "w": "mig",
+     "t": "save"
+    },
+    {
+     "w": "språket.",
+     "t": "kalbos (tos)."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Greitai aš vėl pradėsiu dirbti savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Greitai"
+    },
+    {
+     "w": "ska",
+     "t": "būsiu (turėsiu)"
+    },
+    {
+     "w": "jag",
+     "t": "aš"
+    },
+    {
+     "w": "börja",
+     "t": "pradėti"
+    },
+    {
+     "w": "arbeta",
+     "t": "dirbti"
+    },
+    {
+     "w": "inom",
+     "t": "savo (srityje)"
+    },
+    {
+     "w": "mitt",
+     "t": "savo"
+    },
+    {
+     "w": "yrke",
+     "t": "profesijoje"
+    },
+    {
+     "w": "igen.",
+     "t": "vėl."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "lv",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Daudzus gadus es strādāju savā profesijā.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Cauri (Daudzus)"
+    },
+    {
+     "w": "wiele",
+     "t": "daudz"
+    },
+    {
+     "w": "lat",
+     "t": "gadu"
+    },
+    {
+     "w": "pracowałem",
+     "t": "es-strādāju"
+    },
+    {
+     "w": "w",
+     "t": "savā"
+    },
+    {
+     "w": "swoim",
+     "t": "savā"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profesijā."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Pēc tam es atbraucu uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "es-atbraucu"
+    },
+    {
+     "w": "do",
+     "t": "uz"
+    },
+    {
+     "w": "nowego",
+     "t": "jaunas"
+    },
+    {
+     "w": "kraju.",
+     "t": "valsts."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Tagad"
+    },
+    {
+     "w": "uczę",
+     "t": "mācos"
+    },
+    {
+     "w": "się",
+     "t": "(sevi)"
+    },
+    {
+     "w": "języka.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Drīz es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Drīz"
+    },
+    {
+     "w": "znów",
+     "t": "atkal"
+    },
+    {
+     "w": "będę",
+     "t": "es-būšu"
+    },
+    {
+     "w": "pracował",
+     "t": "strādājis"
+    },
+    {
+     "w": "w",
+     "t": "savā"
+    },
+    {
+     "w": "swoim",
+     "t": "savā"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profesijā."
+    }
+   ]
+  }
+ ]
+}

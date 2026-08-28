@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "sv",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Jag arbetade i många år inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Jag",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "många",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "år",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "arbetade",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "inom",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "mitt-eget",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "yrke.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Sedan",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "jag",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "kom (åkte hit)",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "till",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "nytt",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "land.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Nu",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "jag",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "lär-mig",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "språket.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Snart",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "jag",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "igen",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "ska-börja",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "arbeta",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "inom",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "mitt-eget",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "yrke.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

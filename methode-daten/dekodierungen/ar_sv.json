@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "sv",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Jag har arbetat inom mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "verkligen",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "jag-arbetade",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "inom",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mitt-yrke",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "i-år",
+     "r": "li-sanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "många.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Sedan flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "sedan",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "jag-flyttade",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "till",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "ett-land",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "nytt.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Och nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "och'nu",
+     "r": "wa-al-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "jag-lär-mig",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "språket.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Och snart kommer jag att återgå till att arbeta inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "och'jag-ska-återvända",
+     "r": "wa-sa-aʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "snart",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "till",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "arbetet",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "inom",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "mitt-yrke.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

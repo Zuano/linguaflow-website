@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "fr",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "J'ai travaillé pendant de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "J'ai"
+    },
+    {
+     "w": "lavorato",
+     "t": "travaillé"
+    },
+    {
+     "w": "per",
+     "t": "pendant"
+    },
+    {
+     "w": "molti",
+     "t": "de-nombreuses"
+    },
+    {
+     "w": "anni",
+     "t": "années"
+    },
+    {
+     "w": "nella",
+     "t": "dans-la"
+    },
+    {
+     "w": "mia",
+     "t": "ma"
+    },
+    {
+     "w": "professione.",
+     "t": "profession."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Puis j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Puis"
+    },
+    {
+     "w": "mi",
+     "t": "me"
+    },
+    {
+     "w": "sono",
+     "t": "suis"
+    },
+    {
+     "w": "trasferito",
+     "t": "déménagé"
+    },
+    {
+     "w": "in",
+     "t": "dans"
+    },
+    {
+     "w": "un",
+     "t": "un"
+    },
+    {
+     "w": "nuovo",
+     "t": "nouveau"
+    },
+    {
+     "w": "Paese.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Maintenant"
+    },
+    {
+     "w": "sto",
+     "t": "suis-en-train-de"
+    },
+    {
+     "w": "imparando",
+     "t": "apprendre"
+    },
+    {
+     "w": "la",
+     "t": "la"
+    },
+    {
+     "w": "lingua.",
+     "t": "langue."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Bientôt je retournerai travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Bientôt"
+    },
+    {
+     "w": "tornerò",
+     "t": "je-retournerai"
+    },
+    {
+     "w": "a",
+     "t": "à"
+    },
+    {
+     "w": "lavorare",
+     "t": "travailler"
+    },
+    {
+     "w": "nella",
+     "t": "dans-la"
+    },
+    {
+     "w": "mia",
+     "t": "ma"
+    },
+    {
+     "w": "professione.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

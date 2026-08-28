@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "he",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "עבדתי במקצוע שלי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "אני"
+    },
+    {
+     "w": "har",
+     "t": "יש-לי (עזר-לעבר)"
+    },
+    {
+     "w": "arbetat",
+     "t": "עבדתי"
+    },
+    {
+     "w": "många",
+     "t": "רבות"
+    },
+    {
+     "w": "år",
+     "t": "שנים"
+    },
+    {
+     "w": "inom",
+     "t": "בתוך"
+    },
+    {
+     "w": "mitt",
+     "t": "שלי"
+    },
+    {
+     "w": "yrke.",
+     "t": "מקצוע."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "אחר כך עברתי לגור בארץ חדשה.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "flyttade",
+     "t": "עברתי (דיור)"
+    },
+    {
+     "w": "jag",
+     "t": "אני"
+    },
+    {
+     "w": "till",
+     "t": "אל"
+    },
+    {
+     "w": "ett",
+     "t": "א'"
+    },
+    {
+     "w": "nytt",
+     "t": "חדש"
+    },
+    {
+     "w": "land.",
+     "t": "ארץ."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "עכשיו"
+    },
+    {
+     "w": "lär",
+     "t": "לומד"
+    },
+    {
+     "w": "jag",
+     "t": "אני"
+    },
+    {
+     "w": "mig",
+     "t": "את-עצמי"
+    },
+    {
+     "w": "språket.",
+     "t": "את-השפה."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "בקרוב אתחיל לעבוד במקצוע שלי מחדש.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "בקרוב"
+    },
+    {
+     "w": "ska",
+     "t": "עתיד (אעשה)"
+    },
+    {
+     "w": "jag",
+     "t": "אני"
+    },
+    {
+     "w": "börja",
+     "t": "להתחיל"
+    },
+    {
+     "w": "arbeta",
+     "t": "לעבוד"
+    },
+    {
+     "w": "inom",
+     "t": "בתוך"
+    },
+    {
+     "w": "mitt",
+     "t": "שלי"
+    },
+    {
+     "w": "yrke",
+     "t": "מקצוע"
+    },
+    {
+     "w": "igen.",
+     "t": "מחדש."
+    }
+   ]
+  }
+ ]
+}

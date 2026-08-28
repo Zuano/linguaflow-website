@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "de",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Ich habe lange Jahre in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Lange"
+    },
+    {
+     "w": "leta",
+     "t": "Jahre"
+    },
+    {
+     "w": "sem",
+     "t": "habe"
+    },
+    {
+     "w": "delal",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "svojem",
+     "t": "meinem"
+    },
+    {
+     "w": "poklicu.",
+     "t": "Beruf."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Dann kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Dann"
+    },
+    {
+     "w": "sem",
+     "t": "bin"
+    },
+    {
+     "w": "prišel",
+     "t": "gekommen"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "novo",
+     "t": "neues"
+    },
+    {
+     "w": "državo.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Jetzt"
+    },
+    {
+     "w": "se",
+     "t": "(Wortteil)"
+    },
+    {
+     "w": "učim",
+     "t": "lerne"
+    },
+    {
+     "w": "jezika.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Bald"
+    },
+    {
+     "w": "bom",
+     "t": "werde-ich"
+    },
+    {
+     "w": "spet",
+     "t": "wieder"
+    },
+    {
+     "w": "delal",
+     "t": "arbeiten"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "svojem",
+     "t": "meinem"
+    },
+    {
+     "w": "poklicu.",
+     "t": "Beruf."
+    }
+   ]
+  }
+ ]
+}

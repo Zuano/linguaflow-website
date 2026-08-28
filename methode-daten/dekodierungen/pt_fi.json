@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "fi",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Työskentelin monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Työskentelin"
+    },
+    {
+     "w": "muitos",
+     "t": "monta"
+    },
+    {
+     "w": "anos",
+     "t": "vuotta"
+    },
+    {
+     "w": "na",
+     "t": "(ammatissani, 'ssa')"
+    },
+    {
+     "w": "minha",
+     "t": "minun"
+    },
+    {
+     "w": "profissão.",
+     "t": "ammatissa."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Sen jälkeen tulin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Sen-jälkeen,"
+    },
+    {
+     "w": "vim",
+     "t": "tulin"
+    },
+    {
+     "w": "para",
+     "t": "(suuntaan)"
+    },
+    {
+     "w": "um",
+     "t": "yhteen"
+    },
+    {
+     "w": "novo",
+     "t": "uuteen"
+    },
+    {
+     "w": "país.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Nyt"
+    },
+    {
+     "w": "estou",
+     "t": "olen"
+    },
+    {
+     "w": "a",
+     "t": "(tekemässä)"
+    },
+    {
+     "w": "aprender",
+     "t": "oppimassa"
+    },
+    {
+     "w": "a",
+     "t": "(sitä)"
+    },
+    {
+     "w": "língua.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Pian palaan taas työskentelemään ammatissani.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "(pian:)"
+    },
+    {
+     "w": "breve,",
+     "t": "lyhyessä-(ajassa),"
+    },
+    {
+     "w": "voltarei",
+     "t": "palaan"
+    },
+    {
+     "w": "a",
+     "t": "(taas)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "na",
+     "t": "(ammatissani, 'ssa')"
+    },
+    {
+     "w": "minha",
+     "t": "minun"
+    },
+    {
+     "w": "profissão.",
+     "t": "ammatissa."
+    }
+   ]
+  }
+ ]
+}

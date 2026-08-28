@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "es",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Trabajé muchos años en mi profesión.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Trabajé"
+    },
+    {
+     "w": "muitos",
+     "t": "muchos"
+    },
+    {
+     "w": "anos",
+     "t": "años"
+    },
+    {
+     "w": "na",
+     "t": "en-la"
+    },
+    {
+     "w": "minha",
+     "t": "mi"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesión."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Después, vine a un nuevo país.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Después,"
+    },
+    {
+     "w": "vim",
+     "t": "vine"
+    },
+    {
+     "w": "para",
+     "t": "a"
+    },
+    {
+     "w": "um",
+     "t": "un"
+    },
+    {
+     "w": "novo",
+     "t": "nuevo"
+    },
+    {
+     "w": "país.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Ahora"
+    },
+    {
+     "w": "estou",
+     "t": "estoy"
+    },
+    {
+     "w": "a",
+     "t": "(part.-de-gerundio)"
+    },
+    {
+     "w": "aprender",
+     "t": "aprendiendo"
+    },
+    {
+     "w": "a",
+     "t": "el"
+    },
+    {
+     "w": "língua.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Pronto, volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "En"
+    },
+    {
+     "w": "breve,",
+     "t": "breve,"
+    },
+    {
+     "w": "voltarei",
+     "t": "volveré"
+    },
+    {
+     "w": "a",
+     "t": "a"
+    },
+    {
+     "w": "trabalhar",
+     "t": "trabajar"
+    },
+    {
+     "w": "na",
+     "t": "en-la"
+    },
+    {
+     "w": "minha",
+     "t": "mi"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesión."
+    }
+   ]
+  }
+ ]
+}

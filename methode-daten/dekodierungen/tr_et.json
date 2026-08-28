@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "et",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "oma-erialal"
+    },
+    {
+     "w": "uzun",
+     "t": "pikki"
+    },
+    {
+     "w": "yıllar",
+     "t": "aastaid"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "töötasin."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Seejärel tulin uude riiki.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "seejärel"
+    },
+    {
+     "w": "yeni",
+     "t": "uude"
+    },
+    {
+     "w": "bir",
+     "t": "(üks)"
+    },
+    {
+     "w": "ülkeye",
+     "t": "riiki"
+    },
+    {
+     "w": "geldim.",
+     "t": "tulin."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Praegu õpin keelt.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "praegu"
+    },
+    {
+     "w": "dili",
+     "t": "keelt"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "õpin."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Varsti alustan taas töötamist oma erialal.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "varsti"
+    },
+    {
+     "w": "tekrar",
+     "t": "taas"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "oma-erialal"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "töötama"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "alustan."
+    }
+   ]
+  }
+ ]
+}

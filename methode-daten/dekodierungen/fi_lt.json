@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "lt",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Aš dirbau savo srityje daug metų.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Esu"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "dirbęs"
+    },
+    {
+     "w": "alallani",
+     "t": "savo-srityje"
+    },
+    {
+     "w": "monta",
+     "t": "daug"
+    },
+    {
+     "w": "vuotta.",
+     "t": "metų."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Tada persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Tada"
+    },
+    {
+     "w": "muutin",
+     "t": "persikėliau"
+    },
+    {
+     "w": "uuteen",
+     "t": "į-naują"
+    },
+    {
+     "w": "maahan.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Dabar"
+    },
+    {
+     "w": "opiskelen",
+     "t": "mokausi"
+    },
+    {
+     "w": "kieltä.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Greitai ketinu tęsti darbą savo srityje.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Greitai"
+    },
+    {
+     "w": "aion",
+     "t": "ketinu"
+    },
+    {
+     "w": "jatkaa",
+     "t": "tęsti"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "darbą"
+    },
+    {
+     "w": "alallani.",
+     "t": "savo-srityje."
+    }
+   ]
+  }
+ ]
+}

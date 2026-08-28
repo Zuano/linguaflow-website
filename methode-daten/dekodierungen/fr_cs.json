@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "cs",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Vykonával jsem své povolání po mnoho let.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Já'jsem"
+    },
+    {
+     "w": "exercé",
+     "t": "vykonával"
+    },
+    {
+     "w": "mon",
+     "t": "své"
+    },
+    {
+     "w": "métier",
+     "t": "povolání"
+    },
+    {
+     "w": "pendant",
+     "t": "po"
+    },
+    {
+     "w": "de",
+     "t": "(spojka)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "mnoho"
+    },
+    {
+     "w": "années.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Potom jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "potom"
+    },
+    {
+     "w": "je",
+     "t": "já"
+    },
+    {
+     "w": "suis",
+     "t": "jsem"
+    },
+    {
+     "w": "arrivé",
+     "t": "přijel"
+    },
+    {
+     "w": "dans",
+     "t": "do"
+    },
+    {
+     "w": "un",
+     "t": "jedné"
+    },
+    {
+     "w": "nouveau",
+     "t": "nové"
+    },
+    {
+     "w": "pays.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Nyní se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "nyní,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "já'se-učím"
+    },
+    {
+     "w": "la",
+     "t": "(ten)"
+    },
+    {
+     "w": "langue.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Brzy se vrátím ke svému povolání.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "brzy,"
+    },
+    {
+     "w": "je",
+     "t": "já"
+    },
+    {
+     "w": "reprendrai",
+     "t": "znovu-začnu"
+    },
+    {
+     "w": "mon",
+     "t": "své"
+    },
+    {
+     "w": "métier.",
+     "t": "povolání."
+    }
+   ]
+  }
+ ]
+}

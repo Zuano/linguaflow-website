@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "tr",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Mesleğimde uzun yıllar boyunca çalıştım.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "gerçekten",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "çalıştım",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "içinde",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mesleğimde",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "yıllar-boyunca",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "birçok.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "sonra",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "taşındım",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "-e",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "ülke",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "yeni.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Ve şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "ve-şimdi",
+     "r": "wa-al-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "öğreniyorum",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "dili.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Ve yakında mesleğimdeki işime geri döneceğim.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "ve-geri-döneceğim",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "yakında",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "-e",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "iş",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "içinde",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "mesleğimde.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

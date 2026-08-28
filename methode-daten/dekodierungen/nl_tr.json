@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "tr",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Ben mesleğimde uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Ben"
+    },
+    {
+     "w": "heb",
+     "t": "(bir şey) yaptım (yardımcı fiil)"
+    },
+    {
+     "w": "vele",
+     "t": "birçok"
+    },
+    {
+     "w": "jaren",
+     "t": "yıl"
+    },
+    {
+     "w": "in",
+     "t": "içinde"
+    },
+    {
+     "w": "mijn",
+     "t": "benim"
+    },
+    {
+     "w": "vak",
+     "t": "mesleğimde"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "çalıştım."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Bundan sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Bundan-sonra"
+    },
+    {
+     "w": "ben",
+     "t": "-dim (yardımcı fiil)"
+    },
+    {
+     "w": "ik",
+     "t": "ben"
+    },
+    {
+     "w": "naar",
+     "t": "-e (yönelme)"
+    },
+    {
+     "w": "een",
+     "t": "bir"
+    },
+    {
+     "w": "nieuw",
+     "t": "yeni"
+    },
+    {
+     "w": "land",
+     "t": "ülkeye"
+    },
+    {
+     "w": "gekomen.",
+     "t": "geldim."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Şimdi"
+    },
+    {
+     "w": "leer",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "ik",
+     "t": "ben"
+    },
+    {
+     "w": "de",
+     "t": "(belirli artikel)"
+    },
+    {
+     "w": "taal.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Yakında yine mesleğimde çalışmaya başlayacağım.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Yakında"
+    },
+    {
+     "w": "ga",
+     "t": "gidiyorum (yakında yapacağım)"
+    },
+    {
+     "w": "ik",
+     "t": "ben"
+    },
+    {
+     "w": "weer",
+     "t": "yine"
+    },
+    {
+     "w": "in",
+     "t": "içinde"
+    },
+    {
+     "w": "mijn",
+     "t": "benim"
+    },
+    {
+     "w": "vak",
+     "t": "mesleğimde"
+    },
+    {
+     "w": "werken.",
+     "t": "çalışmaya."
+    }
+   ]
+  }
+ ]
+}

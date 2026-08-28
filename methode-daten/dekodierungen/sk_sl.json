@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "sl",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "V svoji stroki sem delal mnogo let.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "V"
+    },
+    {
+     "w": "mojom",
+     "t": "svoji"
+    },
+    {
+     "w": "odbore",
+     "t": "stroki"
+    },
+    {
+     "w": "som",
+     "t": "sem"
+    },
+    {
+     "w": "pracoval",
+     "t": "delal"
+    },
+    {
+     "w": "mnoho",
+     "t": "mnogo"
+    },
+    {
+     "w": "rokov.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Potem sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Potem"
+    },
+    {
+     "w": "som",
+     "t": "sem"
+    },
+    {
+     "w": "prišiel",
+     "t": "prišel"
+    },
+    {
+     "w": "do",
+     "t": "v"
+    },
+    {
+     "w": "novej",
+     "t": "novo"
+    },
+    {
+     "w": "krajiny.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Zdaj"
+    },
+    {
+     "w": "sa",
+     "t": "se"
+    },
+    {
+     "w": "učím",
+     "t": "učim"
+    },
+    {
+     "w": "jazyk.",
+     "t": "jezik."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Kmalu bom spet delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Kmalu"
+    },
+    {
+     "w": "budem",
+     "t": "bom"
+    },
+    {
+     "w": "opäť",
+     "t": "spet"
+    },
+    {
+     "w": "pracovať",
+     "t": "delal"
+    },
+    {
+     "w": "vo",
+     "t": "v"
+    },
+    {
+     "w": "svojom",
+     "t": "svoji"
+    },
+    {
+     "w": "odbore.",
+     "t": "stroki."
+    }
+   ]
+  }
+ ]
+}

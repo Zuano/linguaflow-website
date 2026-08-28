@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "pl",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Pracowałem w moim zawodzie przez wiele lat.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "W-moim-zawodzie"
+    },
+    {
+     "w": "uzun",
+     "t": "długie"
+    },
+    {
+     "w": "yıllar",
+     "t": "lata"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "pracowałem."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "potem"
+    },
+    {
+     "w": "yeni",
+     "t": "nowego"
+    },
+    {
+     "w": "bir",
+     "t": "jednego"
+    },
+    {
+     "w": "ülkeye",
+     "t": "do-kraju"
+    },
+    {
+     "w": "geldim.",
+     "t": "przyjechałem."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "teraz"
+    },
+    {
+     "w": "dili",
+     "t": "język"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "uczę-się."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Wkrótce znów zacznę pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "wkrótce"
+    },
+    {
+     "w": "tekrar",
+     "t": "znowu"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "w-moim-zawodzie"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "pracować"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "zacznę."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "id",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Saya sudah bertahun-tahun bekerja sesuai profesi saya.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Saya",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "banyak",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "tahun",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "bekerja (laki-laki)",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "sesuai",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "profesi.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Kemudian",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "saya",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "pindah (laki-laki)",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "ke",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "baru",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "negara.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Sekarang",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "saya",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "sedang-belajar",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "bahasa.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Segera saya akan mulai bekerja lagi sesuai profesi saya.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Segera",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "saya",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "lagi",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "akan-mulai",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "bekerja",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "sesuai",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "profesi.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

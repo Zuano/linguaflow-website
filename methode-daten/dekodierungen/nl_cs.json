@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "cs",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Pracoval jsem mnoho let ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Já"
+    },
+    {
+     "w": "heb",
+     "t": "mám (jsem)"
+    },
+    {
+     "w": "vele",
+     "t": "mnoho"
+    },
+    {
+     "w": "jaren",
+     "t": "let"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "mijn",
+     "t": "svém"
+    },
+    {
+     "w": "vak",
+     "t": "oboru"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "pracoval."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Poté jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Poté"
+    },
+    {
+     "w": "ben",
+     "t": "jsem"
+    },
+    {
+     "w": "ik",
+     "t": "já"
+    },
+    {
+     "w": "naar",
+     "t": "do"
+    },
+    {
+     "w": "een",
+     "t": "nové"
+    },
+    {
+     "w": "nieuw",
+     "t": "nové"
+    },
+    {
+     "w": "land",
+     "t": "země"
+    },
+    {
+     "w": "gekomen.",
+     "t": "přišel."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Teď"
+    },
+    {
+     "w": "leer",
+     "t": "učím"
+    },
+    {
+     "w": "ik",
+     "t": "já"
+    },
+    {
+     "w": "de",
+     "t": "ten"
+    },
+    {
+     "w": "taal.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Brzy budu opět pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Brzy"
+    },
+    {
+     "w": "ga",
+     "t": "budu (jdu)"
+    },
+    {
+     "w": "ik",
+     "t": "já"
+    },
+    {
+     "w": "weer",
+     "t": "znovu"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "mijn",
+     "t": "svém"
+    },
+    {
+     "w": "vak",
+     "t": "oboru"
+    },
+    {
+     "w": "werken.",
+     "t": "pracovat."
+    }
+   ]
+  }
+ ]
+}

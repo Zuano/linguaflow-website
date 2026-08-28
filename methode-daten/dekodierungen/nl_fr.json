@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "fr",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "J'ai travaillé de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Je"
+    },
+    {
+     "w": "heb",
+     "t": "ai"
+    },
+    {
+     "w": "vele",
+     "t": "de-nombreuses"
+    },
+    {
+     "w": "jaren",
+     "t": "années"
+    },
+    {
+     "w": "in",
+     "t": "dans"
+    },
+    {
+     "w": "mijn",
+     "t": "mon"
+    },
+    {
+     "w": "vak",
+     "t": "métier"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "travaillé."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Ensuite, je suis venu dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Ensuite"
+    },
+    {
+     "w": "ben",
+     "t": "suis"
+    },
+    {
+     "w": "ik",
+     "t": "je"
+    },
+    {
+     "w": "naar",
+     "t": "vers"
+    },
+    {
+     "w": "een",
+     "t": "un"
+    },
+    {
+     "w": "nieuw",
+     "t": "nouveau"
+    },
+    {
+     "w": "land",
+     "t": "pays"
+    },
+    {
+     "w": "gekomen.",
+     "t": "venu."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Maintenant"
+    },
+    {
+     "w": "leer",
+     "t": "apprends"
+    },
+    {
+     "w": "ik",
+     "t": "je"
+    },
+    {
+     "w": "de",
+     "t": "la"
+    },
+    {
+     "w": "taal.",
+     "t": "langue."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Bientôt, je vais de nouveau travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Bientôt"
+    },
+    {
+     "w": "ga",
+     "t": "vais"
+    },
+    {
+     "w": "ik",
+     "t": "je"
+    },
+    {
+     "w": "weer",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "in",
+     "t": "dans"
+    },
+    {
+     "w": "mijn",
+     "t": "mon"
+    },
+    {
+     "w": "vak",
+     "t": "métier"
+    },
+    {
+     "w": "werken.",
+     "t": "travailler."
+    }
+   ]
+  }
+ ]
+}

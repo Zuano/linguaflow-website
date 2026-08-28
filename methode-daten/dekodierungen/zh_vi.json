@@ -1,0 +1,187 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "vi",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Tôi đã làm việc trong lĩnh vực chuyên môn của mình trong nhiều năm.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "tôi",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "ở",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "của-chính-mình",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "chuyên-môn",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "lĩnh-vực",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "làm-việc",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(hoàn-thành)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "rất-nhiều",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "năm.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Sau đó, tôi đã đến một vùng đất mới.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "sau-đó,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "tôi",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "đến",
+     "r": "lái​dào"
+    },
+    {
+     "w": "了",
+     "t": "(hoàn-thành)",
+     "r": "le"
+    },
+    {
+     "w": "一",
+     "t": "một",
+     "r": "yī"
+    },
+    {
+     "w": "片",
+     "t": "(lượng-từ)",
+     "r": "piàn"
+    },
+    {
+     "w": "新的",
+     "t": "mới",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地。",
+     "t": "đất-đai.",
+     "r": "tǔdì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Bây giờ, tôi đang học ngôn ngữ địa phương.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "bây-giờ,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "tôi",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "đang",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "học",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "địa-phương",
+     "r": "dāngdì-de"
+    },
+    {
+     "w": "语言。",
+     "t": "ngôn-ngữ.",
+     "r": "yǔyán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Rất sớm, tôi sẽ quay lại công việc trong lĩnh vực chuyên môn của mình.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "rất-sớm,",
+     "r": "hěnkuài,"
+    },
+    {
+     "w": "我",
+     "t": "tôi",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(tương-lai)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "quay-lại",
+     "r": "zhòngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "của-chính-mình",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "chuyên-môn",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "lĩnh-vực",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "làm-việc.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

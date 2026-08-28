@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "es",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "He trabajado muchos años en mi profesión.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "He"
+    },
+    {
+     "w": "lavorato",
+     "t": "trabajado"
+    },
+    {
+     "w": "per",
+     "t": "por/durante"
+    },
+    {
+     "w": "molti",
+     "t": "muchos"
+    },
+    {
+     "w": "anni",
+     "t": "años"
+    },
+    {
+     "w": "nella",
+     "t": "en-la"
+    },
+    {
+     "w": "mia",
+     "t": "mi"
+    },
+    {
+     "w": "professione.",
+     "t": "profesión."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Luego me trasladé a un nuevo país.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Luego"
+    },
+    {
+     "w": "mi",
+     "t": "me"
+    },
+    {
+     "w": "sono",
+     "t": "he"
+    },
+    {
+     "w": "trasferito",
+     "t": "trasladado"
+    },
+    {
+     "w": "in",
+     "t": "a"
+    },
+    {
+     "w": "un",
+     "t": "un"
+    },
+    {
+     "w": "nuovo",
+     "t": "nuevo"
+    },
+    {
+     "w": "Paese.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Ahora"
+    },
+    {
+     "w": "sto",
+     "t": "estoy"
+    },
+    {
+     "w": "imparando",
+     "t": "aprendiendo"
+    },
+    {
+     "w": "la",
+     "t": "el"
+    },
+    {
+     "w": "lingua.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Pronto"
+    },
+    {
+     "w": "tornerò",
+     "t": "volveré"
+    },
+    {
+     "w": "a",
+     "t": "a"
+    },
+    {
+     "w": "lavorare",
+     "t": "trabajar"
+    },
+    {
+     "w": "nella",
+     "t": "en-la"
+    },
+    {
+     "w": "mia",
+     "t": "mi"
+    },
+    {
+     "w": "professione.",
+     "t": "profesión."
+    }
+   ]
+  }
+ ]
+}

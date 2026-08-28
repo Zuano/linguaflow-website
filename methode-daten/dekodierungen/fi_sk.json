@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "sk",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Pracoval som vo svojom odbore mnoho rokov.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Som (pomocné sloveso)"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "pracoval"
+    },
+    {
+     "w": "alallani",
+     "t": "vo-svojom-odbore"
+    },
+    {
+     "w": "monta",
+     "t": "mnoho"
+    },
+    {
+     "w": "vuotta.",
+     "t": "rokov."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Potom"
+    },
+    {
+     "w": "muutin",
+     "t": "presťahoval-som-sa"
+    },
+    {
+     "w": "uuteen",
+     "t": "do-novej"
+    },
+    {
+     "w": "maahan.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Teraz študujem jazyk.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Teraz"
+    },
+    {
+     "w": "opiskelen",
+     "t": "študujem"
+    },
+    {
+     "w": "kieltä.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Čoskoro plánujem pokračovať v práci vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Čoskoro"
+    },
+    {
+     "w": "aion",
+     "t": "plánujem (mám-v-úmysle)"
+    },
+    {
+     "w": "jatkaa",
+     "t": "pokračovať"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "v-práci"
+    },
+    {
+     "w": "alallani.",
+     "t": "vo-svojom-odbore."
+    }
+   ]
+  }
+ ]
+}

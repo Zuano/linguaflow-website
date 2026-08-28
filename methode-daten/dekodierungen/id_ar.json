@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "ar",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "لقد عملت في مجالي لسنوات عديدة.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "أنا"
+    },
+    {
+     "w": "telah",
+     "t": "قد"
+    },
+    {
+     "w": "bekerja",
+     "t": "عملت"
+    },
+    {
+     "w": "di",
+     "t": "في"
+    },
+    {
+     "w": "bidang",
+     "t": "مجال"
+    },
+    {
+     "w": "saya",
+     "t": "لي"
+    },
+    {
+     "w": "selama",
+     "t": "طوال"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "سنوات-عديدة."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "ثم"
+    },
+    {
+     "w": "saya",
+     "t": "أنا"
+    },
+    {
+     "w": "pindah",
+     "t": "انتقلت"
+    },
+    {
+     "w": "ke",
+     "t": "إلى"
+    },
+    {
+     "w": "negara",
+     "t": "بلد"
+    },
+    {
+     "w": "baru.",
+     "t": "جديد."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "الآن أنا أتعلم لغتها (لغة ذلك البلد).",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "الآن"
+    },
+    {
+     "w": "saya",
+     "t": "أنا"
+    },
+    {
+     "w": "sedang",
+     "t": "(الآن-أفعل)"
+    },
+    {
+     "w": "belajar",
+     "t": "أتعلم"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "لغتها."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "وقريباً سأعود للعمل في مجالي.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "قريباً"
+    },
+    {
+     "w": "lagi",
+     "t": "(بعد قليل)"
+    },
+    {
+     "w": "saya",
+     "t": "أنا"
+    },
+    {
+     "w": "akan",
+     "t": "سوف"
+    },
+    {
+     "w": "kembali",
+     "t": "أعود"
+    },
+    {
+     "w": "bekerja",
+     "t": "أعمل"
+    },
+    {
+     "w": "di",
+     "t": "في"
+    },
+    {
+     "w": "bidang",
+     "t": "مجال"
+    },
+    {
+     "w": "saya.",
+     "t": "لي."
+    }
+   ]
+  }
+ ]
+}

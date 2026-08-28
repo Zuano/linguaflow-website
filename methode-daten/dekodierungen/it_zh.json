@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "zh",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "我在我的职业中工作了很多年。",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "我-有(助动词)"
+    },
+    {
+     "w": "lavorato",
+     "t": "工作过"
+    },
+    {
+     "w": "per",
+     "t": "为了/持续"
+    },
+    {
+     "w": "molti",
+     "t": "很多"
+    },
+    {
+     "w": "anni",
+     "t": "年"
+    },
+    {
+     "w": "nella",
+     "t": "在-那(职业)里"
+    },
+    {
+     "w": "mia",
+     "t": "我的"
+    },
+    {
+     "w": "professione.",
+     "t": "职业。"
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "后来我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "后来"
+    },
+    {
+     "w": "mi",
+     "t": "我自己"
+    },
+    {
+     "w": "sono",
+     "t": "是(助动词)"
+    },
+    {
+     "w": "trasferito",
+     "t": "搬迁了"
+    },
+    {
+     "w": "in",
+     "t": "到"
+    },
+    {
+     "w": "un",
+     "t": "一个"
+    },
+    {
+     "w": "nuovo",
+     "t": "新的"
+    },
+    {
+     "w": "Paese.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "现在我在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "现在"
+    },
+    {
+     "w": "sto",
+     "t": "我在(进行时)"
+    },
+    {
+     "w": "imparando",
+     "t": "学习着"
+    },
+    {
+     "w": "la",
+     "t": "这门"
+    },
+    {
+     "w": "lingua.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "很快我将回到我的职业岗位上工作。",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "很快"
+    },
+    {
+     "w": "tornerò",
+     "t": "我将回去"
+    },
+    {
+     "w": "a",
+     "t": "去"
+    },
+    {
+     "w": "lavorare",
+     "t": "工作"
+    },
+    {
+     "w": "nella",
+     "t": "在-那(职业)里"
+    },
+    {
+     "w": "mia",
+     "t": "我的"
+    },
+    {
+     "w": "professione.",
+     "t": "职业。"
+    }
+   ]
+  }
+ ]
+}

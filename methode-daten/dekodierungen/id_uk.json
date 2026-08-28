@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "uk",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Я вже багато років працюю у своїй сфері.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "я"
+    },
+    {
+     "w": "telah",
+     "t": "вже"
+    },
+    {
+     "w": "bekerja",
+     "t": "працював"
+    },
+    {
+     "w": "di",
+     "t": "у"
+    },
+    {
+     "w": "bidang",
+     "t": "сфері"
+    },
+    {
+     "w": "saya",
+     "t": "своїй"
+    },
+    {
+     "w": "selama",
+     "t": "протягом"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "багатьох-років."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Потім я переїхав до нової країни.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "потім"
+    },
+    {
+     "w": "saya",
+     "t": "я"
+    },
+    {
+     "w": "pindah",
+     "t": "переїхав"
+    },
+    {
+     "w": "ke",
+     "t": "до"
+    },
+    {
+     "w": "negara",
+     "t": "країни"
+    },
+    {
+     "w": "baru.",
+     "t": "нової."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Зараз я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "зараз"
+    },
+    {
+     "w": "saya",
+     "t": "я"
+    },
+    {
+     "w": "sedang",
+     "t": "саме-зараз"
+    },
+    {
+     "w": "belajar",
+     "t": "вчу"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "мову-(її)."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Незабаром я знову працюватиму у своїй сфері.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "незабаром"
+    },
+    {
+     "w": "lagi",
+     "t": "ще"
+    },
+    {
+     "w": "saya",
+     "t": "я"
+    },
+    {
+     "w": "akan",
+     "t": "буду"
+    },
+    {
+     "w": "kembali",
+     "t": "знову"
+    },
+    {
+     "w": "bekerja",
+     "t": "працювати"
+    },
+    {
+     "w": "di",
+     "t": "у"
+    },
+    {
+     "w": "bidang",
+     "t": "сфері"
+    },
+    {
+     "w": "saya.",
+     "t": "своїй."
+    }
+   ]
+  }
+ ]
+}

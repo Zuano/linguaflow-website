@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "zh",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "我在我的专业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "我"
+    },
+    {
+     "w": "heb",
+     "t": "有(助动词，完成时)"
+    },
+    {
+     "w": "vele",
+     "t": "许多"
+    },
+    {
+     "w": "jaren",
+     "t": "年"
+    },
+    {
+     "w": "in",
+     "t": "在"
+    },
+    {
+     "w": "mijn",
+     "t": "我的"
+    },
+    {
+     "w": "vak",
+     "t": "专业(行业)"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "工作过。"
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "之后我来到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "之后"
+    },
+    {
+     "w": "ben",
+     "t": "是(助动词，完成时)"
+    },
+    {
+     "w": "ik",
+     "t": "我"
+    },
+    {
+     "w": "naar",
+     "t": "去(往)"
+    },
+    {
+     "w": "een",
+     "t": "一个"
+    },
+    {
+     "w": "nieuw",
+     "t": "新的"
+    },
+    {
+     "w": "land",
+     "t": "国家"
+    },
+    {
+     "w": "gekomen.",
+     "t": "来了。"
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "现在我在学这门语言。",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "现在"
+    },
+    {
+     "w": "leer",
+     "t": "学"
+    },
+    {
+     "w": "ik",
+     "t": "我"
+    },
+    {
+     "w": "de",
+     "t": "这(门)"
+    },
+    {
+     "w": "taal.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "不久我又要在我的专业领域工作了。",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "不久"
+    },
+    {
+     "w": "ga",
+     "t": "要(将要)"
+    },
+    {
+     "w": "ik",
+     "t": "我"
+    },
+    {
+     "w": "weer",
+     "t": "又(再次)"
+    },
+    {
+     "w": "in",
+     "t": "在"
+    },
+    {
+     "w": "mijn",
+     "t": "我的"
+    },
+    {
+     "w": "vak",
+     "t": "专业(行业)"
+    },
+    {
+     "w": "werken.",
+     "t": "工作。"
+    }
+   ]
+  }
+ ]
+}

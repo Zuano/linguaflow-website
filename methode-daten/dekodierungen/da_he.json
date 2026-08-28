@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "he",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "אני עבדתי במקצוע שלי הרבה שנים.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "אני"
+    },
+    {
+     "w": "har",
+     "t": "יש-לי (עברתי זמן)"
+    },
+    {
+     "w": "arbejdet",
+     "t": "עבדתי"
+    },
+    {
+     "w": "i",
+     "t": "ב-"
+    },
+    {
+     "w": "mit",
+     "t": "שלי"
+    },
+    {
+     "w": "fag",
+     "t": "מקצוע"
+    },
+    {
+     "w": "i",
+     "t": "במשך"
+    },
+    {
+     "w": "mange",
+     "t": "הרבה"
+    },
+    {
+     "w": "år.",
+     "t": "שנים."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "אז עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "אז"
+    },
+    {
+     "w": "flyttede",
+     "t": "עברתי (דירה/מקום)"
+    },
+    {
+     "w": "jeg",
+     "t": "אני"
+    },
+    {
+     "w": "til",
+     "t": "ל-"
+    },
+    {
+     "w": "et",
+     "t": "מדינה (זכר/נטרלי)"
+    },
+    {
+     "w": "nyt",
+     "t": "חדשה"
+    },
+    {
+     "w": "land.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "עכשיו"
+    },
+    {
+     "w": "lærer",
+     "t": "לומד"
+    },
+    {
+     "w": "jeg",
+     "t": "אני"
+    },
+    {
+     "w": "sproget.",
+     "t": "את-השפה."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "בקרוב אני אעבוד שוב במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "בקרוב"
+    },
+    {
+     "w": "skal",
+     "t": "אמור (עתיד)"
+    },
+    {
+     "w": "jeg",
+     "t": "אני"
+    },
+    {
+     "w": "arbejde",
+     "t": "לעבוד"
+    },
+    {
+     "w": "i",
+     "t": "ב-"
+    },
+    {
+     "w": "mit",
+     "t": "שלי"
+    },
+    {
+     "w": "fag",
+     "t": "מקצוע"
+    },
+    {
+     "w": "igen.",
+     "t": "שוב."
+    }
+   ]
+  }
+ ]
+}

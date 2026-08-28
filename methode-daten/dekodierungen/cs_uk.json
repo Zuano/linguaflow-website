@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "uk",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "У своїй галузі я працював багато років.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "У"
+    },
+    {
+     "w": "svém",
+     "t": "своїй"
+    },
+    {
+     "w": "oboru",
+     "t": "галузі"
+    },
+    {
+     "w": "jsem",
+     "t": "(я)-допоміжне-дієслово"
+    },
+    {
+     "w": "pracoval",
+     "t": "працював"
+    },
+    {
+     "w": "mnoho",
+     "t": "багато"
+    },
+    {
+     "w": "let.",
+     "t": "років."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Потім я переїхав до нової країни.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Потім"
+    },
+    {
+     "w": "jsem",
+     "t": "(я)-допоміжне-дієслово"
+    },
+    {
+     "w": "se",
+     "t": "(себе)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "переїхав"
+    },
+    {
+     "w": "do",
+     "t": "до"
+    },
+    {
+     "w": "nové",
+     "t": "нової"
+    },
+    {
+     "w": "země.",
+     "t": "країни."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Тепер я вчу мову.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Тепер"
+    },
+    {
+     "w": "se",
+     "t": "(себе)"
+    },
+    {
+     "w": "učím",
+     "t": "вчу"
+    },
+    {
+     "w": "jazyk.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Скоро я знову буду працювати у своїй галузі.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Скоро"
+    },
+    {
+     "w": "budu",
+     "t": "буду"
+    },
+    {
+     "w": "zase",
+     "t": "знову"
+    },
+    {
+     "w": "pracovat",
+     "t": "працювати"
+    },
+    {
+     "w": "ve",
+     "t": "у"
+    },
+    {
+     "w": "svém",
+     "t": "своїй"
+    },
+    {
+     "w": "oboru.",
+     "t": "галузі."
+    }
+   ]
+  }
+ ]
+}

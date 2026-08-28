@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "lv",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Es esmu strādājis savā profesijā daudzus gadus.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Es"
+    },
+    {
+     "w": "har",
+     "t": "esmu"
+    },
+    {
+     "w": "arbejdet",
+     "t": "strādājis"
+    },
+    {
+     "w": "i",
+     "t": "savā"
+    },
+    {
+     "w": "mit",
+     "t": "savā"
+    },
+    {
+     "w": "fag",
+     "t": "profesijā"
+    },
+    {
+     "w": "i",
+     "t": "(laikā)"
+    },
+    {
+     "w": "mange",
+     "t": "daudzus"
+    },
+    {
+     "w": "år.",
+     "t": "gadus."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Tad es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Tad"
+    },
+    {
+     "w": "flyttede",
+     "t": "pārcēlos"
+    },
+    {
+     "w": "jeg",
+     "t": "es"
+    },
+    {
+     "w": "til",
+     "t": "uz"
+    },
+    {
+     "w": "et",
+     "t": "vienu"
+    },
+    {
+     "w": "nyt",
+     "t": "jaunu"
+    },
+    {
+     "w": "land.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Tagad"
+    },
+    {
+     "w": "lærer",
+     "t": "mācos"
+    },
+    {
+     "w": "jeg",
+     "t": "es"
+    },
+    {
+     "w": "sproget.",
+     "t": "valodu (noteikti)."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Drīz man atkal jāstrādā savā profesijā.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Drīz"
+    },
+    {
+     "w": "skal",
+     "t": "man-jā"
+    },
+    {
+     "w": "jeg",
+     "t": "es"
+    },
+    {
+     "w": "arbejde",
+     "t": "strādāt"
+    },
+    {
+     "w": "i",
+     "t": "savā"
+    },
+    {
+     "w": "mit",
+     "t": "savā"
+    },
+    {
+     "w": "fag",
+     "t": "profesijā"
+    },
+    {
+     "w": "igen.",
+     "t": "atkal."
+    }
+   ]
+  }
+ ]
+}

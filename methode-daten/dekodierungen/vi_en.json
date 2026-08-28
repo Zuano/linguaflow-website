@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "en",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "I worked in my profession for many years.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "I"
+    },
+    {
+     "w": "đã",
+     "t": "(past)"
+    },
+    {
+     "w": "làm",
+     "t": "do"
+    },
+    {
+     "w": "việc",
+     "t": "work"
+    },
+    {
+     "w": "trong",
+     "t": "in"
+    },
+    {
+     "w": "ngành",
+     "t": "field"
+    },
+    {
+     "w": "nghề",
+     "t": "profession"
+    },
+    {
+     "w": "của",
+     "t": "of"
+    },
+    {
+     "w": "mình",
+     "t": "myself"
+    },
+    {
+     "w": "nhiều",
+     "t": "many"
+    },
+    {
+     "w": "năm.",
+     "t": "years."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "After that, I came to a new country.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "After"
+    },
+    {
+     "w": "đó,",
+     "t": "that,"
+    },
+    {
+     "w": "tôi",
+     "t": "I"
+    },
+    {
+     "w": "đến",
+     "t": "came-to"
+    },
+    {
+     "w": "một",
+     "t": "a"
+    },
+    {
+     "w": "đất",
+     "t": "land"
+    },
+    {
+     "w": "nước",
+     "t": "country"
+    },
+    {
+     "w": "mới.",
+     "t": "new."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Currently, I am learning the language here.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Currently"
+    },
+    {
+     "w": "tại,",
+     "t": "present,"
+    },
+    {
+     "w": "tôi",
+     "t": "I"
+    },
+    {
+     "w": "đang",
+     "t": "(ongoing)"
+    },
+    {
+     "w": "học",
+     "t": "study"
+    },
+    {
+     "w": "ngôn",
+     "t": "language"
+    },
+    {
+     "w": "ngữ",
+     "t": "(word-part)"
+    },
+    {
+     "w": "ở",
+     "t": "at"
+    },
+    {
+     "w": "đây.",
+     "t": "here."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Coming up, I will continue working in my profession.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Soon"
+    },
+    {
+     "w": "tới,",
+     "t": "coming,"
+    },
+    {
+     "w": "tôi",
+     "t": "I"
+    },
+    {
+     "w": "sẽ",
+     "t": "will"
+    },
+    {
+     "w": "tiếp",
+     "t": "continue"
+    },
+    {
+     "w": "tục",
+     "t": "(word-part)"
+    },
+    {
+     "w": "làm",
+     "t": "do"
+    },
+    {
+     "w": "việc",
+     "t": "work"
+    },
+    {
+     "w": "trong",
+     "t": "in"
+    },
+    {
+     "w": "ngành",
+     "t": "field"
+    },
+    {
+     "w": "nghề",
+     "t": "profession"
+    },
+    {
+     "w": "của",
+     "t": "of"
+    },
+    {
+     "w": "mình.",
+     "t": "myself."
+    }
+   ]
+  }
+ ]
+}

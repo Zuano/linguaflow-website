@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "vi",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Tôi đã làm việc trong nghề của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Nhiều"
+    },
+    {
+     "w": "metų",
+     "t": "năm"
+    },
+    {
+     "w": "dirbau",
+     "t": "tôi-đã-làm-việc"
+    },
+    {
+     "w": "savo",
+     "t": "của-mình"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "trong-nghề."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Sau đó tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "atvykau",
+     "t": "tôi-đã-đến"
+    },
+    {
+     "w": "į",
+     "t": "đến"
+    },
+    {
+     "w": "naują",
+     "t": "mới"
+    },
+    {
+     "w": "šalį.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "mokausi",
+     "t": "tôi-đang-học"
+    },
+    {
+     "w": "kalbos.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "vėl",
+     "t": "lại"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "tôi-sẽ-làm-việc"
+    },
+    {
+     "w": "savo",
+     "t": "của-mình"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "trong-nghề."
+    }
+   ]
+  }
+ ]
+}

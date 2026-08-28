@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "tr",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Uzun yıllar kendi mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ben",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "çok",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "yıl(lar)",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "çalıştım",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "göre (dalında)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "kendi",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "mesleğime.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Sonra",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "ben",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "geldim",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "-e",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "yeni",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "ülkeye.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Şu anda dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Şu anda",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "ben",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "öğreniyorum",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "dili.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Yakında kendi mesleğimde tekrar çalışmaya başlayacağım.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Yakında",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "ben",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "tekrar",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "başlayacağım",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "çalışmaya",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "göre (dalında)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "kendi",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "mesleğime.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

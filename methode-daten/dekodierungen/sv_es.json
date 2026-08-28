@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "es",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "He trabajado muchos años en mi profesión.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Yo"
+    },
+    {
+     "w": "har",
+     "t": "he"
+    },
+    {
+     "w": "arbetat",
+     "t": "trabajado"
+    },
+    {
+     "w": "många",
+     "t": "muchos"
+    },
+    {
+     "w": "år",
+     "t": "años"
+    },
+    {
+     "w": "inom",
+     "t": "en (dentro de)"
+    },
+    {
+     "w": "mitt",
+     "t": "mi"
+    },
+    {
+     "w": "yrke.",
+     "t": "profesión."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Luego me mudé a un país nuevo.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Luego"
+    },
+    {
+     "w": "flyttade",
+     "t": "me-mudé"
+    },
+    {
+     "w": "jag",
+     "t": "yo"
+    },
+    {
+     "w": "till",
+     "t": "a"
+    },
+    {
+     "w": "ett",
+     "t": "un"
+    },
+    {
+     "w": "nytt",
+     "t": "nuevo"
+    },
+    {
+     "w": "land.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Ahora"
+    },
+    {
+     "w": "lär",
+     "t": "aprendo"
+    },
+    {
+     "w": "jag",
+     "t": "yo"
+    },
+    {
+     "w": "mig",
+     "t": "me"
+    },
+    {
+     "w": "språket.",
+     "t": "el-idioma."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Pronto empezaré a trabajar en mi profesión otra vez.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Pronto"
+    },
+    {
+     "w": "ska",
+     "t": "voy-a"
+    },
+    {
+     "w": "jag",
+     "t": "yo"
+    },
+    {
+     "w": "börja",
+     "t": "empezar"
+    },
+    {
+     "w": "arbeta",
+     "t": "a-trabajar"
+    },
+    {
+     "w": "inom",
+     "t": "en"
+    },
+    {
+     "w": "mitt",
+     "t": "mi"
+    },
+    {
+     "w": "yrke",
+     "t": "profesión"
+    },
+    {
+     "w": "igen.",
+     "t": "otra-vez."
+    }
+   ]
+  }
+ ]
+}

@@ -192,6 +192,11 @@ async function decodePair(target, native) {
 }
 
 // ---- Validation / Prüfung ----
+// Pure punctuation/symbol tokens (Japanese 、。 or the Thai repetition mark ๆ)
+// legitimately have no meaning and no romanization of their own.
+// Reine Satzzeichen-/Symbol-Tokens haben zu Recht keine eigene Bedeutung/Umschrift.
+const symbolOnly = (w) => typeof w === "string" && /^[\p{P}\p{S}ๆ]+$/u.test(w);
+
 function validate(parsed, target, native) {
   const problems = [];
   const tl = byCode[target];
@@ -203,8 +208,9 @@ function validate(parsed, target, native) {
     if (!s.text || !s.translation) problems.push("Satz ohne text/translation");
     if (!Array.isArray(s.pairs) || s.pairs.length === 0) problems.push("Satz ohne pairs");
     for (const p of s.pairs ?? []) {
-      if (!p.w || !p.t) problems.push("Paar ohne w/t");
-      if (tl.nonLatin && !p.r) problems.push(`Umschrift fehlt bei "${p.w}"`);
+      if (!p.w) problems.push("Paar ohne w");
+      if (!p.t && !symbolOnly(p.w)) problems.push(`Paar ohne Bedeutung bei "${p.w}"`);
+      if (tl.nonLatin && !p.r && !symbolOnly(p.w)) problems.push(`Umschrift fehlt bei "${p.w}"`);
     }
   }
   return problems;

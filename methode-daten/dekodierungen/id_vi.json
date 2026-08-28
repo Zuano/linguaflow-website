@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "vi",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Tôi đã làm việc trong lĩnh vực của mình nhiều năm rồi.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Tôi"
+    },
+    {
+     "w": "telah",
+     "t": "đã"
+    },
+    {
+     "w": "bekerja",
+     "t": "làm việc"
+    },
+    {
+     "w": "di",
+     "t": "ở"
+    },
+    {
+     "w": "bidang",
+     "t": "lĩnh vực"
+    },
+    {
+     "w": "saya",
+     "t": "của tôi"
+    },
+    {
+     "w": "selama",
+     "t": "trong suốt"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "nhiều năm."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Sau đó"
+    },
+    {
+     "w": "saya",
+     "t": "tôi"
+    },
+    {
+     "w": "pindah",
+     "t": "chuyển (đi)"
+    },
+    {
+     "w": "ke",
+     "t": "đến"
+    },
+    {
+     "w": "negara",
+     "t": "đất nước"
+    },
+    {
+     "w": "baru.",
+     "t": "mới."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ của nước đó.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Bây giờ"
+    },
+    {
+     "w": "saya",
+     "t": "tôi"
+    },
+    {
+     "w": "sedang",
+     "t": "đang"
+    },
+    {
+     "w": "belajar",
+     "t": "học"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "ngôn-ngữ-của-nó."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ trở lại làm việc trong lĩnh vực của mình.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Chẳng-bao-lâu"
+    },
+    {
+     "w": "lagi",
+     "t": "nữa"
+    },
+    {
+     "w": "saya",
+     "t": "tôi"
+    },
+    {
+     "w": "akan",
+     "t": "sẽ"
+    },
+    {
+     "w": "kembali",
+     "t": "trở-lại"
+    },
+    {
+     "w": "bekerja",
+     "t": "làm việc"
+    },
+    {
+     "w": "di",
+     "t": "ở"
+    },
+    {
+     "w": "bidang",
+     "t": "lĩnh vực"
+    },
+    {
+     "w": "saya.",
+     "t": "của tôi."
+    }
+   ]
+  }
+ ]
+}

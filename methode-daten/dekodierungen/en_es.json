@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "es",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Trabajé en mi profesión durante muchos años.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Yo"
+    },
+    {
+     "w": "worked",
+     "t": "trabajé"
+    },
+    {
+     "w": "in",
+     "t": "en"
+    },
+    {
+     "w": "my",
+     "t": "mi"
+    },
+    {
+     "w": "profession",
+     "t": "profesión"
+    },
+    {
+     "w": "for",
+     "t": "durante"
+    },
+    {
+     "w": "many",
+     "t": "muchos"
+    },
+    {
+     "w": "years.",
+     "t": "años."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Luego me mudé a un nuevo país.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Luego"
+    },
+    {
+     "w": "I",
+     "t": "yo"
+    },
+    {
+     "w": "moved",
+     "t": "me-mudé"
+    },
+    {
+     "w": "to",
+     "t": "a"
+    },
+    {
+     "w": "a",
+     "t": "un"
+    },
+    {
+     "w": "new",
+     "t": "nuevo"
+    },
+    {
+     "w": "country.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Ahora"
+    },
+    {
+     "w": "I'm",
+     "t": "yo'estoy"
+    },
+    {
+     "w": "learning",
+     "t": "aprendiendo"
+    },
+    {
+     "w": "the",
+     "t": "el"
+    },
+    {
+     "w": "language.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Pronto"
+    },
+    {
+     "w": "I'll",
+     "t": "yo'voy-a"
+    },
+    {
+     "w": "be",
+     "t": "estar"
+    },
+    {
+     "w": "working",
+     "t": "trabajando"
+    },
+    {
+     "w": "in",
+     "t": "en"
+    },
+    {
+     "w": "my",
+     "t": "mi"
+    },
+    {
+     "w": "profession",
+     "t": "profesión"
+    },
+    {
+     "w": "again.",
+     "t": "otra-vez."
+    }
+   ]
+  }
+ ]
+}

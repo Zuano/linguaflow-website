@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "hu",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Dolgoztam"
+    },
+    {
+     "w": "muitos",
+     "t": "sok"
+    },
+    {
+     "w": "anos",
+     "t": "évig"
+    },
+    {
+     "w": "na",
+     "t": "a-ban"
+    },
+    {
+     "w": "minha",
+     "t": "az-én"
+    },
+    {
+     "w": "profissão.",
+     "t": "szakmámban."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Aztán egy új országba jöttem.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Aztán,"
+    },
+    {
+     "w": "vim",
+     "t": "jöttem"
+    },
+    {
+     "w": "para",
+     "t": "-ba"
+    },
+    {
+     "w": "um",
+     "t": "egy"
+    },
+    {
+     "w": "novo",
+     "t": "új"
+    },
+    {
+     "w": "país.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Most"
+    },
+    {
+     "w": "estou",
+     "t": "vagyok"
+    },
+    {
+     "w": "a",
+     "t": "(folyamatosság-jele)"
+    },
+    {
+     "w": "aprender",
+     "t": "tanulni"
+    },
+    {
+     "w": "a",
+     "t": "a"
+    },
+    {
+     "w": "língua.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "(idő-jelölő)"
+    },
+    {
+     "w": "breve,",
+     "t": "hamarosan,"
+    },
+    {
+     "w": "voltarei",
+     "t": "vissza-fogok-térni"
+    },
+    {
+     "w": "a",
+     "t": "(hogy)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "dolgozni"
+    },
+    {
+     "w": "na",
+     "t": "a-ban"
+    },
+    {
+     "w": "minha",
+     "t": "az-én"
+    },
+    {
+     "w": "profissão.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

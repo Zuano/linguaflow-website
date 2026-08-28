@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "vi",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Tôi đã làm việc trong ngành nghề của mình trong một thời gian dài.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "tôi-thì",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "trong-thời-gian-dài",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "của-tôi",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "ở-nghề-nghiệp",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "làm-việc",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "đã-đến-(quá-khứ-tiếp-diễn).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Rồi tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "rồi-sau-đó",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "mới",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "đến-đất-nước",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "đã-đến.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Hiện giờ tôi đang học ngôn ngữ của đất nước đó.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "hiện-giờ-thì",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "đó",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "của-đất-nước",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "ngôn-ngữ",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "học-và",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "đang-(tiếp-diễn).",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Chẳng bao lâu nữa, tôi sẽ làm việc trong ngành nghề của mình trở lại.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "sắp-sửa",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "lại",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "của-tôi",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "bằng-nghề-nghiệp",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "làm-việc-(sẽ)",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "trở-thành",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "điều-đó-là.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

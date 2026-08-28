@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "uk",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Я багато років працював у своїй спеціальності.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Я-є (допоміжне)"
+    },
+    {
+     "w": "palju",
+     "t": "багато"
+    },
+    {
+     "w": "aastaid",
+     "t": "років"
+    },
+    {
+     "w": "oma",
+     "t": "своїй"
+    },
+    {
+     "w": "erialal",
+     "t": "у-спеціальності"
+    },
+    {
+     "w": "töötanud.",
+     "t": "працював."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Потім я переїхав до нової країни.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Потім"
+    },
+    {
+     "w": "kolisin",
+     "t": "я-переїхав"
+    },
+    {
+     "w": "uude",
+     "t": "до-нової"
+    },
+    {
+     "w": "riiki.",
+     "t": "країни."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Тепер я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Тепер"
+    },
+    {
+     "w": "õpin",
+     "t": "я-вивчаю"
+    },
+    {
+     "w": "keelt.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Скоро я знову почну працювати у своїй спеціальності.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Скоро"
+    },
+    {
+     "w": "hakkan",
+     "t": "я-почну"
+    },
+    {
+     "w": "jälle",
+     "t": "знову"
+    },
+    {
+     "w": "oma",
+     "t": "своїй"
+    },
+    {
+     "w": "erialal",
+     "t": "у-спеціальності"
+    },
+    {
+     "w": "töötama.",
+     "t": "працювати."
+    }
+   ]
+  }
+ ]
+}

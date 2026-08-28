@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "hu",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Sok éve dolgozom a szakmámban.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Vagyok (múltidő-segédige)"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "dolgozott"
+    },
+    {
+     "w": "alallani",
+     "t": "a-szakmámban"
+    },
+    {
+     "w": "monta",
+     "t": "sok"
+    },
+    {
+     "w": "vuotta.",
+     "t": "évet."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Aztán új országba költöztem.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Aztán"
+    },
+    {
+     "w": "muutin",
+     "t": "költöztem"
+    },
+    {
+     "w": "uuteen",
+     "t": "új-be"
+    },
+    {
+     "w": "maahan.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Most nyelvet tanulok.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Most"
+    },
+    {
+     "w": "opiskelen",
+     "t": "tanulok"
+    },
+    {
+     "w": "kieltä.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Hamarosan folytatni akarom a munkát a szakmámban.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "aion",
+     "t": "szándékozom"
+    },
+    {
+     "w": "jatkaa",
+     "t": "folytatni"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "munkát (dolgozást)"
+    },
+    {
+     "w": "alallani.",
+     "t": "a-szakmámban."
+    }
+   ]
+  }
+ ]
+}

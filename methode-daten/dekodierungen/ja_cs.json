@@ -1,0 +1,137 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "cs",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Dlouhé roky jsem pracovala ve svém oboru/profesi.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "já",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(téma)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "dlouhá-léta,",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分の",
+     "t": "svého",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職に",
+     "t": "odborné-profese",
+     "r": "senmonshoku ni"
+    },
+    {
+     "w": "就いて",
+     "t": "nastoupit",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "pracovat-jsem-dělala.",
+     "r": "hataraitekimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Poté jsem se přestěhovala do nové země.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "poté,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "nový",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "zemi",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "přestěhovat-se-jsem-se-přestěhovala.",
+     "r": "tatsumi sumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Nyní se učím jazyk té země.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "teď",
+     "r": "ima wa"
+    },
+    {
+     "w": "その国の",
+     "t": "té-země",
+     "r": "sono kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "jazyk",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "učit-se-jsem-se-učím.",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Brzy začnu opět pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "brzy",
+     "r": "mou sugu"
+    },
+    {
+     "w": "また、",
+     "t": "opět,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "svého",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "odborné-profese",
+     "r": "senmonshoku de"
+    },
+    {
+     "w": "働き始める",
+     "t": "pracovat-začít",
+     "r": "hataraki hajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "plán-je.",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

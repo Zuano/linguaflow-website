@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "de",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Ich habe viele Jahre in meinem Fachbereich gearbeitet.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ich"
+    },
+    {
+     "w": "har",
+     "t": "habe"
+    },
+    {
+     "w": "jobbet",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "i",
+     "t": "in"
+    },
+    {
+     "w": "mange",
+     "t": "vielen"
+    },
+    {
+     "w": "år",
+     "t": "Jahren"
+    },
+    {
+     "w": "innen",
+     "t": "innerhalb"
+    },
+    {
+     "w": "mitt",
+     "t": "meinem"
+    },
+    {
+     "w": "fagområde.",
+     "t": "Fachbereich."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Dann bin ich in ein neues Land gezogen.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Dann"
+    },
+    {
+     "w": "flyttet",
+     "t": "zog"
+    },
+    {
+     "w": "jeg",
+     "t": "ich"
+    },
+    {
+     "w": "til",
+     "t": "in"
+    },
+    {
+     "w": "et",
+     "t": "ein"
+    },
+    {
+     "w": "nytt",
+     "t": "neues"
+    },
+    {
+     "w": "land.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Jetzt"
+    },
+    {
+     "w": "lærer",
+     "t": "lerne"
+    },
+    {
+     "w": "jeg",
+     "t": "ich"
+    },
+    {
+     "w": "språket.",
+     "t": "die-Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Bald werde ich wieder in meinem Fachbereich arbeiten.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Bald"
+    },
+    {
+     "w": "skal",
+     "t": "werde"
+    },
+    {
+     "w": "jeg",
+     "t": "ich"
+    },
+    {
+     "w": "jobbe",
+     "t": "arbeiten"
+    },
+    {
+     "w": "innen",
+     "t": "innerhalb"
+    },
+    {
+     "w": "mitt",
+     "t": "meinem"
+    },
+    {
+     "w": "fagområde",
+     "t": "Fachbereich"
+    },
+    {
+     "w": "igjen.",
+     "t": "wieder."
+    }
+   ]
+  }
+ ]
+}

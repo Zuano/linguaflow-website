@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "de",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Ich habe viele Jahre lang in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Ich-habe"
+    },
+    {
+     "w": "lavorato",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "per",
+     "t": "für"
+    },
+    {
+     "w": "molti",
+     "t": "viele"
+    },
+    {
+     "w": "anni",
+     "t": "Jahre"
+    },
+    {
+     "w": "nella",
+     "t": "in-der"
+    },
+    {
+     "w": "mia",
+     "t": "meiner"
+    },
+    {
+     "w": "professione.",
+     "t": "Beruf."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Dann bin ich in ein neues Land umgezogen.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Dann"
+    },
+    {
+     "w": "mi",
+     "t": "mich"
+    },
+    {
+     "w": "sono",
+     "t": "bin"
+    },
+    {
+     "w": "trasferito",
+     "t": "umgezogen"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "un",
+     "t": "ein"
+    },
+    {
+     "w": "nuovo",
+     "t": "neues"
+    },
+    {
+     "w": "Paese.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Jetzt"
+    },
+    {
+     "w": "sto",
+     "t": "bin'gerade-dabei"
+    },
+    {
+     "w": "imparando",
+     "t": "zu-lernen"
+    },
+    {
+     "w": "la",
+     "t": "die"
+    },
+    {
+     "w": "lingua.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Bald"
+    },
+    {
+     "w": "tornerò",
+     "t": "werde-ich-zurückkehren"
+    },
+    {
+     "w": "a",
+     "t": "zu"
+    },
+    {
+     "w": "lavorare",
+     "t": "arbeiten"
+    },
+    {
+     "w": "nella",
+     "t": "in-der"
+    },
+    {
+     "w": "mia",
+     "t": "meiner"
+    },
+    {
+     "w": "professione.",
+     "t": "Beruf."
+    }
+   ]
+  }
+ ]
+}

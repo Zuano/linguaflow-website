@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "vi",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Tôi đã làm việc nhiều năm trong lĩnh vực chuyên môn của mình.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Tôi"
+    },
+    {
+     "w": "har",
+     "t": "đã"
+    },
+    {
+     "w": "jobbet",
+     "t": "làm-việc"
+    },
+    {
+     "w": "i",
+     "t": "trong"
+    },
+    {
+     "w": "mange",
+     "t": "nhiều"
+    },
+    {
+     "w": "år",
+     "t": "năm"
+    },
+    {
+     "w": "innen",
+     "t": "trong (phạm vi)"
+    },
+    {
+     "w": "mitt",
+     "t": "của-tôi"
+    },
+    {
+     "w": "fagområde.",
+     "t": "lĩnh-vực-chuyên-môn."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Rồi tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Rồi"
+    },
+    {
+     "w": "flyttet",
+     "t": "đã-chuyển"
+    },
+    {
+     "w": "jeg",
+     "t": "tôi"
+    },
+    {
+     "w": "til",
+     "t": "đến"
+    },
+    {
+     "w": "et",
+     "t": "một"
+    },
+    {
+     "w": "nytt",
+     "t": "mới"
+    },
+    {
+     "w": "land.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "lærer",
+     "t": "học"
+    },
+    {
+     "w": "jeg",
+     "t": "tôi"
+    },
+    {
+     "w": "språket.",
+     "t": "ngôn-ngữ-đó."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Sắp tới tôi sẽ làm việc trong lĩnh vực chuyên môn của mình lại.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Sắp-tới"
+    },
+    {
+     "w": "skal",
+     "t": "sẽ"
+    },
+    {
+     "w": "jeg",
+     "t": "tôi"
+    },
+    {
+     "w": "jobbe",
+     "t": "làm-việc"
+    },
+    {
+     "w": "innen",
+     "t": "trong (phạm vi)"
+    },
+    {
+     "w": "mitt",
+     "t": "của-tôi"
+    },
+    {
+     "w": "fagområde",
+     "t": "lĩnh-vực-chuyên-môn"
+    },
+    {
+     "w": "igjen.",
+     "t": "lại."
+    }
+   ]
+  }
+ ]
+}

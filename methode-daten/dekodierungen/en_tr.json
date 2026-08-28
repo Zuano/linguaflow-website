@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "tr",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Uzun yıllar mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Ben"
+    },
+    {
+     "w": "worked",
+     "t": "çalıştım"
+    },
+    {
+     "w": "in",
+     "t": "içinde"
+    },
+    {
+     "w": "my",
+     "t": "benim"
+    },
+    {
+     "w": "profession",
+     "t": "mesleğimde"
+    },
+    {
+     "w": "for",
+     "t": "boyunca"
+    },
+    {
+     "w": "many",
+     "t": "birçok"
+    },
+    {
+     "w": "years.",
+     "t": "yıl."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Sonra"
+    },
+    {
+     "w": "I",
+     "t": "ben"
+    },
+    {
+     "w": "moved",
+     "t": "taşındım"
+    },
+    {
+     "w": "to",
+     "t": "-e"
+    },
+    {
+     "w": "a",
+     "t": "bir"
+    },
+    {
+     "w": "new",
+     "t": "yeni"
+    },
+    {
+     "w": "country.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Şimdi"
+    },
+    {
+     "w": "I'm",
+     "t": "Ben'im"
+    },
+    {
+     "w": "learning",
+     "t": "öğreniyor(um)"
+    },
+    {
+     "w": "the",
+     "t": "o"
+    },
+    {
+     "w": "language.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Yakında yeniden mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Yakında"
+    },
+    {
+     "w": "I'll",
+     "t": "Ben'eceğim"
+    },
+    {
+     "w": "be",
+     "t": "olacak"
+    },
+    {
+     "w": "working",
+     "t": "çalışıyor(olacağım)"
+    },
+    {
+     "w": "in",
+     "t": "içinde"
+    },
+    {
+     "w": "my",
+     "t": "benim"
+    },
+    {
+     "w": "profession",
+     "t": "mesleğimde"
+    },
+    {
+     "w": "again.",
+     "t": "yeniden."
+    }
+   ]
+  }
+ ]
+}

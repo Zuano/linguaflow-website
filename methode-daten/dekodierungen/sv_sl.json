@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "sl",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Delal sem mnogo let v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Jaz"
+    },
+    {
+     "w": "har",
+     "t": "sem"
+    },
+    {
+     "w": "arbetat",
+     "t": "delal"
+    },
+    {
+     "w": "många",
+     "t": "mnogo"
+    },
+    {
+     "w": "år",
+     "t": "let"
+    },
+    {
+     "w": "inom",
+     "t": "znotraj"
+    },
+    {
+     "w": "mitt",
+     "t": "svojega"
+    },
+    {
+     "w": "yrke.",
+     "t": "poklica."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Nato"
+    },
+    {
+     "w": "flyttade",
+     "t": "preselil-se"
+    },
+    {
+     "w": "jag",
+     "t": "jaz"
+    },
+    {
+     "w": "till",
+     "t": "v"
+    },
+    {
+     "w": "ett",
+     "t": "eno"
+    },
+    {
+     "w": "nytt",
+     "t": "novo"
+    },
+    {
+     "w": "land.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Zdaj"
+    },
+    {
+     "w": "lär",
+     "t": "učim"
+    },
+    {
+     "w": "jag",
+     "t": "jaz"
+    },
+    {
+     "w": "mig",
+     "t": "se"
+    },
+    {
+     "w": "språket.",
+     "t": "jezik."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Kmalu bom spet začel delati v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Kmalu"
+    },
+    {
+     "w": "ska",
+     "t": "bom"
+    },
+    {
+     "w": "jag",
+     "t": "jaz"
+    },
+    {
+     "w": "börja",
+     "t": "začel"
+    },
+    {
+     "w": "arbeta",
+     "t": "delati"
+    },
+    {
+     "w": "inom",
+     "t": "znotraj"
+    },
+    {
+     "w": "mitt",
+     "t": "svojega"
+    },
+    {
+     "w": "yrke",
+     "t": "poklica"
+    },
+    {
+     "w": "igen.",
+     "t": "spet."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "th",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "ฉันทำงานในสายอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "har",
+     "t": "ได้ (คำช่วยอดีต)"
+    },
+    {
+     "w": "arbejdet",
+     "t": "ทำงาน (แล้ว)"
+    },
+    {
+     "w": "i",
+     "t": "ใน"
+    },
+    {
+     "w": "mit",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "fag",
+     "t": "สายอาชีพ"
+    },
+    {
+     "w": "i",
+     "t": "เป็นเวลา"
+    },
+    {
+     "w": "mange",
+     "t": "หลาย"
+    },
+    {
+     "w": "år.",
+     "t": "ปี"
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "จากนั้นฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "flyttede",
+     "t": "ย้าย (อดีต)"
+    },
+    {
+     "w": "jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "til",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "et",
+     "t": "หนึ่ง (คำนำหน้า)"
+    },
+    {
+     "w": "nyt",
+     "t": "ใหม่"
+    },
+    {
+     "w": "land.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "lærer",
+     "t": "เรียน"
+    },
+    {
+     "w": "jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "sproget.",
+     "t": "ภาษา (นั้น)"
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "เร็วๆนี้ฉันจะได้ทำงานในสายอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "เร็วๆนี้"
+    },
+    {
+     "w": "skal",
+     "t": "จะ"
+    },
+    {
+     "w": "jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "arbejde",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "i",
+     "t": "ใน"
+    },
+    {
+     "w": "mit",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "fag",
+     "t": "สายอาชีพ"
+    },
+    {
+     "w": "igen.",
+     "t": "อีกครั้ง"
+    }
+   ]
+  }
+ ]
+}

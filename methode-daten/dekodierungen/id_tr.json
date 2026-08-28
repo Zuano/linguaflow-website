@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "tr",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Yıllardır kendi alanımda çalıştım.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Ben"
+    },
+    {
+     "w": "telah",
+     "t": "(geçmişte)"
+    },
+    {
+     "w": "bekerja",
+     "t": "çalıştım"
+    },
+    {
+     "w": "di",
+     "t": "içinde"
+    },
+    {
+     "w": "bidang",
+     "t": "alan"
+    },
+    {
+     "w": "saya",
+     "t": "benim"
+    },
+    {
+     "w": "selama",
+     "t": "boyunca"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "yıllarca."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Sonra"
+    },
+    {
+     "w": "saya",
+     "t": "ben"
+    },
+    {
+     "w": "pindah",
+     "t": "taşındım"
+    },
+    {
+     "w": "ke",
+     "t": "-a/e"
+    },
+    {
+     "w": "negara",
+     "t": "ülke"
+    },
+    {
+     "w": "baru.",
+     "t": "yeni."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Şimdi dilini öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Şimdi"
+    },
+    {
+     "w": "saya",
+     "t": "ben"
+    },
+    {
+     "w": "sedang",
+     "t": "(şu anda)"
+    },
+    {
+     "w": "belajar",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "dilini."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Yakında yeniden kendi alanımda çalışmaya başlayacağım.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Kısa-süre"
+    },
+    {
+     "w": "lagi",
+     "t": "sonra"
+    },
+    {
+     "w": "saya",
+     "t": "ben"
+    },
+    {
+     "w": "akan",
+     "t": "(gelecek zaman)"
+    },
+    {
+     "w": "kembali",
+     "t": "tekrar"
+    },
+    {
+     "w": "bekerja",
+     "t": "çalışacağım"
+    },
+    {
+     "w": "di",
+     "t": "içinde"
+    },
+    {
+     "w": "bidang",
+     "t": "alan"
+    },
+    {
+     "w": "saya.",
+     "t": "benim."
+    }
+   ]
+  }
+ ]
+}

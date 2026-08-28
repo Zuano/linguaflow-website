@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "da",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Jeg har arbejdet i mange år i mit fag.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "Arbejdet",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "har-jeg",
+     "r": "sŭm"
+    },
+    {
+     "w": "дълги",
+     "t": "lange",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "år",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "i",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "mit",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "fag.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Bagefter kom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Bagefter",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "kom-jeg",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "til",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "nyt",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "land.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Nu",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "lærer-jeg",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "sproget.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Snart vil jeg igen arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Snart",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "igen",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "vil",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "arbejde-jeg",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "i",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "mit",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "fag.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

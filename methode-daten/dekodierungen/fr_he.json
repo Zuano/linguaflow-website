@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "he",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "עסקתי במקצוע שלי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "אני'עשיתי"
+    },
+    {
+     "w": "exercé",
+     "t": "עסקתי-ב"
+    },
+    {
+     "w": "mon",
+     "t": "שלי"
+    },
+    {
+     "w": "métier",
+     "t": "מקצוע"
+    },
+    {
+     "w": "pendant",
+     "t": "במשך"
+    },
+    {
+     "w": "de",
+     "t": "של"
+    },
+    {
+     "w": "nombreuses",
+     "t": "רבות"
+    },
+    {
+     "w": "années.",
+     "t": "שנים."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "אחר כך הגעתי לארץ חדשה.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "je",
+     "t": "אני"
+    },
+    {
+     "w": "suis",
+     "t": "(עזר-לעבר)"
+    },
+    {
+     "w": "arrivé",
+     "t": "הגעתי"
+    },
+    {
+     "w": "dans",
+     "t": "אל-תוך"
+    },
+    {
+     "w": "un",
+     "t": "ל"
+    },
+    {
+     "w": "nouveau",
+     "t": "חדש"
+    },
+    {
+     "w": "pays.",
+     "t": "ארץ."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "עכשיו,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "אני'לומד"
+    },
+    {
+     "w": "la",
+     "t": "את-ה"
+    },
+    {
+     "w": "langue.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "בקרוב אחזור לעסוק במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "בקרוב,"
+    },
+    {
+     "w": "je",
+     "t": "אני"
+    },
+    {
+     "w": "reprendrai",
+     "t": "אחזור-ל"
+    },
+    {
+     "w": "mon",
+     "t": "שלי"
+    },
+    {
+     "w": "métier.",
+     "t": "מקצוע."
+    }
+   ]
+  }
+ ]
+}

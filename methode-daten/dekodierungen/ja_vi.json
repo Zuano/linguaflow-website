@@ -1,0 +1,192 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "vi",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Tôi đã làm việc trong ngành chuyên môn của mình trong nhiều năm.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "tôi",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(chủ-đề)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "nhiều năm,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分",
+     "t": "chính-mình",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(sở-hữu)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "ngành-chuyên-môn",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "ở",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "công-việc",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "làm-việc-liên-tục.",
+     "r": "hataraite-kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Sau đó, tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "cái-đó",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "sau,",
+     "r": "go,"
+    },
+    {
+     "w": "新しい",
+     "t": "mới",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "đất-nước",
+     "r": "koku"
+    },
+    {
+     "w": "へ",
+     "t": "tới",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "chuyển-đến-cư-trú.",
+     "r": "furitsudomimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Bây giờ tôi đang học ngôn ngữ của đất nước đó.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "bây-giờ",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(chủ-đề)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "cái-đó",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "đất-nước",
+     "r": "koku"
+    },
+    {
+     "w": "の",
+     "t": "(sở-hữu)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "ngôn-ngữ",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(tân-ngữ)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "học-đang.",
+     "r": "manande-imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Sắp tới, tôi sẽ bắt đầu làm việc lại trong ngành chuyên môn của mình.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "sắp-tới",
+     "r": "mōsugu"
+    },
+    {
+     "w": "また、",
+     "t": "lại,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "chính-mình",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(sở-hữu)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "ngành-chuyên-môn",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "ở-(vị-trí-hành-động)",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "làm-việc-bắt-đầu",
+     "r": "hatarakihajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "kế-hoạch",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "là.",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

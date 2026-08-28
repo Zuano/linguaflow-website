@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "fr",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Pendant de nombreuses années, j'ai travaillé dans mon métier.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Pendant"
+    },
+    {
+     "w": "wiele",
+     "t": "de-nombreuses"
+    },
+    {
+     "w": "lat",
+     "t": "années"
+    },
+    {
+     "w": "pracowałem",
+     "t": "j'ai-travaillé"
+    },
+    {
+     "w": "w",
+     "t": "dans"
+    },
+    {
+     "w": "swoim",
+     "t": "mon-propre"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "métier."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Ensuite, je suis arrivé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Ensuite"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "je-suis-arrivé"
+    },
+    {
+     "w": "do",
+     "t": "dans"
+    },
+    {
+     "w": "nowego",
+     "t": "nouveau"
+    },
+    {
+     "w": "kraju.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Maintenant"
+    },
+    {
+     "w": "uczę",
+     "t": "j'apprends"
+    },
+    {
+     "w": "się",
+     "t": "(moi-même)"
+    },
+    {
+     "w": "języka.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Bientôt, je travaillerai de nouveau dans mon métier.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Bientôt"
+    },
+    {
+     "w": "znów",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "będę",
+     "t": "je-serai"
+    },
+    {
+     "w": "pracował",
+     "t": "travaillant (je-travaillerai)"
+    },
+    {
+     "w": "w",
+     "t": "dans"
+    },
+    {
+     "w": "swoim",
+     "t": "mon-propre"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "métier."
+    }
+   ]
+  }
+ ]
+}

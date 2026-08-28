@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "nb",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "I mange år jobbet jeg i mitt yrke.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Lange"
+    },
+    {
+     "w": "leta",
+     "t": "år"
+    },
+    {
+     "w": "sem",
+     "t": "jeg-har"
+    },
+    {
+     "w": "delal",
+     "t": "jobbet"
+    },
+    {
+     "w": "v",
+     "t": "i"
+    },
+    {
+     "w": "svojem",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "poklicu.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Deretter kom jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Deretter"
+    },
+    {
+     "w": "sem",
+     "t": "jeg-har"
+    },
+    {
+     "w": "prišel",
+     "t": "kommet"
+    },
+    {
+     "w": "v",
+     "t": "til"
+    },
+    {
+     "w": "novo",
+     "t": "et-nytt"
+    },
+    {
+     "w": "državo.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Nå lærer jeg meg språket.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Nå"
+    },
+    {
+     "w": "se",
+     "t": "meg"
+    },
+    {
+     "w": "učim",
+     "t": "lærer"
+    },
+    {
+     "w": "jezika.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Snart skal jeg igjen jobbe i mitt yrke.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Snart"
+    },
+    {
+     "w": "bom",
+     "t": "skal-jeg"
+    },
+    {
+     "w": "spet",
+     "t": "igjen"
+    },
+    {
+     "w": "delal",
+     "t": "jobbe"
+    },
+    {
+     "w": "v",
+     "t": "i"
+    },
+    {
+     "w": "svojem",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "poklicu.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

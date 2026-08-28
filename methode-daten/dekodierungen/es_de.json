@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "de",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Ich-habe"
+    },
+    {
+     "w": "trabajado",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "muchos",
+     "t": "viele"
+    },
+    {
+     "w": "años",
+     "t": "Jahre"
+    },
+    {
+     "w": "en",
+     "t": "in"
+    },
+    {
+     "w": "mi",
+     "t": "meinem"
+    },
+    {
+     "w": "profesión.",
+     "t": "Beruf."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Danach bin ich in ein anderes Land umgezogen.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Danach"
+    },
+    {
+     "w": "me",
+     "t": "mich"
+    },
+    {
+     "w": "mudé",
+     "t": "zog-um"
+    },
+    {
+     "w": "a",
+     "t": "in"
+    },
+    {
+     "w": "otro",
+     "t": "ein-anderes"
+    },
+    {
+     "w": "país.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Jetzt"
+    },
+    {
+     "w": "estoy",
+     "t": "bin'ich"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "lernend"
+    },
+    {
+     "w": "el",
+     "t": "die"
+    },
+    {
+     "w": "idioma.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Bald"
+    },
+    {
+     "w": "volveré",
+     "t": "werde'ich-wieder"
+    },
+    {
+     "w": "a",
+     "t": "zu"
+    },
+    {
+     "w": "trabajar",
+     "t": "arbeiten"
+    },
+    {
+     "w": "en",
+     "t": "in"
+    },
+    {
+     "w": "mi",
+     "t": "meinem"
+    },
+    {
+     "w": "profesión.",
+     "t": "Beruf."
+    }
+   ]
+  }
+ ]
+}

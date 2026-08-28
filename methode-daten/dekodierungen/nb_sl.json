@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "sl",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Delal sem že mnogo let na svojem strokovnem področju.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Jaz"
+    },
+    {
+     "w": "har",
+     "t": "sem"
+    },
+    {
+     "w": "jobbet",
+     "t": "delal"
+    },
+    {
+     "w": "i",
+     "t": "v"
+    },
+    {
+     "w": "mange",
+     "t": "mnogo"
+    },
+    {
+     "w": "år",
+     "t": "let"
+    },
+    {
+     "w": "innen",
+     "t": "znotraj (na)"
+    },
+    {
+     "w": "mitt",
+     "t": "svojem"
+    },
+    {
+     "w": "fagområde.",
+     "t": "strokovnem-področju."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Potem sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Potem"
+    },
+    {
+     "w": "flyttet",
+     "t": "sem-se-preselil"
+    },
+    {
+     "w": "jeg",
+     "t": "jaz"
+    },
+    {
+     "w": "til",
+     "t": "v"
+    },
+    {
+     "w": "et",
+     "t": "eno"
+    },
+    {
+     "w": "nytt",
+     "t": "novo"
+    },
+    {
+     "w": "land.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Zdaj"
+    },
+    {
+     "w": "lærer",
+     "t": "se-učim"
+    },
+    {
+     "w": "jeg",
+     "t": "jaz"
+    },
+    {
+     "w": "språket.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Kmalu bom spet delal na svojem strokovnem področju.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Kmalu"
+    },
+    {
+     "w": "skal",
+     "t": "bom"
+    },
+    {
+     "w": "jeg",
+     "t": "jaz"
+    },
+    {
+     "w": "jobbe",
+     "t": "delal"
+    },
+    {
+     "w": "innen",
+     "t": "znotraj (na)"
+    },
+    {
+     "w": "mitt",
+     "t": "svojem"
+    },
+    {
+     "w": "fagområde",
+     "t": "strokovnem-področju"
+    },
+    {
+     "w": "igjen.",
+     "t": "spet."
+    }
+   ]
+  }
+ ]
+}

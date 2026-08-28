@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "tr",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Mesleğimde uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Çalıştım"
+    },
+    {
+     "w": "muitos",
+     "t": "çok"
+    },
+    {
+     "w": "anos",
+     "t": "yıl"
+    },
+    {
+     "w": "na",
+     "t": "-de"
+    },
+    {
+     "w": "minha",
+     "t": "benim"
+    },
+    {
+     "w": "profissão.",
+     "t": "mesleğim."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Sonra, yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Sonra,"
+    },
+    {
+     "w": "vim",
+     "t": "geldim"
+    },
+    {
+     "w": "para",
+     "t": "-e"
+    },
+    {
+     "w": "um",
+     "t": "bir"
+    },
+    {
+     "w": "novo",
+     "t": "yeni"
+    },
+    {
+     "w": "país.",
+     "t": "ülke."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Şimdi"
+    },
+    {
+     "w": "estou",
+     "t": "-iyorum"
+    },
+    {
+     "w": "a",
+     "t": "(fiil-öncesi-parça)"
+    },
+    {
+     "w": "aprender",
+     "t": "öğrenmekte"
+    },
+    {
+     "w": "a",
+     "t": "o (dil)"
+    },
+    {
+     "w": "língua.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Yakında mesleğimde çalışmaya geri döneceğim.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "(zaman-içinde)"
+    },
+    {
+     "w": "breve,",
+     "t": "yakında,"
+    },
+    {
+     "w": "voltarei",
+     "t": "geri-döneceğim"
+    },
+    {
+     "w": "a",
+     "t": "-meye"
+    },
+    {
+     "w": "trabalhar",
+     "t": "çalışmaya"
+    },
+    {
+     "w": "na",
+     "t": "-de"
+    },
+    {
+     "w": "minha",
+     "t": "benim"
+    },
+    {
+     "w": "profissão.",
+     "t": "mesleğim."
+    }
+   ]
+  }
+ ]
+}

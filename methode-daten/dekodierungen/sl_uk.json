@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "uk",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Довгі роки я працював у своїй професії.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Довгі"
+    },
+    {
+     "w": "leta",
+     "t": "роки"
+    },
+    {
+     "w": "sem",
+     "t": "я-(допоміжне)"
+    },
+    {
+     "w": "delal",
+     "t": "працював"
+    },
+    {
+     "w": "v",
+     "t": "у"
+    },
+    {
+     "w": "svojem",
+     "t": "своїй"
+    },
+    {
+     "w": "poklicu.",
+     "t": "професії."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Потім я приїхав у нову країну.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Потім"
+    },
+    {
+     "w": "sem",
+     "t": "я-(допоміжне)"
+    },
+    {
+     "w": "prišel",
+     "t": "приїхав"
+    },
+    {
+     "w": "v",
+     "t": "у"
+    },
+    {
+     "w": "novo",
+     "t": "нову"
+    },
+    {
+     "w": "državo.",
+     "t": "країну."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Тепер я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Тепер"
+    },
+    {
+     "w": "se",
+     "t": "себе-(зворотне)"
+    },
+    {
+     "w": "učim",
+     "t": "навчаю"
+    },
+    {
+     "w": "jezika.",
+     "t": "мови."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Скоро я знову буду працювати у своїй професії.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Скоро"
+    },
+    {
+     "w": "bom",
+     "t": "буду-(майбутнє)"
+    },
+    {
+     "w": "spet",
+     "t": "знову"
+    },
+    {
+     "w": "delal",
+     "t": "працювати"
+    },
+    {
+     "w": "v",
+     "t": "у"
+    },
+    {
+     "w": "svojem",
+     "t": "своїй"
+    },
+    {
+     "w": "poklicu.",
+     "t": "професії."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "it",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Ho esercitato la mia professione per molti anni.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Io'ho"
+    },
+    {
+     "w": "exercé",
+     "t": "esercitato"
+    },
+    {
+     "w": "mon",
+     "t": "il-mio"
+    },
+    {
+     "w": "métier",
+     "t": "lavoro"
+    },
+    {
+     "w": "pendant",
+     "t": "per"
+    },
+    {
+     "w": "de",
+     "t": "di"
+    },
+    {
+     "w": "nombreuses",
+     "t": "numerosi"
+    },
+    {
+     "w": "années.",
+     "t": "anni."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Poi sono arrivato in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Poi"
+    },
+    {
+     "w": "je",
+     "t": "io"
+    },
+    {
+     "w": "suis",
+     "t": "sono"
+    },
+    {
+     "w": "arrivé",
+     "t": "arrivato"
+    },
+    {
+     "w": "dans",
+     "t": "in"
+    },
+    {
+     "w": "un",
+     "t": "un"
+    },
+    {
+     "w": "nouveau",
+     "t": "nuovo"
+    },
+    {
+     "w": "pays.",
+     "t": "paese."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Adesso sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Adesso,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "io'imparo"
+    },
+    {
+     "w": "la",
+     "t": "la"
+    },
+    {
+     "w": "langue.",
+     "t": "lingua."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Presto riprenderò la mia professione.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Presto,"
+    },
+    {
+     "w": "je",
+     "t": "io"
+    },
+    {
+     "w": "reprendrai",
+     "t": "riprenderò"
+    },
+    {
+     "w": "mon",
+     "t": "il-mio"
+    },
+    {
+     "w": "métier.",
+     "t": "lavoro."
+    }
+   ]
+  }
+ ]
+}

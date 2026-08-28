@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "fi",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Työskentelin pitkiä vuosia omassa ammatissani.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Pitkiä"
+    },
+    {
+     "w": "leta",
+     "t": "vuosia"
+    },
+    {
+     "w": "sem",
+     "t": "olen"
+    },
+    {
+     "w": "delal",
+     "t": "tehnyt-työtä"
+    },
+    {
+     "w": "v",
+     "t": "omassa"
+    },
+    {
+     "w": "svojem",
+     "t": "omassa"
+    },
+    {
+     "w": "poklicu.",
+     "t": "ammatissa."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Sitten tulin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sitten"
+    },
+    {
+     "w": "sem",
+     "t": "olen"
+    },
+    {
+     "w": "prišel",
+     "t": "tullut"
+    },
+    {
+     "w": "v",
+     "t": "(prepositio: -an)"
+    },
+    {
+     "w": "novo",
+     "t": "uuteen"
+    },
+    {
+     "w": "državo.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Nyt"
+    },
+    {
+     "w": "se",
+     "t": "(refleksiivi: itse)"
+    },
+    {
+     "w": "učim",
+     "t": "opiskelen"
+    },
+    {
+     "w": "jezika.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Pian työskentelen taas omassa ammatissani.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Pian"
+    },
+    {
+     "w": "bom",
+     "t": "tulen"
+    },
+    {
+     "w": "spet",
+     "t": "taas"
+    },
+    {
+     "w": "delal",
+     "t": "tekemään-työtä"
+    },
+    {
+     "w": "v",
+     "t": "omassa"
+    },
+    {
+     "w": "svojem",
+     "t": "omassa"
+    },
+    {
+     "w": "poklicu.",
+     "t": "ammatissa."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "vi",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Tôi đã làm nghề của mình trong nhiều năm.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Tôi'đã"
+    },
+    {
+     "w": "exercé",
+     "t": "hành-nghề"
+    },
+    {
+     "w": "mon",
+     "t": "của-tôi"
+    },
+    {
+     "w": "métier",
+     "t": "nghề"
+    },
+    {
+     "w": "pendant",
+     "t": "trong"
+    },
+    {
+     "w": "de",
+     "t": "(từ)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "nhiều"
+    },
+    {
+     "w": "années.",
+     "t": "năm."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Sau đó tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "je",
+     "t": "tôi"
+    },
+    {
+     "w": "suis",
+     "t": "đã"
+    },
+    {
+     "w": "arrivé",
+     "t": "đến"
+    },
+    {
+     "w": "dans",
+     "t": "vào"
+    },
+    {
+     "w": "un",
+     "t": "một"
+    },
+    {
+     "w": "nouveau",
+     "t": "mới"
+    },
+    {
+     "w": "pays.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Bây giờ, tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Bây-giờ,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "tôi'học"
+    },
+    {
+     "w": "la",
+     "t": "(cái)"
+    },
+    {
+     "w": "langue.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Chẳng bao lâu nữa, tôi sẽ trở lại với nghề của mình.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Chẳng-bao-lâu-nữa,"
+    },
+    {
+     "w": "je",
+     "t": "tôi"
+    },
+    {
+     "w": "reprendrai",
+     "t": "sẽ-trở-lại-làm"
+    },
+    {
+     "w": "mon",
+     "t": "của-tôi"
+    },
+    {
+     "w": "métier.",
+     "t": "nghề."
+    }
+   ]
+  }
+ ]
+}

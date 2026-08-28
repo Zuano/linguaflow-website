@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "ja",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "私は自分の職業で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "私は"
+    },
+    {
+     "w": "har",
+     "t": "(過去分詞と共に完了形を作る助動詞)"
+    },
+    {
+     "w": "arbetat",
+     "t": "働いた"
+    },
+    {
+     "w": "många",
+     "t": "多くの"
+    },
+    {
+     "w": "år",
+     "t": "年"
+    },
+    {
+     "w": "inom",
+     "t": "の中で"
+    },
+    {
+     "w": "mitt",
+     "t": "私の"
+    },
+    {
+     "w": "yrke.",
+     "t": "職業で。"
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "それから私は新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "それから"
+    },
+    {
+     "w": "flyttade",
+     "t": "引っ越した"
+    },
+    {
+     "w": "jag",
+     "t": "私が"
+    },
+    {
+     "w": "till",
+     "t": "へ"
+    },
+    {
+     "w": "ett",
+     "t": "一つの"
+    },
+    {
+     "w": "nytt",
+     "t": "新しい"
+    },
+    {
+     "w": "land.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "今、私は言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "今"
+    },
+    {
+     "w": "lär",
+     "t": "学んで"
+    },
+    {
+     "w": "jag",
+     "t": "私は"
+    },
+    {
+     "w": "mig",
+     "t": "自分に"
+    },
+    {
+     "w": "språket.",
+     "t": "その言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "もうすぐ私は再び自分の職業で働き始めます。",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "ska",
+     "t": "(未来を表す助動詞)"
+    },
+    {
+     "w": "jag",
+     "t": "私は"
+    },
+    {
+     "w": "börja",
+     "t": "始める"
+    },
+    {
+     "w": "arbeta",
+     "t": "働くことを"
+    },
+    {
+     "w": "inom",
+     "t": "の中で"
+    },
+    {
+     "w": "mitt",
+     "t": "私の"
+    },
+    {
+     "w": "yrke",
+     "t": "職業で"
+    },
+    {
+     "w": "igen.",
+     "t": "再び。"
+    }
+   ]
+  }
+ ]
+}

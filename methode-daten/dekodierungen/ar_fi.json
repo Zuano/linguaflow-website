@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "fi",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Olen työskennellyt ammatissani monta vuotta.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "todella (menneisyyden korostus)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "työskentelin",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "-ssa",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "ammatissani",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "vuosia",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "monia.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "sitten",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "muutin",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "-lle (kohti)",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "maa",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "uusi.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Ja nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "ja'nyt",
+     "r": "wa-al-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "opiskelen",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "kielen.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Ja palaan pian työhön ammatissani.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "ja'palaan",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "pian",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "-lle (kohti)",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "työ",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "-ssa",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "ammatissani.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

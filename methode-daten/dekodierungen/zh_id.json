@@ -1,0 +1,222 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "id",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Saya telah bekerja di bidang keahlian saya sendiri selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "saya",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "di",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "milik-sendiri",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "keahlian",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "bidang",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "bekerja",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(sudah)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "banyak",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年",
+     "t": "tahun",
+     "r": "nián"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Kemudian, saya tiba di sebuah tanah baru.",
+   "pairs": [
+    {
+     "w": "后来",
+     "t": "kemudian",
+     "r": "hòulái"
+    },
+    {
+     "w": "，",
+     "t": "，",
+     "r": "，"
+    },
+    {
+     "w": "我",
+     "t": "saya",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "tiba-di",
+     "r": "lái dào"
+    },
+    {
+     "w": "了",
+     "t": "(sudah)",
+     "r": "le"
+    },
+    {
+     "w": "一片",
+     "t": "sebuah (area)",
+     "r": "yī piàn"
+    },
+    {
+     "w": "新的",
+     "t": "baru",
+     "r": "xīn de"
+    },
+    {
+     "w": "土地",
+     "t": "tanah",
+     "r": "tǔdì"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Sekarang saya sedang belajar bahasa lokal.",
+   "pairs": [
+    {
+     "w": "现在",
+     "t": "sekarang",
+     "r": "xiànzài"
+    },
+    {
+     "w": "，",
+     "t": "，",
+     "r": "，"
+    },
+    {
+     "w": "我",
+     "t": "saya",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "sedang",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "belajar",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地",
+     "t": "setempat",
+     "r": "dāngdì"
+    },
+    {
+     "w": "的",
+     "t": "(penanda-milik)",
+     "r": "de"
+    },
+    {
+     "w": "语言",
+     "t": "bahasa",
+     "r": "yǔyán"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Segera, saya akan kembali bekerja di bidang keahlian saya sendiri.",
+   "pairs": [
+    {
+     "w": "很快",
+     "t": "segera",
+     "r": "hěnkuài"
+    },
+    {
+     "w": "，",
+     "t": "，",
+     "r": "，"
+    },
+    {
+     "w": "我",
+     "t": "saya",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "akan",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "kembali-ke",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "milik-sendiri",
+     "r": "zìjǐ de"
+    },
+    {
+     "w": "专业",
+     "t": "keahlian",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "bidang",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "bekerja",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "。",
+     "t": "。",
+     "r": "。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "nb",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Jeg har jobbet lenge innenfor mitt yrke.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "jeg-(emnemarkør)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "lenge",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "mitt",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "i-yrket",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "jobbet",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "har-kommet-og.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Så kom jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "så-en-dag",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "nytt",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "til-land",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "kom.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Nå lærer jeg det landets språk.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "nå-(emnemarkør)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "det",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "landets",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "språk-(objekt)",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "lærer-og",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "holder-på-med.",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Snart skal jeg jobbe i mitt yrke igjen.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "snart",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "igjen",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "mitt",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "til-yrket",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "komme-til-å-jobbe",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "bli-(fremtid)",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "det-vil-skje.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

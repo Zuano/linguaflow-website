@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "zh",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "多年来我一直在从事自己的专业工作。",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "经过(在...期间)"
+    },
+    {
+     "w": "wiele",
+     "t": "很多"
+    },
+    {
+     "w": "lat",
+     "t": "年"
+    },
+    {
+     "w": "pracowałem",
+     "t": "我工作(过,男性)"
+    },
+    {
+     "w": "w",
+     "t": "在"
+    },
+    {
+     "w": "swoim",
+     "t": "自己的"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "职业(领域)里。"
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "后来我来到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "然后"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "我来到(乘车,男性)"
+    },
+    {
+     "w": "do",
+     "t": "到"
+    },
+    {
+     "w": "nowego",
+     "t": "新的"
+    },
+    {
+     "w": "kraju.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "现在我在学习语言。",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "现在"
+    },
+    {
+     "w": "uczę",
+     "t": "我学"
+    },
+    {
+     "w": "się",
+     "t": "自己(反身)"
+    },
+    {
+     "w": "języka.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "很快我将再次从事自己的专业工作。",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "很快"
+    },
+    {
+     "w": "znów",
+     "t": "再次"
+    },
+    {
+     "w": "będę",
+     "t": "我将会"
+    },
+    {
+     "w": "pracował",
+     "t": "工作(男性,将来)"
+    },
+    {
+     "w": "w",
+     "t": "在"
+    },
+    {
+     "w": "swoim",
+     "t": "自己的"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "职业(领域)里。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "hu",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Sok évig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "(Én)-vagyok"
+    },
+    {
+     "w": "trabajado",
+     "t": "dolgozott (dolgoztam)"
+    },
+    {
+     "w": "muchos",
+     "t": "sok"
+    },
+    {
+     "w": "años",
+     "t": "évig"
+    },
+    {
+     "w": "en",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mi",
+     "t": "az-én"
+    },
+    {
+     "w": "profesión.",
+     "t": "szakmám."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Aztán elköltöztem egy másik országba.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Aztán"
+    },
+    {
+     "w": "me",
+     "t": "magam-at (visszaható)"
+    },
+    {
+     "w": "mudé",
+     "t": "elköltöztem"
+    },
+    {
+     "w": "a",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "otro",
+     "t": "másik"
+    },
+    {
+     "w": "país.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Most"
+    },
+    {
+     "w": "estoy",
+     "t": "vagyok"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "tanulva (tanulom)"
+    },
+    {
+     "w": "el",
+     "t": "a"
+    },
+    {
+     "w": "idioma.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Hamarosan visszatérek dolgozni a szakmámban.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "volveré",
+     "t": "visszatérek-majd"
+    },
+    {
+     "w": "a",
+     "t": "-ni (hogy)"
+    },
+    {
+     "w": "trabajar",
+     "t": "dolgozni"
+    },
+    {
+     "w": "en",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mi",
+     "t": "az-én"
+    },
+    {
+     "w": "profesión.",
+     "t": "szakmám."
+    }
+   ]
+  }
+ ]
+}

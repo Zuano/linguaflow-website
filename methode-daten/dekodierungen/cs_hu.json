@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "hu",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "A szakmámban sok évig dolgoztam.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "A"
+    },
+    {
+     "w": "svém",
+     "t": "saját"
+    },
+    {
+     "w": "oboru",
+     "t": "szakmámban"
+    },
+    {
+     "w": "jsem",
+     "t": "(én)"
+    },
+    {
+     "w": "pracoval",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "mnoho",
+     "t": "sok"
+    },
+    {
+     "w": "let.",
+     "t": "évig."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Aztán"
+    },
+    {
+     "w": "jsem",
+     "t": "(én)"
+    },
+    {
+     "w": "se",
+     "t": "(visszaható)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "elköltöztem"
+    },
+    {
+     "w": "do",
+     "t": "-ba"
+    },
+    {
+     "w": "nové",
+     "t": "új"
+    },
+    {
+     "w": "země.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Most"
+    },
+    {
+     "w": "se",
+     "t": "(visszaható)"
+    },
+    {
+     "w": "učím",
+     "t": "tanulom"
+    },
+    {
+     "w": "jazyk.",
+     "t": "a-nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Hamarosan újra dolgozni fogok a szakmámban.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "budu",
+     "t": "fogok"
+    },
+    {
+     "w": "zase",
+     "t": "újra"
+    },
+    {
+     "w": "pracovat",
+     "t": "dolgozni"
+    },
+    {
+     "w": "ve",
+     "t": "a"
+    },
+    {
+     "w": "svém",
+     "t": "saját"
+    },
+    {
+     "w": "oboru.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

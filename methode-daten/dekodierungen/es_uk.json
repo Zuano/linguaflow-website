@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "uk",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Я багато років працював у своїй професії.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Я-маю (допоміжне-дієслово)"
+    },
+    {
+     "w": "trabajado",
+     "t": "попрацьовано"
+    },
+    {
+     "w": "muchos",
+     "t": "багато"
+    },
+    {
+     "w": "años",
+     "t": "років"
+    },
+    {
+     "w": "en",
+     "t": "у"
+    },
+    {
+     "w": "mi",
+     "t": "моїй"
+    },
+    {
+     "w": "profesión.",
+     "t": "професії."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Потім я переїхав до іншої країни.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Потім"
+    },
+    {
+     "w": "me",
+     "t": "я-собі (зворотне)"
+    },
+    {
+     "w": "mudé",
+     "t": "переїхав"
+    },
+    {
+     "w": "a",
+     "t": "до"
+    },
+    {
+     "w": "otro",
+     "t": "іншої"
+    },
+    {
+     "w": "país.",
+     "t": "країни."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Тепер я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Тепер"
+    },
+    {
+     "w": "estoy",
+     "t": "я-є"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "вивчаючи"
+    },
+    {
+     "w": "el",
+     "t": "цю"
+    },
+    {
+     "w": "idioma.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Скоро я знову почну працювати у своїй професії.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Скоро"
+    },
+    {
+     "w": "volveré",
+     "t": "я-знову-почну"
+    },
+    {
+     "w": "a",
+     "t": "(частка-перед-дієсловом)"
+    },
+    {
+     "w": "trabajar",
+     "t": "працювати"
+    },
+    {
+     "w": "en",
+     "t": "у"
+    },
+    {
+     "w": "mi",
+     "t": "моїй"
+    },
+    {
+     "w": "profesión.",
+     "t": "професії."
+    }
+   ]
+  }
+ ]
+}

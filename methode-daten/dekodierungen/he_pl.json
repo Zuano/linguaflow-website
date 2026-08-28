@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "pl",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Pracowałem wiele lat w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "pracowałem",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "lat",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "wiele",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "w-zawodzie",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "moim.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "po",
+     "r": "le'akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "tym",
+     "r": "mikán"
+    },
+    {
+     "w": "הגעתי",
+     "t": "przyjechałem",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "do-kraju",
+     "r": "le-medinál"
+    },
+    {
+     "w": "חדשה.",
+     "t": "nowego.",
+     "r": "khadashá."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "teraz",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "ja",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "uczę-się",
+     "r": "lomed"
+    },
+    {
+     "w": "את",
+     "t": "(znacznik-dopełnienia)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "języka.",
+     "r": "ha-safá."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Wkrótce wrócę do pracy w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "wkrótce",
+     "r": "bekaróv"
+    },
+    {
+     "w": "אחזור",
+     "t": "wrócę",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "pracować",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "w-zawodzie",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "moim.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

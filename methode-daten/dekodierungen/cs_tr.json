@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "tr",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Kendi alanımda çok yıl çalıştım.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "içinde (-de)"
+    },
+    {
+     "w": "svém",
+     "t": "kendi"
+    },
+    {
+     "w": "oboru",
+     "t": "alanımda"
+    },
+    {
+     "w": "jsem",
+     "t": "(ben) -dim (yardımcı fiil)"
+    },
+    {
+     "w": "pracoval",
+     "t": "çalıştım"
+    },
+    {
+     "w": "mnoho",
+     "t": "çok"
+    },
+    {
+     "w": "let.",
+     "t": "yıl."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "sonra"
+    },
+    {
+     "w": "jsem",
+     "t": "-dim (yardımcı fiil)"
+    },
+    {
+     "w": "se",
+     "t": "kendimi (dönüşlü)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "taşındım"
+    },
+    {
+     "w": "do",
+     "t": "-e"
+    },
+    {
+     "w": "nové",
+     "t": "yeni"
+    },
+    {
+     "w": "země.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "şimdi"
+    },
+    {
+     "w": "se",
+     "t": "kendimi (dönüşlü)"
+    },
+    {
+     "w": "učím",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "jazyk.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Yakında kendi alanımda tekrar çalışacağım.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "yakında"
+    },
+    {
+     "w": "budu",
+     "t": "(ben) -acağım (yardımcı fiil)"
+    },
+    {
+     "w": "zase",
+     "t": "tekrar"
+    },
+    {
+     "w": "pracovat",
+     "t": "çalışmak"
+    },
+    {
+     "w": "ve",
+     "t": "içinde (-de)"
+    },
+    {
+     "w": "svém",
+     "t": "kendi"
+    },
+    {
+     "w": "oboru.",
+     "t": "alanımda."
+    }
+   ]
+  }
+ ]
+}

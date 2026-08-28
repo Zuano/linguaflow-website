@@ -1,0 +1,247 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "fi",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Olen työskennellyt ammatissani usean vuoden ajan.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "minä",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "työskentelen",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "(sisällä)",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "haara",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "ammatti",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "(omistusmuoto)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "minun",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(mennyt-aika)",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "monta",
+     "r": "lhai"
+    },
+    {
+     "w": "ปี",
+     "t": "vuotta",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "jo.",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "jälkeen",
+     "r": "lang"
+    },
+    {
+     "w": "จาก",
+     "t": "(rakenne)",
+     "r": "chak"
+    },
+    {
+     "w": "นั้น",
+     "t": "sitä",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "minä",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "muutin",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "(suunta)",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "asua",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "maa",
+     "r": "prathes"
+    },
+    {
+     "w": "ใหม่",
+     "t": "uusi.",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "ตอน",
+     "t": "aika",
+     "r": "tohn"
+    },
+    {
+     "w": "นี้",
+     "t": "tämä",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "minä",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(parhaillaan)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "opiskelen",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "kieli",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(parhaillaan).",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Ja pian palaan takaisin ammattiini.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "ja",
+     "r": "ae"
+    },
+    {
+     "w": "เร็ว",
+     "t": "nopea",
+     "r": "rew"
+    },
+    {
+     "w": "ๆ",
+     "t": "(toisto)",
+     "r": "(repetition-marker)"
+    },
+    {
+     "w": "นี้",
+     "t": "tämä",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "minä",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(tulevaisuus)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "palata",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(paluu)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "työskennellä",
+     "r": "thamngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "(sisällä)",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "haara",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "ammatti",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "(omistusmuoto)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "minun",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "uusi/uudelleen",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "kerta.",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

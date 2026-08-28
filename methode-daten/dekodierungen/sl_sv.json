@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "sv",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Jag arbetade i mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Långa"
+    },
+    {
+     "w": "leta",
+     "t": "år"
+    },
+    {
+     "w": "sem",
+     "t": "har-jag (jag)"
+    },
+    {
+     "w": "delal",
+     "t": "arbetat"
+    },
+    {
+     "w": "v",
+     "t": "i"
+    },
+    {
+     "w": "svojem",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "poklicu.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sedan"
+    },
+    {
+     "w": "sem",
+     "t": "har-jag (jag)"
+    },
+    {
+     "w": "prišel",
+     "t": "kommit"
+    },
+    {
+     "w": "v",
+     "t": "till"
+    },
+    {
+     "w": "novo",
+     "t": "nytt"
+    },
+    {
+     "w": "državo.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Nu"
+    },
+    {
+     "w": "se",
+     "t": "mig (reflexiv)"
+    },
+    {
+     "w": "učim",
+     "t": "lär"
+    },
+    {
+     "w": "jezika.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Snart kommer jag att arbeta i mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Snart"
+    },
+    {
+     "w": "bom",
+     "t": "kommer-jag-att"
+    },
+    {
+     "w": "spet",
+     "t": "igen"
+    },
+    {
+     "w": "delal",
+     "t": "arbeta"
+    },
+    {
+     "w": "v",
+     "t": "i"
+    },
+    {
+     "w": "svojem",
+     "t": "mitt-eget"
+    },
+    {
+     "w": "poklicu.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

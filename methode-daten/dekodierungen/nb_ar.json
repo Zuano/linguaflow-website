@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "ar",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "لقد عملت لسنوات عديدة في مجال تخصصي.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "har",
+     "t": "قد (فعل مساعد)"
+    },
+    {
+     "w": "jobbet",
+     "t": "عملتُ"
+    },
+    {
+     "w": "i",
+     "t": "في"
+    },
+    {
+     "w": "mange",
+     "t": "عديدة"
+    },
+    {
+     "w": "år",
+     "t": "سنوات"
+    },
+    {
+     "w": "innen",
+     "t": "ضمن"
+    },
+    {
+     "w": "mitt",
+     "t": "مجال-تخصصي (ملكي)"
+    },
+    {
+     "w": "fagområde.",
+     "t": "مجال-التخصص."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "ثم"
+    },
+    {
+     "w": "flyttet",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "til",
+     "t": "إلى"
+    },
+    {
+     "w": "et",
+     "t": "(أداة-تنكير)"
+    },
+    {
+     "w": "nytt",
+     "t": "جديد"
+    },
+    {
+     "w": "land.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "الآن"
+    },
+    {
+     "w": "lærer",
+     "t": "أتعلم"
+    },
+    {
+     "w": "jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "språket.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "قريبًا سأعمل في مجال تخصصي مرة أخرى.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "قريبًا"
+    },
+    {
+     "w": "skal",
+     "t": "سوف (فعل مساعد)"
+    },
+    {
+     "w": "jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "jobbe",
+     "t": "أعمل"
+    },
+    {
+     "w": "innen",
+     "t": "ضمن"
+    },
+    {
+     "w": "mitt",
+     "t": "مجال-تخصصي (ملكي)"
+    },
+    {
+     "w": "fagområde",
+     "t": "مجال-التخصص"
+    },
+    {
+     "w": "igjen.",
+     "t": "مرة-أخرى."
+    }
+   ]
+  }
+ ]
+}

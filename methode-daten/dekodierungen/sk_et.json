@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "et",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Oma"
+    },
+    {
+     "w": "mojom",
+     "t": "minu"
+    },
+    {
+     "w": "odbore",
+     "t": "erialal"
+    },
+    {
+     "w": "som",
+     "t": "olen"
+    },
+    {
+     "w": "pracoval",
+     "t": "töötanud"
+    },
+    {
+     "w": "mnoho",
+     "t": "palju"
+    },
+    {
+     "w": "rokov.",
+     "t": "aastaid."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Seejärel saabusin uude riiki.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Siis"
+    },
+    {
+     "w": "som",
+     "t": "olen"
+    },
+    {
+     "w": "prišiel",
+     "t": "tulnud"
+    },
+    {
+     "w": "do",
+     "t": "sisse"
+    },
+    {
+     "w": "novej",
+     "t": "uue"
+    },
+    {
+     "w": "krajiny.",
+     "t": "riigi."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nüüd"
+    },
+    {
+     "w": "sa",
+     "t": "(enda kohta)"
+    },
+    {
+     "w": "učím",
+     "t": "õpin"
+    },
+    {
+     "w": "jazyk.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Peagi hakkan taas töötama oma erialal.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Peagi"
+    },
+    {
+     "w": "budem",
+     "t": "hakkan"
+    },
+    {
+     "w": "opäť",
+     "t": "jälle"
+    },
+    {
+     "w": "pracovať",
+     "t": "töötama"
+    },
+    {
+     "w": "vo",
+     "t": "oma"
+    },
+    {
+     "w": "svojom",
+     "t": "enda"
+    },
+    {
+     "w": "odbore.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

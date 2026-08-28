@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "th",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "ฉันทำงานในสายงานของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "ฉัน"
+    },
+    {
+     "w": "telah",
+     "t": "ได้ (แล้ว)"
+    },
+    {
+     "w": "bekerja",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "di",
+     "t": "ใน"
+    },
+    {
+     "w": "bidang",
+     "t": "สายงาน"
+    },
+    {
+     "w": "saya",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "selama",
+     "t": "เป็นเวลา"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "หลายปี"
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "จากนั้นฉันย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "saya",
+     "t": "ฉัน"
+    },
+    {
+     "w": "pindah",
+     "t": "ย้าย"
+    },
+    {
+     "w": "ke",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "negara",
+     "t": "ประเทศ"
+    },
+    {
+     "w": "baru.",
+     "t": "ใหม่"
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษาของประเทศนั้นอยู่",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "saya",
+     "t": "ฉัน"
+    },
+    {
+     "w": "sedang",
+     "t": "กำลัง"
+    },
+    {
+     "w": "belajar",
+     "t": "เรียน"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "ภาษาของมัน"
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "อีกไม่นานฉันจะกลับไปทำงานในสายงานของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "อีกสักครู่"
+    },
+    {
+     "w": "lagi",
+     "t": "อีก"
+    },
+    {
+     "w": "saya",
+     "t": "ฉัน"
+    },
+    {
+     "w": "akan",
+     "t": "จะ"
+    },
+    {
+     "w": "kembali",
+     "t": "กลับ"
+    },
+    {
+     "w": "bekerja",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "di",
+     "t": "ใน"
+    },
+    {
+     "w": "bidang",
+     "t": "สายงาน"
+    },
+    {
+     "w": "saya.",
+     "t": "ของฉัน"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "vi",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Tôi đã làm việc nhiều năm trong nghề nghiệp của mình.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Tôi-đã"
+    },
+    {
+     "w": "trabajado",
+     "t": "làm-việc"
+    },
+    {
+     "w": "muchos",
+     "t": "nhiều"
+    },
+    {
+     "w": "años",
+     "t": "năm"
+    },
+    {
+     "w": "en",
+     "t": "trong"
+    },
+    {
+     "w": "mi",
+     "t": "của-tôi"
+    },
+    {
+     "w": "profesión.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Sau đó tôi chuyển đến một đất nước khác.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "me",
+     "t": "tôi (bản-thân)"
+    },
+    {
+     "w": "mudé",
+     "t": "đã-chuyển"
+    },
+    {
+     "w": "a",
+     "t": "đến"
+    },
+    {
+     "w": "otro",
+     "t": "khác"
+    },
+    {
+     "w": "país.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "estoy",
+     "t": "tôi-đang"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "học"
+    },
+    {
+     "w": "el",
+     "t": "(cái)"
+    },
+    {
+     "w": "idioma.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Sớm thôi tôi sẽ trở lại làm việc trong nghề nghiệp của mình.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Sớm-thôi"
+    },
+    {
+     "w": "volveré",
+     "t": "tôi-sẽ-trở-lại"
+    },
+    {
+     "w": "a",
+     "t": "để"
+    },
+    {
+     "w": "trabajar",
+     "t": "làm-việc"
+    },
+    {
+     "w": "en",
+     "t": "trong"
+    },
+    {
+     "w": "mi",
+     "t": "của-tôi"
+    },
+    {
+     "w": "profesión.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  }
+ ]
+}

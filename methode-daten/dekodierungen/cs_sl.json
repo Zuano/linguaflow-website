@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "sl",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "V svoji stroki sem delal mnogo let.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "V"
+    },
+    {
+     "w": "svém",
+     "t": "svoji"
+    },
+    {
+     "w": "oboru",
+     "t": "stroki"
+    },
+    {
+     "w": "jsem",
+     "t": "sem"
+    },
+    {
+     "w": "pracoval",
+     "t": "delal"
+    },
+    {
+     "w": "mnoho",
+     "t": "mnogo"
+    },
+    {
+     "w": "let.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Potem sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Potem"
+    },
+    {
+     "w": "jsem",
+     "t": "sem"
+    },
+    {
+     "w": "se",
+     "t": "se"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "preselil"
+    },
+    {
+     "w": "do",
+     "t": "v"
+    },
+    {
+     "w": "nové",
+     "t": "novo"
+    },
+    {
+     "w": "země.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Zdaj se učim jezik.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Zdaj"
+    },
+    {
+     "w": "se",
+     "t": "se"
+    },
+    {
+     "w": "učím",
+     "t": "učim"
+    },
+    {
+     "w": "jazyk.",
+     "t": "jezik."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Kmalu bom spet delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Kmalu"
+    },
+    {
+     "w": "budu",
+     "t": "bom"
+    },
+    {
+     "w": "zase",
+     "t": "spet"
+    },
+    {
+     "w": "pracovat",
+     "t": "delal"
+    },
+    {
+     "w": "ve",
+     "t": "v"
+    },
+    {
+     "w": "svém",
+     "t": "svoji"
+    },
+    {
+     "w": "oboru.",
+     "t": "stroki."
+    }
+   ]
+  }
+ ]
+}

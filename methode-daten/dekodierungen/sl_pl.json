@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "pl",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Długie"
+    },
+    {
+     "w": "leta",
+     "t": "lata"
+    },
+    {
+     "w": "sem",
+     "t": "(ja)-jestem"
+    },
+    {
+     "w": "delal",
+     "t": "pracował"
+    },
+    {
+     "w": "v",
+     "t": "w"
+    },
+    {
+     "w": "svojem",
+     "t": "swoim"
+    },
+    {
+     "w": "poklicu.",
+     "t": "zawodzie."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Potem"
+    },
+    {
+     "w": "sem",
+     "t": "(ja)-jestem"
+    },
+    {
+     "w": "prišel",
+     "t": "przyjechał"
+    },
+    {
+     "w": "v",
+     "t": "do"
+    },
+    {
+     "w": "novo",
+     "t": "nowego"
+    },
+    {
+     "w": "državo.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Teraz"
+    },
+    {
+     "w": "se",
+     "t": "się"
+    },
+    {
+     "w": "učim",
+     "t": "uczę"
+    },
+    {
+     "w": "jezika.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Wkrótce znowu będę pracował w swoim zawodzie.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "bom",
+     "t": "będę"
+    },
+    {
+     "w": "spet",
+     "t": "znowu"
+    },
+    {
+     "w": "delal",
+     "t": "pracował"
+    },
+    {
+     "w": "v",
+     "t": "w"
+    },
+    {
+     "w": "svojem",
+     "t": "swoim"
+    },
+    {
+     "w": "poklicu.",
+     "t": "zawodzie."
+    }
+   ]
+  }
+ ]
+}

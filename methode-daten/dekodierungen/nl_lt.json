@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "lt",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Aš dirbau savo srityje daugelį metų.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Aš"
+    },
+    {
+     "w": "heb",
+     "t": "esu"
+    },
+    {
+     "w": "vele",
+     "t": "daug"
+    },
+    {
+     "w": "jaren",
+     "t": "metų"
+    },
+    {
+     "w": "in",
+     "t": "savo"
+    },
+    {
+     "w": "mijn",
+     "t": "(priklauso)"
+    },
+    {
+     "w": "vak",
+     "t": "srityje"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "dirbęs."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Po to aš atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Po-to"
+    },
+    {
+     "w": "ben",
+     "t": "esu"
+    },
+    {
+     "w": "ik",
+     "t": "aš"
+    },
+    {
+     "w": "naar",
+     "t": "į"
+    },
+    {
+     "w": "een",
+     "t": "vieną"
+    },
+    {
+     "w": "nieuw",
+     "t": "naują"
+    },
+    {
+     "w": "land",
+     "t": "šalį"
+    },
+    {
+     "w": "gekomen.",
+     "t": "atvykęs."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Dabar"
+    },
+    {
+     "w": "leer",
+     "t": "mokausi"
+    },
+    {
+     "w": "ik",
+     "t": "aš"
+    },
+    {
+     "w": "de",
+     "t": "tos"
+    },
+    {
+     "w": "taal.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Netrukus aš vėl dirbsiu savo srityje.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Netrukus"
+    },
+    {
+     "w": "ga",
+     "t": "eisiu"
+    },
+    {
+     "w": "ik",
+     "t": "aš"
+    },
+    {
+     "w": "weer",
+     "t": "vėl"
+    },
+    {
+     "w": "in",
+     "t": "savo"
+    },
+    {
+     "w": "mijn",
+     "t": "(priklauso)"
+    },
+    {
+     "w": "vak",
+     "t": "srityje"
+    },
+    {
+     "w": "werken.",
+     "t": "dirbti."
+    }
+   ]
+  }
+ ]
+}

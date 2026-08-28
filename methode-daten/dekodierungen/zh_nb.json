@@ -1,0 +1,227 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "nb",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Jeg har arbeidet i mitt eget fagfelt i mange år.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "jeg",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "i",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "sitt-eget",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "fag",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "område",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "arbeidet",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(fullforming)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "mange",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年",
+     "t": "år",
+     "r": "nián"
+    },
+    {
+     "w": "。",
+     "t": ".",
+     "r": "."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Senere kom jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "后来",
+     "t": "senere",
+     "r": "hòulái"
+    },
+    {
+     "w": "，",
+     "t": ",",
+     "r": ","
+    },
+    {
+     "w": "我",
+     "t": "jeg",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "kom-til",
+     "r": "lái-dào"
+    },
+    {
+     "w": "了",
+     "t": "(fullforming)",
+     "r": "le"
+    },
+    {
+     "w": "一",
+     "t": "en",
+     "r": "yī"
+    },
+    {
+     "w": "片",
+     "t": "(måleord)",
+     "r": "piàn"
+    },
+    {
+     "w": "新的",
+     "t": "ny",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地",
+     "t": "land",
+     "r": "tǔdì"
+    },
+    {
+     "w": "。",
+     "t": ".",
+     "r": "."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Nå lærer jeg det lokale språket.",
+   "pairs": [
+    {
+     "w": "现在",
+     "t": "nå",
+     "r": "xiànzài"
+    },
+    {
+     "w": "，",
+     "t": ",",
+     "r": ","
+    },
+    {
+     "w": "我",
+     "t": "jeg",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "holder-på-med-å",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "lære",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地",
+     "t": "lokalt",
+     "r": "dāngdì"
+    },
+    {
+     "w": "的",
+     "t": "(eiendomsord)",
+     "r": "de"
+    },
+    {
+     "w": "语言",
+     "t": "språk",
+     "r": "yǔyán"
+    },
+    {
+     "w": "。",
+     "t": ".",
+     "r": "."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Snart skal jeg gå tilbake til mitt fagfelt.",
+   "pairs": [
+    {
+     "w": "很快",
+     "t": "snart",
+     "r": "hěnkuài"
+    },
+    {
+     "w": "，",
+     "t": ",",
+     "r": ","
+    },
+    {
+     "w": "我",
+     "t": "jeg",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "skal",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "gå-tilbake-til",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "sitt-eget",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "fag",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "område",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "arbeid",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "。",
+     "t": ".",
+     "r": "."
+    }
+   ]
+  }
+ ]
+}

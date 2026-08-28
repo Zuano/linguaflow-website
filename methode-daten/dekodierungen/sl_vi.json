@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "vi",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Tôi đã làm việc trong nghề của mình suốt nhiều năm dài.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Dài"
+    },
+    {
+     "w": "leta",
+     "t": "những-năm"
+    },
+    {
+     "w": "sem",
+     "t": "tôi-đã"
+    },
+    {
+     "w": "delal",
+     "t": "làm-việc"
+    },
+    {
+     "w": "v",
+     "t": "trong"
+    },
+    {
+     "w": "svojem",
+     "t": "của-mình"
+    },
+    {
+     "w": "poklicu.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Sau đó tôi đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "sem",
+     "t": "tôi-đã"
+    },
+    {
+     "w": "prišel",
+     "t": "đến"
+    },
+    {
+     "w": "v",
+     "t": "vào"
+    },
+    {
+     "w": "novo",
+     "t": "mới"
+    },
+    {
+     "w": "državo.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "se",
+     "t": "(từ-phản-thân)"
+    },
+    {
+     "w": "učim",
+     "t": "tôi-học"
+    },
+    {
+     "w": "jezika.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "bom",
+     "t": "tôi-sẽ"
+    },
+    {
+     "w": "spet",
+     "t": "lại"
+    },
+    {
+     "w": "delal",
+     "t": "làm-việc"
+    },
+    {
+     "w": "v",
+     "t": "trong"
+    },
+    {
+     "w": "svojem",
+     "t": "của-mình"
+    },
+    {
+     "w": "poklicu.",
+     "t": "nghề-nghiệp."
+    }
+   ]
+  }
+ ]
+}

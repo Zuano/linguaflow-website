@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "nl",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Ik heb veel jaren in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Ik-heb"
+    },
+    {
+     "w": "daudzus",
+     "t": "veel"
+    },
+    {
+     "w": "gadus",
+     "t": "jaren"
+    },
+    {
+     "w": "strādājis",
+     "t": "gewerkt"
+    },
+    {
+     "w": "savā",
+     "t": "in-mijn (eigen)"
+    },
+    {
+     "w": "profesijā.",
+     "t": "vakgebied."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Daarna verhuisde ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "Na"
+    },
+    {
+     "w": "tam",
+     "t": "dat"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "verhuisde-ik"
+    },
+    {
+     "w": "uz",
+     "t": "naar"
+    },
+    {
+     "w": "jaunu",
+     "t": "nieuw"
+    },
+    {
+     "w": "valsti.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Nu"
+    },
+    {
+     "w": "apgūstu",
+     "t": "leer-ik"
+    },
+    {
+     "w": "valodu.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Binnenkort zal ik weer in mijn vakgebied werken.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "atkal",
+     "t": "weer"
+    },
+    {
+     "w": "strādāšu",
+     "t": "zal-ik-werken"
+    },
+    {
+     "w": "savā",
+     "t": "in-mijn (eigen)"
+    },
+    {
+     "w": "profesijā.",
+     "t": "vakgebied."
+    }
+   ]
+  }
+ ]
+}

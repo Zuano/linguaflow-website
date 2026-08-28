@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "sl",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Delal sem mnogo let v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "sem"
+    },
+    {
+     "w": "lucrat",
+     "t": "delal"
+    },
+    {
+     "w": "mulți",
+     "t": "mnogo"
+    },
+    {
+     "w": "ani",
+     "t": "let"
+    },
+    {
+     "w": "în",
+     "t": "v"
+    },
+    {
+     "w": "meseria",
+     "t": "poklicu"
+    },
+    {
+     "w": "mea.",
+     "t": "mojem."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Potem sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "potem"
+    },
+    {
+     "w": "m-am",
+     "t": "sem'se"
+    },
+    {
+     "w": "mutat",
+     "t": "preselil"
+    },
+    {
+     "w": "într-o",
+     "t": "v-eno"
+    },
+    {
+     "w": "țară",
+     "t": "državo"
+    },
+    {
+     "w": "nouă.",
+     "t": "novo."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "zdaj"
+    },
+    {
+     "w": "învăț",
+     "t": "se-učim"
+    },
+    {
+     "w": "limba.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Kmalu bom spet delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "v"
+    },
+    {
+     "w": "curând",
+     "t": "kratkem"
+    },
+    {
+     "w": "voi",
+     "t": "bom"
+    },
+    {
+     "w": "lucra",
+     "t": "delal"
+    },
+    {
+     "w": "din",
+     "t": "(del-izraza)"
+    },
+    {
+     "w": "nou",
+     "t": "spet"
+    },
+    {
+     "w": "în",
+     "t": "v"
+    },
+    {
+     "w": "meseria",
+     "t": "poklicu"
+    },
+    {
+     "w": "mea.",
+     "t": "mojem."
+    }
+   ]
+  }
+ ]
+}

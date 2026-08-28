@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "sv",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Jag har jobbat många år inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Jag"
+    },
+    {
+     "w": "heb",
+     "t": "har"
+    },
+    {
+     "w": "vele",
+     "t": "många"
+    },
+    {
+     "w": "jaren",
+     "t": "år"
+    },
+    {
+     "w": "in",
+     "t": "inom"
+    },
+    {
+     "w": "mijn",
+     "t": "mitt"
+    },
+    {
+     "w": "vak",
+     "t": "yrke"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "jobbat."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Därefter kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Därefter"
+    },
+    {
+     "w": "ben",
+     "t": "är (hjälpverb)"
+    },
+    {
+     "w": "ik",
+     "t": "jag"
+    },
+    {
+     "w": "naar",
+     "t": "till"
+    },
+    {
+     "w": "een",
+     "t": "ett"
+    },
+    {
+     "w": "nieuw",
+     "t": "nytt"
+    },
+    {
+     "w": "land",
+     "t": "land"
+    },
+    {
+     "w": "gekomen.",
+     "t": "kommit."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nu"
+    },
+    {
+     "w": "leer",
+     "t": "lär"
+    },
+    {
+     "w": "ik",
+     "t": "jag"
+    },
+    {
+     "w": "de",
+     "t": "(bestämd artikel)"
+    },
+    {
+     "w": "taal.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Snart ska jag jobba inom mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Snart"
+    },
+    {
+     "w": "ga",
+     "t": "ska"
+    },
+    {
+     "w": "ik",
+     "t": "jag"
+    },
+    {
+     "w": "weer",
+     "t": "igen"
+    },
+    {
+     "w": "in",
+     "t": "inom"
+    },
+    {
+     "w": "mijn",
+     "t": "mitt"
+    },
+    {
+     "w": "vak",
+     "t": "yrke"
+    },
+    {
+     "w": "werken.",
+     "t": "jobba."
+    }
+   ]
+  }
+ ]
+}

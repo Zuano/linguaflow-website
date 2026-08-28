@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "tr",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Mesleğimde uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "(ben)-yaptım"
+    },
+    {
+     "w": "trabajado",
+     "t": "çalışmış"
+    },
+    {
+     "w": "muchos",
+     "t": "birçok"
+    },
+    {
+     "w": "años",
+     "t": "yıl"
+    },
+    {
+     "w": "en",
+     "t": "içinde"
+    },
+    {
+     "w": "mi",
+     "t": "benim"
+    },
+    {
+     "w": "profesión.",
+     "t": "mesleğim."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Sonra başka bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "sonra"
+    },
+    {
+     "w": "me",
+     "t": "kendimi"
+    },
+    {
+     "w": "mudé",
+     "t": "taşıdım"
+    },
+    {
+     "w": "a",
+     "t": "-e"
+    },
+    {
+     "w": "otro",
+     "t": "başka-bir"
+    },
+    {
+     "w": "país.",
+     "t": "ülke."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "şimdi"
+    },
+    {
+     "w": "estoy",
+     "t": "(ben)-oluyorum"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "öğreniyor"
+    },
+    {
+     "w": "el",
+     "t": "o"
+    },
+    {
+     "w": "idioma.",
+     "t": "dil."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Yakında mesleğimde tekrar çalışacağım.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "yakında"
+    },
+    {
+     "w": "volveré",
+     "t": "(ben)-döneceğim"
+    },
+    {
+     "w": "a",
+     "t": "-e"
+    },
+    {
+     "w": "trabajar",
+     "t": "çalışmaya"
+    },
+    {
+     "w": "en",
+     "t": "içinde"
+    },
+    {
+     "w": "mi",
+     "t": "benim"
+    },
+    {
+     "w": "profesión.",
+     "t": "mesleğim."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "en",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "I worked for many years in my profession.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "I-worked",
+     "r": "avadti"
+    },
+    {
+     "w": "שנים",
+     "t": "years",
+     "r": "shanim"
+    },
+    {
+     "w": "רבות",
+     "t": "many",
+     "r": "rabot"
+    },
+    {
+     "w": "במקצוע",
+     "t": "in-the-profession",
+     "r": "bemiktsoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "my.",
+     "r": "sheli."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Afterwards, I arrived in a new country.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "after",
+     "r": "le'achar"
+    },
+    {
+     "w": "מכן",
+     "t": "that (afterwards)",
+     "r": "machen"
+    },
+    {
+     "w": "הגעתי",
+     "t": "I-arrived",
+     "r": "higati"
+    },
+    {
+     "w": "למדינה",
+     "t": "to-a-country",
+     "r": "lemedina"
+    },
+    {
+     "w": "חדשה.",
+     "t": "new.",
+     "r": "chadasha."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Now I am learning the language.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "now",
+     "r": "ka'et"
+    },
+    {
+     "w": "אני",
+     "t": "I",
+     "r": "ani"
+    },
+    {
+     "w": "לומד",
+     "t": "am-learning",
+     "r": "lomed"
+    },
+    {
+     "w": "את",
+     "t": "(object-marker)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "the-language.",
+     "r": "hasafa."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Soon I will go back to working in my profession.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "soon",
+     "r": "bekarov"
+    },
+    {
+     "w": "אחזור",
+     "t": "I-will-return",
+     "r": "echzor"
+    },
+    {
+     "w": "לעבוד",
+     "t": "to-work",
+     "r": "la'avod"
+    },
+    {
+     "w": "במקצוע",
+     "t": "in-the-profession",
+     "r": "bemiktsoa"
+    },
+    {
+     "w": "שלי.",
+     "t": "my.",
+     "r": "sheli."
+    }
+   ]
+  }
+ ]
+}

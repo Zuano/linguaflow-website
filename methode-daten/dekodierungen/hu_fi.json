@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "fi",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Monta vuotta työskentelin ammatissani.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Monta"
+    },
+    {
+     "w": "éven",
+     "t": "vuoden"
+    },
+    {
+     "w": "át",
+     "t": "läpi"
+    },
+    {
+     "w": "a",
+     "t": "(ei suomennosta)"
+    },
+    {
+     "w": "szakmámban",
+     "t": "ammatissani"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "työskentelin."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Sitten"
+    },
+    {
+     "w": "egy",
+     "t": "yhteen"
+    },
+    {
+     "w": "új",
+     "t": "uuteen"
+    },
+    {
+     "w": "országba",
+     "t": "maahan"
+    },
+    {
+     "w": "költöztem.",
+     "t": "muutin."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Nyt"
+    },
+    {
+     "w": "a",
+     "t": "(ei suomennosta)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "kieltä"
+    },
+    {
+     "w": "tanulom.",
+     "t": "opiskelen."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Pian työskentelen taas ammatissani.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Pian"
+    },
+    {
+     "w": "újra",
+     "t": "taas"
+    },
+    {
+     "w": "a",
+     "t": "(ei suomennosta)"
+    },
+    {
+     "w": "szakmámban",
+     "t": "ammatissani"
+    },
+    {
+     "w": "fogok",
+     "t": "tulen"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "työskentelemään."
+    }
+   ]
+  }
+ ]
+}

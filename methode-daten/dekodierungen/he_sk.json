@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "sk",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Pracoval som mnoho rokov vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "pracoval-som",
+     "r": "avádeti"
+    },
+    {
+     "w": "שנים",
+     "t": "roky",
+     "r": "šaním"
+    },
+    {
+     "w": "רבות",
+     "t": "mnohé",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "v-profesii",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mojej.",
+     "r": "šelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "po",
+     "r": "le-achár"
+    },
+    {
+     "w": "מכן",
+     "t": "tom",
+     "r": "mikén"
+    },
+    {
+     "w": "הגעתי",
+     "t": "prišiel-som",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "do-krajiny",
+     "r": "le-medína"
+    },
+    {
+     "w": "חדשה.",
+     "t": "novej.",
+     "r": "chadašá."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "teraz",
+     "r": "ka-ét"
+    },
+    {
+     "w": "אני",
+     "t": "ja",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "učím-sa",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(predmet)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "jazyk.",
+     "r": "ha-safá."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Čoskoro sa vrátim k práci vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "čoskoro",
+     "r": "be-karóv"
+    },
+    {
+     "w": "אחזור",
+     "t": "vrátim-sa",
+     "r": "echzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "pracovať",
+     "r": "la-avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "v-profesii",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mojej.",
+     "r": "šelí."
+    }
+   ]
+  }
+ ]
+}

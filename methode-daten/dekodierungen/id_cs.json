@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "cs",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Pracoval jsem ve svém oboru už mnoho let.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Já"
+    },
+    {
+     "w": "telah",
+     "t": "jsem-již"
+    },
+    {
+     "w": "bekerja",
+     "t": "pracoval"
+    },
+    {
+     "w": "di",
+     "t": "v"
+    },
+    {
+     "w": "bidang",
+     "t": "oboru"
+    },
+    {
+     "w": "saya",
+     "t": "mém"
+    },
+    {
+     "w": "selama",
+     "t": "po-dobu"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "mnoha-let."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Poté jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Poté"
+    },
+    {
+     "w": "saya",
+     "t": "já"
+    },
+    {
+     "w": "pindah",
+     "t": "přestěhoval-se"
+    },
+    {
+     "w": "ke",
+     "t": "do"
+    },
+    {
+     "w": "negara",
+     "t": "země"
+    },
+    {
+     "w": "baru.",
+     "t": "nové."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Nyní se učím ten jazyk.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Nyní"
+    },
+    {
+     "w": "saya",
+     "t": "já"
+    },
+    {
+     "w": "sedang",
+     "t": "právě-teď"
+    },
+    {
+     "w": "belajar",
+     "t": "učím-se"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "ten-jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Už brzy se vrátím k práci ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Za-chvíli"
+    },
+    {
+     "w": "lagi",
+     "t": "ještě"
+    },
+    {
+     "w": "saya",
+     "t": "já"
+    },
+    {
+     "w": "akan",
+     "t": "budu"
+    },
+    {
+     "w": "kembali",
+     "t": "znovu"
+    },
+    {
+     "w": "bekerja",
+     "t": "pracovat"
+    },
+    {
+     "w": "di",
+     "t": "v"
+    },
+    {
+     "w": "bidang",
+     "t": "oboru"
+    },
+    {
+     "w": "saya.",
+     "t": "mém."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "fr",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "J'ai travaillé de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "j'ai-travaillé",
+     "r": "avadti"
+    },
+    {
+     "w": "שנים",
+     "t": "années",
+     "r": "shanim"
+    },
+    {
+     "w": "רבות",
+     "t": "nombreuses",
+     "r": "rabot"
+    },
+    {
+     "w": "במקצוע",
+     "t": "dans-le-métier",
+     "r": "be-miktso'a"
+    },
+    {
+     "w": "שלי.",
+     "t": "à-moi.",
+     "r": "sheli."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Ensuite, je suis arrivé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "après",
+     "r": "le'achar"
+    },
+    {
+     "w": "מכן",
+     "t": "cela",
+     "r": "mikan"
+    },
+    {
+     "w": "הגעתי",
+     "t": "je-suis-arrivé",
+     "r": "higati"
+    },
+    {
+     "w": "למדינה",
+     "t": "dans-un-pays",
+     "r": "le-medina"
+    },
+    {
+     "w": "חדשה.",
+     "t": "nouveau.",
+     "r": "chadasha."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "maintenant",
+     "r": "ka'et"
+    },
+    {
+     "w": "אני",
+     "t": "je",
+     "r": "ani"
+    },
+    {
+     "w": "לומד",
+     "t": "apprends",
+     "r": "lomed"
+    },
+    {
+     "w": "את",
+     "t": "(mot-outil)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "la-langue.",
+     "r": "ha-safa."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Bientôt, je retournerai travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "bientôt",
+     "r": "be-karov"
+    },
+    {
+     "w": "אחזור",
+     "t": "je-retournerai",
+     "r": "echzor"
+    },
+    {
+     "w": "לעבוד",
+     "t": "travailler",
+     "r": "la'avod"
+    },
+    {
+     "w": "במקצוע",
+     "t": "dans-le-métier",
+     "r": "be-miktso'a"
+    },
+    {
+     "w": "שלי.",
+     "t": "à-moi.",
+     "r": "sheli."
+    }
+   ]
+  }
+ ]
+}

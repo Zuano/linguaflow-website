@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "de",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "ich-habe-gearbeitet",
+     "r": "avádeti"
+    },
+    {
+     "w": "שנים",
+     "t": "Jahre",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "viele",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "im-Beruf",
+     "r": "bemiktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "meinem.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Danach kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "nach",
+     "r": "le'akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "danach (Wortteil)",
+     "r": "mikén"
+    },
+    {
+     "w": "הגעתי",
+     "t": "ich-kam-an",
+     "r": "higá'ti"
+    },
+    {
+     "w": "למדינה",
+     "t": "in-ein-Land",
+     "r": "lemedináh"
+    },
+    {
+     "w": "חדשה.",
+     "t": "neues.",
+     "r": "khadasháh."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "jetzt",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "ich",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "lerne",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(Objekt-Wort)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "die-Sprache.",
+     "r": "hasafáh."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "bald",
+     "r": "bekaróv"
+    },
+    {
+     "w": "אחזור",
+     "t": "ich-werde-zurückkehren",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "zu-arbeiten",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "im-Beruf",
+     "r": "bemiktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "meinem.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

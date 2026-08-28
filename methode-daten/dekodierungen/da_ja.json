@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "ja",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "私は自分の専門分野で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "私は"
+    },
+    {
+     "w": "har",
+     "t": "（〜した）"
+    },
+    {
+     "w": "arbejdet",
+     "t": "働いた"
+    },
+    {
+     "w": "i",
+     "t": "〜で"
+    },
+    {
+     "w": "mit",
+     "t": "私の"
+    },
+    {
+     "w": "fag",
+     "t": "専門分野"
+    },
+    {
+     "w": "i",
+     "t": "〜の間"
+    },
+    {
+     "w": "mange",
+     "t": "多くの"
+    },
+    {
+     "w": "år.",
+     "t": "年。"
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "それから私は新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "それから"
+    },
+    {
+     "w": "flyttede",
+     "t": "引っ越した"
+    },
+    {
+     "w": "jeg",
+     "t": "私は"
+    },
+    {
+     "w": "til",
+     "t": "〜へ"
+    },
+    {
+     "w": "et",
+     "t": "一つの"
+    },
+    {
+     "w": "nyt",
+     "t": "新しい"
+    },
+    {
+     "w": "land.",
+     "t": "国。"
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "今、私はその言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "今"
+    },
+    {
+     "w": "lærer",
+     "t": "学んでいる"
+    },
+    {
+     "w": "jeg",
+     "t": "私は"
+    },
+    {
+     "w": "sproget.",
+     "t": "その言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "もうすぐ私は再び自分の専門分野で働くことになります。",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "skal",
+     "t": "〜することになる"
+    },
+    {
+     "w": "jeg",
+     "t": "私は"
+    },
+    {
+     "w": "arbejde",
+     "t": "働く"
+    },
+    {
+     "w": "i",
+     "t": "〜で"
+    },
+    {
+     "w": "mit",
+     "t": "私の"
+    },
+    {
+     "w": "fag",
+     "t": "専門分野"
+    },
+    {
+     "w": "igen.",
+     "t": "再び。"
+    }
+   ]
+  }
+ ]
+}

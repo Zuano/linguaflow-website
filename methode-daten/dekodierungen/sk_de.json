@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "de",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "In meinem Fachgebiet habe ich viele Jahre gearbeitet.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "In"
+    },
+    {
+     "w": "mojom",
+     "t": "meinem"
+    },
+    {
+     "w": "odbore",
+     "t": "Fachgebiet"
+    },
+    {
+     "w": "som",
+     "t": "habe (ich)"
+    },
+    {
+     "w": "pracoval",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "mnoho",
+     "t": "viele"
+    },
+    {
+     "w": "rokov.",
+     "t": "Jahre."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Dann kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Dann"
+    },
+    {
+     "w": "som",
+     "t": "habe (ich)"
+    },
+    {
+     "w": "prišiel",
+     "t": "gekommen"
+    },
+    {
+     "w": "do",
+     "t": "in"
+    },
+    {
+     "w": "novej",
+     "t": "neues"
+    },
+    {
+     "w": "krajiny.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Jetzt"
+    },
+    {
+     "w": "sa",
+     "t": "(Rückbezug)"
+    },
+    {
+     "w": "učím",
+     "t": "lerne (ich)"
+    },
+    {
+     "w": "jazyk.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Bald werde ich wieder in meinem Fachgebiet arbeiten.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Bald"
+    },
+    {
+     "w": "budem",
+     "t": "werde (ich)"
+    },
+    {
+     "w": "opäť",
+     "t": "wieder"
+    },
+    {
+     "w": "pracovať",
+     "t": "arbeiten"
+    },
+    {
+     "w": "vo",
+     "t": "in"
+    },
+    {
+     "w": "svojom",
+     "t": "meinem (eigenen)"
+    },
+    {
+     "w": "odbore.",
+     "t": "Fachgebiet."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "lv",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Es ilgus gadus strādāju savā profesijā.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "savā-profesijā"
+    },
+    {
+     "w": "uzun",
+     "t": "garus (ilgus)"
+    },
+    {
+     "w": "yıllar",
+     "t": "gadus"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "es-strādāju."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Pēc tam es ierados jaunā valstī.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "pēc-tam"
+    },
+    {
+     "w": "yeni",
+     "t": "jaunu"
+    },
+    {
+     "w": "bir",
+     "t": "vienu"
+    },
+    {
+     "w": "ülkeye",
+     "t": "valsti"
+    },
+    {
+     "w": "geldim.",
+     "t": "es-ieradosos."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "tagad"
+    },
+    {
+     "w": "dili",
+     "t": "valodu"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "es-mācos."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Drīzumā es atkal sākšu strādāt savā profesijā.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "drīzumā"
+    },
+    {
+     "w": "tekrar",
+     "t": "atkal"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "savā-profesijā"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "strādāt"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "es-sākšu."
+    }
+   ]
+  }
+ ]
+}

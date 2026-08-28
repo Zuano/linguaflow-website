@@ -1,0 +1,202 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "da",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Jeg har arbejdet i mit speciale i mange år.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "Jeg",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(subjekt-markør)",
+     "r": "wa"
+    },
+    {
+     "w": "長年",
+     "t": "mange-år",
+     "r": "chōnen"
+    },
+    {
+     "w": "、",
+     "t": "(komma)",
+     "r": "、"
+    },
+    {
+     "w": "自分",
+     "t": "selv",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(ejendoms-markør)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "speciale",
+     "r": "senmonyoku"
+    },
+    {
+     "w": "に",
+     "t": "i",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "påtaget",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "har-arbejdet",
+     "r": "hataraitekimashita。"
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Derefter flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "det",
+     "r": "sono"
+    },
+    {
+     "w": "後",
+     "t": "efter",
+     "r": "go"
+    },
+    {
+     "w": "、",
+     "t": "(komma)",
+     "r": "、"
+    },
+    {
+     "w": "新しい",
+     "t": "nyt",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "land",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "til",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "flyttede-til-og-boede",
+     "r": "tsurisumiました。"
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Nu lærer jeg sproget i det land.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "nu",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(subjekt-markør)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "det",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "land",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(ejendoms-markør)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "sprog",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(objekt-markør)",
+     "r": "o"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "lærer",
+     "r": "manandeirumasu。"
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Snart starter jeg igen med at arbejde i mit speciale.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "snart",
+     "r": "mōsugu"
+    },
+    {
+     "w": "また",
+     "t": "igen",
+     "r": "mata"
+    },
+    {
+     "w": "、",
+     "t": "(komma)",
+     "r": "、"
+    },
+    {
+     "w": "自分",
+     "t": "selv",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(ejendoms-markør)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "speciale",
+     "r": "senmonyoku"
+    },
+    {
+     "w": "で",
+     "t": "i",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "begynde-at-arbejde",
+     "r": "hatarakihajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "er-planen",
+     "r": "yoteidesu。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "nb",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Jeg har arbeidet innen fagfeltet mitt i mange år.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "jeg",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "arbeider",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "innen",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "gren",
+     "r": "sakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "fagfelt",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "av",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "meg",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(tidsmarør)",
+     "r": "maa"
+    },
+    {
+     "w": "หลายปี",
+     "t": "mange-år",
+     "r": "lhai-pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "(perfektum)",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Etter det flyttet jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "หลังจาก",
+     "t": "etter",
+     "r": "lang-jak"
+    },
+    {
+     "w": "นั้น",
+     "t": "det",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "jeg",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "flytter",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "til",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "bo",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "land",
+     "r": "prathset"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nytt",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "For tiden studerer jeg språk.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "for-tiden",
+     "r": "ton-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "jeg",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(progressivt)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "studerer",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "språk",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(progressivt)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Og snart skal jeg returnere til arbeid innen fagfeltet mitt igjen.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "og",
+     "r": "lae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "snart",
+     "r": "rew-rew"
+    },
+    {
+     "w": "นี้",
+     "t": "(denne-tidsperioden)",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "jeg",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "skal",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "returnere",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "til",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "arbeider",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "innen",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "gren",
+     "r": "sakhaa"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "fagfelt",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "av",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "meg",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "igjen",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "(gang)",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

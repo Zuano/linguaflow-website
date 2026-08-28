@@ -1,0 +1,192 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "es",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "He trabajado durante muchos años en mi profesión.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "Yo",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(tema)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "muchos-años,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分",
+     "t": "mí-mismo",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(posesivo)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "profesión-especializada",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "a",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "dedicado-a",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "he-trabajado.",
+     "r": "hataraite-kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Después me mudé a un nuevo país.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "ese",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "después,",
+     "r": "ato,"
+    },
+    {
+     "w": "新しい",
+     "t": "nuevo",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "país",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "a",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "me-mudé.",
+     "r": "utsuri-sumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Ahora estoy aprendiendo el idioma de ese país.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "ahora",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(tema)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "ese",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "país",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(posesivo)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "idioma",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(objeto)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "estoy-aprendiendo.",
+     "r": "manande-imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Pronto voy a empezar a trabajar de nuevo en mi profesión.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "muy-pronto",
+     "r": "mōsugu"
+    },
+    {
+     "w": "また、",
+     "t": "de-nuevo,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "mí-mismo",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(posesivo)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "profesión-especializada",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "en",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "empezar-a-trabajar",
+     "r": "hataraki-hajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "plan",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "es.",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

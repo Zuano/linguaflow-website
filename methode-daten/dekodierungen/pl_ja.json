@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "ja",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "私は長年、自分の職業で働いていました。",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "〜の間"
+    },
+    {
+     "w": "wiele",
+     "t": "多くの"
+    },
+    {
+     "w": "lat",
+     "t": "年(を)"
+    },
+    {
+     "w": "pracowałem",
+     "t": "私は働いていた"
+    },
+    {
+     "w": "w",
+     "t": "〜で"
+    },
+    {
+     "w": "swoim",
+     "t": "自分の"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "職業(において)。"
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "その後、私は新しい国にやって来ました。",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "その後"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "私は来た(車などで)"
+    },
+    {
+     "w": "do",
+     "t": "〜へ"
+    },
+    {
+     "w": "nowego",
+     "t": "新しい"
+    },
+    {
+     "w": "kraju.",
+     "t": "国(に)。"
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "今、私は言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "今"
+    },
+    {
+     "w": "uczę",
+     "t": "私は学んでいる"
+    },
+    {
+     "w": "się",
+     "t": "(自分を・再帰)"
+    },
+    {
+     "w": "języka.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "すぐにまた、自分の職業で働くつもりです。",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "すぐに"
+    },
+    {
+     "w": "znów",
+     "t": "再び"
+    },
+    {
+     "w": "będę",
+     "t": "私は〜するだろう"
+    },
+    {
+     "w": "pracował",
+     "t": "働いて(いる状態)"
+    },
+    {
+     "w": "w",
+     "t": "〜で"
+    },
+    {
+     "w": "swoim",
+     "t": "自分の"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "職業(において)。"
+    }
+   ]
+  }
+ ]
+}

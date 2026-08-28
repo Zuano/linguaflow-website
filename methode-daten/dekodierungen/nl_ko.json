@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "ko",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "나는 여러 해 동안 내 직업 분야에서 일했다.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "나는"
+    },
+    {
+     "w": "heb",
+     "t": "했다(가지고)"
+    },
+    {
+     "w": "vele",
+     "t": "여러"
+    },
+    {
+     "w": "jaren",
+     "t": "해(년)들을"
+    },
+    {
+     "w": "in",
+     "t": "에서"
+    },
+    {
+     "w": "mijn",
+     "t": "내"
+    },
+    {
+     "w": "vak",
+     "t": "직업(분야)"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "일한.(했다)"
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "그 후에 나는 새로운 나라로 왔다.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "그-후에"
+    },
+    {
+     "w": "ben",
+     "t": "이다(왔다)"
+    },
+    {
+     "w": "ik",
+     "t": "나는"
+    },
+    {
+     "w": "naar",
+     "t": "~로"
+    },
+    {
+     "w": "een",
+     "t": "한"
+    },
+    {
+     "w": "nieuw",
+     "t": "새로운"
+    },
+    {
+     "w": "land",
+     "t": "나라"
+    },
+    {
+     "w": "gekomen.",
+     "t": "왔다.(온)"
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "지금 나는 그 언어를 배운다.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "지금"
+    },
+    {
+     "w": "leer",
+     "t": "배운다"
+    },
+    {
+     "w": "ik",
+     "t": "나는"
+    },
+    {
+     "w": "de",
+     "t": "그"
+    },
+    {
+     "w": "taal.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "곧 나는 다시 내 직업 분야에서 일할 것이다.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "곧"
+    },
+    {
+     "w": "ga",
+     "t": "할-것이다"
+    },
+    {
+     "w": "ik",
+     "t": "나는"
+    },
+    {
+     "w": "weer",
+     "t": "다시"
+    },
+    {
+     "w": "in",
+     "t": "에서"
+    },
+    {
+     "w": "mijn",
+     "t": "내"
+    },
+    {
+     "w": "vak",
+     "t": "직업(분야)"
+    },
+    {
+     "w": "werken.",
+     "t": "일하기(를)."
+    }
+   ]
+  }
+ ]
+}

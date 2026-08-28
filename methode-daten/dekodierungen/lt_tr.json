@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "tr",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Yıllarca kendi mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Birçok"
+    },
+    {
+     "w": "metų",
+     "t": "yıl"
+    },
+    {
+     "w": "dirbau",
+     "t": "çalıştım"
+    },
+    {
+     "w": "savo",
+     "t": "kendi"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "mesleğimde."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Daha sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Daha-sonra"
+    },
+    {
+     "w": "atvykau",
+     "t": "geldim"
+    },
+    {
+     "w": "į",
+     "t": "-e"
+    },
+    {
+     "w": "naują",
+     "t": "yeni"
+    },
+    {
+     "w": "šalį.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Şimdi"
+    },
+    {
+     "w": "mokausi",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "kalbos.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Yakında yine kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "Yakında"
+    },
+    {
+     "w": "vėl",
+     "t": "yine"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "çalışacağım"
+    },
+    {
+     "w": "savo",
+     "t": "kendi"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "mesleğimde."
+    }
+   ]
+  }
+ ]
+}

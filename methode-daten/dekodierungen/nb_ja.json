@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "ja",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "私は自分の専門分野で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "私は"
+    },
+    {
+     "w": "har",
+     "t": "（〜して）きた"
+    },
+    {
+     "w": "jobbet",
+     "t": "働い(て)"
+    },
+    {
+     "w": "i",
+     "t": "〜(の間)"
+    },
+    {
+     "w": "mange",
+     "t": "多くの"
+    },
+    {
+     "w": "år",
+     "t": "年(間)"
+    },
+    {
+     "w": "innen",
+     "t": "〜の分野で"
+    },
+    {
+     "w": "mitt",
+     "t": "私の"
+    },
+    {
+     "w": "fagområde.",
+     "t": "専門分野。"
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "それから私は新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "それから"
+    },
+    {
+     "w": "flyttet",
+     "t": "引っ越した"
+    },
+    {
+     "w": "jeg",
+     "t": "私は"
+    },
+    {
+     "w": "til",
+     "t": "〜へ"
+    },
+    {
+     "w": "et",
+     "t": "一つの(不定冠詞)"
+    },
+    {
+     "w": "nytt",
+     "t": "新しい"
+    },
+    {
+     "w": "land.",
+     "t": "国へ。"
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "今、私はその言葉を学んでいます。",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "今"
+    },
+    {
+     "w": "lærer",
+     "t": "学んでいる"
+    },
+    {
+     "w": "jeg",
+     "t": "私は"
+    },
+    {
+     "w": "språket.",
+     "t": "その言葉を。"
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "もうすぐ私は再び自分の専門分野で働く予定です。",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "skal",
+     "t": "〜する予定だ"
+    },
+    {
+     "w": "jeg",
+     "t": "私は"
+    },
+    {
+     "w": "jobbe",
+     "t": "働く"
+    },
+    {
+     "w": "innen",
+     "t": "〜の分野で"
+    },
+    {
+     "w": "mitt",
+     "t": "私の"
+    },
+    {
+     "w": "fagområde",
+     "t": "専門分野"
+    },
+    {
+     "w": "igjen.",
+     "t": "再び。"
+    }
+   ]
+  }
+ ]
+}

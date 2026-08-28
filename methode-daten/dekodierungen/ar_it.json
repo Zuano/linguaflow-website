@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "it",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Ho lavorato nella mia professione per molti anni.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "(già)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "ho-lavorato",
+     "r": "'amiltu"
+    },
+    {
+     "w": "في",
+     "t": "in",
+     "r": "fi"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mia-professione",
+     "r": "mihnati"
+    },
+    {
+     "w": "لسنوات",
+     "t": "per-anni",
+     "r": "lisanawat"
+    },
+    {
+     "w": "عديدة.",
+     "t": "numerosi.",
+     "r": "'adida."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Poi mi sono trasferito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "poi",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "mi-sono-trasferito",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "a",
+     "r": "ila"
+    },
+    {
+     "w": "بلد",
+     "t": "paese",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "nuovo.",
+     "r": "jadid."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "E ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "e-ora",
+     "r": "wal-an"
+    },
+    {
+     "w": "أتعلم",
+     "t": "imparo",
+     "r": "ata'allamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "la-lingua.",
+     "r": "al-lugha."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "E presto tornerò a lavorare nella mia professione.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "e-tornerò",
+     "r": "wasa'ud"
+    },
+    {
+     "w": "قريبًا",
+     "t": "presto",
+     "r": "qariban"
+    },
+    {
+     "w": "إلى",
+     "t": "a",
+     "r": "ila"
+    },
+    {
+     "w": "العمل",
+     "t": "il-lavoro",
+     "r": "al-'amal"
+    },
+    {
+     "w": "في",
+     "t": "in",
+     "r": "fi"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "mia-professione.",
+     "r": "mihnati."
+    }
+   ]
+  }
+ ]
+}

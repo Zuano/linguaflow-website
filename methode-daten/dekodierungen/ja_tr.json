@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "tr",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Uzun yıllardır kendi mesleğimde çalışmış bulunuyorum.",
+   "pairs": [
+    {
+     "w": "私は",
+     "t": "ben",
+     "r": "watashi wa"
+    },
+    {
+     "w": "長年、",
+     "t": "uzun-yıllar,",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分の",
+     "t": "kendi",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職に",
+     "t": "mesleğe",
+     "r": "senmonshoku ni"
+    },
+    {
+     "w": "就いて",
+     "t": "başlayıp",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "çalışmış-bulundum.",
+     "r": "hataraite-kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "sonra,",
+     "r": "sono-go,"
+    },
+    {
+     "w": "新しい",
+     "t": "yeni",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "ülkeye",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "taşındım.",
+     "r": "hakkari-sumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Şimdi o ülkenin dilini öğreniyorum.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "şimdi",
+     "r": "ima wa"
+    },
+    {
+     "w": "その国の",
+     "t": "o-ülkenin",
+     "r": "sono kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "dili-i",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "öğreniyorum.",
+     "r": "manande-imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Yakında tekrar kendi meslekte çalışmaya başlamayı planlıyorum.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "yakında",
+     "r": "mou-sugu"
+    },
+    {
+     "w": "また、",
+     "t": "yine,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "kendi",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "meslekte",
+     "r": "senmonshoku de"
+    },
+    {
+     "w": "働き始める",
+     "t": "çalışmaya-başlamak",
+     "r": "hatarakihajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "planım.",
+     "r": "yotei-desu."
+    }
+   ]
+  }
+ ]
+}

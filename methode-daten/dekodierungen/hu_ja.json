@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "ja",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "私は長年、自分の専門分野で働いていました。",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "多くの"
+    },
+    {
+     "w": "éven",
+     "t": "年を"
+    },
+    {
+     "w": "át",
+     "t": "通して"
+    },
+    {
+     "w": "a",
+     "t": "その"
+    },
+    {
+     "w": "szakmámban",
+     "t": "自分の専門分野で"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "働いていました。"
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "それから、新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "それから"
+    },
+    {
+     "w": "egy",
+     "t": "一つの"
+    },
+    {
+     "w": "új",
+     "t": "新しい"
+    },
+    {
+     "w": "országba",
+     "t": "国へ"
+    },
+    {
+     "w": "költöztem.",
+     "t": "引っ越しました。"
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "今、その言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "今"
+    },
+    {
+     "w": "a",
+     "t": "その"
+    },
+    {
+     "w": "nyelvet",
+     "t": "言語を"
+    },
+    {
+     "w": "tanulom.",
+     "t": "学んでいます。"
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "間もなく再び自分の専門分野で働くつもりです。",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "間もなく"
+    },
+    {
+     "w": "újra",
+     "t": "再び"
+    },
+    {
+     "w": "a",
+     "t": "その"
+    },
+    {
+     "w": "szakmámban",
+     "t": "自分の専門分野で"
+    },
+    {
+     "w": "fogok",
+     "t": "するつもりです(未来)"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "働くこと。"
+    }
+   ]
+  }
+ ]
+}

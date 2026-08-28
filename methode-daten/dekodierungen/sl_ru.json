@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "ru",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Много лет я работал в своей профессии.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Долгие"
+    },
+    {
+     "w": "leta",
+     "t": "годы"
+    },
+    {
+     "w": "sem",
+     "t": "(я)"
+    },
+    {
+     "w": "delal",
+     "t": "работал"
+    },
+    {
+     "w": "v",
+     "t": "в"
+    },
+    {
+     "w": "svojem",
+     "t": "своей"
+    },
+    {
+     "w": "poklicu.",
+     "t": "профессии."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Потом я приехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Потом"
+    },
+    {
+     "w": "sem",
+     "t": "(я)"
+    },
+    {
+     "w": "prišel",
+     "t": "приехал"
+    },
+    {
+     "w": "v",
+     "t": "в"
+    },
+    {
+     "w": "novo",
+     "t": "новую"
+    },
+    {
+     "w": "državo.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Теперь я учу язык.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Теперь"
+    },
+    {
+     "w": "se",
+     "t": "(возвратная-частица)"
+    },
+    {
+     "w": "učim",
+     "t": "учу"
+    },
+    {
+     "w": "jezika.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Скоро я снова буду работать в своей профессии.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Скоро"
+    },
+    {
+     "w": "bom",
+     "t": "буду"
+    },
+    {
+     "w": "spet",
+     "t": "снова"
+    },
+    {
+     "w": "delal",
+     "t": "работать"
+    },
+    {
+     "w": "v",
+     "t": "в"
+    },
+    {
+     "w": "svojem",
+     "t": "своей"
+    },
+    {
+     "w": "poklicu.",
+     "t": "профессии."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "fr",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "J'ai travaillé dans mon métier pendant de nombreuses années.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "déjà (accompli)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "j'ai-travaillé",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "dans",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mon-métier",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "pendant-des-années",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "nombreuses.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Puis j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "puis",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "j'ai-déménagé",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "vers",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "un-pays",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "nouveau.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Et maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "et'maintenant",
+     "r": "wal-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "j'apprends",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "la-langue.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Et je retournerai bientôt travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "et'je-retournerai",
+     "r": "wasaʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "bientôt",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "vers",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "le-travail",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "dans",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "mon-métier.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "it",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Ho lavorato nel mio settore per molti anni.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Nel"
+    },
+    {
+     "w": "mojom",
+     "t": "mio"
+    },
+    {
+     "w": "odbore",
+     "t": "settore"
+    },
+    {
+     "w": "som",
+     "t": "ho"
+    },
+    {
+     "w": "pracoval",
+     "t": "lavorato"
+    },
+    {
+     "w": "mnoho",
+     "t": "molti"
+    },
+    {
+     "w": "rokov.",
+     "t": "anni."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Poi sono arrivato in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Poi"
+    },
+    {
+     "w": "som",
+     "t": "sono"
+    },
+    {
+     "w": "prišiel",
+     "t": "arrivato"
+    },
+    {
+     "w": "do",
+     "t": "in"
+    },
+    {
+     "w": "novej",
+     "t": "nuovo"
+    },
+    {
+     "w": "krajiny.",
+     "t": "paese."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Ora"
+    },
+    {
+     "w": "sa",
+     "t": "(particella-riflessiva)"
+    },
+    {
+     "w": "učím",
+     "t": "imparo"
+    },
+    {
+     "w": "jazyk.",
+     "t": "lingua."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Presto tornerò a lavorare nel mio settore.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Presto"
+    },
+    {
+     "w": "budem",
+     "t": "sarò (lavorerò)"
+    },
+    {
+     "w": "opäť",
+     "t": "di-nuovo"
+    },
+    {
+     "w": "pracovať",
+     "t": "lavorare"
+    },
+    {
+     "w": "vo",
+     "t": "nel"
+    },
+    {
+     "w": "svojom",
+     "t": "mio (proprio)"
+    },
+    {
+     "w": "odbore.",
+     "t": "settore."
+    }
+   ]
+  }
+ ]
+}

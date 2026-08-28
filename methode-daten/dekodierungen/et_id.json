@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "id",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Saya sudah bekerja di bidang saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Saya-telah"
+    },
+    {
+     "w": "palju",
+     "t": "banyak"
+    },
+    {
+     "w": "aastaid",
+     "t": "tahun"
+    },
+    {
+     "w": "oma",
+     "t": "milikku-sendiri"
+    },
+    {
+     "w": "erialal",
+     "t": "di-bidang"
+    },
+    {
+     "w": "töötanud.",
+     "t": "bekerja."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Kemudian"
+    },
+    {
+     "w": "kolisin",
+     "t": "saya-pindah"
+    },
+    {
+     "w": "uude",
+     "t": "ke-baru"
+    },
+    {
+     "w": "riiki.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Sekarang saya belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Sekarang"
+    },
+    {
+     "w": "õpin",
+     "t": "saya-belajar"
+    },
+    {
+     "w": "keelt.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Segera saya akan mulai bekerja lagi di bidang saya.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Segera"
+    },
+    {
+     "w": "hakkan",
+     "t": "saya-akan-mulai"
+    },
+    {
+     "w": "jälle",
+     "t": "lagi"
+    },
+    {
+     "w": "oma",
+     "t": "milikku-sendiri"
+    },
+    {
+     "w": "erialal",
+     "t": "di-bidang"
+    },
+    {
+     "w": "töötama.",
+     "t": "bekerja."
+    }
+   ]
+  }
+ ]
+}

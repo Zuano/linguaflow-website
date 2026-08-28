@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "lv",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Es strādāju savā profesijā daudzus gadus.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "es"
+    },
+    {
+     "w": "worked",
+     "t": "strādāju"
+    },
+    {
+     "w": "in",
+     "t": "savā"
+    },
+    {
+     "w": "my",
+     "t": "savā (manā)"
+    },
+    {
+     "w": "profession",
+     "t": "profesijā"
+    },
+    {
+     "w": "for",
+     "t": "jau"
+    },
+    {
+     "w": "many",
+     "t": "daudzus"
+    },
+    {
+     "w": "years.",
+     "t": "gadus."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Tad es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "tad"
+    },
+    {
+     "w": "I",
+     "t": "es"
+    },
+    {
+     "w": "moved",
+     "t": "pārcēlos"
+    },
+    {
+     "w": "to",
+     "t": "uz"
+    },
+    {
+     "w": "a",
+     "t": "(kādu)"
+    },
+    {
+     "w": "new",
+     "t": "jaunu"
+    },
+    {
+     "w": "country.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "tagad"
+    },
+    {
+     "w": "I'm",
+     "t": "es'esmu"
+    },
+    {
+     "w": "learning",
+     "t": "mācoties"
+    },
+    {
+     "w": "the",
+     "t": "(to)"
+    },
+    {
+     "w": "language.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Drīz es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "drīz"
+    },
+    {
+     "w": "I'll",
+     "t": "es'gribu (es)"
+    },
+    {
+     "w": "be",
+     "t": "būt"
+    },
+    {
+     "w": "working",
+     "t": "strādājot"
+    },
+    {
+     "w": "in",
+     "t": "savā"
+    },
+    {
+     "w": "my",
+     "t": "savā (manā)"
+    },
+    {
+     "w": "profession",
+     "t": "profesijā"
+    },
+    {
+     "w": "again.",
+     "t": "atkal."
+    }
+   ]
+  }
+ ]
+}

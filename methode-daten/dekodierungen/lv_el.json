@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "el",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Έχω εργαστεί πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Είμαι (έχω)"
+    },
+    {
+     "w": "daudzus",
+     "t": "πολλά"
+    },
+    {
+     "w": "gadus",
+     "t": "χρόνια"
+    },
+    {
+     "w": "strādājis",
+     "t": "εργαζόμενος (έχω δουλέψει)"
+    },
+    {
+     "w": "savā",
+     "t": "στο δικό-μου"
+    },
+    {
+     "w": "profesijā.",
+     "t": "επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Έπειτα μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "Μετά"
+    },
+    {
+     "w": "tam",
+     "t": "από-αυτό"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "uz",
+     "t": "σε"
+    },
+    {
+     "w": "jaunu",
+     "t": "νέα"
+    },
+    {
+     "w": "valsti.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Τώρα"
+    },
+    {
+     "w": "apgūstu",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "valodu.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Σύντομα θα εργαστώ ξανά στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "atkal",
+     "t": "ξανά"
+    },
+    {
+     "w": "strādāšu",
+     "t": "θα-εργαστώ"
+    },
+    {
+     "w": "savā",
+     "t": "στο δικό-μου"
+    },
+    {
+     "w": "profesijā.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "ro",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Am lucrat mulți ani în meseria mea.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Eu"
+    },
+    {
+     "w": "har",
+     "t": "am"
+    },
+    {
+     "w": "arbetat",
+     "t": "lucrat"
+    },
+    {
+     "w": "många",
+     "t": "mulți"
+    },
+    {
+     "w": "år",
+     "t": "ani"
+    },
+    {
+     "w": "inom",
+     "t": "în"
+    },
+    {
+     "w": "mitt",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "yrke.",
+     "t": "meserie(mea)."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Apoi"
+    },
+    {
+     "w": "flyttade",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "jag",
+     "t": "eu"
+    },
+    {
+     "w": "till",
+     "t": "în"
+    },
+    {
+     "w": "ett",
+     "t": "o"
+    },
+    {
+     "w": "nytt",
+     "t": "nouă"
+    },
+    {
+     "w": "land.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Acum"
+    },
+    {
+     "w": "lär",
+     "t": "învăț"
+    },
+    {
+     "w": "jag",
+     "t": "eu"
+    },
+    {
+     "w": "mig",
+     "t": "mă (pe-mine)"
+    },
+    {
+     "w": "språket.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "În curând voi începe să lucrez din nou în meseria mea.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "În-curând"
+    },
+    {
+     "w": "ska",
+     "t": "voi"
+    },
+    {
+     "w": "jag",
+     "t": "eu"
+    },
+    {
+     "w": "börja",
+     "t": "începe"
+    },
+    {
+     "w": "arbeta",
+     "t": "să-lucrez"
+    },
+    {
+     "w": "inom",
+     "t": "în"
+    },
+    {
+     "w": "mitt",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "yrke",
+     "t": "meserie(mea)"
+    },
+    {
+     "w": "igen.",
+     "t": "din-nou."
+    }
+   ]
+  }
+ ]
+}

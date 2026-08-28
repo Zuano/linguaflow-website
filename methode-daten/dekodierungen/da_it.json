@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "it",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Ho lavorato nel mio settore per molti anni.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Io"
+    },
+    {
+     "w": "har",
+     "t": "ho"
+    },
+    {
+     "w": "arbejdet",
+     "t": "lavorato"
+    },
+    {
+     "w": "i",
+     "t": "in"
+    },
+    {
+     "w": "mit",
+     "t": "il-mio"
+    },
+    {
+     "w": "fag",
+     "t": "settore (mestiere)"
+    },
+    {
+     "w": "i",
+     "t": "per"
+    },
+    {
+     "w": "mange",
+     "t": "molti"
+    },
+    {
+     "w": "år.",
+     "t": "anni."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Poi mi sono trasferito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Poi"
+    },
+    {
+     "w": "flyttede",
+     "t": "mi-trasferii"
+    },
+    {
+     "w": "jeg",
+     "t": "io"
+    },
+    {
+     "w": "til",
+     "t": "in"
+    },
+    {
+     "w": "et",
+     "t": "un"
+    },
+    {
+     "w": "nyt",
+     "t": "nuovo"
+    },
+    {
+     "w": "land.",
+     "t": "paese."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Ora"
+    },
+    {
+     "w": "lærer",
+     "t": "imparo"
+    },
+    {
+     "w": "jeg",
+     "t": "io"
+    },
+    {
+     "w": "sproget.",
+     "t": "la-lingua."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Presto tornerò a lavorare nel mio settore.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Presto"
+    },
+    {
+     "w": "skal",
+     "t": "dovrò"
+    },
+    {
+     "w": "jeg",
+     "t": "io"
+    },
+    {
+     "w": "arbejde",
+     "t": "lavorare"
+    },
+    {
+     "w": "i",
+     "t": "in"
+    },
+    {
+     "w": "mit",
+     "t": "il-mio"
+    },
+    {
+     "w": "fag",
+     "t": "settore (mestiere)"
+    },
+    {
+     "w": "igen.",
+     "t": "di-nuovo."
+    }
+   ]
+  }
+ ]
+}

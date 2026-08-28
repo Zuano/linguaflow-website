@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "hu",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Sok évig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "(segédige: múlt idő)"
+    },
+    {
+     "w": "lucrat",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "mulți",
+     "t": "sok"
+    },
+    {
+     "w": "ani",
+     "t": "évig"
+    },
+    {
+     "w": "în",
+     "t": "a"
+    },
+    {
+     "w": "meseria",
+     "t": "szakmájában"
+    },
+    {
+     "w": "mea.",
+     "t": "az-enyém."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "aztán"
+    },
+    {
+     "w": "m-am",
+     "t": "el'magamat"
+    },
+    {
+     "w": "mutat",
+     "t": "költöztettem"
+    },
+    {
+     "w": "într-o",
+     "t": "egy-be"
+    },
+    {
+     "w": "țară",
+     "t": "ország"
+    },
+    {
+     "w": "nouă.",
+     "t": "új."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "most"
+    },
+    {
+     "w": "învăț",
+     "t": "tanulom"
+    },
+    {
+     "w": "limba.",
+     "t": "a-nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "(idő:)"
+    },
+    {
+     "w": "curând",
+     "t": "hamarosan"
+    },
+    {
+     "w": "voi",
+     "t": "fogok"
+    },
+    {
+     "w": "lucra",
+     "t": "dolgozni"
+    },
+    {
+     "w": "din",
+     "t": "(újra:)"
+    },
+    {
+     "w": "nou",
+     "t": "újra"
+    },
+    {
+     "w": "în",
+     "t": "a"
+    },
+    {
+     "w": "meseria",
+     "t": "szakmájában"
+    },
+    {
+     "w": "mea.",
+     "t": "az-enyém."
+    }
+   ]
+  }
+ ]
+}

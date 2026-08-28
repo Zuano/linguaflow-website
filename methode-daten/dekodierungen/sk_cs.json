@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "cs",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Ve svém oboru jsem pracoval mnoho let.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Ve"
+    },
+    {
+     "w": "mojom",
+     "t": "svém"
+    },
+    {
+     "w": "odbore",
+     "t": "oboru"
+    },
+    {
+     "w": "som",
+     "t": "jsem"
+    },
+    {
+     "w": "pracoval",
+     "t": "pracoval"
+    },
+    {
+     "w": "mnoho",
+     "t": "mnoho"
+    },
+    {
+     "w": "rokov.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Poté jsem přišel do nové země.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Poté"
+    },
+    {
+     "w": "som",
+     "t": "jsem"
+    },
+    {
+     "w": "prišiel",
+     "t": "přišel"
+    },
+    {
+     "w": "do",
+     "t": "do"
+    },
+    {
+     "w": "novej",
+     "t": "nové"
+    },
+    {
+     "w": "krajiny.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Teď"
+    },
+    {
+     "w": "sa",
+     "t": "se"
+    },
+    {
+     "w": "učím",
+     "t": "učím"
+    },
+    {
+     "w": "jazyk.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Brzy budu opět pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Brzy"
+    },
+    {
+     "w": "budem",
+     "t": "budu"
+    },
+    {
+     "w": "opäť",
+     "t": "opět"
+    },
+    {
+     "w": "pracovať",
+     "t": "pracovat"
+    },
+    {
+     "w": "vo",
+     "t": "ve"
+    },
+    {
+     "w": "svojom",
+     "t": "svém"
+    },
+    {
+     "w": "odbore.",
+     "t": "oboru."
+    }
+   ]
+  }
+ ]
+}

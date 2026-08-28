@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "ko",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "저는 제 전문 분야에서 여러 해 동안 일해 왔습니다.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "나는"
+    },
+    {
+     "w": "har",
+     "t": "했다(현재완료)"
+    },
+    {
+     "w": "arbejdet",
+     "t": "일한"
+    },
+    {
+     "w": "i",
+     "t": "~에서"
+    },
+    {
+     "w": "mit",
+     "t": "나의"
+    },
+    {
+     "w": "fag",
+     "t": "직업(분야)"
+    },
+    {
+     "w": "i",
+     "t": "~동안"
+    },
+    {
+     "w": "mange",
+     "t": "많은"
+    },
+    {
+     "w": "år.",
+     "t": "해.(년)"
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "그러고 나서 저는 새로운 나라로 이사했습니다.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "그러고 나서"
+    },
+    {
+     "w": "flyttede",
+     "t": "이사했다"
+    },
+    {
+     "w": "jeg",
+     "t": "나는"
+    },
+    {
+     "w": "til",
+     "t": "~로"
+    },
+    {
+     "w": "et",
+     "t": "한(하나의)"
+    },
+    {
+     "w": "nyt",
+     "t": "새로운"
+    },
+    {
+     "w": "land.",
+     "t": "나라.(로)"
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "지금"
+    },
+    {
+     "w": "lærer",
+     "t": "배운다"
+    },
+    {
+     "w": "jeg",
+     "t": "나는"
+    },
+    {
+     "w": "sproget.",
+     "t": "그-언어를."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "곧 저는 제 전문 분야에서 다시 일하게 될 것입니다.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "곧"
+    },
+    {
+     "w": "skal",
+     "t": "할-것이다"
+    },
+    {
+     "w": "jeg",
+     "t": "나는"
+    },
+    {
+     "w": "arbejde",
+     "t": "일하다"
+    },
+    {
+     "w": "i",
+     "t": "~에서"
+    },
+    {
+     "w": "mit",
+     "t": "나의"
+    },
+    {
+     "w": "fag",
+     "t": "직업(분야)"
+    },
+    {
+     "w": "igen.",
+     "t": "다시."
+    }
+   ]
+  }
+ ]
+}

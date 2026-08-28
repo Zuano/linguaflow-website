@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "cs",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Pracoval jsem mnoho let ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Mám (jsem)"
+    },
+    {
+     "w": "lavorato",
+     "t": "pracoval"
+    },
+    {
+     "w": "per",
+     "t": "po"
+    },
+    {
+     "w": "molti",
+     "t": "mnoho"
+    },
+    {
+     "w": "anni",
+     "t": "let"
+    },
+    {
+     "w": "nella",
+     "t": "v-té"
+    },
+    {
+     "w": "mia",
+     "t": "mé"
+    },
+    {
+     "w": "professione.",
+     "t": "profesi."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Pak jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Pak"
+    },
+    {
+     "w": "mi",
+     "t": "se"
+    },
+    {
+     "w": "sono",
+     "t": "jsem"
+    },
+    {
+     "w": "trasferito",
+     "t": "přestěhoval"
+    },
+    {
+     "w": "in",
+     "t": "do"
+    },
+    {
+     "w": "un",
+     "t": "jedné"
+    },
+    {
+     "w": "nuovo",
+     "t": "nové"
+    },
+    {
+     "w": "Paese.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Teď se učím ten jazyk.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Teď"
+    },
+    {
+     "w": "sto",
+     "t": "jsem (právě)"
+    },
+    {
+     "w": "imparando",
+     "t": "učící-se"
+    },
+    {
+     "w": "la",
+     "t": "ten"
+    },
+    {
+     "w": "lingua.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Brzy se vrátím k práci ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Brzy"
+    },
+    {
+     "w": "tornerò",
+     "t": "vrátím-se"
+    },
+    {
+     "w": "a",
+     "t": "k"
+    },
+    {
+     "w": "lavorare",
+     "t": "pracovat"
+    },
+    {
+     "w": "nella",
+     "t": "v-té"
+    },
+    {
+     "w": "mia",
+     "t": "mé"
+    },
+    {
+     "w": "professione.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "et",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Sain aastaid oma erialal töötasin.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Palju"
+    },
+    {
+     "w": "éven",
+     "t": "aastat"
+    },
+    {
+     "w": "át",
+     "t": "läbi (jooksul)"
+    },
+    {
+     "w": "a",
+     "t": "oma"
+    },
+    {
+     "w": "szakmámban",
+     "t": "erialal-minu"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "töötasin."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Siis kolisin uude riiki.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Siis"
+    },
+    {
+     "w": "egy",
+     "t": "ühte"
+    },
+    {
+     "w": "új",
+     "t": "uude"
+    },
+    {
+     "w": "országba",
+     "t": "riiki"
+    },
+    {
+     "w": "költöztem.",
+     "t": "kolisin."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Nüüd"
+    },
+    {
+     "w": "a",
+     "t": "seda"
+    },
+    {
+     "w": "nyelvet",
+     "t": "keelt"
+    },
+    {
+     "w": "tanulom.",
+     "t": "õpin."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Peagi hakkan taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Peagi"
+    },
+    {
+     "w": "újra",
+     "t": "jälle"
+    },
+    {
+     "w": "a",
+     "t": "oma"
+    },
+    {
+     "w": "szakmámban",
+     "t": "erialal-minu"
+    },
+    {
+     "w": "fogok",
+     "t": "hakkan"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "töötama."
+    }
+   ]
+  }
+ ]
+}

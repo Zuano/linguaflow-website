@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "pt",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Trabalhei muitos anos na minha área.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Na"
+    },
+    {
+     "w": "svém",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "oboru",
+     "t": "área (profissão)"
+    },
+    {
+     "w": "jsem",
+     "t": "(eu)-tenho"
+    },
+    {
+     "w": "pracoval",
+     "t": "trabalhado"
+    },
+    {
+     "w": "mnoho",
+     "t": "muitos"
+    },
+    {
+     "w": "let.",
+     "t": "anos."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Depois mudei-me para um novo país.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Depois"
+    },
+    {
+     "w": "jsem",
+     "t": "(eu)-tenho"
+    },
+    {
+     "w": "se",
+     "t": "me"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "mudado"
+    },
+    {
+     "w": "do",
+     "t": "para"
+    },
+    {
+     "w": "nové",
+     "t": "novo"
+    },
+    {
+     "w": "země.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Agora estou a aprender a língua.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Agora"
+    },
+    {
+     "w": "se",
+     "t": "me (reflexivo)"
+    },
+    {
+     "w": "učím",
+     "t": "aprendo"
+    },
+    {
+     "w": "jazyk.",
+     "t": "língua."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Em breve voltarei a trabalhar na minha área.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Em-breve"
+    },
+    {
+     "w": "budu",
+     "t": "(eu)-vou-estar"
+    },
+    {
+     "w": "zase",
+     "t": "de-novo"
+    },
+    {
+     "w": "pracovat",
+     "t": "a-trabalhar"
+    },
+    {
+     "w": "ve",
+     "t": "na"
+    },
+    {
+     "w": "svém",
+     "t": "minha (própria)"
+    },
+    {
+     "w": "oboru.",
+     "t": "área."
+    }
+   ]
+  }
+ ]
+}

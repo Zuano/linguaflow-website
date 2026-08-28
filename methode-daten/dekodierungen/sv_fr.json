@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "fr",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "J'ai travaillé de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Je"
+    },
+    {
+     "w": "har",
+     "t": "ai"
+    },
+    {
+     "w": "arbetat",
+     "t": "travaillé"
+    },
+    {
+     "w": "många",
+     "t": "nombreuses"
+    },
+    {
+     "w": "år",
+     "t": "années"
+    },
+    {
+     "w": "inom",
+     "t": "dans"
+    },
+    {
+     "w": "mitt",
+     "t": "mon"
+    },
+    {
+     "w": "yrke.",
+     "t": "métier."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Ensuite j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Ensuite"
+    },
+    {
+     "w": "flyttade",
+     "t": "ai-déménagé"
+    },
+    {
+     "w": "jag",
+     "t": "je"
+    },
+    {
+     "w": "till",
+     "t": "vers"
+    },
+    {
+     "w": "ett",
+     "t": "un"
+    },
+    {
+     "w": "nytt",
+     "t": "nouveau"
+    },
+    {
+     "w": "land.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Maintenant j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Maintenant"
+    },
+    {
+     "w": "lär",
+     "t": "apprends"
+    },
+    {
+     "w": "jag",
+     "t": "je"
+    },
+    {
+     "w": "mig",
+     "t": "me"
+    },
+    {
+     "w": "språket.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Bientôt je vais recommencer à travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Bientôt"
+    },
+    {
+     "w": "ska",
+     "t": "vais"
+    },
+    {
+     "w": "jag",
+     "t": "je"
+    },
+    {
+     "w": "börja",
+     "t": "commencer"
+    },
+    {
+     "w": "arbeta",
+     "t": "à-travailler"
+    },
+    {
+     "w": "inom",
+     "t": "dans"
+    },
+    {
+     "w": "mitt",
+     "t": "mon"
+    },
+    {
+     "w": "yrke",
+     "t": "métier"
+    },
+    {
+     "w": "igen.",
+     "t": "à-nouveau."
+    }
+   ]
+  }
+ ]
+}

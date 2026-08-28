@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "ro",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Am lucrat mulți ani în specialitatea mea.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Eu",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "mulți",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "ani",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "am-lucrat",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "în",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "specialitate.",
+     "r": "spetsiaĺnosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Apoi",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "m-am-mutat",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "în",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "nouă",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "țară.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Acum învăț o limbă.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Acum",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "învăț",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "limba.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "În curând voi începe din nou să lucrez în specialitatea mea.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "În-curând",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "eu",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "din-nou",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "voi-începe",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "să-lucrez",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "în",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "specialitate.",
+     "r": "spetsiaĺnosti."
+    }
+   ]
+  }
+ ]
+}

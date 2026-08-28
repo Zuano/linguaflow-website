@@ -1,0 +1,217 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "hu",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Hosszú évek óta a saját szakmámban dolgozom.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "én",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(téma-jelölő)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "hosszú-évek,-",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分",
+     "t": "saját",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(birtoklás-jelölő)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "szakterület",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "(mozgás-célja)",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "ellátva,-elhelyezkedve-",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いて",
+     "t": "dolgozva-",
+     "r": "hataruite"
+    },
+    {
+     "w": "きました。",
+     "t": "voltam(múlt).",
+     "r": "kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Ezután egy új országba költöztem.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "az-",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "után,-",
+     "r": "ato,"
+    },
+    {
+     "w": "新しい",
+     "t": "új",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "ország",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "(irány-jelölő)",
+     "r": "e"
+    },
+    {
+     "w": "移り",
+     "t": "költöz-",
+     "r": "utsuري"
+    },
+    {
+     "w": "住みました。",
+     "t": "lakni-kezdtem(múlt).",
+     "r": "sumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Most az adott ország nyelvét tanulom.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "most",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(téma-jelölő)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "az-",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "ország",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(birtoklás-jelölő)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "nyelv",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(tárgy-jelölő)",
+     "r": "o"
+    },
+    {
+     "w": "学んで",
+     "t": "tanulva-",
+     "r": "manande"
+    },
+    {
+     "w": "います。",
+     "t": "vagyok(jelenleg).",
+     "r": "imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Hamarosan ismét megkezdem a munkát a saját szakterületemen.",
+   "pairs": [
+    {
+     "w": "もう",
+     "t": "már-",
+     "r": "mō"
+    },
+    {
+     "w": "すぐ",
+     "t": "hamarosan",
+     "r": "sugu"
+    },
+    {
+     "w": "また、",
+     "t": "ismét,-",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "saját",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(birtoklás-jelölő)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "szakterület",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "(helymutató)",
+     "r": "de"
+    },
+    {
+     "w": "働き",
+     "t": "dolgozni-",
+     "r": "hataraki"
+    },
+    {
+     "w": "始める",
+     "t": "kezdeni",
+     "r": "hajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "terv",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "vagyok(forma).",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

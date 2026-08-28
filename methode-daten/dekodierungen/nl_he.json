@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "he",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "עבדתי במקצוע שלי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "אני"
+    },
+    {
+     "w": "heb",
+     "t": "יש-לי (עברתי)"
+    },
+    {
+     "w": "vele",
+     "t": "רבות"
+    },
+    {
+     "w": "jaren",
+     "t": "שנים"
+    },
+    {
+     "w": "in",
+     "t": "ב"
+    },
+    {
+     "w": "mijn",
+     "t": "שלי"
+    },
+    {
+     "w": "vak",
+     "t": "מקצוע"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "עבדתי."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "אחר כך הגעתי לארץ חדשה.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "ben",
+     "t": "הייתי (עזר-לעבר)"
+    },
+    {
+     "w": "ik",
+     "t": "אני"
+    },
+    {
+     "w": "naar",
+     "t": "אל"
+    },
+    {
+     "w": "een",
+     "t": "ארץ"
+    },
+    {
+     "w": "nieuw",
+     "t": "חדשה"
+    },
+    {
+     "w": "land",
+     "t": "ארץ"
+    },
+    {
+     "w": "gekomen.",
+     "t": "הגעתי."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "עכשיו"
+    },
+    {
+     "w": "leer",
+     "t": "לומד"
+    },
+    {
+     "w": "ik",
+     "t": "אני"
+    },
+    {
+     "w": "de",
+     "t": "את-ה"
+    },
+    {
+     "w": "taal.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "בקרוב אני אחזור לעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "בקרוב"
+    },
+    {
+     "w": "ga",
+     "t": "אלך (עתיד)"
+    },
+    {
+     "w": "ik",
+     "t": "אני"
+    },
+    {
+     "w": "weer",
+     "t": "שוב"
+    },
+    {
+     "w": "in",
+     "t": "ב"
+    },
+    {
+     "w": "mijn",
+     "t": "שלי"
+    },
+    {
+     "w": "vak",
+     "t": "מקצוע"
+    },
+    {
+     "w": "werken.",
+     "t": "לעבוד."
+    }
+   ]
+  }
+ ]
+}

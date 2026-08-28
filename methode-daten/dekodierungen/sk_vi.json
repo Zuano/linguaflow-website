@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "vi",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Tôi đã làm việc trong ngành của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "Trong"
+    },
+    {
+     "w": "mojom",
+     "t": "của-tôi"
+    },
+    {
+     "w": "odbore",
+     "t": "ngành-nghề"
+    },
+    {
+     "w": "som",
+     "t": "(tôi)-đã"
+    },
+    {
+     "w": "pracoval",
+     "t": "làm-việc"
+    },
+    {
+     "w": "mnoho",
+     "t": "nhiều"
+    },
+    {
+     "w": "rokov.",
+     "t": "năm."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Sau đó tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "som",
+     "t": "(tôi)-đã"
+    },
+    {
+     "w": "prišiel",
+     "t": "đến"
+    },
+    {
+     "w": "do",
+     "t": "vào"
+    },
+    {
+     "w": "novej",
+     "t": "mới"
+    },
+    {
+     "w": "krajiny.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "sa",
+     "t": "(mình)"
+    },
+    {
+     "w": "učím",
+     "t": "học"
+    },
+    {
+     "w": "jazyk.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong ngành của mình.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "budem",
+     "t": "tôi-sẽ"
+    },
+    {
+     "w": "opäť",
+     "t": "lại"
+    },
+    {
+     "w": "pracovať",
+     "t": "làm-việc"
+    },
+    {
+     "w": "vo",
+     "t": "trong"
+    },
+    {
+     "w": "svojom",
+     "t": "của-mình"
+    },
+    {
+     "w": "odbore.",
+     "t": "ngành-nghề."
+    }
+   ]
+  }
+ ]
+}

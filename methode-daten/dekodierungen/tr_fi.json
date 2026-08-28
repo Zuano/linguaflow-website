@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "fi",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Työskentelin ammatissani pitkiä vuosia.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "ammatissani"
+    },
+    {
+     "w": "uzun",
+     "t": "pitkiä"
+    },
+    {
+     "w": "yıllar",
+     "t": "vuosia"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "työskentelin."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "sitten"
+    },
+    {
+     "w": "yeni",
+     "t": "uuteen"
+    },
+    {
+     "w": "bir",
+     "t": "yhteen (artikkeli)"
+    },
+    {
+     "w": "ülkeye",
+     "t": "maahan"
+    },
+    {
+     "w": "geldim.",
+     "t": "tulin."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Nyt opettelen kieltä.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "nyt"
+    },
+    {
+     "w": "dili",
+     "t": "kieltä"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "opettelen."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Pian aloitan taas työskentelyn ammatissani.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "pian"
+    },
+    {
+     "w": "tekrar",
+     "t": "taas"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "ammatissani"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "aloitan."
+    }
+   ]
+  }
+ ]
+}

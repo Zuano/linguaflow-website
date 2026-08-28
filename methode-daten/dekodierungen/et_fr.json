@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "fr",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "J'ai travaillé de nombreuses années dans mon domaine.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "J'ai"
+    },
+    {
+     "w": "palju",
+     "t": "beaucoup"
+    },
+    {
+     "w": "aastaid",
+     "t": "d'années"
+    },
+    {
+     "w": "oma",
+     "t": "dans-mon"
+    },
+    {
+     "w": "erialal",
+     "t": "domaine"
+    },
+    {
+     "w": "töötanud.",
+     "t": "travaillé."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Ensuite, j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Ensuite"
+    },
+    {
+     "w": "kolisin",
+     "t": "j'ai-déménagé"
+    },
+    {
+     "w": "uude",
+     "t": "dans-un-nouveau"
+    },
+    {
+     "w": "riiki.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Maintenant"
+    },
+    {
+     "w": "õpin",
+     "t": "j'apprends"
+    },
+    {
+     "w": "keelt.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Bientôt, je vais recommencer à travailler dans mon domaine.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Bientôt"
+    },
+    {
+     "w": "hakkan",
+     "t": "je-vais-commencer"
+    },
+    {
+     "w": "jälle",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "oma",
+     "t": "dans-mon"
+    },
+    {
+     "w": "erialal",
+     "t": "domaine"
+    },
+    {
+     "w": "töötama.",
+     "t": "à-travailler."
+    }
+   ]
+  }
+ ]
+}

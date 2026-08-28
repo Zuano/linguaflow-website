@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "uk",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Я працював багато років за своєю професією.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Я-маю(допоміжне-дієслово)"
+    },
+    {
+     "w": "lucrat",
+     "t": "працював"
+    },
+    {
+     "w": "mulți",
+     "t": "багато"
+    },
+    {
+     "w": "ani",
+     "t": "років"
+    },
+    {
+     "w": "în",
+     "t": "у"
+    },
+    {
+     "w": "meseria",
+     "t": "професії"
+    },
+    {
+     "w": "mea.",
+     "t": "моїй."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Потім я переїхав у нову країну.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Потім"
+    },
+    {
+     "w": "m-am",
+     "t": "я'переїхав(себе'маю)"
+    },
+    {
+     "w": "mutat",
+     "t": "переїхав"
+    },
+    {
+     "w": "într-o",
+     "t": "в'одну"
+    },
+    {
+     "w": "țară",
+     "t": "країну"
+    },
+    {
+     "w": "nouă.",
+     "t": "нову."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Зараз я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Зараз"
+    },
+    {
+     "w": "învăț",
+     "t": "вивчаю"
+    },
+    {
+     "w": "limba.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Скоро я знову працюватиму за своєю професією.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "У"
+    },
+    {
+     "w": "curând",
+     "t": "незабаром"
+    },
+    {
+     "w": "voi",
+     "t": "буду(допоміжне-дієслово)"
+    },
+    {
+     "w": "lucra",
+     "t": "працювати"
+    },
+    {
+     "w": "din",
+     "t": "знову(з)"
+    },
+    {
+     "w": "nou",
+     "t": "нового(знову)"
+    },
+    {
+     "w": "în",
+     "t": "у"
+    },
+    {
+     "w": "meseria",
+     "t": "професії"
+    },
+    {
+     "w": "mea.",
+     "t": "моїй."
+    }
+   ]
+  }
+ ]
+}

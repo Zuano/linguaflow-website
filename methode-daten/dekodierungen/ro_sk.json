@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "sk",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Pracoval som veľa rokov vo svojom povolaní.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "som"
+    },
+    {
+     "w": "lucrat",
+     "t": "pracoval"
+    },
+    {
+     "w": "mulți",
+     "t": "veľa"
+    },
+    {
+     "w": "ani",
+     "t": "rokov"
+    },
+    {
+     "w": "în",
+     "t": "v"
+    },
+    {
+     "w": "meseria",
+     "t": "povolaní"
+    },
+    {
+     "w": "mea.",
+     "t": "mojom."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Potom"
+    },
+    {
+     "w": "m-am",
+     "t": "sa'som"
+    },
+    {
+     "w": "mutat",
+     "t": "presťahoval"
+    },
+    {
+     "w": "într-o",
+     "t": "do'jednej"
+    },
+    {
+     "w": "țară",
+     "t": "krajiny"
+    },
+    {
+     "w": "nouă.",
+     "t": "novej."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Teraz"
+    },
+    {
+     "w": "învăț",
+     "t": "učím-sa"
+    },
+    {
+     "w": "limba.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Čoskoro budem znova pracovať vo svojom povolaní.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "V"
+    },
+    {
+     "w": "curând",
+     "t": "krátkom-čase"
+    },
+    {
+     "w": "voi",
+     "t": "budem"
+    },
+    {
+     "w": "lucra",
+     "t": "pracovať"
+    },
+    {
+     "w": "din",
+     "t": "z"
+    },
+    {
+     "w": "nou",
+     "t": "nova"
+    },
+    {
+     "w": "în",
+     "t": "v"
+    },
+    {
+     "w": "meseria",
+     "t": "povolaní"
+    },
+    {
+     "w": "mea.",
+     "t": "mojom."
+    }
+   ]
+  }
+ ]
+}

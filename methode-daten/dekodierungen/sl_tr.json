@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "tr",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Uzun yıllar boyunca kendi mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Uzun"
+    },
+    {
+     "w": "leta",
+     "t": "yıllar"
+    },
+    {
+     "w": "sem",
+     "t": "(ben)"
+    },
+    {
+     "w": "delal",
+     "t": "çalıştım"
+    },
+    {
+     "w": "v",
+     "t": "içinde"
+    },
+    {
+     "w": "svojem",
+     "t": "kendi"
+    },
+    {
+     "w": "poklicu.",
+     "t": "mesleğimde."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sonra"
+    },
+    {
+     "w": "sem",
+     "t": "(ben)"
+    },
+    {
+     "w": "prišel",
+     "t": "geldim"
+    },
+    {
+     "w": "v",
+     "t": "-e"
+    },
+    {
+     "w": "novo",
+     "t": "yeni"
+    },
+    {
+     "w": "državo.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Şimdi"
+    },
+    {
+     "w": "se",
+     "t": "kendimi (dönüşlü)"
+    },
+    {
+     "w": "učim",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "jezika.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Yakında yine kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Yakında"
+    },
+    {
+     "w": "bom",
+     "t": "(gelecek zaman: -acağım)"
+    },
+    {
+     "w": "spet",
+     "t": "yine"
+    },
+    {
+     "w": "delal",
+     "t": "çalışacağım"
+    },
+    {
+     "w": "v",
+     "t": "içinde"
+    },
+    {
+     "w": "svojem",
+     "t": "kendi"
+    },
+    {
+     "w": "poklicu.",
+     "t": "mesleğimde."
+    }
+   ]
+  }
+ ]
+}

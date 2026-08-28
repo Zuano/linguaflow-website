@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "da",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "I mange år arbejdede jeg i mit fag.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Mange"
+    },
+    {
+     "w": "éven",
+     "t": "år(e)"
+    },
+    {
+     "w": "át",
+     "t": "igennem"
+    },
+    {
+     "w": "a",
+     "t": "i"
+    },
+    {
+     "w": "szakmámban",
+     "t": "faget-mit"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "jeg-arbejdede."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Så flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Så"
+    },
+    {
+     "w": "egy",
+     "t": "et"
+    },
+    {
+     "w": "új",
+     "t": "nyt"
+    },
+    {
+     "w": "országba",
+     "t": "land-til"
+    },
+    {
+     "w": "költöztem.",
+     "t": "jeg-flyttede."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Nu"
+    },
+    {
+     "w": "a",
+     "t": "(det bestemte)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "sproget"
+    },
+    {
+     "w": "tanulom.",
+     "t": "jeg-lærer."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Snart vil jeg igen arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Snart"
+    },
+    {
+     "w": "újra",
+     "t": "igen"
+    },
+    {
+     "w": "a",
+     "t": "i"
+    },
+    {
+     "w": "szakmámban",
+     "t": "faget-mit"
+    },
+    {
+     "w": "fogok",
+     "t": "jeg-vil"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "arbejde."
+    }
+   ]
+  }
+ ]
+}

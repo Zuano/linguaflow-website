@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "et",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Ma olen töötanud oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Mina"
+    },
+    {
+     "w": "har",
+     "t": "olen"
+    },
+    {
+     "w": "arbetat",
+     "t": "töötanud"
+    },
+    {
+     "w": "många",
+     "t": "palju"
+    },
+    {
+     "w": "år",
+     "t": "aastaid"
+    },
+    {
+     "w": "inom",
+     "t": "oma-valdkonnas"
+    },
+    {
+     "w": "mitt",
+     "t": "minu"
+    },
+    {
+     "w": "yrke.",
+     "t": "ametil (erialal)."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Seejärel kolisin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Seejärel"
+    },
+    {
+     "w": "flyttade",
+     "t": "kolisin"
+    },
+    {
+     "w": "jag",
+     "t": "mina"
+    },
+    {
+     "w": "till",
+     "t": "uude"
+    },
+    {
+     "w": "ett",
+     "t": "(üks)"
+    },
+    {
+     "w": "nytt",
+     "t": "uude"
+    },
+    {
+     "w": "land.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Nüüd õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nüüd"
+    },
+    {
+     "w": "lär",
+     "t": "õpin"
+    },
+    {
+     "w": "jag",
+     "t": "mina"
+    },
+    {
+     "w": "mig",
+     "t": "end"
+    },
+    {
+     "w": "språket.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Varsti hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Varsti"
+    },
+    {
+     "w": "ska",
+     "t": "hakkan"
+    },
+    {
+     "w": "jag",
+     "t": "mina"
+    },
+    {
+     "w": "börja",
+     "t": "alustama"
+    },
+    {
+     "w": "arbeta",
+     "t": "töötama"
+    },
+    {
+     "w": "inom",
+     "t": "oma-valdkonnas"
+    },
+    {
+     "w": "mitt",
+     "t": "minu"
+    },
+    {
+     "w": "yrke",
+     "t": "ametil (erialal)"
+    },
+    {
+     "w": "igen.",
+     "t": "taas."
+    }
+   ]
+  }
+ ]
+}

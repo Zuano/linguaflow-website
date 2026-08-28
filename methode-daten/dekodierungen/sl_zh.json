@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "zh",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "我在我的职业中工作了很多年。",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "很多的"
+    },
+    {
+     "w": "leta",
+     "t": "年"
+    },
+    {
+     "w": "sem",
+     "t": "我(是/曾)"
+    },
+    {
+     "w": "delal",
+     "t": "工作"
+    },
+    {
+     "w": "v",
+     "t": "在"
+    },
+    {
+     "w": "svojem",
+     "t": "自己的"
+    },
+    {
+     "w": "poklicu.",
+     "t": "职业中。"
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "后来我来到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "后来"
+    },
+    {
+     "w": "sem",
+     "t": "我(曾)"
+    },
+    {
+     "w": "prišel",
+     "t": "来到"
+    },
+    {
+     "w": "v",
+     "t": "到"
+    },
+    {
+     "w": "novo",
+     "t": "新的"
+    },
+    {
+     "w": "državo.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "现在我在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "现在"
+    },
+    {
+     "w": "se",
+     "t": "(反身词)"
+    },
+    {
+     "w": "učim",
+     "t": "学习"
+    },
+    {
+     "w": "jezika.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "很快我又会在我的职业中工作了。",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "很快"
+    },
+    {
+     "w": "bom",
+     "t": "我将会"
+    },
+    {
+     "w": "spet",
+     "t": "又"
+    },
+    {
+     "w": "delal",
+     "t": "工作"
+    },
+    {
+     "w": "v",
+     "t": "在"
+    },
+    {
+     "w": "svojem",
+     "t": "自己的"
+    },
+    {
+     "w": "poklicu.",
+     "t": "职业中。"
+    }
+   ]
+  }
+ ]
+}

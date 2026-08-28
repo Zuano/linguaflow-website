@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "da",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Jeg arbejdede mange år i mit fag.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Jeg-arbejdede"
+    },
+    {
+     "w": "muitos",
+     "t": "mange"
+    },
+    {
+     "w": "anos",
+     "t": "år"
+    },
+    {
+     "w": "na",
+     "t": "i-den"
+    },
+    {
+     "w": "minha",
+     "t": "mit"
+    },
+    {
+     "w": "profissão.",
+     "t": "fag."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Bagefter kom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Bagefter,"
+    },
+    {
+     "w": "vim",
+     "t": "kom-jeg"
+    },
+    {
+     "w": "para",
+     "t": "til"
+    },
+    {
+     "w": "um",
+     "t": "et"
+    },
+    {
+     "w": "novo",
+     "t": "nyt"
+    },
+    {
+     "w": "país.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Nu er jeg ved at lære sproget.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Nu"
+    },
+    {
+     "w": "estou",
+     "t": "er-jeg"
+    },
+    {
+     "w": "a",
+     "t": "ved-at"
+    },
+    {
+     "w": "aprender",
+     "t": "lære"
+    },
+    {
+     "w": "a",
+     "t": "(det)"
+    },
+    {
+     "w": "língua.",
+     "t": "sprog."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Snart vil jeg begynde at arbejde i mit fag igen.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "I-den"
+    },
+    {
+     "w": "breve,",
+     "t": "nærmeste-fremtid,"
+    },
+    {
+     "w": "voltarei",
+     "t": "vil-jeg-vende-tilbage"
+    },
+    {
+     "w": "a",
+     "t": "til-at"
+    },
+    {
+     "w": "trabalhar",
+     "t": "arbejde"
+    },
+    {
+     "w": "na",
+     "t": "i-den"
+    },
+    {
+     "w": "minha",
+     "t": "mit"
+    },
+    {
+     "w": "profissão.",
+     "t": "fag."
+    }
+   ]
+  }
+ ]
+}

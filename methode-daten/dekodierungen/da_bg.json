@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "bg",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Работил съм в своята професия много години.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Аз"
+    },
+    {
+     "w": "har",
+     "t": "съм"
+    },
+    {
+     "w": "arbejdet",
+     "t": "работил"
+    },
+    {
+     "w": "i",
+     "t": "в"
+    },
+    {
+     "w": "mit",
+     "t": "своята"
+    },
+    {
+     "w": "fag",
+     "t": "професия"
+    },
+    {
+     "w": "i",
+     "t": "в"
+    },
+    {
+     "w": "mange",
+     "t": "много"
+    },
+    {
+     "w": "år.",
+     "t": "години."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "После се преместих в нова страна.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "После"
+    },
+    {
+     "w": "flyttede",
+     "t": "се-преместих"
+    },
+    {
+     "w": "jeg",
+     "t": "аз"
+    },
+    {
+     "w": "til",
+     "t": "в"
+    },
+    {
+     "w": "et",
+     "t": "една"
+    },
+    {
+     "w": "nyt",
+     "t": "нова"
+    },
+    {
+     "w": "land.",
+     "t": "страна."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Сега"
+    },
+    {
+     "w": "lærer",
+     "t": "уча"
+    },
+    {
+     "w": "jeg",
+     "t": "аз"
+    },
+    {
+     "w": "sproget.",
+     "t": "езика."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Скоро ще работя отново в своята професия.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Скоро"
+    },
+    {
+     "w": "skal",
+     "t": "ще"
+    },
+    {
+     "w": "jeg",
+     "t": "аз"
+    },
+    {
+     "w": "arbejde",
+     "t": "работя"
+    },
+    {
+     "w": "i",
+     "t": "в"
+    },
+    {
+     "w": "mit",
+     "t": "своята"
+    },
+    {
+     "w": "fag",
+     "t": "професия"
+    },
+    {
+     "w": "igen.",
+     "t": "отново."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "hu",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "dolgoztam",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "éveket",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "sokat (számos)",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "a-szakmában",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "az-én.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Ezután egy új országba érkeztem.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "után",
+     "r": "le-akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "ez(ek)",
+     "r": "mikán"
+    },
+    {
+     "w": "הגעתי",
+     "t": "megérkeztem",
+     "r": "higati"
+    },
+    {
+     "w": "למדינה",
+     "t": "az-országba",
+     "r": "le-medinah"
+    },
+    {
+     "w": "חדשה.",
+     "t": "újba.",
+     "r": "khadashah."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "most",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "én",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "tanulok",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(tárgyeset-jelölő)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "a-nyelvet.",
+     "r": "ha-safáh."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Hamarosan visszatérek dolgozni a szakmámba.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "hamarosan",
+     "r": "be-karóv"
+    },
+    {
+     "w": "אחזור",
+     "t": "visszatérek",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "dolgozni",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "a-szakmában",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "az-én.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

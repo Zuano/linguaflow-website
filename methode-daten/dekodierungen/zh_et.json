@@ -1,0 +1,187 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "et",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "mina",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "aadressil",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "oma-enda",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "erialane",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "valdkond",
+     "r": "lǐngyùk"
+    },
+    {
+     "w": "工作",
+     "t": "töötas",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(perfekti-täitaja)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "palju",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "aastat.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Hiljem tulin ma uutele maadele.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "hiljem,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "mina",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "saabusin",
+     "r": "lái-dào"
+    },
+    {
+     "w": "了",
+     "t": "(perfekti-täitaja)",
+     "r": "le"
+    },
+    {
+     "w": "一",
+     "t": "üks",
+     "r": "yī"
+    },
+    {
+     "w": "片",
+     "t": "(maa-osa)",
+     "r": "piàn"
+    },
+    {
+     "w": "新的",
+     "t": "uus",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地。",
+     "t": "maa.",
+     "r": "tǔdì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Praegu õpin ma kohaliku keele.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "praegu,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "mina",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "just-nüüd",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "õpin",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "kohalik",
+     "r": "dāngdì-de"
+    },
+    {
+     "w": "语言。",
+     "t": "keel.",
+     "r": "yǔyán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Varsti lähen ma tagasi oma erialale tööle.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "varsti,",
+     "r": "hěnkuài,"
+    },
+    {
+     "w": "我",
+     "t": "mina",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(tuleviku-märk)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "taganäin",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "oma-enda",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "erialase",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "valdkonna",
+     "r": "lǐngyùik"
+    },
+    {
+     "w": "工作。",
+     "t": "tööle.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

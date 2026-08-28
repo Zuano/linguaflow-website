@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "ar",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "لقد عملت سنوات عديدة في مهنتي.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "لقد"
+    },
+    {
+     "w": "trabajado",
+     "t": "عملتُ"
+    },
+    {
+     "w": "muchos",
+     "t": "عديدة"
+    },
+    {
+     "w": "años",
+     "t": "سنوات"
+    },
+    {
+     "w": "en",
+     "t": "في"
+    },
+    {
+     "w": "mi",
+     "t": "مهنتي"
+    },
+    {
+     "w": "profesión.",
+     "t": "مهنة."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "بعد ذلك انتقلت إلى بلد آخر.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "بعد-ذلك"
+    },
+    {
+     "w": "me",
+     "t": "(نفسي)"
+    },
+    {
+     "w": "mudé",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "a",
+     "t": "إلى"
+    },
+    {
+     "w": "otro",
+     "t": "آخر"
+    },
+    {
+     "w": "país.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "الآن أنا أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "الآن"
+    },
+    {
+     "w": "estoy",
+     "t": "أنا-حاليًا"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "أتعلم"
+    },
+    {
+     "w": "el",
+     "t": "الـ"
+    },
+    {
+     "w": "idioma.",
+     "t": "لغة."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "قريبًا سأعود إلى العمل في مهنتي.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "قريبًا"
+    },
+    {
+     "w": "volveré",
+     "t": "سأعود"
+    },
+    {
+     "w": "a",
+     "t": "إلى"
+    },
+    {
+     "w": "trabajar",
+     "t": "العمل"
+    },
+    {
+     "w": "en",
+     "t": "في"
+    },
+    {
+     "w": "mi",
+     "t": "مهنتي"
+    },
+    {
+     "w": "profesión.",
+     "t": "مهنة."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "it",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Ho lavorato nel mio campo professionale per molti anni.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "io",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "lavoro",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "settore",
+     "r": "sakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "professionale",
+     "r": "a-chip"
+    },
+    {
+     "w": "ของ",
+     "t": "di",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "me",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(da-allora)",
+     "r": "ma"
+    },
+    {
+     "w": "หลายปี",
+     "t": "molti-anni",
+     "r": "lai-pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "già",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Dopo di allora ho traslocato e mi sono stabilito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "dopo",
+     "r": "lang"
+    },
+    {
+     "w": "จากนั้น",
+     "t": "allora",
+     "r": "chak-nan"
+    },
+    {
+     "w": "ผม",
+     "t": "io",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "traslocco",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "andare",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "abitare",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "paese",
+     "r": "prathep"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nuovo",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Al momento sto studiando la lingua.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "adesso",
+     "r": "ton-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "io",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(stare-per)",
+     "r": "kamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "imparare",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "lingua",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(in-corso)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "E presto tornerò a lavorare nel mio campo professionale di nuovo.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "e",
+     "r": "lae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "presto",
+     "r": "rew-rew"
+    },
+    {
+     "w": "นี้",
+     "t": "questo",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "io",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "futuro",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "tornare",
+     "r": "klab"
+    },
+    {
+     "w": "มา",
+     "t": "venire",
+     "r": "ma"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "lavorare",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "settore",
+     "r": "sakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "professionale",
+     "r": "a-chip"
+    },
+    {
+     "w": "ของ",
+     "t": "di",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "me",
+     "r": "phom"
+    },
+    {
+     "w": "อีกครั้ง",
+     "t": "ancora-una-volta",
+     "r": "ik-khrang"
+    }
+   ]
+  }
+ ]
+}

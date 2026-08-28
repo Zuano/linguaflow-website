@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "ja",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "私は自分の職業で長年働いてきました。",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "私は〜した"
+    },
+    {
+     "w": "lavorato",
+     "t": "働いた"
+    },
+    {
+     "w": "per",
+     "t": "〜の間"
+    },
+    {
+     "w": "molti",
+     "t": "多くの"
+    },
+    {
+     "w": "anni",
+     "t": "年月"
+    },
+    {
+     "w": "nella",
+     "t": "〜において"
+    },
+    {
+     "w": "mia",
+     "t": "私の"
+    },
+    {
+     "w": "professione.",
+     "t": "職業。"
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "それから私は新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "それから"
+    },
+    {
+     "w": "mi",
+     "t": "自分を"
+    },
+    {
+     "w": "sono",
+     "t": "〜した"
+    },
+    {
+     "w": "trasferito",
+     "t": "引っ越した"
+    },
+    {
+     "w": "in",
+     "t": "〜へ"
+    },
+    {
+     "w": "un",
+     "t": "一つの"
+    },
+    {
+     "w": "nuovo",
+     "t": "新しい"
+    },
+    {
+     "w": "Paese.",
+     "t": "国。"
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "今、私は言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "今"
+    },
+    {
+     "w": "sto",
+     "t": "私は〜している"
+    },
+    {
+     "w": "imparando",
+     "t": "学んでいる"
+    },
+    {
+     "w": "la",
+     "t": "その"
+    },
+    {
+     "w": "lingua.",
+     "t": "言語。"
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "すぐに私は自分の職業に戻って働くつもりです。",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "すぐに"
+    },
+    {
+     "w": "tornerò",
+     "t": "私は戻るだろう"
+    },
+    {
+     "w": "a",
+     "t": "〜へ(戻って)"
+    },
+    {
+     "w": "lavorare",
+     "t": "働くこと"
+    },
+    {
+     "w": "nella",
+     "t": "〜において"
+    },
+    {
+     "w": "mia",
+     "t": "私の"
+    },
+    {
+     "w": "professione.",
+     "t": "職業。"
+    }
+   ]
+  }
+ ]
+}

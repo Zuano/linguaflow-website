@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "sk",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Pracoval som mnoho rokov v svojom povolaní.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Pracoval-som",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "po",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "mnoho",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "rokov",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "vo",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "povolaní",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mojom.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "V",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "pokračovaní (potom),",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "prišiel-som",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "do",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "jednej",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "novej",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "krajiny.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Teraz",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "učím-sa",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "ten",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "jazyk.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Čoskoro budem znova pracovať v svojom povolaní.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Čoskoro",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "budem",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "znova-pracovať",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "vo",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "povolaní",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "mojom.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

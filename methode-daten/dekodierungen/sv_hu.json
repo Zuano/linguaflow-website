@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "hu",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Én"
+    },
+    {
+     "w": "har",
+     "t": "vagyok (segédige)"
+    },
+    {
+     "w": "arbetat",
+     "t": "dolgozott (dolgoztam)"
+    },
+    {
+     "w": "många",
+     "t": "sok"
+    },
+    {
+     "w": "år",
+     "t": "évet"
+    },
+    {
+     "w": "inom",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mitt",
+     "t": "az-én"
+    },
+    {
+     "w": "yrke.",
+     "t": "szakmám."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Aztán"
+    },
+    {
+     "w": "flyttade",
+     "t": "költözött (költöztem)"
+    },
+    {
+     "w": "jag",
+     "t": "én"
+    },
+    {
+     "w": "till",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "ett",
+     "t": "egy"
+    },
+    {
+     "w": "nytt",
+     "t": "új"
+    },
+    {
+     "w": "land.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Most"
+    },
+    {
+     "w": "lär",
+     "t": "tanul"
+    },
+    {
+     "w": "jag",
+     "t": "én"
+    },
+    {
+     "w": "mig",
+     "t": "engem (magamnak)"
+    },
+    {
+     "w": "språket.",
+     "t": "a-nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Hamarosan újra elkezdek dolgozni a szakmámban.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "ska",
+     "t": "fogok"
+    },
+    {
+     "w": "jag",
+     "t": "én"
+    },
+    {
+     "w": "börja",
+     "t": "kezdeni"
+    },
+    {
+     "w": "arbeta",
+     "t": "dolgozni"
+    },
+    {
+     "w": "inom",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "mitt",
+     "t": "az-én"
+    },
+    {
+     "w": "yrke",
+     "t": "szakmám"
+    },
+    {
+     "w": "igen.",
+     "t": "újra."
+    }
+   ]
+  }
+ ]
+}

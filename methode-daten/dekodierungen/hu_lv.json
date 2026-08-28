@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "lv",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Daudzus gadus strādāju savā profesijā.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "daudz"
+    },
+    {
+     "w": "éven",
+     "t": "gadu(s)"
+    },
+    {
+     "w": "át",
+     "t": "cauri (visā)"
+    },
+    {
+     "w": "a",
+     "t": "savā"
+    },
+    {
+     "w": "szakmámban",
+     "t": "profesijā-manā"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "strādāju."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "pēc-tam"
+    },
+    {
+     "w": "egy",
+     "t": "vienu"
+    },
+    {
+     "w": "új",
+     "t": "jaunu"
+    },
+    {
+     "w": "országba",
+     "t": "valstī-uz"
+    },
+    {
+     "w": "költöztem.",
+     "t": "pārcēlos."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "tagad"
+    },
+    {
+     "w": "a",
+     "t": "to"
+    },
+    {
+     "w": "nyelvet",
+     "t": "valodu"
+    },
+    {
+     "w": "tanulom.",
+     "t": "mācos."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Drīz es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "drīz"
+    },
+    {
+     "w": "újra",
+     "t": "atkal"
+    },
+    {
+     "w": "a",
+     "t": "savā"
+    },
+    {
+     "w": "szakmámban",
+     "t": "profesijā-manā"
+    },
+    {
+     "w": "fogok",
+     "t": "(nākotnes-palīgvārds) es-došu"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "strādāt."
+    }
+   ]
+  }
+ ]
+}

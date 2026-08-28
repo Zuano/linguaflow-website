@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "es",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "He trabajado durante mucho tiempo en mi profesión.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "Yo(tema)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "durante-mucho-tiempo",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "mi",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "en-la-profesión",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "trabajar",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "he-venido-(haciendo).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Y entonces vine a un nuevo país.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "y-entonces",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "nuevo",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "a-el-país",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "vine.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Ahora estoy aprendiendo el idioma de ese país.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "ahora(tema)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "ese",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "de-el-país",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "el-idioma",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "aprender-y",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "estoy-(haciendo).",
+     "r": "isseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "pronto",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "de-nuevo",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "mi",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "en-la-profesión",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "a-trabajar",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "que-va-a-ser",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "la-cosa-(será).",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

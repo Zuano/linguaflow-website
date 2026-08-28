@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "pl",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "W swoim fachu pracowałem wiele lat.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "W"
+    },
+    {
+     "w": "svém",
+     "t": "swoim"
+    },
+    {
+     "w": "oboru",
+     "t": "fachu"
+    },
+    {
+     "w": "jsem",
+     "t": "(ja)-jestem (czasownik pomocniczy)"
+    },
+    {
+     "w": "pracoval",
+     "t": "pracował"
+    },
+    {
+     "w": "mnoho",
+     "t": "wiele"
+    },
+    {
+     "w": "let.",
+     "t": "lat."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Potem"
+    },
+    {
+     "w": "jsem",
+     "t": "(ja)-jestem (czasownik pomocniczy)"
+    },
+    {
+     "w": "se",
+     "t": "się"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "przeprowadził"
+    },
+    {
+     "w": "do",
+     "t": "do"
+    },
+    {
+     "w": "nové",
+     "t": "nowego"
+    },
+    {
+     "w": "země.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Teraz"
+    },
+    {
+     "w": "se",
+     "t": "się"
+    },
+    {
+     "w": "učím",
+     "t": "uczę"
+    },
+    {
+     "w": "jazyk.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Wkrótce znowu będę pracować w swoim fachu.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "budu",
+     "t": "będę"
+    },
+    {
+     "w": "zase",
+     "t": "znowu"
+    },
+    {
+     "w": "pracovat",
+     "t": "pracować"
+    },
+    {
+     "w": "ve",
+     "t": "w"
+    },
+    {
+     "w": "svém",
+     "t": "swoim"
+    },
+    {
+     "w": "oboru.",
+     "t": "fachu."
+    }
+   ]
+  }
+ ]
+}

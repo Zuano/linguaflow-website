@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "vi",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Tôi đã làm việc trong nghề của mình suốt nhiều năm.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Nhiều"
+    },
+    {
+     "w": "éven",
+     "t": "năm"
+    },
+    {
+     "w": "át",
+     "t": "qua"
+    },
+    {
+     "w": "a",
+     "t": "trong"
+    },
+    {
+     "w": "szakmámban",
+     "t": "nghề-của-tôi"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "tôi-đã-làm-việc."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "egy",
+     "t": "một"
+    },
+    {
+     "w": "új",
+     "t": "mới"
+    },
+    {
+     "w": "országba",
+     "t": "vào-đất-nước"
+    },
+    {
+     "w": "költöztem.",
+     "t": "tôi-đã-chuyển-đến."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Hiện tại tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Hiện-tại"
+    },
+    {
+     "w": "a",
+     "t": "(mạo-từ)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "ngôn-ngữ"
+    },
+    {
+     "w": "tanulom.",
+     "t": "tôi-học."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ làm việc lại trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "újra",
+     "t": "lại"
+    },
+    {
+     "w": "a",
+     "t": "trong"
+    },
+    {
+     "w": "szakmámban",
+     "t": "nghề-của-tôi"
+    },
+    {
+     "w": "fogok",
+     "t": "tôi-sẽ"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "làm-việc."
+    }
+   ]
+  }
+ ]
+}

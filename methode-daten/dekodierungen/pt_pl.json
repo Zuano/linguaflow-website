@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "pl",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Pracowałem wiele lat w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Pracowałem"
+    },
+    {
+     "w": "muitos",
+     "t": "wiele"
+    },
+    {
+     "w": "anos",
+     "t": "lat"
+    },
+    {
+     "w": "na",
+     "t": "w"
+    },
+    {
+     "w": "minha",
+     "t": "mojej"
+    },
+    {
+     "w": "profissão.",
+     "t": "zawodzie."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Potem,"
+    },
+    {
+     "w": "vim",
+     "t": "przyjechałem"
+    },
+    {
+     "w": "para",
+     "t": "do"
+    },
+    {
+     "w": "um",
+     "t": "nowego (jednego)"
+    },
+    {
+     "w": "novo",
+     "t": "nowego"
+    },
+    {
+     "w": "país.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Teraz"
+    },
+    {
+     "w": "estou",
+     "t": "jestem"
+    },
+    {
+     "w": "a",
+     "t": "(słowo-pomocnicze)"
+    },
+    {
+     "w": "aprender",
+     "t": "uczyć-się"
+    },
+    {
+     "w": "a",
+     "t": "(rodzajnik)"
+    },
+    {
+     "w": "língua.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Wkrótce znów zacznę pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "W"
+    },
+    {
+     "w": "breve,",
+     "t": "krótkim (czasie),"
+    },
+    {
+     "w": "voltarei",
+     "t": "wrócę"
+    },
+    {
+     "w": "a",
+     "t": "do"
+    },
+    {
+     "w": "trabalhar",
+     "t": "pracowania"
+    },
+    {
+     "w": "na",
+     "t": "w"
+    },
+    {
+     "w": "minha",
+     "t": "mojej"
+    },
+    {
+     "w": "profissão.",
+     "t": "zawodzie."
+    }
+   ]
+  }
+ ]
+}

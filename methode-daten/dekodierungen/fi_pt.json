@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "pt",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Trabalhei na minha área durante muitos anos.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Eu-tenho"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "trabalhado"
+    },
+    {
+     "w": "alallani",
+     "t": "na-minha-área"
+    },
+    {
+     "w": "monta",
+     "t": "muitos"
+    },
+    {
+     "w": "vuotta.",
+     "t": "anos."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Depois mudei-me para um novo país.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Depois"
+    },
+    {
+     "w": "muutin",
+     "t": "mudei-me"
+    },
+    {
+     "w": "uuteen",
+     "t": "para-um-novo"
+    },
+    {
+     "w": "maahan.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Agora estou a estudar o idioma.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Agora"
+    },
+    {
+     "w": "opiskelen",
+     "t": "estudo"
+    },
+    {
+     "w": "kieltä.",
+     "t": "o-idioma."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Em breve pretendo continuar a trabalhar na minha área.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Em-breve"
+    },
+    {
+     "w": "aion",
+     "t": "pretendo"
+    },
+    {
+     "w": "jatkaa",
+     "t": "continuar"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "a-trabalhar"
+    },
+    {
+     "w": "alallani.",
+     "t": "na-minha-área."
+    }
+   ]
+  }
+ ]
+}

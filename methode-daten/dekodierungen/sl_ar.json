@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "ar",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "لسنوات طويلة عملت في مهنتي.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "طويلة"
+    },
+    {
+     "w": "leta",
+     "t": "سنوات"
+    },
+    {
+     "w": "sem",
+     "t": "(فعل مساعد- كنت)"
+    },
+    {
+     "w": "delal",
+     "t": "عملتُ"
+    },
+    {
+     "w": "v",
+     "t": "في"
+    },
+    {
+     "w": "svojem",
+     "t": "مهنتي-(الخاصة)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "مهنة."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "ثم أتيت إلى دولة جديدة.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "ثم"
+    },
+    {
+     "w": "sem",
+     "t": "(فعل مساعد- كنت)"
+    },
+    {
+     "w": "prišel",
+     "t": "أتيتُ"
+    },
+    {
+     "w": "v",
+     "t": "إلى"
+    },
+    {
+     "w": "novo",
+     "t": "جديدة"
+    },
+    {
+     "w": "državo.",
+     "t": "دولة."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "الآن"
+    },
+    {
+     "w": "se",
+     "t": "(انعكاسية-نفسي)"
+    },
+    {
+     "w": "učim",
+     "t": "أتعلّم"
+    },
+    {
+     "w": "jezika.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "قريبًا سأعمل مجددًا في مهنتي.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "قريبًا"
+    },
+    {
+     "w": "bom",
+     "t": "سأكون-(سأعمل)"
+    },
+    {
+     "w": "spet",
+     "t": "مجددًا"
+    },
+    {
+     "w": "delal",
+     "t": "أعمل"
+    },
+    {
+     "w": "v",
+     "t": "في"
+    },
+    {
+     "w": "svojem",
+     "t": "مهنتي-(الخاصة)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "مهنة."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "da",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Jeg arbejdede i mange år inden for mit fag.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "jeg",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "mange",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "år",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "arbejdede",
+     "r": "pratsiuvav"
+    },
+    {
+     "w": "за",
+     "t": "inden-for",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "min-egen",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "speciale.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Så flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "så",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "jeg",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "ankom",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "til",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "nyt",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "land.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "nu",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "jeg",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "lærer",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "sproget.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Snart begynder jeg igen at arbejde inden for mit fag.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "snart",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "jeg",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "igen",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "begynder",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "at-arbejde",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "inden-for",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "min-egen",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "speciale.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

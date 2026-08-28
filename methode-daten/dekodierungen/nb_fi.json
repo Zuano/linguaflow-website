@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "fi",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Olen työskennellyt monta vuotta omalla ammattialallani.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Minä"
+    },
+    {
+     "w": "har",
+     "t": "olen"
+    },
+    {
+     "w": "jobbet",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "i",
+     "t": "(aika:)"
+    },
+    {
+     "w": "mange",
+     "t": "monta"
+    },
+    {
+     "w": "år",
+     "t": "vuotta"
+    },
+    {
+     "w": "innen",
+     "t": "omalla"
+    },
+    {
+     "w": "mitt",
+     "t": "omani"
+    },
+    {
+     "w": "fagområde.",
+     "t": "ammattialallani."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Sitten"
+    },
+    {
+     "w": "flyttet",
+     "t": "muutin"
+    },
+    {
+     "w": "jeg",
+     "t": "minä"
+    },
+    {
+     "w": "til",
+     "t": "-lle (kohde)"
+    },
+    {
+     "w": "et",
+     "t": "yhteen"
+    },
+    {
+     "w": "nytt",
+     "t": "uuteen"
+    },
+    {
+     "w": "land.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Nyt opettelen kieltä.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Nyt"
+    },
+    {
+     "w": "lærer",
+     "t": "opettelen"
+    },
+    {
+     "w": "jeg",
+     "t": "minä"
+    },
+    {
+     "w": "språket.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Pian aion taas työskennellä omalla ammattialallani.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Pian"
+    },
+    {
+     "w": "skal",
+     "t": "aion"
+    },
+    {
+     "w": "jeg",
+     "t": "minä"
+    },
+    {
+     "w": "jobbe",
+     "t": "työskennellä"
+    },
+    {
+     "w": "innen",
+     "t": "omalla"
+    },
+    {
+     "w": "mitt",
+     "t": "omani"
+    },
+    {
+     "w": "fagområde",
+     "t": "ammattialallani"
+    },
+    {
+     "w": "igjen.",
+     "t": "taas."
+    }
+   ]
+  }
+ ]
+}

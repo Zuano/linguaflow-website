@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "el",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Δούλεψα πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Δούλεψα"
+    },
+    {
+     "w": "muitos",
+     "t": "πολλά"
+    },
+    {
+     "w": "anos",
+     "t": "χρόνια"
+    },
+    {
+     "w": "na",
+     "t": "στην (η+σε)"
+    },
+    {
+     "w": "minha",
+     "t": "δική-μου"
+    },
+    {
+     "w": "profissão.",
+     "t": "επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Έπειτα, ήρθα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Έπειτα,"
+    },
+    {
+     "w": "vim",
+     "t": "ήρθα"
+    },
+    {
+     "w": "para",
+     "t": "για/σε"
+    },
+    {
+     "w": "um",
+     "t": "μια"
+    },
+    {
+     "w": "novo",
+     "t": "νέα"
+    },
+    {
+     "w": "país.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Τώρα"
+    },
+    {
+     "w": "estou",
+     "t": "είμαι"
+    },
+    {
+     "w": "a",
+     "t": "(μερικό-'να')"
+    },
+    {
+     "w": "aprender",
+     "t": "μαθαίνω (να-μαθαίνω)"
+    },
+    {
+     "w": "a",
+     "t": "τη"
+    },
+    {
+     "w": "língua.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Σύντομα, θα ξαναδουλέψω στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Σε"
+    },
+    {
+     "w": "breve,",
+     "t": "σύντομα,"
+    },
+    {
+     "w": "voltarei",
+     "t": "θα-ξαναγυρίσω"
+    },
+    {
+     "w": "a",
+     "t": "σε (να)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "na",
+     "t": "στην (η+σε)"
+    },
+    {
+     "w": "minha",
+     "t": "δική-μου"
+    },
+    {
+     "w": "profissão.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

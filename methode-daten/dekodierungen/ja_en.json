@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "en",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "I have worked in my profession for many years.",
+   "pairs": [
+    {
+     "w": "私は",
+     "t": "I (subject)",
+     "r": "Watashi wa"
+    },
+    {
+     "w": "長年、",
+     "t": "for-many-years,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分の",
+     "t": "own",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職に",
+     "t": "profession (specialization) in",
+     "r": "senmonshoku ni"
+    },
+    {
+     "w": "就いて",
+     "t": "taking-up, undertaking",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "worked (progressive past).",
+     "r": "hataraite kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "After that, I moved to a new country.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "after-that,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "new",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "country to",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "moved-to (relocated).",
+     "r": "hikikosamashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Now I am studying that country's language.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "now (at-present)",
+     "r": "ima wa"
+    },
+    {
+     "w": "その国の",
+     "t": "that country's",
+     "r": "sono kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "language (object)",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "am-learning.",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Soon I will start working in my profession again.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "soon, very-soon",
+     "r": "mō sugu"
+    },
+    {
+     "w": "また、",
+     "t": "again,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "own",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "profession (specialization) in",
+     "r": "senmonshoku de"
+    },
+    {
+     "w": "働き始める",
+     "t": "work-begin (start-working)",
+     "r": "hataraki hajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "plan (intention) is.",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

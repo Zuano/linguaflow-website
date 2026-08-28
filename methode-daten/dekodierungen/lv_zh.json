@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "zh",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "我在自己的职业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "我-已经"
+    },
+    {
+     "w": "daudzus",
+     "t": "很多"
+    },
+    {
+     "w": "gadus",
+     "t": "年"
+    },
+    {
+     "w": "strādājis",
+     "t": "工作过"
+    },
+    {
+     "w": "savā",
+     "t": "自己的"
+    },
+    {
+     "w": "profesijā.",
+     "t": "职业中。"
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "之后我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "之后"
+    },
+    {
+     "w": "tam",
+     "t": "那"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "我搬家了"
+    },
+    {
+     "w": "uz",
+     "t": "到"
+    },
+    {
+     "w": "jaunu",
+     "t": "新的"
+    },
+    {
+     "w": "valsti.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "现在我在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "现在"
+    },
+    {
+     "w": "apgūstu",
+     "t": "我学习"
+    },
+    {
+     "w": "valodu.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "很快我又将在自己的职业领域工作了。",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "很快"
+    },
+    {
+     "w": "atkal",
+     "t": "再次"
+    },
+    {
+     "w": "strādāšu",
+     "t": "我将工作"
+    },
+    {
+     "w": "savā",
+     "t": "自己的"
+    },
+    {
+     "w": "profesijā.",
+     "t": "职业中。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "tr",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Uzun yıllar boyunca kendi mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "çalışmış",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "-ım",
+     "r": "sŭm"
+    },
+    {
+     "w": "дълги",
+     "t": "uzun",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "yıllar",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "içinde",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "benim",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "mesleğim.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "sonra",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "geldim",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "-e",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "yeni",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "ülke.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "şimdi",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "öğreniyorum",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "dili.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Yakında yine kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "yakında",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "yine",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "(gelecek-zaman-eki)",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "çalışacağım",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "içinde",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "benim",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "mesleğim.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

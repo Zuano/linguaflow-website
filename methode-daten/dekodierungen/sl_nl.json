@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "nl",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Ik heb lange jaren in mijn vak gewerkt.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Lange"
+    },
+    {
+     "w": "leta",
+     "t": "jaren"
+    },
+    {
+     "w": "sem",
+     "t": "heb (ik)"
+    },
+    {
+     "w": "delal",
+     "t": "gewerkt"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "svojem",
+     "t": "mijn (eigen)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "vak."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Daarna kwam ik in een nieuw land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Daarna"
+    },
+    {
+     "w": "sem",
+     "t": "heb (ik)"
+    },
+    {
+     "w": "prišel",
+     "t": "gekomen"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "novo",
+     "t": "nieuw"
+    },
+    {
+     "w": "državo.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Nu"
+    },
+    {
+     "w": "se",
+     "t": "(wederkerend)"
+    },
+    {
+     "w": "učim",
+     "t": "leer (ik)"
+    },
+    {
+     "w": "jezika.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Binnenkort zal ik weer in mijn vak werken.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "bom",
+     "t": "zal (ik)"
+    },
+    {
+     "w": "spet",
+     "t": "weer"
+    },
+    {
+     "w": "delal",
+     "t": "werken"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "svojem",
+     "t": "mijn (eigen)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "vak."
+    }
+   ]
+  }
+ ]
+}

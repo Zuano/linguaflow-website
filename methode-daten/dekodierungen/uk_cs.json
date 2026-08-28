@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "cs",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Mnoho let jsem pracoval ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "já",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "mnoho",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "let",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "pracoval-jsem",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "ve",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "svém",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "oboru.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Potom jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "potom",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "já",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "přijel-jsem",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "do",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "nové",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "země.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "teď",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "já",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "učím-se",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "jazyk.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Brzy zase začnu pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "brzy",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "já",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "zase",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "začnu",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "pracovat",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "ve",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "svém",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "oboru.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

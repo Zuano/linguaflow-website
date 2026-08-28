@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "sl",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Delal sem v svoji stroki mnogo let.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Jaz"
+    },
+    {
+     "w": "har",
+     "t": "sem"
+    },
+    {
+     "w": "arbejdet",
+     "t": "delal"
+    },
+    {
+     "w": "i",
+     "t": "v"
+    },
+    {
+     "w": "mit",
+     "t": "svoji"
+    },
+    {
+     "w": "fag",
+     "t": "stroki"
+    },
+    {
+     "w": "i",
+     "t": "za"
+    },
+    {
+     "w": "mange",
+     "t": "mnogo"
+    },
+    {
+     "w": "år.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Nato"
+    },
+    {
+     "w": "flyttede",
+     "t": "sem-se-preselil"
+    },
+    {
+     "w": "jeg",
+     "t": "jaz"
+    },
+    {
+     "w": "til",
+     "t": "v"
+    },
+    {
+     "w": "et",
+     "t": "eno"
+    },
+    {
+     "w": "nyt",
+     "t": "novo"
+    },
+    {
+     "w": "land.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Zdaj"
+    },
+    {
+     "w": "lærer",
+     "t": "se-učim"
+    },
+    {
+     "w": "jeg",
+     "t": "jaz"
+    },
+    {
+     "w": "sproget.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Kmalu bom spet delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Kmalu"
+    },
+    {
+     "w": "skal",
+     "t": "bom"
+    },
+    {
+     "w": "jeg",
+     "t": "jaz"
+    },
+    {
+     "w": "arbejde",
+     "t": "delal"
+    },
+    {
+     "w": "i",
+     "t": "v"
+    },
+    {
+     "w": "mit",
+     "t": "svoji"
+    },
+    {
+     "w": "fag",
+     "t": "stroki"
+    },
+    {
+     "w": "igen.",
+     "t": "spet."
+    }
+   ]
+  }
+ ]
+}

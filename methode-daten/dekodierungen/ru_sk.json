@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "sk",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Veľa rokov som pracoval vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ja",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "veľa",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "rokov",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "pracoval",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "v",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "odbore.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Potom",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "presťahoval-sa",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "do",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "novej",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "krajiny.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Teraz",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "učím-sa",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "jazyk.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Už skoro znova začnem pracovať vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Skoro",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "znova",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "začnem",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "pracovať",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "v",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "odbore.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

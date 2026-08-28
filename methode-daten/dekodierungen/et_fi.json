@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "fi",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Olen työskennellyt alallani monta vuotta.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Olen"
+    },
+    {
+     "w": "palju",
+     "t": "paljon"
+    },
+    {
+     "w": "aastaid",
+     "t": "vuosia"
+    },
+    {
+     "w": "oma",
+     "t": "omalla"
+    },
+    {
+     "w": "erialal",
+     "t": "alalla"
+    },
+    {
+     "w": "töötanud.",
+     "t": "työskennellyt."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Sitten"
+    },
+    {
+     "w": "kolisin",
+     "t": "muutin"
+    },
+    {
+     "w": "uude",
+     "t": "uuteen"
+    },
+    {
+     "w": "riiki.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Nyt"
+    },
+    {
+     "w": "õpin",
+     "t": "opiskelen"
+    },
+    {
+     "w": "keelt.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Pian alan taas työskennellä alallani.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Pian"
+    },
+    {
+     "w": "hakkan",
+     "t": "alan"
+    },
+    {
+     "w": "jälle",
+     "t": "taas"
+    },
+    {
+     "w": "oma",
+     "t": "omalla"
+    },
+    {
+     "w": "erialal",
+     "t": "alalla"
+    },
+    {
+     "w": "töötama.",
+     "t": "työskentelemään."
+    }
+   ]
+  }
+ ]
+}

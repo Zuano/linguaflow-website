@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "th",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "ฉัน"
+    },
+    {
+     "w": "har",
+     "t": "ได้"
+    },
+    {
+     "w": "arbetat",
+     "t": "ทำงาน(มาแล้ว)"
+    },
+    {
+     "w": "många",
+     "t": "หลาย"
+    },
+    {
+     "w": "år",
+     "t": "ปี"
+    },
+    {
+     "w": "inom",
+     "t": "ใน"
+    },
+    {
+     "w": "mitt",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "yrke.",
+     "t": "อาชีพ"
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "จากนั้นฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "flyttade",
+     "t": "ย้าย(ไปแล้ว)"
+    },
+    {
+     "w": "jag",
+     "t": "ฉัน"
+    },
+    {
+     "w": "till",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "ett",
+     "t": "หนึ่ง(คำนำหน้า)"
+    },
+    {
+     "w": "nytt",
+     "t": "ใหม่"
+    },
+    {
+     "w": "land.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "lär",
+     "t": "เรียน"
+    },
+    {
+     "w": "jag",
+     "t": "ฉัน"
+    },
+    {
+     "w": "mig",
+     "t": "ตัวเอง"
+    },
+    {
+     "w": "språket.",
+     "t": "ภาษา(นั้น)"
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "ในไม่ช้าฉันจะเริ่มทำงานในอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "ในไม่ช้า"
+    },
+    {
+     "w": "ska",
+     "t": "จะ"
+    },
+    {
+     "w": "jag",
+     "t": "ฉัน"
+    },
+    {
+     "w": "börja",
+     "t": "เริ่ม"
+    },
+    {
+     "w": "arbeta",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "inom",
+     "t": "ใน"
+    },
+    {
+     "w": "mitt",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "yrke",
+     "t": "อาชีพ"
+    },
+    {
+     "w": "igen.",
+     "t": "อีกครั้ง"
+    }
+   ]
+  }
+ ]
+}

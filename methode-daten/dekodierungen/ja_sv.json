@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "sv",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Jag har arbetat i min profession i många år.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "jag",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(subjekt-markör)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "många-år,",
+     "r": "chōnen,"
+    },
+    {
+     "w": "自分の",
+     "t": "sin-egen",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職",
+     "t": "profession",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "i",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "anträda",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いて",
+     "t": "arbeta",
+     "r": "hataraite"
+    },
+    {
+     "w": "きました。",
+     "t": "har-(gång-efter-gång).",
+     "r": "kimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Därefter flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "その後、",
+     "t": "därefter,",
+     "r": "sono go,"
+    },
+    {
+     "w": "新しい",
+     "t": "ny",
+     "r": "atarashii"
+    },
+    {
+     "w": "国へ",
+     "t": "land-till",
+     "r": "kuni e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "flytta-och-bosätta-sig.",
+     "r": "iri-sumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Nu studerar jag det landets språk.",
+   "pairs": [
+    {
+     "w": "今は",
+     "t": "nu",
+     "r": "ima wa"
+    },
+    {
+     "w": "その国の",
+     "t": "det-landet-s",
+     "r": "sono kuni no"
+    },
+    {
+     "w": "言語を",
+     "t": "språk-(objekt)",
+     "r": "gengo wo"
+    },
+    {
+     "w": "学んで",
+     "t": "lära",
+     "r": "manande"
+    },
+    {
+     "w": "います。",
+     "t": "håller-på-(med).",
+     "r": "imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Mycket snart kommer jag att börja arbeta i min profession igen.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "mycket-snart",
+     "r": "mō sugu"
+    },
+    {
+     "w": "また、",
+     "t": "igen,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分の",
+     "t": "sin-egen",
+     "r": "jibun no"
+    },
+    {
+     "w": "専門職で",
+     "t": "profession-i",
+     "r": "senmonshoku de"
+    },
+    {
+     "w": "働き",
+     "t": "arbeta",
+     "r": "hataraki"
+    },
+    {
+     "w": "始める",
+     "t": "börja",
+     "r": "hajimeru"
+    },
+    {
+     "w": "予定です。",
+     "t": "är-planerat.",
+     "r": "yotei desu."
+    }
+   ]
+  }
+ ]
+}

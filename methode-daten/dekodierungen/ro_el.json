@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "el",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Δούλεψα πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Έχω"
+    },
+    {
+     "w": "lucrat",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "mulți",
+     "t": "πολλά"
+    },
+    {
+     "w": "ani",
+     "t": "χρόνια"
+    },
+    {
+     "w": "în",
+     "t": "στο"
+    },
+    {
+     "w": "meseria",
+     "t": "επάγγελμα-το"
+    },
+    {
+     "w": "mea.",
+     "t": "μου."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Μετά μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Μετά"
+    },
+    {
+     "w": "m-am",
+     "t": "μ'έχω (μετακομίσει)"
+    },
+    {
+     "w": "mutat",
+     "t": "μετακομίσει"
+    },
+    {
+     "w": "într-o",
+     "t": "σε-μια"
+    },
+    {
+     "w": "țară",
+     "t": "χώρα"
+    },
+    {
+     "w": "nouă.",
+     "t": "νέα."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Τώρα"
+    },
+    {
+     "w": "învăț",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "limba.",
+     "t": "γλώσσα-τη."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Σύντομα θα δουλέψω ξανά στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Σε"
+    },
+    {
+     "w": "curând",
+     "t": "σύντομο (χρόνο)"
+    },
+    {
+     "w": "voi",
+     "t": "θα"
+    },
+    {
+     "w": "lucra",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "din",
+     "t": "από"
+    },
+    {
+     "w": "nou",
+     "t": "νέο (ξανά)"
+    },
+    {
+     "w": "în",
+     "t": "στο"
+    },
+    {
+     "w": "meseria",
+     "t": "επάγγελμα-το"
+    },
+    {
+     "w": "mea.",
+     "t": "μου."
+    }
+   ]
+  }
+ ]
+}

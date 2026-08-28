@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "ru",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Я работал по своей профессии много лет.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "я"
+    },
+    {
+     "w": "worked",
+     "t": "работал"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "my",
+     "t": "своей"
+    },
+    {
+     "w": "profession",
+     "t": "профессии"
+    },
+    {
+     "w": "for",
+     "t": "на протяжении"
+    },
+    {
+     "w": "many",
+     "t": "многих"
+    },
+    {
+     "w": "years.",
+     "t": "лет."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Затем я переехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "затем"
+    },
+    {
+     "w": "I",
+     "t": "я"
+    },
+    {
+     "w": "moved",
+     "t": "переехал"
+    },
+    {
+     "w": "to",
+     "t": "в"
+    },
+    {
+     "w": "a",
+     "t": "(артикль)"
+    },
+    {
+     "w": "new",
+     "t": "новую"
+    },
+    {
+     "w": "country.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Теперь я изучаю язык.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "теперь"
+    },
+    {
+     "w": "I'm",
+     "t": "я'есть (сейчас)"
+    },
+    {
+     "w": "learning",
+     "t": "изучаю"
+    },
+    {
+     "w": "the",
+     "t": "(артикль)"
+    },
+    {
+     "w": "language.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Скоро я снова буду работать по своей профессии.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "скоро"
+    },
+    {
+     "w": "I'll",
+     "t": "я'буду"
+    },
+    {
+     "w": "be",
+     "t": "(вспомогательное)"
+    },
+    {
+     "w": "working",
+     "t": "работать"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "my",
+     "t": "своей"
+    },
+    {
+     "w": "profession",
+     "t": "профессии"
+    },
+    {
+     "w": "again.",
+     "t": "снова."
+    }
+   ]
+  }
+ ]
+}

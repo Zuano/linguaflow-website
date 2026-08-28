@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "ru",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Я много лет проработал по своей профессии.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Я'имею (вспом. глагол)"
+    },
+    {
+     "w": "trabajado",
+     "t": "работал"
+    },
+    {
+     "w": "muchos",
+     "t": "много"
+    },
+    {
+     "w": "años",
+     "t": "лет"
+    },
+    {
+     "w": "en",
+     "t": "в"
+    },
+    {
+     "w": "mi",
+     "t": "моей"
+    },
+    {
+     "w": "profesión.",
+     "t": "профессии."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Потом я переехал в другую страну.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Потом"
+    },
+    {
+     "w": "me",
+     "t": "себя"
+    },
+    {
+     "w": "mudé",
+     "t": "переехал (перевёз)"
+    },
+    {
+     "w": "a",
+     "t": "в"
+    },
+    {
+     "w": "otro",
+     "t": "другую"
+    },
+    {
+     "w": "país.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Сейчас я изучаю язык.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Сейчас"
+    },
+    {
+     "w": "estoy",
+     "t": "я'нахожусь"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "изучающий (изучаю)"
+    },
+    {
+     "w": "el",
+     "t": "этот"
+    },
+    {
+     "w": "idioma.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Скоро я снова начну работать по своей профессии.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Скоро"
+    },
+    {
+     "w": "volveré",
+     "t": "я'вернусь"
+    },
+    {
+     "w": "a",
+     "t": "к"
+    },
+    {
+     "w": "trabajar",
+     "t": "работать"
+    },
+    {
+     "w": "en",
+     "t": "в"
+    },
+    {
+     "w": "mi",
+     "t": "моей"
+    },
+    {
+     "w": "profesión.",
+     "t": "профессии."
+    }
+   ]
+  }
+ ]
+}

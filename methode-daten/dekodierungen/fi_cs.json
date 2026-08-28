@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "cs",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Pracoval jsem ve svém oboru mnoho let.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "jsem"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "pracoval"
+    },
+    {
+     "w": "alallani",
+     "t": "ve-svém-oboru"
+    },
+    {
+     "w": "monta",
+     "t": "mnoho"
+    },
+    {
+     "w": "vuotta.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Pak jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "pak"
+    },
+    {
+     "w": "muutin",
+     "t": "přestěhoval-jsem-se"
+    },
+    {
+     "w": "uuteen",
+     "t": "do-nové"
+    },
+    {
+     "w": "maahan.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Teď studuji jazyk.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "teď"
+    },
+    {
+     "w": "opiskelen",
+     "t": "studuji"
+    },
+    {
+     "w": "kieltä.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Brzy hodlám pokračovat v práci ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "brzy"
+    },
+    {
+     "w": "aion",
+     "t": "hodlám"
+    },
+    {
+     "w": "jatkaa",
+     "t": "pokračovat"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "v-práci"
+    },
+    {
+     "w": "alallani.",
+     "t": "ve-svém-oboru."
+    }
+   ]
+  }
+ ]
+}

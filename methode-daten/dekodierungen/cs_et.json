@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "et",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "-l"
+    },
+    {
+     "w": "svém",
+     "t": "oma"
+    },
+    {
+     "w": "oboru",
+     "t": "erialal"
+    },
+    {
+     "w": "jsem",
+     "t": "olen"
+    },
+    {
+     "w": "pracoval",
+     "t": "töötanud"
+    },
+    {
+     "w": "mnoho",
+     "t": "palju"
+    },
+    {
+     "w": "let.",
+     "t": "aastaid."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Pärast selle kolisin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Pärast"
+    },
+    {
+     "w": "jsem",
+     "t": "olen"
+    },
+    {
+     "w": "se",
+     "t": "end"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "ümber-tõstnud (kolinud)"
+    },
+    {
+     "w": "do",
+     "t": "-sse"
+    },
+    {
+     "w": "nové",
+     "t": "uude"
+    },
+    {
+     "w": "země.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Nüüd õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Nüüd"
+    },
+    {
+     "w": "se",
+     "t": "(oma jaoks)"
+    },
+    {
+     "w": "učím",
+     "t": "õpin"
+    },
+    {
+     "w": "jazyk.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Varsti hakkan ma taas töötama oma erialal.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Varsti"
+    },
+    {
+     "w": "budu",
+     "t": "hakkan"
+    },
+    {
+     "w": "zase",
+     "t": "taas"
+    },
+    {
+     "w": "pracovat",
+     "t": "töötama"
+    },
+    {
+     "w": "ve",
+     "t": "-l"
+    },
+    {
+     "w": "svém",
+     "t": "oma"
+    },
+    {
+     "w": "oboru.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

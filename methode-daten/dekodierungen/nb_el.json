@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "el",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Έχω δουλέψει για πολλά χρόνια στον τομέα μου.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Εγώ"
+    },
+    {
+     "w": "har",
+     "t": "έχω"
+    },
+    {
+     "w": "jobbet",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "i",
+     "t": "για"
+    },
+    {
+     "w": "mange",
+     "t": "πολλά"
+    },
+    {
+     "w": "år",
+     "t": "χρόνια"
+    },
+    {
+     "w": "innen",
+     "t": "στον-τομέα (μέσα σε)"
+    },
+    {
+     "w": "mitt",
+     "t": "τον-δικό-μου"
+    },
+    {
+     "w": "fagområde.",
+     "t": "επαγγελματικό-πεδίο."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Έπειτα μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "flyttet",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "jeg",
+     "t": "εγώ"
+    },
+    {
+     "w": "til",
+     "t": "σε"
+    },
+    {
+     "w": "et",
+     "t": "μια"
+    },
+    {
+     "w": "nytt",
+     "t": "νέα"
+    },
+    {
+     "w": "land.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Τώρα"
+    },
+    {
+     "w": "lærer",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "jeg",
+     "t": "εγώ"
+    },
+    {
+     "w": "språket.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Σύντομα θα δουλέψω ξανά στον τομέα μου.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "skal",
+     "t": "θα"
+    },
+    {
+     "w": "jeg",
+     "t": "εγώ"
+    },
+    {
+     "w": "jobbe",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "innen",
+     "t": "στον-τομέα (μέσα σε)"
+    },
+    {
+     "w": "mitt",
+     "t": "τον-δικό-μου"
+    },
+    {
+     "w": "fagområde",
+     "t": "επαγγελματικό-πεδίο"
+    },
+    {
+     "w": "igjen.",
+     "t": "ξανά."
+    }
+   ]
+  }
+ ]
+}

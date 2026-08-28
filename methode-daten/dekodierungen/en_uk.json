@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "uk",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Я багато років працював за своєю професією.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "я"
+    },
+    {
+     "w": "worked",
+     "t": "працював"
+    },
+    {
+     "w": "in",
+     "t": "за"
+    },
+    {
+     "w": "my",
+     "t": "моєю"
+    },
+    {
+     "w": "profession",
+     "t": "професією"
+    },
+    {
+     "w": "for",
+     "t": "протягом"
+    },
+    {
+     "w": "many",
+     "t": "багатьох"
+    },
+    {
+     "w": "years.",
+     "t": "років."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Потім я переїхав до нової країни.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "потім"
+    },
+    {
+     "w": "I",
+     "t": "я"
+    },
+    {
+     "w": "moved",
+     "t": "переїхав"
+    },
+    {
+     "w": "to",
+     "t": "до"
+    },
+    {
+     "w": "a",
+     "t": "(одну)"
+    },
+    {
+     "w": "new",
+     "t": "нової"
+    },
+    {
+     "w": "country.",
+     "t": "країни."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Зараз я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "зараз"
+    },
+    {
+     "w": "I'm",
+     "t": "я'є"
+    },
+    {
+     "w": "learning",
+     "t": "вивчаючи"
+    },
+    {
+     "w": "the",
+     "t": "(цю)"
+    },
+    {
+     "w": "language.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Незабаром я знову працюватиму за своєю професією.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "незабаром"
+    },
+    {
+     "w": "I'll",
+     "t": "я'буду"
+    },
+    {
+     "w": "be",
+     "t": "(допоміжне-дієслово)"
+    },
+    {
+     "w": "working",
+     "t": "працювати"
+    },
+    {
+     "w": "in",
+     "t": "за"
+    },
+    {
+     "w": "my",
+     "t": "моєю"
+    },
+    {
+     "w": "profession",
+     "t": "професією"
+    },
+    {
+     "w": "again.",
+     "t": "знову."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "sk",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Pracoval som mnoho rokov vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "ja",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "veľa",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "rokov",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "pracoval-som",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "vo (podľa)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "svojej",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "profesii.",
+     "r": "spetsialʹnistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "potom",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "prišiel-som",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "do",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "novej",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "krajiny.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "teraz",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "učím-sa",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "jazyk.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Čoskoro opäť začnem pracovať vo svojej profesii.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "čoskoro",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "ja",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "opäť",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "začnem",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "pracovať",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "vo (podľa)",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "svojej",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "profesii.",
+     "r": "spetsialʹnistyu."
+    }
+   ]
+  }
+ ]
+}

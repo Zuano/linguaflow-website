@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "da",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Jeg arbejdede i mange år i mit fag.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "jeg-arbejdede",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "år",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "mange",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "i-faget",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mit.",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Derefter kom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "efter",
+     "r": "le'akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "det",
+     "r": "mikén"
+    },
+    {
+     "w": "הגעתי",
+     "t": "jeg-ankom",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "til-et-land",
+     "r": "le-medinâ"
+    },
+    {
+     "w": "חדשה.",
+     "t": "nyt.",
+     "r": "khadashâ."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "nu",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "jeg",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "lærer",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(genstands-ord)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "sproget.",
+     "r": "ha-safâ."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Snart vender jeg tilbage til at arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "snart",
+     "r": "be-karóv"
+    },
+    {
+     "w": "אחזור",
+     "t": "jeg-vender-tilbage",
+     "r": "ekhzór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "til-at-arbejde",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "i-faget",
+     "r": "be-miktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "mit.",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

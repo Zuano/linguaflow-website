@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "hu",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Sok éven át dolgoztam a szakterületemen.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Én"
+    },
+    {
+     "w": "telah",
+     "t": "már (múlt idő)"
+    },
+    {
+     "w": "bekerja",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "di",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "bidang",
+     "t": "területén"
+    },
+    {
+     "w": "saya",
+     "t": "az-én"
+    },
+    {
+     "w": "selama",
+     "t": "során"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "sok-éven-át."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Aztán egy új országba költöztem.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Aztán"
+    },
+    {
+     "w": "saya",
+     "t": "én"
+    },
+    {
+     "w": "pindah",
+     "t": "költöztem"
+    },
+    {
+     "w": "ke",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "negara",
+     "t": "országba"
+    },
+    {
+     "w": "baru.",
+     "t": "új."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Most tanulom a nyelvét.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Most"
+    },
+    {
+     "w": "saya",
+     "t": "én"
+    },
+    {
+     "w": "sedang",
+     "t": "éppen (folyamatban)"
+    },
+    {
+     "w": "belajar",
+     "t": "tanulom"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "a-nyelvét."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Nemsokára visszatérek dolgozni a szakterületemen.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Nem-sokára"
+    },
+    {
+     "w": "lagi",
+     "t": "még (hamarosan)"
+    },
+    {
+     "w": "saya",
+     "t": "én"
+    },
+    {
+     "w": "akan",
+     "t": "fogok"
+    },
+    {
+     "w": "kembali",
+     "t": "visszatérni"
+    },
+    {
+     "w": "bekerja",
+     "t": "dolgozni"
+    },
+    {
+     "w": "di",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "bidang",
+     "t": "területén"
+    },
+    {
+     "w": "saya.",
+     "t": "az-én."
+    }
+   ]
+  }
+ ]
+}

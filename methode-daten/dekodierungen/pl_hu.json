@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "hu",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Át"
+    },
+    {
+     "w": "wiele",
+     "t": "sok"
+    },
+    {
+     "w": "lat",
+     "t": "éven"
+    },
+    {
+     "w": "pracowałem",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "w",
+     "t": "a"
+    },
+    {
+     "w": "swoim",
+     "t": "saját"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "szakmámban."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Aztán egy új országba érkeztem.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Aztán"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "megérkeztem"
+    },
+    {
+     "w": "do",
+     "t": "-ba"
+    },
+    {
+     "w": "nowego",
+     "t": "új"
+    },
+    {
+     "w": "kraju.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Most nyelvet tanulok.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Most"
+    },
+    {
+     "w": "uczę",
+     "t": "tanulok"
+    },
+    {
+     "w": "się",
+     "t": "(magam-számára)"
+    },
+    {
+     "w": "języka.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Hamarosan"
+    },
+    {
+     "w": "znów",
+     "t": "újra"
+    },
+    {
+     "w": "będę",
+     "t": "fogok"
+    },
+    {
+     "w": "pracował",
+     "t": "dolgozni"
+    },
+    {
+     "w": "w",
+     "t": "a"
+    },
+    {
+     "w": "swoim",
+     "t": "saját"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

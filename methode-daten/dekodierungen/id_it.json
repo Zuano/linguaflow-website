@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "it",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Ho lavorato nel mio campo per molti anni.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Io"
+    },
+    {
+     "w": "telah",
+     "t": "ho-già"
+    },
+    {
+     "w": "bekerja",
+     "t": "lavorato"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "campo"
+    },
+    {
+     "w": "saya",
+     "t": "mio"
+    },
+    {
+     "w": "selama",
+     "t": "per"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "molti-anni."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Poi mi sono trasferito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Poi"
+    },
+    {
+     "w": "saya",
+     "t": "io"
+    },
+    {
+     "w": "pindah",
+     "t": "trasferito"
+    },
+    {
+     "w": "ke",
+     "t": "in"
+    },
+    {
+     "w": "negara",
+     "t": "paese"
+    },
+    {
+     "w": "baru.",
+     "t": "nuovo."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Ora"
+    },
+    {
+     "w": "saya",
+     "t": "io"
+    },
+    {
+     "w": "sedang",
+     "t": "sto-(azione-in-corso)"
+    },
+    {
+     "w": "belajar",
+     "t": "imparando"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "la-lingua-(di-esso)."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Tra poco tornerò a lavorare nel mio campo.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Tra-poco"
+    },
+    {
+     "w": "lagi",
+     "t": "ancora"
+    },
+    {
+     "w": "saya",
+     "t": "io"
+    },
+    {
+     "w": "akan",
+     "t": "(futuro)"
+    },
+    {
+     "w": "kembali",
+     "t": "tornare"
+    },
+    {
+     "w": "bekerja",
+     "t": "a-lavorare"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "campo"
+    },
+    {
+     "w": "saya.",
+     "t": "mio."
+    }
+   ]
+  }
+ ]
+}

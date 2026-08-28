@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "ro",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Am lucrat mulți ani în meseria mea.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "în-meseria-mea"
+    },
+    {
+     "w": "uzun",
+     "t": "mulți (lungi)"
+    },
+    {
+     "w": "yıllar",
+     "t": "ani"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "am-lucrat."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "apoi"
+    },
+    {
+     "w": "yeni",
+     "t": "nouă"
+    },
+    {
+     "w": "bir",
+     "t": "o"
+    },
+    {
+     "w": "ülkeye",
+     "t": "în-țară"
+    },
+    {
+     "w": "geldim.",
+     "t": "am-venit."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "acum"
+    },
+    {
+     "w": "dili",
+     "t": "limba"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "învăț."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "În curând voi începe din nou să lucrez în meseria mea.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "în-curând"
+    },
+    {
+     "w": "tekrar",
+     "t": "din-nou"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "în-meseria-mea"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "să-lucrez"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "voi-începe."
+    }
+   ]
+  }
+ ]
+}

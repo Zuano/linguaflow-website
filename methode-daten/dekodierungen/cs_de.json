@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "de",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "In meinem Fachgebiet habe ich viele Jahre gearbeitet.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "In"
+    },
+    {
+     "w": "svém",
+     "t": "meinem"
+    },
+    {
+     "w": "oboru",
+     "t": "Fachgebiet"
+    },
+    {
+     "w": "jsem",
+     "t": "habe (ich)"
+    },
+    {
+     "w": "pracoval",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "mnoho",
+     "t": "viele"
+    },
+    {
+     "w": "let.",
+     "t": "Jahre."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Danach bin ich in ein neues Land gezogen.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Danach"
+    },
+    {
+     "w": "jsem",
+     "t": "bin (ich)"
+    },
+    {
+     "w": "se",
+     "t": "sich"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "umgezogen"
+    },
+    {
+     "w": "do",
+     "t": "in"
+    },
+    {
+     "w": "nové",
+     "t": "neues"
+    },
+    {
+     "w": "země.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Jetzt lerne ich eine Sprache.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Jetzt"
+    },
+    {
+     "w": "se",
+     "t": "(Wortteil)"
+    },
+    {
+     "w": "učím",
+     "t": "lerne (ich)"
+    },
+    {
+     "w": "jazyk.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Bald werde ich wieder in meinem Fachgebiet arbeiten.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Bald"
+    },
+    {
+     "w": "budu",
+     "t": "werde (ich)"
+    },
+    {
+     "w": "zase",
+     "t": "wieder"
+    },
+    {
+     "w": "pracovat",
+     "t": "arbeiten"
+    },
+    {
+     "w": "ve",
+     "t": "in"
+    },
+    {
+     "w": "svém",
+     "t": "meinem"
+    },
+    {
+     "w": "oboru.",
+     "t": "Fachgebiet."
+    }
+   ]
+  }
+ ]
+}

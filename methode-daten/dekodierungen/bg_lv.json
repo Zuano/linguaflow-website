@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "lv",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Es esmu strādājis daudzus gadus savā profesijā.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "strādājis",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "esmu",
+     "r": "sam"
+    },
+    {
+     "w": "дълги",
+     "t": "garus (ilgus)",
+     "r": "dalgi"
+    },
+    {
+     "w": "години",
+     "t": "gadus",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "savā",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "manā (savā)",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesijā.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Pēc tam es ierados jaunā valstī.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Pēc-tam",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "es-ieradu",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "jaunā",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "jaunā",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "valstī.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Tagad",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "es-mācos",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "valodu.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Drīz es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Drīz",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "atkal",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "(nākotnes-daļiņa)",
+     "r": "shte"
+    },
+    {
+     "w": "работя",
+     "t": "strādāšu",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "savā",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "manā (savā)",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesijā.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

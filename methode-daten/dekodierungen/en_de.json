@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "de",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Ich habe viele Jahre lang in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Ich"
+    },
+    {
+     "w": "worked",
+     "t": "arbeitete"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "my",
+     "t": "meinem"
+    },
+    {
+     "w": "profession",
+     "t": "Beruf"
+    },
+    {
+     "w": "for",
+     "t": "für"
+    },
+    {
+     "w": "many",
+     "t": "viele"
+    },
+    {
+     "w": "years.",
+     "t": "Jahre."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Dann bin ich in ein neues Land umgezogen.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Dann"
+    },
+    {
+     "w": "I",
+     "t": "ich"
+    },
+    {
+     "w": "moved",
+     "t": "zog-um"
+    },
+    {
+     "w": "to",
+     "t": "in"
+    },
+    {
+     "w": "a",
+     "t": "ein"
+    },
+    {
+     "w": "new",
+     "t": "neues"
+    },
+    {
+     "w": "country.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Jetzt"
+    },
+    {
+     "w": "I'm",
+     "t": "Ich'bin"
+    },
+    {
+     "w": "learning",
+     "t": "lernend"
+    },
+    {
+     "w": "the",
+     "t": "die"
+    },
+    {
+     "w": "language.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Bald"
+    },
+    {
+     "w": "I'll",
+     "t": "ich'werde"
+    },
+    {
+     "w": "be",
+     "t": "sein (Hilfswort)"
+    },
+    {
+     "w": "working",
+     "t": "arbeitend"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "my",
+     "t": "meinem"
+    },
+    {
+     "w": "profession",
+     "t": "Beruf"
+    },
+    {
+     "w": "again.",
+     "t": "wieder."
+    }
+   ]
+  }
+ ]
+}

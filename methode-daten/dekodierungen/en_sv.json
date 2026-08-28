@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "sv",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Jag arbetade inom mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Jag"
+    },
+    {
+     "w": "worked",
+     "t": "arbetade"
+    },
+    {
+     "w": "in",
+     "t": "inom"
+    },
+    {
+     "w": "my",
+     "t": "mitt"
+    },
+    {
+     "w": "profession",
+     "t": "yrke"
+    },
+    {
+     "w": "for",
+     "t": "i"
+    },
+    {
+     "w": "many",
+     "t": "många"
+    },
+    {
+     "w": "years.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Sedan flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Sedan"
+    },
+    {
+     "w": "I",
+     "t": "jag"
+    },
+    {
+     "w": "moved",
+     "t": "flyttade"
+    },
+    {
+     "w": "to",
+     "t": "till"
+    },
+    {
+     "w": "a",
+     "t": "ett"
+    },
+    {
+     "w": "new",
+     "t": "nytt"
+    },
+    {
+     "w": "country.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Nu"
+    },
+    {
+     "w": "I'm",
+     "t": "Jag'håller"
+    },
+    {
+     "w": "learning",
+     "t": "på-att-lära"
+    },
+    {
+     "w": "the",
+     "t": "mig"
+    },
+    {
+     "w": "language.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Snart kommer jag att arbeta inom mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Snart"
+    },
+    {
+     "w": "I'll",
+     "t": "jag'kommer"
+    },
+    {
+     "w": "be",
+     "t": "att-vara"
+    },
+    {
+     "w": "working",
+     "t": "arbetande"
+    },
+    {
+     "w": "in",
+     "t": "inom"
+    },
+    {
+     "w": "my",
+     "t": "mitt"
+    },
+    {
+     "w": "profession",
+     "t": "yrke"
+    },
+    {
+     "w": "again.",
+     "t": "igen."
+    }
+   ]
+  }
+ ]
+}

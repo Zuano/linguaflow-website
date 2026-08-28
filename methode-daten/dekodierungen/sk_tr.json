@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "tr",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Kendi alanımda uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "içinde"
+    },
+    {
+     "w": "mojom",
+     "t": "benim"
+    },
+    {
+     "w": "odbore",
+     "t": "alanımda"
+    },
+    {
+     "w": "som",
+     "t": "-dım (ben)"
+    },
+    {
+     "w": "pracoval",
+     "t": "çalıştım"
+    },
+    {
+     "w": "mnoho",
+     "t": "birçok"
+    },
+    {
+     "w": "rokov.",
+     "t": "yıl."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Sonra yeni bir ülkeye geldim.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "sonra"
+    },
+    {
+     "w": "som",
+     "t": "-dım (ben)"
+    },
+    {
+     "w": "prišiel",
+     "t": "geldim"
+    },
+    {
+     "w": "do",
+     "t": "-e"
+    },
+    {
+     "w": "novej",
+     "t": "yeni"
+    },
+    {
+     "w": "krajiny.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "şimdi"
+    },
+    {
+     "w": "sa",
+     "t": "kendimi (dönüşlü)"
+    },
+    {
+     "w": "učím",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "jazyk.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Yakında yine kendi alanımda çalışacağım.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "yakında"
+    },
+    {
+     "w": "budem",
+     "t": "-acağım (ben)"
+    },
+    {
+     "w": "opäť",
+     "t": "yine"
+    },
+    {
+     "w": "pracovať",
+     "t": "çalışmak"
+    },
+    {
+     "w": "vo",
+     "t": "içinde"
+    },
+    {
+     "w": "svojom",
+     "t": "kendi"
+    },
+    {
+     "w": "odbore.",
+     "t": "alanımda."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "de",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Viele Jahre lang habe ich in meinem Beruf gearbeitet.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Durch (über)"
+    },
+    {
+     "w": "wiele",
+     "t": "viele"
+    },
+    {
+     "w": "lat",
+     "t": "Jahre"
+    },
+    {
+     "w": "pracowałem",
+     "t": "arbeitete-ich"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "meinem"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "Beruf."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Danach kam ich in ein neues Land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Danach"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "kam-ich-an"
+    },
+    {
+     "w": "do",
+     "t": "in"
+    },
+    {
+     "w": "nowego",
+     "t": "neues"
+    },
+    {
+     "w": "kraju.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Jetzt"
+    },
+    {
+     "w": "uczę",
+     "t": "lerne"
+    },
+    {
+     "w": "się",
+     "t": "mich (sich)"
+    },
+    {
+     "w": "języka.",
+     "t": "Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Bald werde ich wieder in meinem Beruf arbeiten.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Bald"
+    },
+    {
+     "w": "znów",
+     "t": "wieder"
+    },
+    {
+     "w": "będę",
+     "t": "werde-ich"
+    },
+    {
+     "w": "pracował",
+     "t": "arbeiten (gearbeitet-haben)"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "meinem"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "Beruf."
+    }
+   ]
+  }
+ ]
+}

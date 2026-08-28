@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "id",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Saya telah bekerja di profesi saya selama bertahun-tahun.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "sungguh (telah)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "saya-bekerja",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "di",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "profesi-saya",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "selama-bertahun-tahun",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "banyak.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Kemudian saya pindah ke negara baru.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "kemudian",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "saya-pindah",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "ke",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "negara",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "baru.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Dan sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "dan-sekarang",
+     "r": "wal-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "saya-belajar",
+     "r": "ataʿallam"
+    },
+    {
+     "w": "اللغة.",
+     "t": "bahasa-itu.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Dan saya akan segera kembali bekerja di profesi saya.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "dan-saya-akan-kembali",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "segera",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "ke",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "pekerjaan-itu",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "di",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "profesi-saya.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

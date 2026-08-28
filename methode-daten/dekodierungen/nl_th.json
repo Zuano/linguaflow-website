@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "th",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "ฉัน"
+    },
+    {
+     "w": "heb",
+     "t": "มี (ได้)"
+    },
+    {
+     "w": "vele",
+     "t": "หลาย"
+    },
+    {
+     "w": "jaren",
+     "t": "ปี"
+    },
+    {
+     "w": "in",
+     "t": "ใน"
+    },
+    {
+     "w": "mijn",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "vak",
+     "t": "อาชีพ"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "ทำงาน-แล้ว"
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "หลังจากนั้นฉันก็มาถึงประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "หลังจากนั้น"
+    },
+    {
+     "w": "ben",
+     "t": "เป็น (ได้)"
+    },
+    {
+     "w": "ik",
+     "t": "ฉัน"
+    },
+    {
+     "w": "naar",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "een",
+     "t": "หนึ่ง (a)"
+    },
+    {
+     "w": "nieuw",
+     "t": "ใหม่"
+    },
+    {
+     "w": "land",
+     "t": "ประเทศ"
+    },
+    {
+     "w": "gekomen.",
+     "t": "มา-แล้ว"
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "leer",
+     "t": "เรียน"
+    },
+    {
+     "w": "ik",
+     "t": "ฉัน"
+    },
+    {
+     "w": "de",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "taal.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "ในไม่ช้าฉันจะกลับไปทำงานในอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "ในไม่ช้า"
+    },
+    {
+     "w": "ga",
+     "t": "จะ (ไป)"
+    },
+    {
+     "w": "ik",
+     "t": "ฉัน"
+    },
+    {
+     "w": "weer",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "in",
+     "t": "ใน"
+    },
+    {
+     "w": "mijn",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "vak",
+     "t": "อาชีพ"
+    },
+    {
+     "w": "werken.",
+     "t": "ทำงาน"
+    }
+   ]
+  }
+ ]
+}

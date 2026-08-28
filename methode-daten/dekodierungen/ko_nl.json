@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "nl",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Ik heb lange tijd in mijn beroep gewerkt.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "ik-(onderwerp)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "lange-tijd",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "mijn",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "in-mijn-beroep",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "werkend",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "heb-gekomen.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Toen ben ik naar een nieuw land gekomen.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "en-toen",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "nieuw",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "naar-het-land",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "ben-gekomen.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Nu leer ik de taal van dat land.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "nu-(wat-betreft)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "dat",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "van-het-land",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "de-taal",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "lerend",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "ben-aan-het.",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Binnenkort zal ik weer in mijn beroep gaan werken.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "binnenkort",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "weer",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "mijn",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "in-mijn-beroep",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "gaan-werken",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "worden-(zullen)",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "het-is-zo-dat.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

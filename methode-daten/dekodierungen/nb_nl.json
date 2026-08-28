@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "nl",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Ik heb vele jaren binnen mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ik"
+    },
+    {
+     "w": "har",
+     "t": "heb"
+    },
+    {
+     "w": "jobbet",
+     "t": "gewerkt"
+    },
+    {
+     "w": "i",
+     "t": "in"
+    },
+    {
+     "w": "mange",
+     "t": "vele"
+    },
+    {
+     "w": "år",
+     "t": "jaren"
+    },
+    {
+     "w": "innen",
+     "t": "binnen"
+    },
+    {
+     "w": "mitt",
+     "t": "mijn"
+    },
+    {
+     "w": "fagområde.",
+     "t": "vakgebied."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Toen verhuisde ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Toen"
+    },
+    {
+     "w": "flyttet",
+     "t": "verhuisde"
+    },
+    {
+     "w": "jeg",
+     "t": "ik"
+    },
+    {
+     "w": "til",
+     "t": "naar"
+    },
+    {
+     "w": "et",
+     "t": "een"
+    },
+    {
+     "w": "nytt",
+     "t": "nieuw"
+    },
+    {
+     "w": "land.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Nu"
+    },
+    {
+     "w": "lærer",
+     "t": "leer"
+    },
+    {
+     "w": "jeg",
+     "t": "ik"
+    },
+    {
+     "w": "språket.",
+     "t": "de-taal."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Binnenkort ga ik weer werken binnen mijn vakgebied.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "skal",
+     "t": "ga"
+    },
+    {
+     "w": "jeg",
+     "t": "ik"
+    },
+    {
+     "w": "jobbe",
+     "t": "werken"
+    },
+    {
+     "w": "innen",
+     "t": "binnen"
+    },
+    {
+     "w": "mitt",
+     "t": "mijn"
+    },
+    {
+     "w": "fagområde",
+     "t": "vakgebied"
+    },
+    {
+     "w": "igjen.",
+     "t": "weer."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "hu",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Én",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "sok",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "évet",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "dolgoztam",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "a",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "szakmámban.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Aztán elköltöztem egy új országba.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Aztán",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "én",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "átköltöztem",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "-ba",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "új",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "országba.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Most nyelvet tanulok.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Most",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "én",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "tanulom",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "a-nyelvet.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Hamarosan újra elkezdek a szakmámban dolgozni.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Hamarosan",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "én",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "újra",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "elkezdek",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "dolgozni",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "a",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "szakmámban.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

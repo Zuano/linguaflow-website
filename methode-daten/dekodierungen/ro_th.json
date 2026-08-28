@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "th",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปี",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "ฉันได้"
+    },
+    {
+     "w": "lucrat",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "mulți",
+     "t": "หลาย"
+    },
+    {
+     "w": "ani",
+     "t": "ปี"
+    },
+    {
+     "w": "în",
+     "t": "ใน"
+    },
+    {
+     "w": "meseria",
+     "t": "อาชีพ"
+    },
+    {
+     "w": "mea.",
+     "t": "ของฉัน"
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "จากนั้นฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "m-am",
+     "t": "ฉัน'ได้"
+    },
+    {
+     "w": "mutat",
+     "t": "ย้าย"
+    },
+    {
+     "w": "într-o",
+     "t": "ไปยัง-หนึ่ง"
+    },
+    {
+     "w": "țară",
+     "t": "ประเทศ"
+    },
+    {
+     "w": "nouă.",
+     "t": "ใหม่"
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "învăț",
+     "t": "เรียน"
+    },
+    {
+     "w": "limba.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "ในไม่ช้าฉันจะกลับไปทำงานในอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "ใน"
+    },
+    {
+     "w": "curând",
+     "t": "ไม่ช้า"
+    },
+    {
+     "w": "voi",
+     "t": "ฉันจะ"
+    },
+    {
+     "w": "lucra",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "din",
+     "t": "อีก"
+    },
+    {
+     "w": "nou",
+     "t": "ครั้ง"
+    },
+    {
+     "w": "în",
+     "t": "ใน"
+    },
+    {
+     "w": "meseria",
+     "t": "อาชีพ"
+    },
+    {
+     "w": "mea.",
+     "t": "ของฉัน"
+    }
+   ]
+  }
+ ]
+}

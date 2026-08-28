@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "el",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Για πολλά χρόνια δούλευα στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Πολλά"
+    },
+    {
+     "w": "leta",
+     "t": "χρόνια"
+    },
+    {
+     "w": "sem",
+     "t": "(εγώ)-ήμουν"
+    },
+    {
+     "w": "delal",
+     "t": "δούλευα"
+    },
+    {
+     "w": "v",
+     "t": "στο"
+    },
+    {
+     "w": "svojem",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "poklicu.",
+     "t": "επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Έπειτα ήρθα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "sem",
+     "t": "(εγώ)-ήμουν"
+    },
+    {
+     "w": "prišel",
+     "t": "ήρθα"
+    },
+    {
+     "w": "v",
+     "t": "σε"
+    },
+    {
+     "w": "novo",
+     "t": "νέα"
+    },
+    {
+     "w": "državo.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Τώρα"
+    },
+    {
+     "w": "se",
+     "t": "(εαυτό-μου)"
+    },
+    {
+     "w": "učim",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "jezika.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Σύντομα θα δουλεύω ξανά στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "bom",
+     "t": "θα-(εγώ)"
+    },
+    {
+     "w": "spet",
+     "t": "ξανά"
+    },
+    {
+     "w": "delal",
+     "t": "δουλεύω"
+    },
+    {
+     "w": "v",
+     "t": "στο"
+    },
+    {
+     "w": "svojem",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "poklicu.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "hu",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Dolgoztam",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "-ig (át)",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "sok",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "évet",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "a-ban",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "szakmámban",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "az-én.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Ezután egy új országba jöttem.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Az-ban",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "folytatásban (ezután),",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "jöttem",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "-be",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "egy",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "új",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "országba.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Most",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "tanulom",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "a-t",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "nyelvet.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Hamarosan",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "fog (jövő idő)",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "újra-dolgozom",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "a-ban",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "szakmámban",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "az-én.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

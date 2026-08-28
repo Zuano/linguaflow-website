@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "ja",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "私は何年もの間、自分の分野で働いてきました。",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "私は"
+    },
+    {
+     "w": "telah",
+     "t": "すでに(完了)"
+    },
+    {
+     "w": "bekerja",
+     "t": "働いて(いた)"
+    },
+    {
+     "w": "di",
+     "t": "〜で"
+    },
+    {
+     "w": "bidang",
+     "t": "分野"
+    },
+    {
+     "w": "saya",
+     "t": "私の"
+    },
+    {
+     "w": "selama",
+     "t": "〜の間"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "何年も。"
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "それから私は新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "それから"
+    },
+    {
+     "w": "saya",
+     "t": "私は"
+    },
+    {
+     "w": "pindah",
+     "t": "引っ越した"
+    },
+    {
+     "w": "ke",
+     "t": "〜へ"
+    },
+    {
+     "w": "negara",
+     "t": "国"
+    },
+    {
+     "w": "baru.",
+     "t": "新しい。"
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "今、私はその国の言語を勉強しています。",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "今"
+    },
+    {
+     "w": "saya",
+     "t": "私は"
+    },
+    {
+     "w": "sedang",
+     "t": "〜している最中"
+    },
+    {
+     "w": "belajar",
+     "t": "勉強して(いる)"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "その言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "もうすぐ私は自分の分野での仕事に戻る予定です。",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "しばらく"
+    },
+    {
+     "w": "lagi",
+     "t": "もう(すぐ)"
+    },
+    {
+     "w": "saya",
+     "t": "私は"
+    },
+    {
+     "w": "akan",
+     "t": "〜する予定"
+    },
+    {
+     "w": "kembali",
+     "t": "戻って"
+    },
+    {
+     "w": "bekerja",
+     "t": "働く(こと)"
+    },
+    {
+     "w": "di",
+     "t": "〜で"
+    },
+    {
+     "w": "bidang",
+     "t": "分野"
+    },
+    {
+     "w": "saya.",
+     "t": "私の。"
+    }
+   ]
+  }
+ ]
+}

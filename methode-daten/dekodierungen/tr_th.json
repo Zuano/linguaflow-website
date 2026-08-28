@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "th",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "ในอาชีพของฉัน"
+    },
+    {
+     "w": "uzun",
+     "t": "ยาวนาน"
+    },
+    {
+     "w": "yıllar",
+     "t": "หลายปี"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "ฉันทำงานมา"
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "หลังจากนั้นฉันก็มาที่ประเทศใหม่แห่งหนึ่ง",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "หลังจากนั้น"
+    },
+    {
+     "w": "yeni",
+     "t": "ใหม่"
+    },
+    {
+     "w": "bir",
+     "t": "หนึ่ง"
+    },
+    {
+     "w": "ülkeye",
+     "t": "มาที่ประเทศ"
+    },
+    {
+     "w": "geldim.",
+     "t": "ฉันมาถึงแล้ว"
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษาอยู่",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "dili",
+     "t": "ภาษา(นั้น)"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "ฉันกำลังเรียนอยู่"
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "เร็วๆ นี้ฉันจะเริ่มทำงานในอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "เร็วๆ นี้"
+    },
+    {
+     "w": "tekrar",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "ในอาชีพของฉัน"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "การทำงาน"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "ฉันจะเริ่ม"
+    }
+   ]
+  }
+ ]
+}

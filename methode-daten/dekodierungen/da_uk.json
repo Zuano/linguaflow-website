@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "uk",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Я працював за своєю професією багато років.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Я"
+    },
+    {
+     "w": "har",
+     "t": "мав (допоміжне дієслово)"
+    },
+    {
+     "w": "arbejdet",
+     "t": "працював"
+    },
+    {
+     "w": "i",
+     "t": "за"
+    },
+    {
+     "w": "mit",
+     "t": "своєю"
+    },
+    {
+     "w": "fag",
+     "t": "професією"
+    },
+    {
+     "w": "i",
+     "t": "протягом"
+    },
+    {
+     "w": "mange",
+     "t": "багато"
+    },
+    {
+     "w": "år.",
+     "t": "років."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Потім я переїхав у нову країну.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Потім"
+    },
+    {
+     "w": "flyttede",
+     "t": "переїхав"
+    },
+    {
+     "w": "jeg",
+     "t": "я"
+    },
+    {
+     "w": "til",
+     "t": "у"
+    },
+    {
+     "w": "et",
+     "t": "нову"
+    },
+    {
+     "w": "nyt",
+     "t": "нову"
+    },
+    {
+     "w": "land.",
+     "t": "країну."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Тепер я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Тепер"
+    },
+    {
+     "w": "lærer",
+     "t": "вивчаю"
+    },
+    {
+     "w": "jeg",
+     "t": "я"
+    },
+    {
+     "w": "sproget.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Скоро я знову працюватиму за своєю професією.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Скоро"
+    },
+    {
+     "w": "skal",
+     "t": "буду (мушу)"
+    },
+    {
+     "w": "jeg",
+     "t": "я"
+    },
+    {
+     "w": "arbejde",
+     "t": "працювати"
+    },
+    {
+     "w": "i",
+     "t": "за"
+    },
+    {
+     "w": "mit",
+     "t": "своєю"
+    },
+    {
+     "w": "fag",
+     "t": "професією"
+    },
+    {
+     "w": "igen.",
+     "t": "знову."
+    }
+   ]
+  }
+ ]
+}

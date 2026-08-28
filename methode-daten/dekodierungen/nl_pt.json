@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "pt",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Trabalhei muitos anos na minha profissão.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Eu"
+    },
+    {
+     "w": "heb",
+     "t": "tenho"
+    },
+    {
+     "w": "vele",
+     "t": "muitos"
+    },
+    {
+     "w": "jaren",
+     "t": "anos"
+    },
+    {
+     "w": "in",
+     "t": "em"
+    },
+    {
+     "w": "mijn",
+     "t": "minha"
+    },
+    {
+     "w": "vak",
+     "t": "profissão"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "trabalhado."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Depois disso, vim para um novo país.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Depois-disso"
+    },
+    {
+     "w": "ben",
+     "t": "sou (aux. passado)"
+    },
+    {
+     "w": "ik",
+     "t": "eu"
+    },
+    {
+     "w": "naar",
+     "t": "para"
+    },
+    {
+     "w": "een",
+     "t": "um"
+    },
+    {
+     "w": "nieuw",
+     "t": "novo"
+    },
+    {
+     "w": "land",
+     "t": "país"
+    },
+    {
+     "w": "gekomen.",
+     "t": "vindo."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Agora estou aprendendo a língua.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Agora"
+    },
+    {
+     "w": "leer",
+     "t": "aprendo"
+    },
+    {
+     "w": "ik",
+     "t": "eu"
+    },
+    {
+     "w": "de",
+     "t": "a"
+    },
+    {
+     "w": "taal.",
+     "t": "língua."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Em breve vou trabalhar novamente na minha profissão.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Em-breve"
+    },
+    {
+     "w": "ga",
+     "t": "vou"
+    },
+    {
+     "w": "ik",
+     "t": "eu"
+    },
+    {
+     "w": "weer",
+     "t": "novamente"
+    },
+    {
+     "w": "in",
+     "t": "em"
+    },
+    {
+     "w": "mijn",
+     "t": "minha"
+    },
+    {
+     "w": "vak",
+     "t": "profissão"
+    },
+    {
+     "w": "werken.",
+     "t": "trabalhar."
+    }
+   ]
+  }
+ ]
+}

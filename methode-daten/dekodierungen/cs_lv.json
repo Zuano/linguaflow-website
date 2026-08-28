@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "lv",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Savā jomā es strādāju daudzus gadus.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Savā"
+    },
+    {
+     "w": "svém",
+     "t": "savā"
+    },
+    {
+     "w": "oboru",
+     "t": "jomā"
+    },
+    {
+     "w": "jsem",
+     "t": "esmu"
+    },
+    {
+     "w": "pracoval",
+     "t": "strādājis"
+    },
+    {
+     "w": "mnoho",
+     "t": "daudz"
+    },
+    {
+     "w": "let.",
+     "t": "gadu."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "jsem",
+     "t": "esmu"
+    },
+    {
+     "w": "se",
+     "t": "(sevi)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "pārcēlies"
+    },
+    {
+     "w": "do",
+     "t": "uz"
+    },
+    {
+     "w": "nové",
+     "t": "jaunas"
+    },
+    {
+     "w": "země.",
+     "t": "valsts."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Tagad"
+    },
+    {
+     "w": "se",
+     "t": "(sevi)"
+    },
+    {
+     "w": "učím",
+     "t": "mācos"
+    },
+    {
+     "w": "jazyk.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Drīz es atkal strādāšu savā jomā.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Drīz"
+    },
+    {
+     "w": "budu",
+     "t": "būšu"
+    },
+    {
+     "w": "zase",
+     "t": "atkal"
+    },
+    {
+     "w": "pracovat",
+     "t": "strādāt"
+    },
+    {
+     "w": "ve",
+     "t": "savā"
+    },
+    {
+     "w": "svém",
+     "t": "savā"
+    },
+    {
+     "w": "oboru.",
+     "t": "jomā."
+    }
+   ]
+  }
+ ]
+}

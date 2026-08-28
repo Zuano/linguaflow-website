@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "target": "el",
+ "native": "fi",
+ "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου. Στη συνέχεια, ήρθα σε μια νέα χώρα. Τώρα μαθαίνω τη γλώσσα. Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+ "sentences": [
+  {
+   "text": "Εργάστηκα για πολλά χρόνια στο επάγγελμά μου.",
+   "translation": "Työskentelin monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "Εργάστηκα",
+     "t": "Työskentelin",
+     "r": "Ergástika"
+    },
+    {
+     "w": "για",
+     "t": "kanssa (ajan)",
+     "r": "gia"
+    },
+    {
+     "w": "πολλά",
+     "t": "monta",
+     "r": "pollá"
+    },
+    {
+     "w": "χρόνια",
+     "t": "vuotta",
+     "r": "chrónia"
+    },
+    {
+     "w": "στο",
+     "t": "omassa",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "ammatissa",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "minun.",
+     "r": "mou."
+    }
+   ]
+  },
+  {
+   "text": "Στη συνέχεια, ήρθα σε μια νέα χώρα.",
+   "translation": "Sen jälkeen tulin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Στη",
+     "t": "Sen",
+     "r": "Sti"
+    },
+    {
+     "w": "συνέχεια,",
+     "t": "jälkeen,",
+     "r": "synécheia,"
+    },
+    {
+     "w": "ήρθα",
+     "t": "tulin",
+     "r": "írtha"
+    },
+    {
+     "w": "σε",
+     "t": "johonkin",
+     "r": "se"
+    },
+    {
+     "w": "μια",
+     "t": "yhteen",
+     "r": "mia"
+    },
+    {
+     "w": "νέα",
+     "t": "uuteen",
+     "r": "néa"
+    },
+    {
+     "w": "χώρα.",
+     "t": "maahan.",
+     "r": "chóra."
+    }
+   ]
+  },
+  {
+   "text": "Τώρα μαθαίνω τη γλώσσα.",
+   "translation": "Nyt opettelen kieltä.",
+   "pairs": [
+    {
+     "w": "Τώρα",
+     "t": "Nyt",
+     "r": "Tóra"
+    },
+    {
+     "w": "μαθαίνω",
+     "t": "opettelen",
+     "r": "mathaíno"
+    },
+    {
+     "w": "τη",
+     "t": "tätä",
+     "r": "ti"
+    },
+    {
+     "w": "γλώσσα.",
+     "t": "kieltä.",
+     "r": "glóssa."
+    }
+   ]
+  },
+  {
+   "text": "Σύντομα θα ξαναδουλέψω στο επάγγελμά μου.",
+   "translation": "Pian työskentelen taas ammatissani.",
+   "pairs": [
+    {
+     "w": "Σύντομα",
+     "t": "Pian",
+     "r": "Sýntoma"
+    },
+    {
+     "w": "θα",
+     "t": "tulen (tekemään)",
+     "r": "tha"
+    },
+    {
+     "w": "ξαναδουλέψω",
+     "t": "työskentelemään-taas",
+     "r": "xanadoulépso"
+    },
+    {
+     "w": "στο",
+     "t": "omassa",
+     "r": "sto"
+    },
+    {
+     "w": "επάγγελμά",
+     "t": "ammatissa",
+     "r": "epángelmá"
+    },
+    {
+     "w": "μου.",
+     "t": "minun.",
+     "r": "mou."
+    }
+   ]
+  }
+ ]
+}

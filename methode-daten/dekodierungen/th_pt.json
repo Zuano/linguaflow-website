@@ -1,0 +1,242 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "pt",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Eu trabalhei na minha área de profissão por vários anos.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "trabalhar",
+     "r": "tham ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "em",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ramo",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profissão",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "de",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(passado-aproximado)",
+     "r": "maa"
+    },
+    {
+     "w": "หลาย",
+     "t": "vários",
+     "r": "laai"
+    },
+    {
+     "w": "ปี",
+     "t": "anos",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "(perfeito)",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Depois disso, mudei-me para um novo país.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "depois",
+     "r": "lang"
+    },
+    {
+     "w": "จาก",
+     "t": "de",
+     "r": "jak"
+    },
+    {
+     "w": "นั้น",
+     "t": "disso",
+     "r": "nan"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "mudar-se",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "para",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "ficar",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "país",
+     "r": "prathes"
+    },
+    {
+     "w": "ใหม่",
+     "t": "novo",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Agora estou estudando língua.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "agora",
+     "r": "ton-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(estar-em-processo)",
+     "r": "gamlang"
+    },
+    {
+     "w": "เรียน",
+     "t": "estudar",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "língua",
+     "r": "phasa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(em-andamento)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "E em breve voltarei a trabalhar na minha área de profissão novamente.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "e",
+     "r": "la"
+    },
+    {
+     "w": "เร็ว",
+     "t": "rápido",
+     "r": "reo"
+    },
+    {
+     "w": "ๆ",
+     "t": "(reduplicação)",
+     "r": "kup"
+    },
+    {
+     "w": "นี้",
+     "t": "isto",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(futuro)",
+     "r": "ja"
+    },
+    {
+     "w": "กลับ",
+     "t": "voltar",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(direcional)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "trabalhar",
+     "r": "tham ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "em",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "ramo",
+     "r": "saakha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profissão",
+     "r": "aachip"
+    },
+    {
+     "w": "ของ",
+     "t": "de",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "eu",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "outro",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "vez",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

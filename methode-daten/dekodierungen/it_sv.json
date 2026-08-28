@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "sv",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Jag har arbetat i mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "Jag-har"
+    },
+    {
+     "w": "lavorato",
+     "t": "arbetat"
+    },
+    {
+     "w": "per",
+     "t": "i"
+    },
+    {
+     "w": "molti",
+     "t": "många"
+    },
+    {
+     "w": "anni",
+     "t": "år"
+    },
+    {
+     "w": "nella",
+     "t": "i-den (min)"
+    },
+    {
+     "w": "mia",
+     "t": "min"
+    },
+    {
+     "w": "professione.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Sedan flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "Sedan"
+    },
+    {
+     "w": "mi",
+     "t": "mig"
+    },
+    {
+     "w": "sono",
+     "t": "har"
+    },
+    {
+     "w": "trasferito",
+     "t": "flyttat"
+    },
+    {
+     "w": "in",
+     "t": "till"
+    },
+    {
+     "w": "un",
+     "t": "ett"
+    },
+    {
+     "w": "nuovo",
+     "t": "nytt"
+    },
+    {
+     "w": "Paese.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Nu håller jag på att lära mig språket.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "Nu"
+    },
+    {
+     "w": "sto",
+     "t": "håller-jag"
+    },
+    {
+     "w": "imparando",
+     "t": "på-att-lära"
+    },
+    {
+     "w": "la",
+     "t": "det"
+    },
+    {
+     "w": "lingua.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Snart kommer jag att återgå till att arbeta inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "Snart"
+    },
+    {
+     "w": "tornerò",
+     "t": "kommer-jag-att-återgå"
+    },
+    {
+     "w": "a",
+     "t": "till-att"
+    },
+    {
+     "w": "lavorare",
+     "t": "arbeta"
+    },
+    {
+     "w": "nella",
+     "t": "i-den (min)"
+    },
+    {
+     "w": "mia",
+     "t": "min"
+    },
+    {
+     "w": "professione.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

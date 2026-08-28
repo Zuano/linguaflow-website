@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "he",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "עבדתי במקצוע שלי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "יש-לי (עברתי)"
+    },
+    {
+     "w": "lavorato",
+     "t": "עבדתי"
+    },
+    {
+     "w": "per",
+     "t": "במשך"
+    },
+    {
+     "w": "molti",
+     "t": "רבות"
+    },
+    {
+     "w": "anni",
+     "t": "שנים"
+    },
+    {
+     "w": "nella",
+     "t": "ב"
+    },
+    {
+     "w": "mia",
+     "t": "שלי"
+    },
+    {
+     "w": "professione.",
+     "t": "מקצוע."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "mi",
+     "t": "את-עצמי"
+    },
+    {
+     "w": "sono",
+     "t": "עברתי (הייתי)"
+    },
+    {
+     "w": "trasferito",
+     "t": "עברתי (מועבר)"
+    },
+    {
+     "w": "in",
+     "t": "ל"
+    },
+    {
+     "w": "un",
+     "t": "מדינה"
+    },
+    {
+     "w": "nuovo",
+     "t": "חדשה"
+    },
+    {
+     "w": "Paese.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "כרגע אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "כרגע"
+    },
+    {
+     "w": "sto",
+     "t": "אני-נמצא"
+    },
+    {
+     "w": "imparando",
+     "t": "לומד"
+    },
+    {
+     "w": "la",
+     "t": "את"
+    },
+    {
+     "w": "lingua.",
+     "t": "השפה."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "בקרוב"
+    },
+    {
+     "w": "tornerò",
+     "t": "אחזור"
+    },
+    {
+     "w": "a",
+     "t": "ל"
+    },
+    {
+     "w": "lavorare",
+     "t": "לעבוד"
+    },
+    {
+     "w": "nella",
+     "t": "ב"
+    },
+    {
+     "w": "mia",
+     "t": "שלי"
+    },
+    {
+     "w": "professione.",
+     "t": "מקצוע."
+    }
+   ]
+  }
+ ]
+}

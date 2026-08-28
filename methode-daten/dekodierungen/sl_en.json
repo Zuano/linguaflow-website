@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "en",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "For many years I worked in my profession.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Long"
+    },
+    {
+     "w": "leta",
+     "t": "years"
+    },
+    {
+     "w": "sem",
+     "t": "I-was"
+    },
+    {
+     "w": "delal",
+     "t": "working"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "svojem",
+     "t": "my-own"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profession."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Then I came to a new country.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Then"
+    },
+    {
+     "w": "sem",
+     "t": "I-have"
+    },
+    {
+     "w": "prišel",
+     "t": "come"
+    },
+    {
+     "w": "v",
+     "t": "to"
+    },
+    {
+     "w": "novo",
+     "t": "new"
+    },
+    {
+     "w": "državo.",
+     "t": "country."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Now I am learning the language.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Now"
+    },
+    {
+     "w": "se",
+     "t": "(reflexive)"
+    },
+    {
+     "w": "učim",
+     "t": "I-am-learning"
+    },
+    {
+     "w": "jezika.",
+     "t": "of-the-language."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Soon I will work in my profession again.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Soon"
+    },
+    {
+     "w": "bom",
+     "t": "I-will"
+    },
+    {
+     "w": "spet",
+     "t": "again"
+    },
+    {
+     "w": "delal",
+     "t": "work"
+    },
+    {
+     "w": "v",
+     "t": "in"
+    },
+    {
+     "w": "svojem",
+     "t": "my-own"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

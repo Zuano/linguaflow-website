@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "ar",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "لقد عملت سنوات عديدة في مهنتي.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "أنا"
+    },
+    {
+     "w": "heb",
+     "t": "لديّ (فعل مساعد)"
+    },
+    {
+     "w": "vele",
+     "t": "عديدة"
+    },
+    {
+     "w": "jaren",
+     "t": "سنوات"
+    },
+    {
+     "w": "in",
+     "t": "في"
+    },
+    {
+     "w": "mijn",
+     "t": "مهنتي (ملكية: مهنة-لي)"
+    },
+    {
+     "w": "vak",
+     "t": "مهنة"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "عملت."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "بعد ذلك انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "بعد-ذلك"
+    },
+    {
+     "w": "ben",
+     "t": "أنا (فعل مساعد للماضي)"
+    },
+    {
+     "w": "ik",
+     "t": "أنا"
+    },
+    {
+     "w": "naar",
+     "t": "إلى"
+    },
+    {
+     "w": "een",
+     "t": "بلد (أداة تنكير)"
+    },
+    {
+     "w": "nieuw",
+     "t": "جديد"
+    },
+    {
+     "w": "land",
+     "t": "بلد"
+    },
+    {
+     "w": "gekomen.",
+     "t": "جئت (وصلت)."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "الآن"
+    },
+    {
+     "w": "leer",
+     "t": "أتعلم"
+    },
+    {
+     "w": "ik",
+     "t": "أنا"
+    },
+    {
+     "w": "de",
+     "t": "اللغة (أداة تعريف)"
+    },
+    {
+     "w": "taal.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "قريبًا سأعمل مرة أخرى في مهنتي.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "قريبًا"
+    },
+    {
+     "w": "ga",
+     "t": "سأذهب (سوف)"
+    },
+    {
+     "w": "ik",
+     "t": "أنا"
+    },
+    {
+     "w": "weer",
+     "t": "مرة-أخرى"
+    },
+    {
+     "w": "in",
+     "t": "في"
+    },
+    {
+     "w": "mijn",
+     "t": "مهنتي (ملكية: مهنة-لي)"
+    },
+    {
+     "w": "vak",
+     "t": "مهنة"
+    },
+    {
+     "w": "werken.",
+     "t": "أعمل."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "fi",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Työskentelin ammatissani monta vuotta.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Läpi (ajan)"
+    },
+    {
+     "w": "wiele",
+     "t": "monta"
+    },
+    {
+     "w": "lat",
+     "t": "vuotta"
+    },
+    {
+     "w": "pracowałem",
+     "t": "työskentelin"
+    },
+    {
+     "w": "w",
+     "t": "(ammatis)sa"
+    },
+    {
+     "w": "swoim",
+     "t": "omassa"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "ammatissa."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Sitten"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "saavuin"
+    },
+    {
+     "w": "do",
+     "t": "(maa)han"
+    },
+    {
+     "w": "nowego",
+     "t": "uuteen"
+    },
+    {
+     "w": "kraju.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nyt"
+    },
+    {
+     "w": "uczę",
+     "t": "opiskelen"
+    },
+    {
+     "w": "się",
+     "t": "(itseäni, refleksiivi)"
+    },
+    {
+     "w": "języka.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Pian työskentelen taas ammatissani.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Pian"
+    },
+    {
+     "w": "znów",
+     "t": "taas"
+    },
+    {
+     "w": "będę",
+     "t": "tulen"
+    },
+    {
+     "w": "pracował",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "w",
+     "t": "(ammatis)sa"
+    },
+    {
+     "w": "swoim",
+     "t": "omassa"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "ammatissa."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "lv",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Es daudzus gadus strādāju savā profesijā.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Es"
+    },
+    {
+     "w": "heb",
+     "t": "esmu"
+    },
+    {
+     "w": "vele",
+     "t": "daudzus"
+    },
+    {
+     "w": "jaren",
+     "t": "gadus"
+    },
+    {
+     "w": "in",
+     "t": "iekš"
+    },
+    {
+     "w": "mijn",
+     "t": "savas"
+    },
+    {
+     "w": "vak",
+     "t": "profesijas"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "strādājis."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Pēc tam es atbraucu uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "ben",
+     "t": "esmu"
+    },
+    {
+     "w": "ik",
+     "t": "es"
+    },
+    {
+     "w": "naar",
+     "t": "uz"
+    },
+    {
+     "w": "een",
+     "t": "kādu"
+    },
+    {
+     "w": "nieuw",
+     "t": "jaunu"
+    },
+    {
+     "w": "land",
+     "t": "valsti"
+    },
+    {
+     "w": "gekomen.",
+     "t": "atnācis."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Tagad"
+    },
+    {
+     "w": "leer",
+     "t": "mācos"
+    },
+    {
+     "w": "ik",
+     "t": "es"
+    },
+    {
+     "w": "de",
+     "t": "(noteiktais-artikuls)"
+    },
+    {
+     "w": "taal.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Drīzumā es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Drīzumā"
+    },
+    {
+     "w": "ga",
+     "t": "iešu"
+    },
+    {
+     "w": "ik",
+     "t": "es"
+    },
+    {
+     "w": "weer",
+     "t": "atkal"
+    },
+    {
+     "w": "in",
+     "t": "iekš"
+    },
+    {
+     "w": "mijn",
+     "t": "savas"
+    },
+    {
+     "w": "vak",
+     "t": "profesijas"
+    },
+    {
+     "w": "werken.",
+     "t": "strādāt."
+    }
+   ]
+  }
+ ]
+}

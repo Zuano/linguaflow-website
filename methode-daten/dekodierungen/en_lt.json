@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "lt",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Aš dirbau savo profesijoje daugelį metų.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "aš"
+    },
+    {
+     "w": "worked",
+     "t": "dirbau"
+    },
+    {
+     "w": "in",
+     "t": "savo"
+    },
+    {
+     "w": "my",
+     "t": "savo"
+    },
+    {
+     "w": "profession",
+     "t": "profesijoje"
+    },
+    {
+     "w": "for",
+     "t": "per (daugelį)"
+    },
+    {
+     "w": "many",
+     "t": "daugelį"
+    },
+    {
+     "w": "years.",
+     "t": "metų."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Tada aš persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "tada"
+    },
+    {
+     "w": "I",
+     "t": "aš"
+    },
+    {
+     "w": "moved",
+     "t": "persikėliau"
+    },
+    {
+     "w": "to",
+     "t": "į"
+    },
+    {
+     "w": "a",
+     "t": "(nežymimasis-artikelis)"
+    },
+    {
+     "w": "new",
+     "t": "naują"
+    },
+    {
+     "w": "country.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "dabar"
+    },
+    {
+     "w": "I'm",
+     "t": "aš'esu"
+    },
+    {
+     "w": "learning",
+     "t": "besimokantis (mokausi)"
+    },
+    {
+     "w": "the",
+     "t": "(žymimasis-artikelis)"
+    },
+    {
+     "w": "language.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Netrukus aš vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "netrukus"
+    },
+    {
+     "w": "I'll",
+     "t": "aš'(bus)"
+    },
+    {
+     "w": "be",
+     "t": "būti (busiu)"
+    },
+    {
+     "w": "working",
+     "t": "dirbantis (dirbsiu)"
+    },
+    {
+     "w": "in",
+     "t": "savo"
+    },
+    {
+     "w": "my",
+     "t": "savo"
+    },
+    {
+     "w": "profession",
+     "t": "profesijoje"
+    },
+    {
+     "w": "again.",
+     "t": "vėl."
+    }
+   ]
+  }
+ ]
+}

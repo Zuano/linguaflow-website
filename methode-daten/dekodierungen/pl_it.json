@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "it",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Per molti anni ho lavorato nella mia professione.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Per"
+    },
+    {
+     "w": "wiele",
+     "t": "molti"
+    },
+    {
+     "w": "lat",
+     "t": "anni"
+    },
+    {
+     "w": "pracowałem",
+     "t": "ho-lavorato"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "mia (propria)"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "professione."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Poi sono arrivato in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Poi"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "sono-arrivato"
+    },
+    {
+     "w": "do",
+     "t": "in (verso)"
+    },
+    {
+     "w": "nowego",
+     "t": "nuovo"
+    },
+    {
+     "w": "kraju.",
+     "t": "paese."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Ora"
+    },
+    {
+     "w": "uczę",
+     "t": "imparo"
+    },
+    {
+     "w": "się",
+     "t": "(riflessivo)"
+    },
+    {
+     "w": "języka.",
+     "t": "la-lingua."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Presto lavorerò di nuovo nella mia professione.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Presto"
+    },
+    {
+     "w": "znów",
+     "t": "di-nuovo"
+    },
+    {
+     "w": "będę",
+     "t": "sarò (ausiliare-futuro)"
+    },
+    {
+     "w": "pracował",
+     "t": "lavorato (lavorante)"
+    },
+    {
+     "w": "w",
+     "t": "in"
+    },
+    {
+     "w": "swoim",
+     "t": "mia (propria)"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "professione."
+    }
+   ]
+  }
+ ]
+}

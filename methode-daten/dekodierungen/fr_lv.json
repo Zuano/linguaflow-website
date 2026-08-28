@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "lv",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Es strādāju savā profesijā daudzus gadus.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Es'esmu"
+    },
+    {
+     "w": "exercé",
+     "t": "strādājis (praktizējis)"
+    },
+    {
+     "w": "mon",
+     "t": "savu"
+    },
+    {
+     "w": "métier",
+     "t": "profesiju"
+    },
+    {
+     "w": "pendant",
+     "t": "laikā"
+    },
+    {
+     "w": "de",
+     "t": "(no)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "daudzu"
+    },
+    {
+     "w": "années.",
+     "t": "gadu."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Pēc tam es ierados jaunā valstī.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "je",
+     "t": "es"
+    },
+    {
+     "w": "suis",
+     "t": "esmu"
+    },
+    {
+     "w": "arrivé",
+     "t": "ieradies"
+    },
+    {
+     "w": "dans",
+     "t": "(iekš)"
+    },
+    {
+     "w": "un",
+     "t": "vienā"
+    },
+    {
+     "w": "nouveau",
+     "t": "jaunā"
+    },
+    {
+     "w": "pays.",
+     "t": "valstī."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Tagad,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "es'mācos"
+    },
+    {
+     "w": "la",
+     "t": "(šo)"
+    },
+    {
+     "w": "langue.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Drīz es atsākšu savu profesiju.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Drīz,"
+    },
+    {
+     "w": "je",
+     "t": "es"
+    },
+    {
+     "w": "reprendrai",
+     "t": "atsākšu"
+    },
+    {
+     "w": "mon",
+     "t": "savu"
+    },
+    {
+     "w": "métier.",
+     "t": "profesiju."
+    }
+   ]
+  }
+ ]
+}

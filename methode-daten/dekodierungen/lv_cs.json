@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "cs",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Mnoho let jsem pracoval ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Jsem"
+    },
+    {
+     "w": "daudzus",
+     "t": "mnoho"
+    },
+    {
+     "w": "gadus",
+     "t": "let"
+    },
+    {
+     "w": "strādājis",
+     "t": "pracoval"
+    },
+    {
+     "w": "savā",
+     "t": "ve-svém"
+    },
+    {
+     "w": "profesijā.",
+     "t": "oboru."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Poté jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "Po"
+    },
+    {
+     "w": "tam",
+     "t": "tom"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "přestěhoval-jsem-se"
+    },
+    {
+     "w": "uz",
+     "t": "do"
+    },
+    {
+     "w": "jaunu",
+     "t": "nové"
+    },
+    {
+     "w": "valsti.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Nyní se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "Nyní"
+    },
+    {
+     "w": "apgūstu",
+     "t": "učím-se"
+    },
+    {
+     "w": "valodu.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Brzy budu znovu pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "Brzy"
+    },
+    {
+     "w": "atkal",
+     "t": "znovu"
+    },
+    {
+     "w": "strādāšu",
+     "t": "budu-pracovat"
+    },
+    {
+     "w": "savā",
+     "t": "ve-svém"
+    },
+    {
+     "w": "profesijā.",
+     "t": "oboru."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "vi",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Tôi"
+    },
+    {
+     "w": "heb",
+     "t": "đã"
+    },
+    {
+     "w": "vele",
+     "t": "nhiều"
+    },
+    {
+     "w": "jaren",
+     "t": "năm"
+    },
+    {
+     "w": "in",
+     "t": "trong"
+    },
+    {
+     "w": "mijn",
+     "t": "của-tôi"
+    },
+    {
+     "w": "vak",
+     "t": "ngành-nghề"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "làm-việc."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Sau đó tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "ben",
+     "t": "đã"
+    },
+    {
+     "w": "ik",
+     "t": "tôi"
+    },
+    {
+     "w": "naar",
+     "t": "đến"
+    },
+    {
+     "w": "een",
+     "t": "một"
+    },
+    {
+     "w": "nieuw",
+     "t": "mới"
+    },
+    {
+     "w": "land",
+     "t": "đất-nước"
+    },
+    {
+     "w": "gekomen.",
+     "t": "đến-nơi."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ này.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "leer",
+     "t": "học"
+    },
+    {
+     "w": "ik",
+     "t": "tôi"
+    },
+    {
+     "w": "de",
+     "t": "(mạo-từ)"
+    },
+    {
+     "w": "taal.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Sắp tới tôi sẽ lại làm việc trong ngành nghề của mình.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Sắp-tới"
+    },
+    {
+     "w": "ga",
+     "t": "sẽ"
+    },
+    {
+     "w": "ik",
+     "t": "tôi"
+    },
+    {
+     "w": "weer",
+     "t": "lại"
+    },
+    {
+     "w": "in",
+     "t": "trong"
+    },
+    {
+     "w": "mijn",
+     "t": "của-tôi"
+    },
+    {
+     "w": "vak",
+     "t": "ngành-nghề"
+    },
+    {
+     "w": "werken.",
+     "t": "làm-việc."
+    }
+   ]
+  }
+ ]
+}

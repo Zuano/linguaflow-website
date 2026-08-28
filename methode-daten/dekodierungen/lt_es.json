@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "es",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Trabajé durante muchos años en mi profesión.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "muchos"
+    },
+    {
+     "w": "metų",
+     "t": "años"
+    },
+    {
+     "w": "dirbau",
+     "t": "trabajé"
+    },
+    {
+     "w": "savo",
+     "t": "mi (propia)"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "en-profesión."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Más tarde llegué a un nuevo país.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "más-tarde"
+    },
+    {
+     "w": "atvykau",
+     "t": "llegué"
+    },
+    {
+     "w": "į",
+     "t": "a"
+    },
+    {
+     "w": "naują",
+     "t": "nuevo"
+    },
+    {
+     "w": "šalį.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "ahora"
+    },
+    {
+     "w": "mokausi",
+     "t": "aprendo"
+    },
+    {
+     "w": "kalbos.",
+     "t": "del-idioma."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "pronto"
+    },
+    {
+     "w": "vėl",
+     "t": "otra-vez"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "trabajaré"
+    },
+    {
+     "w": "savo",
+     "t": "mi (propia)"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "en-profesión."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "nl",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Ik heb jarenlang in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Ik"
+    },
+    {
+     "w": "telah",
+     "t": "heb (al)"
+    },
+    {
+     "w": "bekerja",
+     "t": "gewerkt"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "vakgebied"
+    },
+    {
+     "w": "saya",
+     "t": "mijn"
+    },
+    {
+     "w": "selama",
+     "t": "gedurende"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "jarenlang."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Daarna verhuisde ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Daarna"
+    },
+    {
+     "w": "saya",
+     "t": "ik"
+    },
+    {
+     "w": "pindah",
+     "t": "verhuisde"
+    },
+    {
+     "w": "ke",
+     "t": "naar"
+    },
+    {
+     "w": "negara",
+     "t": "land"
+    },
+    {
+     "w": "baru.",
+     "t": "nieuw."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Nu ben ik de taal aan het leren.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Nu"
+    },
+    {
+     "w": "saya",
+     "t": "ik"
+    },
+    {
+     "w": "sedang",
+     "t": "ben-aan-het"
+    },
+    {
+     "w": "belajar",
+     "t": "leren"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "de-taal-ervan."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Binnenkort zal ik weer in mijn vakgebied gaan werken.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Zo-dadelijk"
+    },
+    {
+     "w": "lagi",
+     "t": "weer"
+    },
+    {
+     "w": "saya",
+     "t": "ik"
+    },
+    {
+     "w": "akan",
+     "t": "zal"
+    },
+    {
+     "w": "kembali",
+     "t": "terug"
+    },
+    {
+     "w": "bekerja",
+     "t": "werken"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "vakgebied"
+    },
+    {
+     "w": "saya.",
+     "t": "mijn."
+    }
+   ]
+  }
+ ]
+}

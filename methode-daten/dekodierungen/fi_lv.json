@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "lv",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Es esmu strādājis savā jomā daudzus gadus.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Esmu"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "strādājis"
+    },
+    {
+     "w": "alallani",
+     "t": "savā-jomā"
+    },
+    {
+     "w": "monta",
+     "t": "daudzus"
+    },
+    {
+     "w": "vuotta.",
+     "t": "gadus."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "muutin",
+     "t": "pārcēlos"
+    },
+    {
+     "w": "uuteen",
+     "t": "jaunā"
+    },
+    {
+     "w": "maahan.",
+     "t": "valstī."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Tagad"
+    },
+    {
+     "w": "opiskelen",
+     "t": "mācos"
+    },
+    {
+     "w": "kieltä.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Drīz es plānoju atkal sākt strādāt savā jomā.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Drīz"
+    },
+    {
+     "w": "aion",
+     "t": "plānoju"
+    },
+    {
+     "w": "jatkaa",
+     "t": "turpināt"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "strādāšanu"
+    },
+    {
+     "w": "alallani.",
+     "t": "savā-jomā."
+    }
+   ]
+  }
+ ]
+}

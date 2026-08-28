@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "he",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "עבדתי שנים רבות במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "עבדתי"
+    },
+    {
+     "w": "muitos",
+     "t": "רבות"
+    },
+    {
+     "w": "anos",
+     "t": "שנים"
+    },
+    {
+     "w": "na",
+     "t": "ב"
+    },
+    {
+     "w": "minha",
+     "t": "שלי"
+    },
+    {
+     "w": "profissão.",
+     "t": "מקצוע."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "אחר כך, הגעתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "אחר-כך,"
+    },
+    {
+     "w": "vim",
+     "t": "באתי"
+    },
+    {
+     "w": "para",
+     "t": "אל"
+    },
+    {
+     "w": "um",
+     "t": "ל"
+    },
+    {
+     "w": "novo",
+     "t": "חדשה"
+    },
+    {
+     "w": "país.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "עכשיו"
+    },
+    {
+     "w": "estou",
+     "t": "אני-נמצא"
+    },
+    {
+     "w": "a",
+     "t": "(מילית-המשך)"
+    },
+    {
+     "w": "aprender",
+     "t": "ללמוד"
+    },
+    {
+     "w": "a",
+     "t": "את-ה"
+    },
+    {
+     "w": "língua.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "בקרוב, אחזור לעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "ב"
+    },
+    {
+     "w": "breve,",
+     "t": "קרוב,"
+    },
+    {
+     "w": "voltarei",
+     "t": "אחזור"
+    },
+    {
+     "w": "a",
+     "t": "ל"
+    },
+    {
+     "w": "trabalhar",
+     "t": "לעבוד"
+    },
+    {
+     "w": "na",
+     "t": "ב"
+    },
+    {
+     "w": "minha",
+     "t": "שלי"
+    },
+    {
+     "w": "profissão.",
+     "t": "מקצוע."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "et",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Ma töötasin palju aastaid oma erialal.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Mina",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "palju",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "aastaid",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "töötasin",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "vastavalt",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "erialale.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Seejärel kolisin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Seejärel",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "mina",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "kolisin",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "sisse",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "uude",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "riiki.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Praegu ma õpin keelt.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Praegu",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "mina",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "õpin",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "keelt.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Varsti hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Varsti",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "mina",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "taas",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "hakkan",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "töötama",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "vastavalt",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "erialale.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

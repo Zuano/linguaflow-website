@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "ko",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "저는 제 직업에서 여러 해 동안 일해 왔습니다.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "저는-~해왔다"
+    },
+    {
+     "w": "daudzus",
+     "t": "많은"
+    },
+    {
+     "w": "gadus",
+     "t": "해들을(년들을)"
+    },
+    {
+     "w": "strādājis",
+     "t": "일했다"
+    },
+    {
+     "w": "savā",
+     "t": "자신의"
+    },
+    {
+     "w": "profesijā.",
+     "t": "직업에서."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "그 후에 저는 새로운 나라로 이사했습니다.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "후에"
+    },
+    {
+     "w": "tam",
+     "t": "그것의"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "저는-이사했다"
+    },
+    {
+     "w": "uz",
+     "t": "~로"
+    },
+    {
+     "w": "jaunu",
+     "t": "새로운"
+    },
+    {
+     "w": "valsti.",
+     "t": "나라로."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "지금은 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "지금"
+    },
+    {
+     "w": "apgūstu",
+     "t": "저는-배우고-있다"
+    },
+    {
+     "w": "valodu.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "곧 다시 제 직업에서 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "곧"
+    },
+    {
+     "w": "atkal",
+     "t": "다시"
+    },
+    {
+     "w": "strādāšu",
+     "t": "저는-일할-것이다"
+    },
+    {
+     "w": "savā",
+     "t": "자신의"
+    },
+    {
+     "w": "profesijā.",
+     "t": "직업에서."
+    }
+   ]
+  }
+ ]
+}

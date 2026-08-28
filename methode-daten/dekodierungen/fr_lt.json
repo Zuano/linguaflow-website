@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "lt",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Ilgus metus dirbau savo profesijoje.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Aš'turiu (esu)"
+    },
+    {
+     "w": "exercé",
+     "t": "vykdęs (dirbęs)"
+    },
+    {
+     "w": "mon",
+     "t": "savo"
+    },
+    {
+     "w": "métier",
+     "t": "profesiją"
+    },
+    {
+     "w": "pendant",
+     "t": "per (per laikotarpį)"
+    },
+    {
+     "w": "de",
+     "t": "(daug)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "daug (skaitlingus)"
+    },
+    {
+     "w": "années.",
+     "t": "metų."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Vėliau atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Vėliau"
+    },
+    {
+     "w": "je",
+     "t": "aš"
+    },
+    {
+     "w": "suis",
+     "t": "esu"
+    },
+    {
+     "w": "arrivé",
+     "t": "atvykęs"
+    },
+    {
+     "w": "dans",
+     "t": "į"
+    },
+    {
+     "w": "un",
+     "t": "vieną"
+    },
+    {
+     "w": "nouveau",
+     "t": "naują"
+    },
+    {
+     "w": "pays.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Dabar,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "aš'mokausi"
+    },
+    {
+     "w": "la",
+     "t": "tos"
+    },
+    {
+     "w": "langue.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Greitai vėl imsiuosi savo profesijos.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Greitai,"
+    },
+    {
+     "w": "je",
+     "t": "aš"
+    },
+    {
+     "w": "reprendrai",
+     "t": "vėl-imsiuosi"
+    },
+    {
+     "w": "mon",
+     "t": "savo"
+    },
+    {
+     "w": "métier.",
+     "t": "profesijos."
+    }
+   ]
+  }
+ ]
+}

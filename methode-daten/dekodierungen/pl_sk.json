@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "sk",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Dlhé roky som pracoval vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Cez (Počas)"
+    },
+    {
+     "w": "wiele",
+     "t": "veľa"
+    },
+    {
+     "w": "lat",
+     "t": "rokov"
+    },
+    {
+     "w": "pracowałem",
+     "t": "pracoval-som"
+    },
+    {
+     "w": "w",
+     "t": "v"
+    },
+    {
+     "w": "swoim",
+     "t": "svojom"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "odbore."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Potom"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "prišiel-som"
+    },
+    {
+     "w": "do",
+     "t": "do"
+    },
+    {
+     "w": "nowego",
+     "t": "novej"
+    },
+    {
+     "w": "kraju.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Teraz"
+    },
+    {
+     "w": "uczę",
+     "t": "učím"
+    },
+    {
+     "w": "się",
+     "t": "sa"
+    },
+    {
+     "w": "języka.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Už skoro budem znova pracovať vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Už-skoro"
+    },
+    {
+     "w": "znów",
+     "t": "znova"
+    },
+    {
+     "w": "będę",
+     "t": "budem"
+    },
+    {
+     "w": "pracował",
+     "t": "pracovať"
+    },
+    {
+     "w": "w",
+     "t": "v"
+    },
+    {
+     "w": "swoim",
+     "t": "svojom"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "odbore."
+    }
+   ]
+  }
+ ]
+}

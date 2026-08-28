@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "th",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "ผมทำงานในสาขาของผมมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "ใน"
+    },
+    {
+     "w": "mojom",
+     "t": "ของผม"
+    },
+    {
+     "w": "odbore",
+     "t": "สาขา(อาชีพ)"
+    },
+    {
+     "w": "som",
+     "t": "(ฉัน)ได้"
+    },
+    {
+     "w": "pracoval",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "mnoho",
+     "t": "หลาย"
+    },
+    {
+     "w": "rokov.",
+     "t": "ปี"
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "หลังจากนั้นผมก็มาถึงประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "หลังจากนั้น"
+    },
+    {
+     "w": "som",
+     "t": "(ฉัน)ได้"
+    },
+    {
+     "w": "prišiel",
+     "t": "มาถึง"
+    },
+    {
+     "w": "do",
+     "t": "ยัง"
+    },
+    {
+     "w": "novej",
+     "t": "ใหม่"
+    },
+    {
+     "w": "krajiny.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "sa",
+     "t": "(ตัวเอง)"
+    },
+    {
+     "w": "učím",
+     "t": "กำลังเรียน"
+    },
+    {
+     "w": "jazyk.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "ในไม่ช้าผมจะได้ทำงานในสาขาของผมอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "ในไม่ช้า"
+    },
+    {
+     "w": "budem",
+     "t": "ผมจะ"
+    },
+    {
+     "w": "opäť",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "pracovať",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "vo",
+     "t": "ใน"
+    },
+    {
+     "w": "svojom",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "odbore.",
+     "t": "สาขา(อาชีพ)"
+    }
+   ]
+  }
+ ]
+}

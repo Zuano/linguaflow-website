@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "vi",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Tôi đã làm việc nhiều năm trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "Trong-nghề-của-tôi"
+    },
+    {
+     "w": "uzun",
+     "t": "nhiều (dài)"
+    },
+    {
+     "w": "yıllar",
+     "t": "năm"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "tôi-đã-làm-việc."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Sau đó tôi đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "yeni",
+     "t": "mới"
+    },
+    {
+     "w": "bir",
+     "t": "một"
+    },
+    {
+     "w": "ülkeye",
+     "t": "đến-đất-nước"
+    },
+    {
+     "w": "geldim.",
+     "t": "tôi-đã-đến."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "dili",
+     "t": "ngôn-ngữ"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "tôi-đang-học."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Sắp tới tôi sẽ lại bắt đầu làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "Sắp-tới"
+    },
+    {
+     "w": "tekrar",
+     "t": "lại"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "trong-nghề-của-tôi"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "để-làm-việc"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "tôi-sẽ-bắt-đầu."
+    }
+   ]
+  }
+ ]
+}

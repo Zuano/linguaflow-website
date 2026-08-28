@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "he",
+ "native": "lt",
+ "text": "עבדתי שנים רבות במקצוע שלי. לאחר מכן הגעתי למדינה חדשה. כעת אני לומד את השפה. בקרוב אחזור לעבוד במקצוע שלי.",
+ "sentences": [
+  {
+   "text": "עבדתי שנים רבות במקצוע שלי.",
+   "translation": "Aš dirbau daugelį metų savo profesijoje.",
+   "pairs": [
+    {
+     "w": "עבדתי",
+     "t": "aš-dirbau",
+     "r": "avádti"
+    },
+    {
+     "w": "שנים",
+     "t": "metus",
+     "r": "shaním"
+    },
+    {
+     "w": "רבות",
+     "t": "daug",
+     "r": "rabót"
+    },
+    {
+     "w": "במקצוע",
+     "t": "profesijoje",
+     "r": "bemiktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "savo (mano).",
+     "r": "shelí."
+    }
+   ]
+  },
+  {
+   "text": "לאחר מכן הגעתי למדינה חדשה.",
+   "translation": "Vėliau aš atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "לאחר",
+     "t": "po",
+     "r": "le'akhár"
+    },
+    {
+     "w": "מכן",
+     "t": "to",
+     "r": "mikán"
+    },
+    {
+     "w": "הגעתי",
+     "t": "aš-atvykau",
+     "r": "higáti"
+    },
+    {
+     "w": "למדינה",
+     "t": "į-šalį",
+     "r": "lemedináh"
+    },
+    {
+     "w": "חדשה.",
+     "t": "naują.",
+     "r": "khadasháh."
+    }
+   ]
+  },
+  {
+   "text": "כעת אני לומד את השפה.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "כעת",
+     "t": "dabar",
+     "r": "ka'ét"
+    },
+    {
+     "w": "אני",
+     "t": "aš",
+     "r": "aní"
+    },
+    {
+     "w": "לומד",
+     "t": "mokausi",
+     "r": "loméd"
+    },
+    {
+     "w": "את",
+     "t": "(papildinio-žymuo)",
+     "r": "et"
+    },
+    {
+     "w": "השפה.",
+     "t": "kalbos.",
+     "r": "hasafáh."
+    }
+   ]
+  },
+  {
+   "text": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "translation": "Greitai vėl grįšiu dirbti savo profesijoje.",
+   "pairs": [
+    {
+     "w": "בקרוב",
+     "t": "greitai",
+     "r": "bekaróv"
+    },
+    {
+     "w": "אחזור",
+     "t": "aš-sugrįšiu",
+     "r": "ekhezór"
+    },
+    {
+     "w": "לעבוד",
+     "t": "dirbti",
+     "r": "la'avód"
+    },
+    {
+     "w": "במקצוע",
+     "t": "profesijoje",
+     "r": "bemiktzóa"
+    },
+    {
+     "w": "שלי.",
+     "t": "savo (mano).",
+     "r": "shelí."
+    }
+   ]
+  }
+ ]
+}

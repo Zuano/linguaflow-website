@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "et",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Ma olen palju aastaid töötanud oma erialal.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "olen"
+    },
+    {
+     "w": "daudzus",
+     "t": "palju"
+    },
+    {
+     "w": "gadus",
+     "t": "aastaid"
+    },
+    {
+     "w": "strādājis",
+     "t": "töötanud"
+    },
+    {
+     "w": "savā",
+     "t": "oma"
+    },
+    {
+     "w": "profesijā.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Pärast seda kolisin uude riiki.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "pärast"
+    },
+    {
+     "w": "tam",
+     "t": "seda"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "kolisin"
+    },
+    {
+     "w": "uz",
+     "t": "(suunas)"
+    },
+    {
+     "w": "jaunu",
+     "t": "uude"
+    },
+    {
+     "w": "valsti.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "nüüd"
+    },
+    {
+     "w": "apgūstu",
+     "t": "õpin"
+    },
+    {
+     "w": "valodu.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Varsti töötan taas oma erialal.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "varsti"
+    },
+    {
+     "w": "atkal",
+     "t": "taas"
+    },
+    {
+     "w": "strādāšu",
+     "t": "töötan"
+    },
+    {
+     "w": "savā",
+     "t": "oma"
+    },
+    {
+     "w": "profesijā.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

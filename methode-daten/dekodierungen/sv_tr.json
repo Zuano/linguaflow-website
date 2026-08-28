@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "tr",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Kendi mesleğimde uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Ben"
+    },
+    {
+     "w": "har",
+     "t": "-dım (bitmişlik)"
+    },
+    {
+     "w": "arbetat",
+     "t": "çalışmış"
+    },
+    {
+     "w": "många",
+     "t": "birçok"
+    },
+    {
+     "w": "år",
+     "t": "yıl"
+    },
+    {
+     "w": "inom",
+     "t": "içinde"
+    },
+    {
+     "w": "mitt",
+     "t": "kendi"
+    },
+    {
+     "w": "yrke.",
+     "t": "mesleğim."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Sonra"
+    },
+    {
+     "w": "flyttade",
+     "t": "taşındı"
+    },
+    {
+     "w": "jag",
+     "t": "ben"
+    },
+    {
+     "w": "till",
+     "t": "-e"
+    },
+    {
+     "w": "ett",
+     "t": "bir"
+    },
+    {
+     "w": "nytt",
+     "t": "yeni"
+    },
+    {
+     "w": "land.",
+     "t": "ülke-e."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Şimdi"
+    },
+    {
+     "w": "lär",
+     "t": "öğretiyor"
+    },
+    {
+     "w": "jag",
+     "t": "ben"
+    },
+    {
+     "w": "mig",
+     "t": "kendime"
+    },
+    {
+     "w": "språket.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Yakında yeniden kendi mesleğimde çalışmaya başlayacağım.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Yakında"
+    },
+    {
+     "w": "ska",
+     "t": "-acağım (gelecek)"
+    },
+    {
+     "w": "jag",
+     "t": "ben"
+    },
+    {
+     "w": "börja",
+     "t": "başlamak"
+    },
+    {
+     "w": "arbeta",
+     "t": "çalışmaya"
+    },
+    {
+     "w": "inom",
+     "t": "içinde"
+    },
+    {
+     "w": "mitt",
+     "t": "kendi"
+    },
+    {
+     "w": "yrke",
+     "t": "mesleğim"
+    },
+    {
+     "w": "igen.",
+     "t": "tekrar."
+    }
+   ]
+  }
+ ]
+}

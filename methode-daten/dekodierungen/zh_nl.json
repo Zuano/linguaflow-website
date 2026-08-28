@@ -1,0 +1,187 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "nl",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Ik heb jarenlang in mijn eigen vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "Ik",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "in",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "eigen",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "vakgebied",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "terrein",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "werken",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(voltooid)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "veel",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "jaar.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Later ben ik naar een nieuw land gekomen.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "Later,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "ik",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "ben-gekomen-naar",
+     "r": "lái-dào"
+    },
+    {
+     "w": "了",
+     "t": "(voltooid)",
+     "r": "le"
+    },
+    {
+     "w": "一",
+     "t": "een",
+     "r": "yī"
+    },
+    {
+     "w": "片",
+     "t": "(maat-voor-land)",
+     "r": "piàn"
+    },
+    {
+     "w": "新的",
+     "t": "nieuw",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地。",
+     "t": "land.",
+     "r": "tǔ-dì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Nu ben ik bezig de plaatselijke taal te leren.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "Nu,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "ik",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "ben-aan-het",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "leren",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "plaatselijke",
+     "r": "dāng-dì-de"
+    },
+    {
+     "w": "语言。",
+     "t": "taal.",
+     "r": "yǔ-yán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Binnenkort zal ik weer in mijn eigen vakgebied gaan werken.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "Snel,",
+     "r": "hěn-kuài,"
+    },
+    {
+     "w": "我",
+     "t": "ik",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "zal",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "teruggaan-naar",
+     "r": "chóng-fǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "eigen",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "vakgebied",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "terrein",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "werken.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

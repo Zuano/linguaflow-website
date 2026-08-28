@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "fi",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Olen työskennellyt monta vuotta ammatissani.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "olen"
+    },
+    {
+     "w": "lavorato",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "per",
+     "t": "monta"
+    },
+    {
+     "w": "molti",
+     "t": "(useita)"
+    },
+    {
+     "w": "anni",
+     "t": "vuotta"
+    },
+    {
+     "w": "nella",
+     "t": "(oma)-ammatissani-(sisällä)"
+    },
+    {
+     "w": "mia",
+     "t": "minun"
+    },
+    {
+     "w": "professione.",
+     "t": "ammatti."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "sitten"
+    },
+    {
+     "w": "mi",
+     "t": "itseni"
+    },
+    {
+     "w": "sono",
+     "t": "olen"
+    },
+    {
+     "w": "trasferito",
+     "t": "muuttanut"
+    },
+    {
+     "w": "in",
+     "t": "-han/-hän (sisään)"
+    },
+    {
+     "w": "un",
+     "t": "yhteen"
+    },
+    {
+     "w": "nuovo",
+     "t": "uuteen"
+    },
+    {
+     "w": "Paese.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Nyt opettelen kieltä.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "nyt"
+    },
+    {
+     "w": "sto",
+     "t": "olen (parhaillaan)"
+    },
+    {
+     "w": "imparando",
+     "t": "oppimassa"
+    },
+    {
+     "w": "la",
+     "t": "(the)"
+    },
+    {
+     "w": "lingua.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Pian palaan töihin omaan ammattiini.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "pian"
+    },
+    {
+     "w": "tornerò",
+     "t": "palaan"
+    },
+    {
+     "w": "a",
+     "t": "(to)"
+    },
+    {
+     "w": "lavorare",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "nella",
+     "t": "(oma)-ammattiini-(sisällä)"
+    },
+    {
+     "w": "mia",
+     "t": "minun"
+    },
+    {
+     "w": "professione.",
+     "t": "ammatti."
+    }
+   ]
+  }
+ ]
+}

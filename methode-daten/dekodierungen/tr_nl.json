@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "nl",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Ik heb lange jaren in mijn beroep gewerkt.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "In-mijn-beroep"
+    },
+    {
+     "w": "uzun",
+     "t": "lange"
+    },
+    {
+     "w": "yıllar",
+     "t": "jaren"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "ik-heb-gewerkt."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Daarna kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "Daarna"
+    },
+    {
+     "w": "yeni",
+     "t": "nieuw"
+    },
+    {
+     "w": "bir",
+     "t": "een"
+    },
+    {
+     "w": "ülkeye",
+     "t": "naar-het-land"
+    },
+    {
+     "w": "geldim.",
+     "t": "ik-kwam."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "Nu"
+    },
+    {
+     "w": "dili",
+     "t": "de-taal"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "ik-leer."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Binnenkort ga ik weer in mijn beroep werken.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "tekrar",
+     "t": "weer"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "in-mijn-beroep"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "om-te-werken"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "ik-zal-beginnen."
+    }
+   ]
+  }
+ ]
+}

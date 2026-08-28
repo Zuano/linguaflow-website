@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "sk",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Vo svojom odbore som pracoval mnoho rokov.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Vo"
+    },
+    {
+     "w": "svém",
+     "t": "svojom"
+    },
+    {
+     "w": "oboru",
+     "t": "odbore"
+    },
+    {
+     "w": "jsem",
+     "t": "som"
+    },
+    {
+     "w": "pracoval",
+     "t": "pracoval"
+    },
+    {
+     "w": "mnoho",
+     "t": "mnoho"
+    },
+    {
+     "w": "let.",
+     "t": "rokov."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Potom som sa presťahoval do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Potom"
+    },
+    {
+     "w": "jsem",
+     "t": "som"
+    },
+    {
+     "w": "se",
+     "t": "sa"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "presťahoval"
+    },
+    {
+     "w": "do",
+     "t": "do"
+    },
+    {
+     "w": "nové",
+     "t": "novej"
+    },
+    {
+     "w": "země.",
+     "t": "krajiny."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Teraz sa učím jazyk.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Teraz"
+    },
+    {
+     "w": "se",
+     "t": "sa"
+    },
+    {
+     "w": "učím",
+     "t": "učím"
+    },
+    {
+     "w": "jazyk.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Čoskoro"
+    },
+    {
+     "w": "budu",
+     "t": "budem"
+    },
+    {
+     "w": "zase",
+     "t": "opäť"
+    },
+    {
+     "w": "pracovat",
+     "t": "pracovať"
+    },
+    {
+     "w": "ve",
+     "t": "vo"
+    },
+    {
+     "w": "svém",
+     "t": "svojom"
+    },
+    {
+     "w": "oboru.",
+     "t": "odbore."
+    }
+   ]
+  }
+ ]
+}

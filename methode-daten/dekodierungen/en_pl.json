@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "pl",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Pracowałem w moim zawodzie przez wiele lat.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Ja"
+    },
+    {
+     "w": "worked",
+     "t": "pracowałem"
+    },
+    {
+     "w": "in",
+     "t": "w"
+    },
+    {
+     "w": "my",
+     "t": "moim"
+    },
+    {
+     "w": "profession",
+     "t": "zawodzie"
+    },
+    {
+     "w": "for",
+     "t": "przez"
+    },
+    {
+     "w": "many",
+     "t": "wiele"
+    },
+    {
+     "w": "years.",
+     "t": "lat."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Potem"
+    },
+    {
+     "w": "I",
+     "t": "ja"
+    },
+    {
+     "w": "moved",
+     "t": "przeprowadziłem-się"
+    },
+    {
+     "w": "to",
+     "t": "do"
+    },
+    {
+     "w": "a",
+     "t": "(jakiegoś)"
+    },
+    {
+     "w": "new",
+     "t": "nowego"
+    },
+    {
+     "w": "country.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Teraz uczę się tego języka.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Teraz"
+    },
+    {
+     "w": "I'm",
+     "t": "Ja'jestem"
+    },
+    {
+     "w": "learning",
+     "t": "uczący-się"
+    },
+    {
+     "w": "the",
+     "t": "(tego)"
+    },
+    {
+     "w": "language.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Wkrótce znowu będę pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "I'll",
+     "t": "Ja'będę"
+    },
+    {
+     "w": "be",
+     "t": "(pomocniczy-być)"
+    },
+    {
+     "w": "working",
+     "t": "pracujący"
+    },
+    {
+     "w": "in",
+     "t": "w"
+    },
+    {
+     "w": "my",
+     "t": "moim"
+    },
+    {
+     "w": "profession",
+     "t": "zawodzie"
+    },
+    {
+     "w": "again.",
+     "t": "znowu."
+    }
+   ]
+  }
+ ]
+}

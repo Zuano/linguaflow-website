@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "sv",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Jag har jobbat inom mitt yrke under lång tid.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "jag (vad-mig-beträffar)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "under-lång-tid",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "mitt",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "i-yrket",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "arbetat",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "har-kommit (gjort hittills).",
+     "r": "wasseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Men sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "men-sedan",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "nytt",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "till-landet",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "kom.",
+     "r": "wasseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Nu håller jag på att lära mig landets språk.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "nu (vad-nu-beträffar)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "det där",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "landets",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "språket",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "lär-och",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "håller-på-med.",
+     "r": "isseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Snart kommer jag att arbeta inom mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "snart",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "igen",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "mitt",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "inom-yrket",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "att-arbeta",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "kommer-att-bli",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "(det).",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

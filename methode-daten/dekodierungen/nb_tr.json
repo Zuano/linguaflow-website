@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "tr",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Kendi uzmanlık alanımda uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Ben"
+    },
+    {
+     "w": "har",
+     "t": "-dım (yardımcı fiil)"
+    },
+    {
+     "w": "jobbet",
+     "t": "çalışmış"
+    },
+    {
+     "w": "i",
+     "t": "içinde"
+    },
+    {
+     "w": "mange",
+     "t": "birçok"
+    },
+    {
+     "w": "år",
+     "t": "yıl"
+    },
+    {
+     "w": "innen",
+     "t": "dahilinde"
+    },
+    {
+     "w": "mitt",
+     "t": "kendi"
+    },
+    {
+     "w": "fagområde.",
+     "t": "uzmanlık-alanımın."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Sonra"
+    },
+    {
+     "w": "flyttet",
+     "t": "taşındım"
+    },
+    {
+     "w": "jeg",
+     "t": "ben"
+    },
+    {
+     "w": "til",
+     "t": "-e"
+    },
+    {
+     "w": "et",
+     "t": "bir"
+    },
+    {
+     "w": "nytt",
+     "t": "yeni"
+    },
+    {
+     "w": "land.",
+     "t": "ülke."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Şimdi dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Şimdi"
+    },
+    {
+     "w": "lærer",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "jeg",
+     "t": "ben"
+    },
+    {
+     "w": "språket.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Yakında yine kendi uzmanlık alanımda çalışacağım.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Yakında"
+    },
+    {
+     "w": "skal",
+     "t": "-eceğim (yardımcı fiil)"
+    },
+    {
+     "w": "jeg",
+     "t": "ben"
+    },
+    {
+     "w": "jobbe",
+     "t": "çalışmak"
+    },
+    {
+     "w": "innen",
+     "t": "dahilinde"
+    },
+    {
+     "w": "mitt",
+     "t": "kendi"
+    },
+    {
+     "w": "fagområde",
+     "t": "uzmanlık-alanımın"
+    },
+    {
+     "w": "igjen.",
+     "t": "yine."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "ru",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Я работал много лет по своей профессии.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "(вспом.-глагол)"
+    },
+    {
+     "w": "lucrat",
+     "t": "работал"
+    },
+    {
+     "w": "mulți",
+     "t": "много"
+    },
+    {
+     "w": "ani",
+     "t": "лет"
+    },
+    {
+     "w": "în",
+     "t": "в"
+    },
+    {
+     "w": "meseria",
+     "t": "профессии"
+    },
+    {
+     "w": "mea.",
+     "t": "моей."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Потом я переехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "потом"
+    },
+    {
+     "w": "m-am",
+     "t": "я'себя (переехал)"
+    },
+    {
+     "w": "mutat",
+     "t": "переехал"
+    },
+    {
+     "w": "într-o",
+     "t": "в'одну"
+    },
+    {
+     "w": "țară",
+     "t": "страну"
+    },
+    {
+     "w": "nouă.",
+     "t": "новую."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Сейчас я учу язык.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "сейчас"
+    },
+    {
+     "w": "învăț",
+     "t": "учу"
+    },
+    {
+     "w": "limba.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Скоро я снова буду работать по своей профессии.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "в"
+    },
+    {
+     "w": "curând",
+     "t": "скором (времени)"
+    },
+    {
+     "w": "voi",
+     "t": "буду"
+    },
+    {
+     "w": "lucra",
+     "t": "работать"
+    },
+    {
+     "w": "din",
+     "t": "из"
+    },
+    {
+     "w": "nou",
+     "t": "нового (снова)"
+    },
+    {
+     "w": "în",
+     "t": "в"
+    },
+    {
+     "w": "meseria",
+     "t": "профессии"
+    },
+    {
+     "w": "mea.",
+     "t": "моей."
+    }
+   ]
+  }
+ ]
+}

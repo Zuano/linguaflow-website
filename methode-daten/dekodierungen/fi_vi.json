@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "vi",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Tôi đã làm việc trong ngành của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Tôi-đã"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "làm-việc"
+    },
+    {
+     "w": "alallani",
+     "t": "trong-ngành-của-tôi"
+    },
+    {
+     "w": "monta",
+     "t": "nhiều"
+    },
+    {
+     "w": "vuotta.",
+     "t": "năm."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Sau đó tôi chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "muutin",
+     "t": "tôi-chuyển-đến"
+    },
+    {
+     "w": "uuteen",
+     "t": "mới"
+    },
+    {
+     "w": "maahan.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "opiskelen",
+     "t": "tôi-học"
+    },
+    {
+     "w": "kieltä.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Sắp tới tôi sẽ tiếp tục làm việc trong ngành của mình.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Sắp-tới"
+    },
+    {
+     "w": "aion",
+     "t": "tôi-định"
+    },
+    {
+     "w": "jatkaa",
+     "t": "tiếp-tục"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "việc-làm"
+    },
+    {
+     "w": "alallani.",
+     "t": "trong-ngành-của-tôi."
+    }
+   ]
+  }
+ ]
+}

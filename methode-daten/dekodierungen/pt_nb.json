@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "nb",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Jeg jobbet mange år i mitt yrke.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Jeg-jobbet"
+    },
+    {
+     "w": "muitos",
+     "t": "mange"
+    },
+    {
+     "w": "anos",
+     "t": "år"
+    },
+    {
+     "w": "na",
+     "t": "i-den"
+    },
+    {
+     "w": "minha",
+     "t": "min"
+    },
+    {
+     "w": "profissão.",
+     "t": "yrke."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Deretter kom jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Deretter,"
+    },
+    {
+     "w": "vim",
+     "t": "kom-jeg"
+    },
+    {
+     "w": "para",
+     "t": "til"
+    },
+    {
+     "w": "um",
+     "t": "et"
+    },
+    {
+     "w": "novo",
+     "t": "nytt"
+    },
+    {
+     "w": "país.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Nå holder jeg på å lære språket.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Nå"
+    },
+    {
+     "w": "estou",
+     "t": "holder-jeg-på"
+    },
+    {
+     "w": "a",
+     "t": "å"
+    },
+    {
+     "w": "aprender",
+     "t": "lære"
+    },
+    {
+     "w": "a",
+     "t": "det"
+    },
+    {
+     "w": "língua.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Snart vil jeg begynne å jobbe i mitt yrke igjen.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Om"
+    },
+    {
+     "w": "breve,",
+     "t": "kort-tid,"
+    },
+    {
+     "w": "voltarei",
+     "t": "vil-jeg-vende-tilbake"
+    },
+    {
+     "w": "a",
+     "t": "til-å"
+    },
+    {
+     "w": "trabalhar",
+     "t": "jobbe"
+    },
+    {
+     "w": "na",
+     "t": "i-den"
+    },
+    {
+     "w": "minha",
+     "t": "min"
+    },
+    {
+     "w": "profissão.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

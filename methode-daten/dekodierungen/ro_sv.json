@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "sv",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Jag arbetade i många år inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Har-jag"
+    },
+    {
+     "w": "lucrat",
+     "t": "arbetat"
+    },
+    {
+     "w": "mulți",
+     "t": "många"
+    },
+    {
+     "w": "ani",
+     "t": "år"
+    },
+    {
+     "w": "în",
+     "t": "i"
+    },
+    {
+     "w": "meseria",
+     "t": "yrket"
+    },
+    {
+     "w": "mea.",
+     "t": "mitt."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Sedan flyttade jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Sedan"
+    },
+    {
+     "w": "m-am",
+     "t": "mig'har-jag"
+    },
+    {
+     "w": "mutat",
+     "t": "flyttat"
+    },
+    {
+     "w": "într-o",
+     "t": "till-ett"
+    },
+    {
+     "w": "țară",
+     "t": "land"
+    },
+    {
+     "w": "nouă.",
+     "t": "nytt."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Nu"
+    },
+    {
+     "w": "învăț",
+     "t": "lär-jag-mig"
+    },
+    {
+     "w": "limba.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Snart ska jag jobba igen inom mitt yrke.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Inom"
+    },
+    {
+     "w": "curând",
+     "t": "kort (snart)"
+    },
+    {
+     "w": "voi",
+     "t": "ska-jag"
+    },
+    {
+     "w": "lucra",
+     "t": "jobba"
+    },
+    {
+     "w": "din",
+     "t": "från"
+    },
+    {
+     "w": "nou",
+     "t": "nytt (igen)"
+    },
+    {
+     "w": "în",
+     "t": "i"
+    },
+    {
+     "w": "meseria",
+     "t": "yrket"
+    },
+    {
+     "w": "mea.",
+     "t": "mitt."
+    }
+   ]
+  }
+ ]
+}

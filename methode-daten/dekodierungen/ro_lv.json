@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "lv",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Es strādāju daudzus gadus savā profesijā.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Esmu"
+    },
+    {
+     "w": "lucrat",
+     "t": "strādājis"
+    },
+    {
+     "w": "mulți",
+     "t": "daudzus"
+    },
+    {
+     "w": "ani",
+     "t": "gadus"
+    },
+    {
+     "w": "în",
+     "t": "savā"
+    },
+    {
+     "w": "meseria",
+     "t": "profesijā"
+    },
+    {
+     "w": "mea.",
+     "t": "manā."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "m-am",
+     "t": "es'esmu"
+    },
+    {
+     "w": "mutat",
+     "t": "pārcēlies"
+    },
+    {
+     "w": "într-o",
+     "t": "uz-vienu"
+    },
+    {
+     "w": "țară",
+     "t": "valsti"
+    },
+    {
+     "w": "nouă.",
+     "t": "jaunu."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Tagad"
+    },
+    {
+     "w": "învăț",
+     "t": "mācos"
+    },
+    {
+     "w": "limba.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Drīzumā es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "(drīzā)"
+    },
+    {
+     "w": "curând",
+     "t": "laikā"
+    },
+    {
+     "w": "voi",
+     "t": "(es)-būšu"
+    },
+    {
+     "w": "lucra",
+     "t": "strādāt"
+    },
+    {
+     "w": "din",
+     "t": "no"
+    },
+    {
+     "w": "nou",
+     "t": "jauna"
+    },
+    {
+     "w": "în",
+     "t": "savā"
+    },
+    {
+     "w": "meseria",
+     "t": "profesijā"
+    },
+    {
+     "w": "mea.",
+     "t": "manā."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "hu",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Sokáig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Hosszú"
+    },
+    {
+     "w": "leta",
+     "t": "éveket (évekig)"
+    },
+    {
+     "w": "sem",
+     "t": "(segédige a múlt időhöz)"
+    },
+    {
+     "w": "delal",
+     "t": "dolgoztam"
+    },
+    {
+     "w": "v",
+     "t": "a"
+    },
+    {
+     "w": "svojem",
+     "t": "saját"
+    },
+    {
+     "w": "poklicu.",
+     "t": "szakmámban."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Aztán egy új országba érkeztem.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Aztán"
+    },
+    {
+     "w": "sem",
+     "t": "(segédige a múlt időhöz)"
+    },
+    {
+     "w": "prišel",
+     "t": "érkeztem"
+    },
+    {
+     "w": "v",
+     "t": "egy"
+    },
+    {
+     "w": "novo",
+     "t": "új"
+    },
+    {
+     "w": "državo.",
+     "t": "országba."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Most"
+    },
+    {
+     "w": "se",
+     "t": "(visszaható szórész)"
+    },
+    {
+     "w": "učim",
+     "t": "tanulom"
+    },
+    {
+     "w": "jezika.",
+     "t": "a-nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Nemsoká ismét a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Nemsoká"
+    },
+    {
+     "w": "bom",
+     "t": "fogok"
+    },
+    {
+     "w": "spet",
+     "t": "ismét"
+    },
+    {
+     "w": "delal",
+     "t": "dolgozni"
+    },
+    {
+     "w": "v",
+     "t": "a"
+    },
+    {
+     "w": "svojem",
+     "t": "saját"
+    },
+    {
+     "w": "poklicu.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

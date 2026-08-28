@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "ru",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "В своей сфере я работал много лет.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "В"
+    },
+    {
+     "w": "mojom",
+     "t": "своей"
+    },
+    {
+     "w": "odbore",
+     "t": "сфере"
+    },
+    {
+     "w": "som",
+     "t": "(вспом. глагол для прошедшего времени)"
+    },
+    {
+     "w": "pracoval",
+     "t": "работал"
+    },
+    {
+     "w": "mnoho",
+     "t": "много"
+    },
+    {
+     "w": "rokov.",
+     "t": "лет."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Потом я приехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Потом"
+    },
+    {
+     "w": "som",
+     "t": "(вспом. глагол для прошедшего времени)"
+    },
+    {
+     "w": "prišiel",
+     "t": "приехал"
+    },
+    {
+     "w": "do",
+     "t": "в"
+    },
+    {
+     "w": "novej",
+     "t": "новую"
+    },
+    {
+     "w": "krajiny.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Теперь я учу язык.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Теперь"
+    },
+    {
+     "w": "sa",
+     "t": "(возвратная частица)"
+    },
+    {
+     "w": "učím",
+     "t": "учу"
+    },
+    {
+     "w": "jazyk.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Скоро я снова буду работать в своей сфере.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Скоро"
+    },
+    {
+     "w": "budem",
+     "t": "буду"
+    },
+    {
+     "w": "opäť",
+     "t": "снова"
+    },
+    {
+     "w": "pracovať",
+     "t": "работать"
+    },
+    {
+     "w": "vo",
+     "t": "в"
+    },
+    {
+     "w": "svojom",
+     "t": "своей"
+    },
+    {
+     "w": "odbore.",
+     "t": "сфере."
+    }
+   ]
+  }
+ ]
+}

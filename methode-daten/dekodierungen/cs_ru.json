@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "ru",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Я много лет работал в своей области.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "в"
+    },
+    {
+     "w": "svém",
+     "t": "своей"
+    },
+    {
+     "w": "oboru",
+     "t": "области"
+    },
+    {
+     "w": "jsem",
+     "t": "(я)-есть"
+    },
+    {
+     "w": "pracoval",
+     "t": "работал"
+    },
+    {
+     "w": "mnoho",
+     "t": "много"
+    },
+    {
+     "w": "let.",
+     "t": "лет."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Потом я переехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "потом"
+    },
+    {
+     "w": "jsem",
+     "t": "(я)-есть"
+    },
+    {
+     "w": "se",
+     "t": "себя"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "переехал"
+    },
+    {
+     "w": "do",
+     "t": "в"
+    },
+    {
+     "w": "nové",
+     "t": "новую"
+    },
+    {
+     "w": "země.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Сейчас я учу язык.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "сейчас"
+    },
+    {
+     "w": "se",
+     "t": "себя"
+    },
+    {
+     "w": "učím",
+     "t": "учу"
+    },
+    {
+     "w": "jazyk.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Скоро я снова буду работать в своей области.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "скоро"
+    },
+    {
+     "w": "budu",
+     "t": "буду"
+    },
+    {
+     "w": "zase",
+     "t": "снова"
+    },
+    {
+     "w": "pracovat",
+     "t": "работать"
+    },
+    {
+     "w": "ve",
+     "t": "в"
+    },
+    {
+     "w": "svém",
+     "t": "своей"
+    },
+    {
+     "w": "oboru.",
+     "t": "области."
+    }
+   ]
+  }
+ ]
+}

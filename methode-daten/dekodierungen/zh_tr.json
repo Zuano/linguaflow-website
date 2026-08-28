@@ -1,0 +1,187 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "tr",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Kendi profesyonel alanımda birçok yıl çalıştım.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "Ben",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "de",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "kendi",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "profesyonel",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "alan",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "çalış",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(geçmiş)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "birçok",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "yıl.",
+     "r": "nián。"
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Daha sonra yeni bir topraklara geldim.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "Daha-sonra,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "Ben",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "gel-",
+     "r": "láidào"
+    },
+    {
+     "w": "了",
+     "t": "(-di)",
+     "r": "le"
+    },
+    {
+     "w": "一",
+     "t": "bir",
+     "r": "yī"
+    },
+    {
+     "w": "片",
+     "t": "(parça-ölçüsü)",
+     "r": "piàn"
+    },
+    {
+     "w": "新的",
+     "t": "yeni",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地。",
+     "t": "toprak.",
+     "r": "tǔdì。"
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Şimdi yerel dili öğreniyorum.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "Şimdi,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "Ben",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "tam-şu-anda",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "öğren-",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "yerel",
+     "r": "dāngtì-de"
+    },
+    {
+     "w": "语言。",
+     "t": "dil.",
+     "r": "yǔyán。"
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Yakında kendi profesyonel alanıma geri dönerek çalışacağım.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "Yakında,",
+     "r": "hěnkuài,"
+    },
+    {
+     "w": "我",
+     "t": "Ben",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(gelecek)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "geri-dön-",
+     "r": "zhòngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "kendi",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "profesyonel",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "alan",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "çalış.",
+     "r": "gōngzuò。"
+    }
+   ]
+  }
+ ]
+}

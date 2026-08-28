@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "uk",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Я багато років працював за своєю професією.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Я"
+    },
+    {
+     "w": "heb",
+     "t": "маю (допоміжне дієслово)"
+    },
+    {
+     "w": "vele",
+     "t": "багато"
+    },
+    {
+     "w": "jaren",
+     "t": "років"
+    },
+    {
+     "w": "in",
+     "t": "у"
+    },
+    {
+     "w": "mijn",
+     "t": "своїй"
+    },
+    {
+     "w": "vak",
+     "t": "професії"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "працював."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Потім я приїхав до нової країни.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Потім"
+    },
+    {
+     "w": "ben",
+     "t": "є (допоміжне дієслово)"
+    },
+    {
+     "w": "ik",
+     "t": "я"
+    },
+    {
+     "w": "naar",
+     "t": "до"
+    },
+    {
+     "w": "een",
+     "t": "однієї"
+    },
+    {
+     "w": "nieuw",
+     "t": "нової"
+    },
+    {
+     "w": "land",
+     "t": "країни"
+    },
+    {
+     "w": "gekomen.",
+     "t": "прибув(ла)."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Тепер я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Тепер"
+    },
+    {
+     "w": "leer",
+     "t": "вчу"
+    },
+    {
+     "w": "ik",
+     "t": "я"
+    },
+    {
+     "w": "de",
+     "t": "(артикль)"
+    },
+    {
+     "w": "taal.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Незабаром я знову буду працювати за своєю професією.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Незабаром"
+    },
+    {
+     "w": "ga",
+     "t": "буду (допоміжне дієслово)"
+    },
+    {
+     "w": "ik",
+     "t": "я"
+    },
+    {
+     "w": "weer",
+     "t": "знову"
+    },
+    {
+     "w": "in",
+     "t": "у"
+    },
+    {
+     "w": "mijn",
+     "t": "своїй"
+    },
+    {
+     "w": "vak",
+     "t": "професії"
+    },
+    {
+     "w": "werken.",
+     "t": "працювати."
+    }
+   ]
+  }
+ ]
+}

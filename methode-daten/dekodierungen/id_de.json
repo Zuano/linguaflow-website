@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "de",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Ich habe seit vielen Jahren in meinem Fachgebiet gearbeitet.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Ich"
+    },
+    {
+     "w": "telah",
+     "t": "habe (bereits)"
+    },
+    {
+     "w": "bekerja",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "Bereich"
+    },
+    {
+     "w": "saya",
+     "t": "meinem"
+    },
+    {
+     "w": "selama",
+     "t": "während"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "vieler-Jahre."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Dann bin ich in ein neues Land umgezogen.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Dann"
+    },
+    {
+     "w": "saya",
+     "t": "ich"
+    },
+    {
+     "w": "pindah",
+     "t": "umgezogen"
+    },
+    {
+     "w": "ke",
+     "t": "nach"
+    },
+    {
+     "w": "negara",
+     "t": "Land"
+    },
+    {
+     "w": "baru.",
+     "t": "neues."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Jetzt lerne ich gerade die Sprache.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Jetzt"
+    },
+    {
+     "w": "saya",
+     "t": "ich"
+    },
+    {
+     "w": "sedang",
+     "t": "gerade-(dabei)"
+    },
+    {
+     "w": "belajar",
+     "t": "lernen"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "die-Sprache-davon."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Bald werde ich wieder in meinem Fachgebiet arbeiten.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Bald (eine-Weile)"
+    },
+    {
+     "w": "lagi",
+     "t": "noch"
+    },
+    {
+     "w": "saya",
+     "t": "ich"
+    },
+    {
+     "w": "akan",
+     "t": "werde"
+    },
+    {
+     "w": "kembali",
+     "t": "wieder"
+    },
+    {
+     "w": "bekerja",
+     "t": "arbeiten"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "Bereich"
+    },
+    {
+     "w": "saya.",
+     "t": "meinem."
+    }
+   ]
+  }
+ ]
+}

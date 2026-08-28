@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "sk",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Pracoval som vo svojom odbore veľa rokov.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Ja"
+    },
+    {
+     "w": "đã",
+     "t": "(minulý čas)"
+    },
+    {
+     "w": "làm",
+     "t": "robil"
+    },
+    {
+     "w": "việc",
+     "t": "prácu"
+    },
+    {
+     "w": "trong",
+     "t": "v"
+    },
+    {
+     "w": "ngành",
+     "t": "odbore"
+    },
+    {
+     "w": "nghề",
+     "t": "profesii"
+    },
+    {
+     "w": "của",
+     "t": "(patriaci)"
+    },
+    {
+     "w": "mình",
+     "t": "mne"
+    },
+    {
+     "w": "nhiều",
+     "t": "veľa"
+    },
+    {
+     "w": "năm.",
+     "t": "rokov."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Potom som prišiel do novej krajiny.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Po"
+    },
+    {
+     "w": "đó,",
+     "t": "tom,"
+    },
+    {
+     "w": "tôi",
+     "t": "ja"
+    },
+    {
+     "w": "đến",
+     "t": "prišiel"
+    },
+    {
+     "w": "một",
+     "t": "do jednej"
+    },
+    {
+     "w": "đất",
+     "t": "zeme"
+    },
+    {
+     "w": "nước",
+     "t": "krajiny"
+    },
+    {
+     "w": "mới.",
+     "t": "novej."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "V súčasnosti sa tu učím jazyk.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "V súčasnej"
+    },
+    {
+     "w": "tại,",
+     "t": "chvíli,"
+    },
+    {
+     "w": "tôi",
+     "t": "ja"
+    },
+    {
+     "w": "đang",
+     "t": "(práve teraz)"
+    },
+    {
+     "w": "học",
+     "t": "učím-sa"
+    },
+    {
+     "w": "ngôn",
+     "t": "reč"
+    },
+    {
+     "w": "ngữ",
+     "t": "jazyk"
+    },
+    {
+     "w": "ở",
+     "t": "v"
+    },
+    {
+     "w": "đây.",
+     "t": "tomto-mieste."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Už čoskoro budem pokračovať v práci vo svojom odbore.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Už-brzy"
+    },
+    {
+     "w": "tới,",
+     "t": "nastávajúcom,"
+    },
+    {
+     "w": "tôi",
+     "t": "ja"
+    },
+    {
+     "w": "sẽ",
+     "t": "(budúci čas)"
+    },
+    {
+     "w": "tiếp",
+     "t": "pokračovať"
+    },
+    {
+     "w": "tục",
+     "t": "(v pokračovaní)"
+    },
+    {
+     "w": "làm",
+     "t": "robiť"
+    },
+    {
+     "w": "việc",
+     "t": "prácu"
+    },
+    {
+     "w": "trong",
+     "t": "v"
+    },
+    {
+     "w": "ngành",
+     "t": "odbore"
+    },
+    {
+     "w": "nghề",
+     "t": "profesii"
+    },
+    {
+     "w": "của",
+     "t": "(patriaci)"
+    },
+    {
+     "w": "mình.",
+     "t": "mne."
+    }
+   ]
+  }
+ ]
+}

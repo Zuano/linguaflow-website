@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "lv",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Ilgus gadus es strādāju savā profesijā.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Ilgus"
+    },
+    {
+     "w": "leta",
+     "t": "gadus"
+    },
+    {
+     "w": "sem",
+     "t": "esmu"
+    },
+    {
+     "w": "delal",
+     "t": "strādājis"
+    },
+    {
+     "w": "v",
+     "t": "savā"
+    },
+    {
+     "w": "svojem",
+     "t": "(paša)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profesijā."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Pēc tam es ierados jaunā valstī.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "sem",
+     "t": "esmu"
+    },
+    {
+     "w": "prišel",
+     "t": "atnācis"
+    },
+    {
+     "w": "v",
+     "t": "uz"
+    },
+    {
+     "w": "novo",
+     "t": "jaunu"
+    },
+    {
+     "w": "državo.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Tagad"
+    },
+    {
+     "w": "se",
+     "t": "(sevi)"
+    },
+    {
+     "w": "učim",
+     "t": "mācu"
+    },
+    {
+     "w": "jezika.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Drīz es atkal strādāšu savā profesijā.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Drīz"
+    },
+    {
+     "w": "bom",
+     "t": "būšu"
+    },
+    {
+     "w": "spet",
+     "t": "atkal"
+    },
+    {
+     "w": "delal",
+     "t": "strādājošs"
+    },
+    {
+     "w": "v",
+     "t": "savā"
+    },
+    {
+     "w": "svojem",
+     "t": "(paša)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "profesijā."
+    }
+   ]
+  }
+ ]
+}

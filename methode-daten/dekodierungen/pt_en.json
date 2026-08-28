@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "en",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "I worked for many years in my profession.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "I-worked"
+    },
+    {
+     "w": "muitos",
+     "t": "many"
+    },
+    {
+     "w": "anos",
+     "t": "years"
+    },
+    {
+     "w": "na",
+     "t": "in-the"
+    },
+    {
+     "w": "minha",
+     "t": "my"
+    },
+    {
+     "w": "profissão.",
+     "t": "profession."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Afterwards, I came to a new country.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Afterwards,"
+    },
+    {
+     "w": "vim",
+     "t": "I-came"
+    },
+    {
+     "w": "para",
+     "t": "to"
+    },
+    {
+     "w": "um",
+     "t": "a"
+    },
+    {
+     "w": "novo",
+     "t": "new"
+    },
+    {
+     "w": "país.",
+     "t": "country."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Now I am learning the language.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Now"
+    },
+    {
+     "w": "estou",
+     "t": "I-am"
+    },
+    {
+     "w": "a",
+     "t": "(doing)"
+    },
+    {
+     "w": "aprender",
+     "t": "learning"
+    },
+    {
+     "w": "a",
+     "t": "the"
+    },
+    {
+     "w": "língua.",
+     "t": "language."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Soon, I will go back to working in my profession.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "In"
+    },
+    {
+     "w": "breve,",
+     "t": "short(-time),"
+    },
+    {
+     "w": "voltarei",
+     "t": "I-will-return"
+    },
+    {
+     "w": "a",
+     "t": "to"
+    },
+    {
+     "w": "trabalhar",
+     "t": "work"
+    },
+    {
+     "w": "na",
+     "t": "in-the"
+    },
+    {
+     "w": "minha",
+     "t": "my"
+    },
+    {
+     "w": "profissão.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

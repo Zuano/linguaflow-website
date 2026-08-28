@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "ro",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Am lucrat mulți ani în meseria mea.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Mulți"
+    },
+    {
+     "w": "éven",
+     "t": "ani"
+    },
+    {
+     "w": "át",
+     "t": "prin (de-a lungul)"
+    },
+    {
+     "w": "a",
+     "t": "în"
+    },
+    {
+     "w": "szakmámban",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "am-lucrat."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Apoi"
+    },
+    {
+     "w": "egy",
+     "t": "o"
+    },
+    {
+     "w": "új",
+     "t": "nouă"
+    },
+    {
+     "w": "országba",
+     "t": "în-țară"
+    },
+    {
+     "w": "költöztem.",
+     "t": "m-am-mutat."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Acum"
+    },
+    {
+     "w": "a",
+     "t": "(articol)"
+    },
+    {
+     "w": "nyelvet",
+     "t": "limba"
+    },
+    {
+     "w": "tanulom.",
+     "t": "o-învăț."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "În scurt timp voi lucra din nou în meseria mea.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "În-scurt-timp"
+    },
+    {
+     "w": "újra",
+     "t": "din-nou"
+    },
+    {
+     "w": "a",
+     "t": "în"
+    },
+    {
+     "w": "szakmámban",
+     "t": "meseria-mea"
+    },
+    {
+     "w": "fogok",
+     "t": "voi"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "lucra."
+    }
+   ]
+  }
+ ]
+}

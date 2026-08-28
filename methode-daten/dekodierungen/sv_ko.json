@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "ko",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "저는 제 직업 분야에서 여러 해 동안 일했습니다.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "나는"
+    },
+    {
+     "w": "har",
+     "t": "했다(현재완료)"
+    },
+    {
+     "w": "arbetat",
+     "t": "일한"
+    },
+    {
+     "w": "många",
+     "t": "많은"
+    },
+    {
+     "w": "år",
+     "t": "해(년)"
+    },
+    {
+     "w": "inom",
+     "t": "안에서"
+    },
+    {
+     "w": "mitt",
+     "t": "나의"
+    },
+    {
+     "w": "yrke.",
+     "t": "직업."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "그 후 저는 새로운 나라로 이주했습니다.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "그 후"
+    },
+    {
+     "w": "flyttade",
+     "t": "이주했다"
+    },
+    {
+     "w": "jag",
+     "t": "나는"
+    },
+    {
+     "w": "till",
+     "t": "~로"
+    },
+    {
+     "w": "ett",
+     "t": "한(하나의)"
+    },
+    {
+     "w": "nytt",
+     "t": "새로운"
+    },
+    {
+     "w": "land.",
+     "t": "나라로."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "지금"
+    },
+    {
+     "w": "lär",
+     "t": "배우다"
+    },
+    {
+     "w": "jag",
+     "t": "나는"
+    },
+    {
+     "w": "mig",
+     "t": "나 자신(을)"
+    },
+    {
+     "w": "språket.",
+     "t": "그 언어를."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "곧 저는 제 직업 분야에서 다시 일을 시작할 것입니다.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "곧"
+    },
+    {
+     "w": "ska",
+     "t": "할-것이다"
+    },
+    {
+     "w": "jag",
+     "t": "나는"
+    },
+    {
+     "w": "börja",
+     "t": "시작하다"
+    },
+    {
+     "w": "arbeta",
+     "t": "일하는-것을"
+    },
+    {
+     "w": "inom",
+     "t": "안에서"
+    },
+    {
+     "w": "mitt",
+     "t": "나의"
+    },
+    {
+     "w": "yrke",
+     "t": "직업"
+    },
+    {
+     "w": "igen.",
+     "t": "다시."
+    }
+   ]
+  }
+ ]
+}

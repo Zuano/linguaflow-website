@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "ro",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Am lucrat mulți ani în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Am (fost)"
+    },
+    {
+     "w": "palju",
+     "t": "mulți"
+    },
+    {
+     "w": "aastaid",
+     "t": "ani"
+    },
+    {
+     "w": "oma",
+     "t": "propriul-meu"
+    },
+    {
+     "w": "erialal",
+     "t": "în-domeniu"
+    },
+    {
+     "w": "töötanud.",
+     "t": "lucrat."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Apoi"
+    },
+    {
+     "w": "kolisin",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "uude",
+     "t": "în-nouă"
+    },
+    {
+     "w": "riiki.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Acum"
+    },
+    {
+     "w": "õpin",
+     "t": "învăț"
+    },
+    {
+     "w": "keelt.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "În curând voi începe din nou să lucrez în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "În-curând"
+    },
+    {
+     "w": "hakkan",
+     "t": "voi-începe"
+    },
+    {
+     "w": "jälle",
+     "t": "din-nou"
+    },
+    {
+     "w": "oma",
+     "t": "propriul-meu"
+    },
+    {
+     "w": "erialal",
+     "t": "în-domeniu"
+    },
+    {
+     "w": "töötama.",
+     "t": "să-lucrez."
+    }
+   ]
+  }
+ ]
+}

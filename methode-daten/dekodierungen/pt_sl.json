@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "sl",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Mnogo let sem delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Delal-sem"
+    },
+    {
+     "w": "muitos",
+     "t": "mnogo"
+    },
+    {
+     "w": "anos",
+     "t": "let"
+    },
+    {
+     "w": "na",
+     "t": "v"
+    },
+    {
+     "w": "minha",
+     "t": "svojem"
+    },
+    {
+     "w": "profissão.",
+     "t": "poklicu."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Nato sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Nato,"
+    },
+    {
+     "w": "vim",
+     "t": "sem-prišel"
+    },
+    {
+     "w": "para",
+     "t": "v"
+    },
+    {
+     "w": "um",
+     "t": "eno"
+    },
+    {
+     "w": "novo",
+     "t": "novo"
+    },
+    {
+     "w": "país.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Zdaj"
+    },
+    {
+     "w": "estou",
+     "t": "sem"
+    },
+    {
+     "w": "a",
+     "t": "(pomožna-beseda)"
+    },
+    {
+     "w": "aprender",
+     "t": "učeč-se"
+    },
+    {
+     "w": "a",
+     "t": "(člen)"
+    },
+    {
+     "w": "língua.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Kmalu se bom vrnil k delu v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "V"
+    },
+    {
+     "w": "breve,",
+     "t": "kratkem,"
+    },
+    {
+     "w": "voltarei",
+     "t": "vrnil-se-bom"
+    },
+    {
+     "w": "a",
+     "t": "k"
+    },
+    {
+     "w": "trabalhar",
+     "t": "delu"
+    },
+    {
+     "w": "na",
+     "t": "v"
+    },
+    {
+     "w": "minha",
+     "t": "svojem"
+    },
+    {
+     "w": "profissão.",
+     "t": "poklicu."
+    }
+   ]
+  }
+ ]
+}

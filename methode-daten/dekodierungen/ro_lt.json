@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "lt",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Dirbau daug metų savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Aš-esu (esu' padaręs)"
+    },
+    {
+     "w": "lucrat",
+     "t": "dirbęs"
+    },
+    {
+     "w": "mulți",
+     "t": "daug"
+    },
+    {
+     "w": "ani",
+     "t": "metų"
+    },
+    {
+     "w": "în",
+     "t": "savo"
+    },
+    {
+     "w": "meseria",
+     "t": "profesijoje"
+    },
+    {
+     "w": "mea.",
+     "t": "mano."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Tada persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Tada"
+    },
+    {
+     "w": "m-am",
+     "t": "aš'esu (persikėliau)"
+    },
+    {
+     "w": "mutat",
+     "t": "persikėlęs"
+    },
+    {
+     "w": "într-o",
+     "t": "į-vieną"
+    },
+    {
+     "w": "țară",
+     "t": "šalį"
+    },
+    {
+     "w": "nouă.",
+     "t": "naują."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Dabar"
+    },
+    {
+     "w": "învăț",
+     "t": "mokausi"
+    },
+    {
+     "w": "limba.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Greitai vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "Į"
+    },
+    {
+     "w": "curând",
+     "t": "greitą (laiką)"
+    },
+    {
+     "w": "voi",
+     "t": "aš'busiu (dirbsiu)"
+    },
+    {
+     "w": "lucra",
+     "t": "dirbti"
+    },
+    {
+     "w": "din",
+     "t": "iš"
+    },
+    {
+     "w": "nou",
+     "t": "naujo (vėl)"
+    },
+    {
+     "w": "în",
+     "t": "savo"
+    },
+    {
+     "w": "meseria",
+     "t": "profesijoje"
+    },
+    {
+     "w": "mea.",
+     "t": "mano."
+    }
+   ]
+  }
+ ]
+}

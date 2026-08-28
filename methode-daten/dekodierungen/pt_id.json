@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "id",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Saya bekerja bertahun-tahun dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Saya-bekerja"
+    },
+    {
+     "w": "muitos",
+     "t": "banyak"
+    },
+    {
+     "w": "anos",
+     "t": "tahun"
+    },
+    {
+     "w": "na",
+     "t": "di-dalam"
+    },
+    {
+     "w": "minha",
+     "t": "saya-punya (feminin)"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesi."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Setelah itu, saya datang ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Setelah-itu,"
+    },
+    {
+     "w": "vim",
+     "t": "saya-datang"
+    },
+    {
+     "w": "para",
+     "t": "ke"
+    },
+    {
+     "w": "um",
+     "t": "sebuah"
+    },
+    {
+     "w": "novo",
+     "t": "baru"
+    },
+    {
+     "w": "país.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Sekarang saya sedang belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Sekarang"
+    },
+    {
+     "w": "estou",
+     "t": "saya-sedang"
+    },
+    {
+     "w": "a",
+     "t": "(kata-bantu-sedang)"
+    },
+    {
+     "w": "aprender",
+     "t": "belajar"
+    },
+    {
+     "w": "a",
+     "t": "(kata-sandang)"
+    },
+    {
+     "w": "língua.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Sebentar lagi, saya akan kembali bekerja dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Dalam"
+    },
+    {
+     "w": "breve,",
+     "t": "waktu-singkat,"
+    },
+    {
+     "w": "voltarei",
+     "t": "saya-akan-kembali"
+    },
+    {
+     "w": "a",
+     "t": "untuk"
+    },
+    {
+     "w": "trabalhar",
+     "t": "bekerja"
+    },
+    {
+     "w": "na",
+     "t": "di-dalam"
+    },
+    {
+     "w": "minha",
+     "t": "saya-punya (feminin)"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

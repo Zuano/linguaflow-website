@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "id",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Selama bertahun-tahun saya bekerja di bidang saya.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Selama"
+    },
+    {
+     "w": "wiele",
+     "t": "banyak"
+    },
+    {
+     "w": "lat",
+     "t": "tahun"
+    },
+    {
+     "w": "pracowałem",
+     "t": "saya-bekerja"
+    },
+    {
+     "w": "w",
+     "t": "di"
+    },
+    {
+     "w": "swoim",
+     "t": "bidang-saya-sendiri"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profesi."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Kemudian saya datang ke negara baru.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Kemudian"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "saya-datang"
+    },
+    {
+     "w": "do",
+     "t": "ke"
+    },
+    {
+     "w": "nowego",
+     "t": "baru"
+    },
+    {
+     "w": "kraju.",
+     "t": "negara."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Sekarang saya belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Sekarang"
+    },
+    {
+     "w": "uczę",
+     "t": "saya-belajar"
+    },
+    {
+     "w": "się",
+     "t": "(diri)"
+    },
+    {
+     "w": "języka.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Segera saya akan bekerja lagi di bidang saya.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Segera"
+    },
+    {
+     "w": "znów",
+     "t": "lagi"
+    },
+    {
+     "w": "będę",
+     "t": "saya-akan"
+    },
+    {
+     "w": "pracował",
+     "t": "bekerja"
+    },
+    {
+     "w": "w",
+     "t": "di"
+    },
+    {
+     "w": "swoim",
+     "t": "bidang-saya-sendiri"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

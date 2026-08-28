@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "es",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "He trabajado durante muchos años en mi campo profesional.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Yo"
+    },
+    {
+     "w": "har",
+     "t": "he"
+    },
+    {
+     "w": "jobbet",
+     "t": "trabajado"
+    },
+    {
+     "w": "i",
+     "t": "durante"
+    },
+    {
+     "w": "mange",
+     "t": "muchos"
+    },
+    {
+     "w": "år",
+     "t": "años"
+    },
+    {
+     "w": "innen",
+     "t": "dentro-de"
+    },
+    {
+     "w": "mitt",
+     "t": "mi"
+    },
+    {
+     "w": "fagområde.",
+     "t": "campo-profesional."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "Luego me mudé a un país nuevo.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Luego"
+    },
+    {
+     "w": "flyttet",
+     "t": "me-mudé"
+    },
+    {
+     "w": "jeg",
+     "t": "yo"
+    },
+    {
+     "w": "til",
+     "t": "a"
+    },
+    {
+     "w": "et",
+     "t": "un"
+    },
+    {
+     "w": "nytt",
+     "t": "nuevo"
+    },
+    {
+     "w": "land.",
+     "t": "país."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Ahora"
+    },
+    {
+     "w": "lærer",
+     "t": "aprendo"
+    },
+    {
+     "w": "jeg",
+     "t": "yo"
+    },
+    {
+     "w": "språket.",
+     "t": "el-idioma."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Pronto volveré a trabajar en mi campo profesional.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Pronto"
+    },
+    {
+     "w": "skal",
+     "t": "voy-a"
+    },
+    {
+     "w": "jeg",
+     "t": "yo"
+    },
+    {
+     "w": "jobbe",
+     "t": "trabajar"
+    },
+    {
+     "w": "innen",
+     "t": "dentro-de"
+    },
+    {
+     "w": "mitt",
+     "t": "mi"
+    },
+    {
+     "w": "fagområde",
+     "t": "campo-profesional"
+    },
+    {
+     "w": "igjen.",
+     "t": "de-nuevo."
+    }
+   ]
+  }
+ ]
+}

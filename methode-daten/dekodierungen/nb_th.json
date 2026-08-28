@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "th",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "ฉันทำงานในสาขาของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "har",
+     "t": "ได้"
+    },
+    {
+     "w": "jobbet",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "i",
+     "t": "เป็นเวลา"
+    },
+    {
+     "w": "mange",
+     "t": "หลาย"
+    },
+    {
+     "w": "år",
+     "t": "ปี"
+    },
+    {
+     "w": "innen",
+     "t": "ใน"
+    },
+    {
+     "w": "mitt",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "fagområde.",
+     "t": "สาขาอาชีพ"
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "แล้วฉันก็ย้ายไปประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "แล้ว"
+    },
+    {
+     "w": "flyttet",
+     "t": "ย้าย"
+    },
+    {
+     "w": "jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "til",
+     "t": "ไปยัง"
+    },
+    {
+     "w": "et",
+     "t": "a(หนึ่ง)"
+    },
+    {
+     "w": "nytt",
+     "t": "ใหม่"
+    },
+    {
+     "w": "land.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "lærer",
+     "t": "เรียนรู้"
+    },
+    {
+     "w": "jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "språket.",
+     "t": "ภาษา(นั้น)"
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "เร็วๆนี้ฉันจะทำงานในสาขาของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "เร็วๆนี้"
+    },
+    {
+     "w": "skal",
+     "t": "จะ"
+    },
+    {
+     "w": "jeg",
+     "t": "ฉัน"
+    },
+    {
+     "w": "jobbe",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "innen",
+     "t": "ใน"
+    },
+    {
+     "w": "mitt",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "fagområde",
+     "t": "สาขาอาชีพ"
+    },
+    {
+     "w": "igjen.",
+     "t": "อีกครั้ง"
+    }
+   ]
+  }
+ ]
+}

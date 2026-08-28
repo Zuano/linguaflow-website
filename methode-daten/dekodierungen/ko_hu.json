@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ko",
+ "native": "hu",
+ "text": "저는 오랫동안 제 직업에서 일해 왔습니다. 그러다 새로운 나라로 왔습니다. 지금은 그 나라의 언어를 배우고 있습니다. 곧 다시 제 직업으로 일하게 될 것입니다.",
+ "sentences": [
+  {
+   "text": "저는 오랫동안 제 직업에서 일해 왔습니다.",
+   "translation": "Sokáig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "저는",
+     "t": "én-(téma)",
+     "r": "jeoneun"
+    },
+    {
+     "w": "오랫동안",
+     "t": "régóta",
+     "r": "oraetdongan"
+    },
+    {
+     "w": "제",
+     "t": "az-én",
+     "r": "je"
+    },
+    {
+     "w": "직업에서",
+     "t": "szakmámban",
+     "r": "jigeobeseo"
+    },
+    {
+     "w": "일해",
+     "t": "dolgozva",
+     "r": "ilhae"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "jöttem-(eddig).",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "그러다 새로운 나라로 왔습니다.",
+   "translation": "Aztán egy új országba jöttem.",
+   "pairs": [
+    {
+     "w": "그러다",
+     "t": "aztán",
+     "r": "geureoda"
+    },
+    {
+     "w": "새로운",
+     "t": "új",
+     "r": "saeroun"
+    },
+    {
+     "w": "나라로",
+     "t": "országba",
+     "r": "nararo"
+    },
+    {
+     "w": "왔습니다.",
+     "t": "jöttem.",
+     "r": "wassseumnida."
+    }
+   ]
+  },
+  {
+   "text": "지금은 그 나라의 언어를 배우고 있습니다.",
+   "translation": "Most éppen az ország nyelvét tanulom.",
+   "pairs": [
+    {
+     "w": "지금은",
+     "t": "most-(téma)",
+     "r": "jigeumeun"
+    },
+    {
+     "w": "그",
+     "t": "az",
+     "r": "geu"
+    },
+    {
+     "w": "나라의",
+     "t": "ország-(birtokos)",
+     "r": "naraui"
+    },
+    {
+     "w": "언어를",
+     "t": "nyelvet",
+     "r": "eoneoreul"
+    },
+    {
+     "w": "배우고",
+     "t": "tanulva",
+     "r": "baeugo"
+    },
+    {
+     "w": "있습니다.",
+     "t": "vagyok-éppen.",
+     "r": "issseumnida."
+    }
+   ]
+  },
+  {
+   "text": "곧 다시 제 직업으로 일하게 될 것입니다.",
+   "translation": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "곧",
+     "t": "hamarosan",
+     "r": "got"
+    },
+    {
+     "w": "다시",
+     "t": "újra",
+     "r": "dasi"
+    },
+    {
+     "w": "제",
+     "t": "az-én",
+     "r": "je"
+    },
+    {
+     "w": "직업으로",
+     "t": "szakmámban",
+     "r": "jigeobeuro"
+    },
+    {
+     "w": "일하게",
+     "t": "dolgozni-(fog)",
+     "r": "ilhage"
+    },
+    {
+     "w": "될",
+     "t": "váló",
+     "r": "doel"
+    },
+    {
+     "w": "것입니다.",
+     "t": "dolog-lesz.",
+     "r": "geosimnida."
+    }
+   ]
+  }
+ ]
+}

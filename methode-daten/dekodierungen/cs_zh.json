@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "zh",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "我在自己的专业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "在"
+    },
+    {
+     "w": "svém",
+     "t": "自己的"
+    },
+    {
+     "w": "oboru",
+     "t": "专业领域(中)"
+    },
+    {
+     "w": "jsem",
+     "t": "(我)已经"
+    },
+    {
+     "w": "pracoval",
+     "t": "工作了"
+    },
+    {
+     "w": "mnoho",
+     "t": "很多"
+    },
+    {
+     "w": "let.",
+     "t": "年。"
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "后来我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "后来"
+    },
+    {
+     "w": "jsem",
+     "t": "(我)已经"
+    },
+    {
+     "w": "se",
+     "t": "(自己)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "搬家了"
+    },
+    {
+     "w": "do",
+     "t": "到"
+    },
+    {
+     "w": "nové",
+     "t": "新的"
+    },
+    {
+     "w": "země.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "现在我在学一门语言。",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "现在"
+    },
+    {
+     "w": "se",
+     "t": "(自己)"
+    },
+    {
+     "w": "učím",
+     "t": "学习"
+    },
+    {
+     "w": "jazyk.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "不久我将再次在自己的专业领域工作。",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "不久"
+    },
+    {
+     "w": "budu",
+     "t": "我将"
+    },
+    {
+     "w": "zase",
+     "t": "再次"
+    },
+    {
+     "w": "pracovat",
+     "t": "工作"
+    },
+    {
+     "w": "ve",
+     "t": "在"
+    },
+    {
+     "w": "svém",
+     "t": "自己的"
+    },
+    {
+     "w": "oboru.",
+     "t": "专业领域(中)。"
+    }
+   ]
+  }
+ ]
+}

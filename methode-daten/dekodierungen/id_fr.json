@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "fr",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "J'ai travaillé dans mon domaine pendant de nombreuses années.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Je"
+    },
+    {
+     "w": "telah",
+     "t": "ai (déjà)"
+    },
+    {
+     "w": "bekerja",
+     "t": "travaillé"
+    },
+    {
+     "w": "di",
+     "t": "dans"
+    },
+    {
+     "w": "bidang",
+     "t": "domaine"
+    },
+    {
+     "w": "saya",
+     "t": "mon"
+    },
+    {
+     "w": "selama",
+     "t": "pendant"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "de-nombreuses-années."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Ensuite, j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Ensuite"
+    },
+    {
+     "w": "saya",
+     "t": "je"
+    },
+    {
+     "w": "pindah",
+     "t": "ai-déménagé"
+    },
+    {
+     "w": "ke",
+     "t": "vers"
+    },
+    {
+     "w": "negara",
+     "t": "pays"
+    },
+    {
+     "w": "baru.",
+     "t": "nouveau."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Maintenant"
+    },
+    {
+     "w": "saya",
+     "t": "je"
+    },
+    {
+     "w": "sedang",
+     "t": "suis-en-train-de"
+    },
+    {
+     "w": "belajar",
+     "t": "apprendre"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Bientôt, je vais retourner travailler dans mon domaine.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Bientôt (un-moment)"
+    },
+    {
+     "w": "lagi",
+     "t": "encore"
+    },
+    {
+     "w": "saya",
+     "t": "je"
+    },
+    {
+     "w": "akan",
+     "t": "vais"
+    },
+    {
+     "w": "kembali",
+     "t": "retourner"
+    },
+    {
+     "w": "bekerja",
+     "t": "travailler"
+    },
+    {
+     "w": "di",
+     "t": "dans"
+    },
+    {
+     "w": "bidang",
+     "t": "domaine"
+    },
+    {
+     "w": "saya.",
+     "t": "mon."
+    }
+   ]
+  }
+ ]
+}

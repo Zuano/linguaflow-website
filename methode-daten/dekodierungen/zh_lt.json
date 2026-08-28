@@ -1,0 +1,187 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "lt",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Aš savo profesinėje srityje dirbau daug metų.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "aš",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "esmi-in",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "savasis",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "profesinis",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "sritis",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "darbas",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(veiksmo-baigtumo-žymuo)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "daug",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "metų.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Vėliau aš atvykau į naują žemę.",
+   "pairs": [
+    {
+     "w": "后来，",
+     "t": "vėliau,",
+     "r": "hòulái,"
+    },
+    {
+     "w": "我",
+     "t": "aš",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "atvykti",
+     "r": "láidào"
+    },
+    {
+     "w": "了",
+     "t": "(veiksmo-baigtumo-žymuo)",
+     "r": "le"
+    },
+    {
+     "w": "一",
+     "t": "vienas",
+     "r": "yī"
+    },
+    {
+     "w": "片",
+     "t": "(dalies-žymuo)",
+     "r": "piàn"
+    },
+    {
+     "w": "新的",
+     "t": "naujas",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地。",
+     "t": "žemė.",
+     "r": "tǔdì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Dabar aš mokausi vietinės kalbos.",
+   "pairs": [
+    {
+     "w": "现在，",
+     "t": "dabar,",
+     "r": "xiànzài,"
+    },
+    {
+     "w": "我",
+     "t": "aš",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "būti-dabar",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "mokytis",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "vietinis",
+     "r": "dāngdì-de"
+    },
+    {
+     "w": "语言。",
+     "t": "kalba.",
+     "r": "yǔyán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Netrukus aš grįšiu į savo profesinę sritį dirbti.",
+   "pairs": [
+    {
+     "w": "很快，",
+     "t": "netrukus,",
+     "r": "hěnkuài,"
+    },
+    {
+     "w": "我",
+     "t": "aš",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(būsimo-laiko-žymuo)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "grįžti-atgal",
+     "r": "zhòngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "savasis",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "profesinis",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "sritis",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "darbas.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

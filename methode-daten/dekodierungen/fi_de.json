@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "de",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Ich habe viele Jahre in meinem Bereich gearbeitet.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Ich-habe"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "gearbeitet"
+    },
+    {
+     "w": "alallani",
+     "t": "in-meinem-Bereich"
+    },
+    {
+     "w": "monta",
+     "t": "viele"
+    },
+    {
+     "w": "vuotta.",
+     "t": "Jahre."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Dann bin ich in ein neues Land gezogen.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Dann"
+    },
+    {
+     "w": "muutin",
+     "t": "zog-ich"
+    },
+    {
+     "w": "uuteen",
+     "t": "in-ein-neues"
+    },
+    {
+     "w": "maahan.",
+     "t": "Land."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Jetzt lerne ich die Sprache.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Jetzt"
+    },
+    {
+     "w": "opiskelen",
+     "t": "lerne-ich"
+    },
+    {
+     "w": "kieltä.",
+     "t": "die-Sprache."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Bald habe ich vor, meine Arbeit in meinem Bereich fortzusetzen.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Bald"
+    },
+    {
+     "w": "aion",
+     "t": "habe-ich-vor"
+    },
+    {
+     "w": "jatkaa",
+     "t": "fortzusetzen"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "die-Arbeit"
+    },
+    {
+     "w": "alallani.",
+     "t": "in-meinem-Bereich."
+    }
+   ]
+  }
+ ]
+}

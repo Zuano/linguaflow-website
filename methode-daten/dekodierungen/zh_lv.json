@@ -1,0 +1,202 @@
+{
+ "formatVersion": 1,
+ "target": "zh",
+ "native": "lv",
+ "text": "我在自己的专业领域工作了许多年。后来，我来到了一片新的土地。现在，我正在学习当地的语言。很快，我将重返自己的专业领域工作。",
+ "sentences": [
+  {
+   "text": "我在自己的专业领域工作了许多年。",
+   "translation": "Es jau daudzus gadus esmu strādājis savā profesionālajā jomā.",
+   "pairs": [
+    {
+     "w": "我",
+     "t": "Es",
+     "r": "wǒ"
+    },
+    {
+     "w": "在",
+     "t": "esmu",
+     "r": "zài"
+    },
+    {
+     "w": "自己的",
+     "t": "sava",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "profesionālā",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "joma",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作",
+     "t": "strādājis",
+     "r": "gōngzuò"
+    },
+    {
+     "w": "了",
+     "t": "(pabeiguma-marķieris)",
+     "r": "le"
+    },
+    {
+     "w": "许多",
+     "t": "daudzus",
+     "r": "xǔduō"
+    },
+    {
+     "w": "年。",
+     "t": "gadus.",
+     "r": "nián."
+    }
+   ]
+  },
+  {
+   "text": "后来，我来到了一片新的土地。",
+   "translation": "Vēlāk es atnācu uz jaunu zemi.",
+   "pairs": [
+    {
+     "w": "后来",
+     "t": "Vēlāk",
+     "r": "hòulái"
+    },
+    {
+     "w": "，",
+     "t": ",",
+     "r": ","
+    },
+    {
+     "w": "我",
+     "t": "es",
+     "r": "wǒ"
+    },
+    {
+     "w": "来到",
+     "t": "atnācu",
+     "r": "láidào"
+    },
+    {
+     "w": "了",
+     "t": "(pabeiguma-marķieris)",
+     "r": "le"
+    },
+    {
+     "w": "一",
+     "t": "vienu",
+     "r": "yī"
+    },
+    {
+     "w": "片",
+     "t": "(mēra-vārds)",
+     "r": "piàn"
+    },
+    {
+     "w": "新的",
+     "t": "jaunu",
+     "r": "xīn-de"
+    },
+    {
+     "w": "土地。",
+     "t": "zemi.",
+     "r": "tǔdì."
+    }
+   ]
+  },
+  {
+   "text": "现在，我正在学习当地的语言。",
+   "translation": "Tagad es pašlaik mācos vietējās valodas.",
+   "pairs": [
+    {
+     "w": "现在",
+     "t": "Tagad",
+     "r": "xiànzài"
+    },
+    {
+     "w": "，",
+     "t": ",",
+     "r": ","
+    },
+    {
+     "w": "我",
+     "t": "es",
+     "r": "wǒ"
+    },
+    {
+     "w": "正在",
+     "t": "pašlaik",
+     "r": "zhèngzài"
+    },
+    {
+     "w": "学习",
+     "t": "mācos",
+     "r": "xuéxí"
+    },
+    {
+     "w": "当地的",
+     "t": "vietējās",
+     "r": "dāngdì-de"
+    },
+    {
+     "w": "语言。",
+     "t": "valodas.",
+     "r": "yǔyán."
+    }
+   ]
+  },
+  {
+   "text": "很快，我将重返自己的专业领域工作。",
+   "translation": "Drīz vien es atgriezīšos savam profesionālajam darbam.",
+   "pairs": [
+    {
+     "w": "很快",
+     "t": "Drīz-vien",
+     "r": "hěnkuài"
+    },
+    {
+     "w": "，",
+     "t": ",",
+     "r": ","
+    },
+    {
+     "w": "我",
+     "t": "es",
+     "r": "wǒ"
+    },
+    {
+     "w": "将",
+     "t": "(nākotnes-marķieris)",
+     "r": "jiāng"
+    },
+    {
+     "w": "重返",
+     "t": "atgriezīšos",
+     "r": "chóngfǎn"
+    },
+    {
+     "w": "自己的",
+     "t": "savam",
+     "r": "zìjǐ-de"
+    },
+    {
+     "w": "专业",
+     "t": "profesionālam",
+     "r": "zhuānyè"
+    },
+    {
+     "w": "领域",
+     "t": "darbam",
+     "r": "lǐngyù"
+    },
+    {
+     "w": "工作。",
+     "t": "darbam.",
+     "r": "gōngzuò."
+    }
+   ]
+  }
+ ]
+}

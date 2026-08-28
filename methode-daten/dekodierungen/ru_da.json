@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "da",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Jeg arbejdede i mit fag i mange år.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "jeg",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "mange",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "år",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "arbejdede",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "i",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "faget.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Derefter flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "derefter",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "jeg",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "flyttede",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "til",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "nyt",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "land.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Nu lærer jeg et sprog.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "nu",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "jeg",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "lærer",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "et-sprog.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Snart vil jeg igen begynde at arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "snart",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "jeg",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "igen",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "vil-begynde",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "at-arbejde",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "i",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "faget.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

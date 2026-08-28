@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "sl",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Delal sem mnogo let v svoji stroki.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Sem"
+    },
+    {
+     "w": "trabajado",
+     "t": "delal"
+    },
+    {
+     "w": "muchos",
+     "t": "mnogo"
+    },
+    {
+     "w": "años",
+     "t": "let"
+    },
+    {
+     "w": "en",
+     "t": "v"
+    },
+    {
+     "w": "mi",
+     "t": "svoji"
+    },
+    {
+     "w": "profesión.",
+     "t": "stroki."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Nato sem se preselil v drugo državo.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Nato"
+    },
+    {
+     "w": "me",
+     "t": "se"
+    },
+    {
+     "w": "mudé",
+     "t": "preselil-sem"
+    },
+    {
+     "w": "a",
+     "t": "v"
+    },
+    {
+     "w": "otro",
+     "t": "drugo"
+    },
+    {
+     "w": "país.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Zdaj"
+    },
+    {
+     "w": "estoy",
+     "t": "sem"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "učeč-se"
+    },
+    {
+     "w": "el",
+     "t": "tega"
+    },
+    {
+     "w": "idioma.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Kmalu se bom vrnil k delu v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Kmalu"
+    },
+    {
+     "w": "volveré",
+     "t": "se-bom-vrnil"
+    },
+    {
+     "w": "a",
+     "t": "k"
+    },
+    {
+     "w": "trabajar",
+     "t": "delu"
+    },
+    {
+     "w": "en",
+     "t": "v"
+    },
+    {
+     "w": "mi",
+     "t": "svoji"
+    },
+    {
+     "w": "profesión.",
+     "t": "stroki."
+    }
+   ]
+  }
+ ]
+}

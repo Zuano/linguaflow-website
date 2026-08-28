@@ -1,0 +1,192 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "fi",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Olen työskennellyt pitkään omassa ammattissani.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "minä",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(aihe)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "pitkään,",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分",
+     "t": "oma",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(omistus)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "ammattilaji",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "(paikka)",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "ottaen",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "olen-työskennellyt.",
+     "r": "hataraiteekimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Sen jälkeen muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "sen",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "jälkeen,",
+     "r": "go,"
+    },
+    {
+     "w": "新しい",
+     "t": "uusi",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "maa",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "(kohde)",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "muutin-asumaan.",
+     "r": "irisumimashita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Nyt opiskelen sitä maata kieltään.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "nyt",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(aihe)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "sen",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "maan",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(omistus)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "kieli",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(kohde)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "opiskelen.",
+     "r": "manande-imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Pian alan taas työskennellä omassani ammattilajissani.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "pian",
+     "r": "mou sugu"
+    },
+    {
+     "w": "また、",
+     "t": "taas,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "oma",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(omistus)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "ammattilaji",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "(väline)",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "alan-työskennellä",
+     "r": "hatarakihajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "suunnitelma",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "on.",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

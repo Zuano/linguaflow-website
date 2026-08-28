@@ -1,0 +1,232 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "lt",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "Aš dirbau savo profesinėje srityje daugelį metų.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "Aš (man)",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "dirbu",
+     "r": "tham ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "šaka",
+     "r": "saang kha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesinė-(sritis)",
+     "r": "aa chīp"
+    },
+    {
+     "w": "ของ",
+     "t": "of-(posesyvinis)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "man (man)",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "be-((laikas-pradžia))",
+     "r": "maa"
+    },
+    {
+     "w": "หลายปี",
+     "t": "daugybę-metų",
+     "r": "lǎi pii"
+    },
+    {
+     "w": "แล้ว",
+     "t": "jau",
+     "r": "lâeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "Po to persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "หลัง",
+     "t": "po",
+     "r": "lǎng"
+    },
+    {
+     "w": "จาก",
+     "t": "(pabaiga)",
+     "r": "jaak"
+    },
+    {
+     "w": "นั้น",
+     "t": "tą-(ten)",
+     "r": "nán"
+    },
+    {
+     "w": "ผม",
+     "t": "Aš",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "persikėliau",
+     "r": "yâai"
+    },
+    {
+     "w": "ไป",
+     "t": "į-(priekį)",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "būti-(gyventi)",
+     "r": "yùu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "šalis",
+     "r": "pra thêet"
+    },
+    {
+     "w": "ใหม่",
+     "t": "nauja",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "Dabar",
+     "r": "ton níi"
+    },
+    {
+     "w": "ผม",
+     "t": "aš",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(dabar-vyksta)",
+     "r": "kam lang"
+    },
+    {
+     "w": "เรียน",
+     "t": "mokausi",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "kalba",
+     "r": "phaa sǎa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(vyksta-toliau)",
+     "r": "yùu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "Ir netrukus aš grįšiu dirbti savo profesinėje srityje dar kartą.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "ir",
+     "r": "aē"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "greitai",
+     "r": "reo reo"
+    },
+    {
+     "w": "นี้",
+     "t": "šiais-(laikais)",
+     "r": "níi"
+    },
+    {
+     "w": "ผม",
+     "t": "aš",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "(būsimasis)",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "grįžti",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "atgal-(patekti)",
+     "r": "maa"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "dirbti",
+     "r": "tham ngaan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "šaka",
+     "r": "saang kha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profesinė-(sritis)",
+     "r": "aa chīp"
+    },
+    {
+     "w": "ของ",
+     "t": "of-(posesyvinis)",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "man (man)",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "dar-(vėl)",
+     "r": "īk"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "kartą",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

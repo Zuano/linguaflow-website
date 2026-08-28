@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "nl",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Ik heb jarenlang in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ik",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "veel",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "jaren",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "werkte",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "volgens",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "specialisatie.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Daarna ben ik naar een nieuw land verhuisd.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Daarna",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "ik",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "verhuisde",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "naar",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "nieuw",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "land.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Nu",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "ik",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "leer (bestudeer)",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "taal.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Binnenkort ga ik weer in mijn vakgebied werken.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Binnenkort",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "ik",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "weer",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "zal-beginnen",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "werken",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "volgens",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "specialisatie.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

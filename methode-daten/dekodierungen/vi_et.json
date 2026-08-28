@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "et",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Ma töötasin oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Mina"
+    },
+    {
+     "w": "đã",
+     "t": "(minevik)"
+    },
+    {
+     "w": "làm",
+     "t": "tegin"
+    },
+    {
+     "w": "việc",
+     "t": "tööd"
+    },
+    {
+     "w": "trong",
+     "t": "-s (sees)"
+    },
+    {
+     "w": "ngành",
+     "t": "valdkonnas"
+    },
+    {
+     "w": "nghề",
+     "t": "erialal"
+    },
+    {
+     "w": "của",
+     "t": "kuuluv"
+    },
+    {
+     "w": "mình",
+     "t": "enda"
+    },
+    {
+     "w": "nhiều",
+     "t": "palju"
+    },
+    {
+     "w": "năm.",
+     "t": "aastaid."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Pärast seda tulin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Pärast"
+    },
+    {
+     "w": "đó,",
+     "t": "seda,"
+    },
+    {
+     "w": "tôi",
+     "t": "mina"
+    },
+    {
+     "w": "đến",
+     "t": "tulin"
+    },
+    {
+     "w": "một",
+     "t": "ühte"
+    },
+    {
+     "w": "đất",
+     "t": "maa"
+    },
+    {
+     "w": "nước",
+     "t": "riiki"
+    },
+    {
+     "w": "mới.",
+     "t": "uude."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Praegu õpin ma siin keelt.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Praegusel"
+    },
+    {
+     "w": "tại,",
+     "t": "hetkel,"
+    },
+    {
+     "w": "tôi",
+     "t": "mina"
+    },
+    {
+     "w": "đang",
+     "t": "(käimasolev tegevus)"
+    },
+    {
+     "w": "học",
+     "t": "õpin"
+    },
+    {
+     "w": "ngôn",
+     "t": "keelt"
+    },
+    {
+     "w": "ngữ",
+     "t": "(keel)"
+    },
+    {
+     "w": "ở",
+     "t": "asuvas"
+    },
+    {
+     "w": "đây.",
+     "t": "kohas."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Lähitulevikus jätkan ma tööd oma erialal.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Peagi"
+    },
+    {
+     "w": "tới,",
+     "t": "saabuvas (tulevikus),"
+    },
+    {
+     "w": "tôi",
+     "t": "mina"
+    },
+    {
+     "w": "sẽ",
+     "t": "(tulevik)"
+    },
+    {
+     "w": "tiếp",
+     "t": "jätkan"
+    },
+    {
+     "w": "tục",
+     "t": "(edasi)"
+    },
+    {
+     "w": "làm",
+     "t": "tegema"
+    },
+    {
+     "w": "việc",
+     "t": "tööd"
+    },
+    {
+     "w": "trong",
+     "t": "-s (sees)"
+    },
+    {
+     "w": "ngành",
+     "t": "valdkonnas"
+    },
+    {
+     "w": "nghề",
+     "t": "erialal"
+    },
+    {
+     "w": "của",
+     "t": "kuuluv"
+    },
+    {
+     "w": "mình.",
+     "t": "enda."
+    }
+   ]
+  }
+ ]
+}

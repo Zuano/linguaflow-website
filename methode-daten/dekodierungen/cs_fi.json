@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "fi",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Työskentelin monta vuotta omalla alallani.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "omalla"
+    },
+    {
+     "w": "svém",
+     "t": "omalla"
+    },
+    {
+     "w": "oboru",
+     "t": "alalla"
+    },
+    {
+     "w": "jsem",
+     "t": "olen (apuverbi)"
+    },
+    {
+     "w": "pracoval",
+     "t": "työskennellyt"
+    },
+    {
+     "w": "mnoho",
+     "t": "monta"
+    },
+    {
+     "w": "let.",
+     "t": "vuotta."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "sitten"
+    },
+    {
+     "w": "jsem",
+     "t": "olen (apuverbi)"
+    },
+    {
+     "w": "se",
+     "t": "(refleksiivi)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "muuttanut"
+    },
+    {
+     "w": "do",
+     "t": "-han"
+    },
+    {
+     "w": "nové",
+     "t": "uuteen"
+    },
+    {
+     "w": "země.",
+     "t": "maahan."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "nyt"
+    },
+    {
+     "w": "se",
+     "t": "(refleksiivi)"
+    },
+    {
+     "w": "učím",
+     "t": "opiskelen"
+    },
+    {
+     "w": "jazyk.",
+     "t": "kieltä."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Pian työskentelen taas omalla alallani.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "pian"
+    },
+    {
+     "w": "budu",
+     "t": "tulen (apuverbi)"
+    },
+    {
+     "w": "zase",
+     "t": "taas"
+    },
+    {
+     "w": "pracovat",
+     "t": "työskentelemään"
+    },
+    {
+     "w": "ve",
+     "t": "omalla"
+    },
+    {
+     "w": "svém",
+     "t": "omalla"
+    },
+    {
+     "w": "oboru.",
+     "t": "alallani."
+    }
+   ]
+  }
+ ]
+}

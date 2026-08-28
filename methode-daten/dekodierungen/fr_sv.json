@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "sv",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Jag utövade mitt yrke i många år.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "jag'har"
+    },
+    {
+     "w": "exercé",
+     "t": "utövat"
+    },
+    {
+     "w": "mon",
+     "t": "mitt"
+    },
+    {
+     "w": "métier",
+     "t": "yrke"
+    },
+    {
+     "w": "pendant",
+     "t": "under"
+    },
+    {
+     "w": "de",
+     "t": "(av)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "många"
+    },
+    {
+     "w": "années.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Sedan kom jag till ett nytt land.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Sedan"
+    },
+    {
+     "w": "je",
+     "t": "jag"
+    },
+    {
+     "w": "suis",
+     "t": "är"
+    },
+    {
+     "w": "arrivé",
+     "t": "anländ"
+    },
+    {
+     "w": "dans",
+     "t": "i"
+    },
+    {
+     "w": "un",
+     "t": "ett"
+    },
+    {
+     "w": "nouveau",
+     "t": "nytt"
+    },
+    {
+     "w": "pays.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Nu lär jag mig språket.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Nu,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "jag'lär-mig"
+    },
+    {
+     "w": "la",
+     "t": "(det)"
+    },
+    {
+     "w": "langue.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Snart tar jag upp mitt yrke igen.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Snart,"
+    },
+    {
+     "w": "je",
+     "t": "jag"
+    },
+    {
+     "w": "reprendrai",
+     "t": "kommer-återuppta"
+    },
+    {
+     "w": "mon",
+     "t": "mitt"
+    },
+    {
+     "w": "métier.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

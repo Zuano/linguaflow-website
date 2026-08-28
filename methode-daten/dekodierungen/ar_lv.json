@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "lv",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Es strādāju savā profesijā daudzus gadus.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "jau (uzsvars)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "es-strādāju",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "iekš",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "mana-profesija",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "gadiem",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "daudziem.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Tad es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "tad",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "es-pārcēlos",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "uz",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "valsti",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "jaunu.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Un tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "un-tagad",
+     "r": "wal-ān"
+    },
+    {
+     "w": "أتعلم",
+     "t": "es-mācos",
+     "r": "ataʿallam"
+    },
+    {
+     "w": "اللغة.",
+     "t": "valodu.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Un es drīz atgriezīšos darbā savā profesijā.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "un-es-atgriezīšos",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "drīz",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "uz",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "darbu",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "iekš",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "manas-profesijas.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

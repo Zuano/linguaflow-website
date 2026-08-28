@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "lt",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Ilgus metus dirbau savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "savo-profesijoje"
+    },
+    {
+     "w": "uzun",
+     "t": "ilgus"
+    },
+    {
+     "w": "yıllar",
+     "t": "metus"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "dirbau."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Tada atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "tada"
+    },
+    {
+     "w": "yeni",
+     "t": "naują"
+    },
+    {
+     "w": "bir",
+     "t": "vieną (į)"
+    },
+    {
+     "w": "ülkeye",
+     "t": "šalį"
+    },
+    {
+     "w": "geldim.",
+     "t": "atvykau."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "dabar"
+    },
+    {
+     "w": "dili",
+     "t": "kalbos"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "mokausi."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Greitai vėl pradėsiu dirbti savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "greitai"
+    },
+    {
+     "w": "tekrar",
+     "t": "vėl"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "savo-profesijoje"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "dirbti"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "pradėsiu."
+    }
+   ]
+  }
+ ]
+}

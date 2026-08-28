@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "he",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "הרבה שנים עבדתי במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "הרבה"
+    },
+    {
+     "w": "éven",
+     "t": "שנים"
+    },
+    {
+     "w": "át",
+     "t": "במשך"
+    },
+    {
+     "w": "a",
+     "t": "ה"
+    },
+    {
+     "w": "szakmámban",
+     "t": "במקצוע-שלי"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "עבדתי."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "egy",
+     "t": "ל(מדינה)"
+    },
+    {
+     "w": "új",
+     "t": "חדשה"
+    },
+    {
+     "w": "országba",
+     "t": "למדינה"
+    },
+    {
+     "w": "költöztem.",
+     "t": "עברתי-לגור."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "עכשיו"
+    },
+    {
+     "w": "a",
+     "t": "את-ה"
+    },
+    {
+     "w": "nyelvet",
+     "t": "שפה"
+    },
+    {
+     "w": "tanulom.",
+     "t": "לומד-אני."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "בקרוב אני אעבוד שוב במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "בקרוב"
+    },
+    {
+     "w": "újra",
+     "t": "שוב"
+    },
+    {
+     "w": "a",
+     "t": "ב"
+    },
+    {
+     "w": "szakmámban",
+     "t": "מקצוע-שלי"
+    },
+    {
+     "w": "fogok",
+     "t": "אני-אעשה (עתיד)"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "לעבוד."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "ar",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "لقد مارستُ مهنتي لسنوات عديدة.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "أنا'مارستُ"
+    },
+    {
+     "w": "exercé",
+     "t": "مارستُ (مهنة)"
+    },
+    {
+     "w": "mon",
+     "t": "مهنتي (ملكية: -ي)"
+    },
+    {
+     "w": "métier",
+     "t": "مهنة"
+    },
+    {
+     "w": "pendant",
+     "t": "خلال"
+    },
+    {
+     "w": "de",
+     "t": "من"
+    },
+    {
+     "w": "nombreuses",
+     "t": "عديدة"
+    },
+    {
+     "w": "années.",
+     "t": "سنوات."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "ثم وصلتُ إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "ثم"
+    },
+    {
+     "w": "je",
+     "t": "أنا"
+    },
+    {
+     "w": "suis",
+     "t": "(فعل مساعد للماضي)"
+    },
+    {
+     "w": "arrivé",
+     "t": "وصلتُ"
+    },
+    {
+     "w": "dans",
+     "t": "إلى"
+    },
+    {
+     "w": "un",
+     "t": "بلد (واحد)"
+    },
+    {
+     "w": "nouveau",
+     "t": "جديد"
+    },
+    {
+     "w": "pays.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "الآن، أتعلّم اللغة.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "الآن،"
+    },
+    {
+     "w": "j'apprends",
+     "t": "أنا'أتعلّم"
+    },
+    {
+     "w": "la",
+     "t": "الـ"
+    },
+    {
+     "w": "langue.",
+     "t": "لغة."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "قريبًا، سأعود إلى مزاولة مهنتي.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "قريبًا،"
+    },
+    {
+     "w": "je",
+     "t": "أنا"
+    },
+    {
+     "w": "reprendrai",
+     "t": "سأعاود"
+    },
+    {
+     "w": "mon",
+     "t": "مهنتي (ملكية: -ي)"
+    },
+    {
+     "w": "métier.",
+     "t": "مهنة."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "zh",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "我在我的职业中工作了很多年。",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "我工作了"
+    },
+    {
+     "w": "muitos",
+     "t": "很多"
+    },
+    {
+     "w": "anos",
+     "t": "年"
+    },
+    {
+     "w": "na",
+     "t": "在(在+的)"
+    },
+    {
+     "w": "minha",
+     "t": "我的"
+    },
+    {
+     "w": "profissão.",
+     "t": "职业。"
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "后来，我来到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "后来，"
+    },
+    {
+     "w": "vim",
+     "t": "我来了"
+    },
+    {
+     "w": "para",
+     "t": "去"
+    },
+    {
+     "w": "um",
+     "t": "一个"
+    },
+    {
+     "w": "novo",
+     "t": "新的"
+    },
+    {
+     "w": "país.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "现在我正在学习这门语言。",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "现在"
+    },
+    {
+     "w": "estou",
+     "t": "我正处于"
+    },
+    {
+     "w": "a",
+     "t": "(正在)"
+    },
+    {
+     "w": "aprender",
+     "t": "学习"
+    },
+    {
+     "w": "a",
+     "t": "这门(阴性冠词)"
+    },
+    {
+     "w": "língua.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "不久，我将重新回到我的职业中工作。",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "在"
+    },
+    {
+     "w": "breve,",
+     "t": "不久，"
+    },
+    {
+     "w": "voltarei",
+     "t": "我将回去"
+    },
+    {
+     "w": "a",
+     "t": "(去)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "工作"
+    },
+    {
+     "w": "na",
+     "t": "在(在+的)"
+    },
+    {
+     "w": "minha",
+     "t": "我的"
+    },
+    {
+     "w": "profissão.",
+     "t": "职业。"
+    }
+   ]
+  }
+ ]
+}

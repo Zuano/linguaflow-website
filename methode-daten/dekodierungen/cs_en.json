@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "en",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "I worked in my field for many years.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "In"
+    },
+    {
+     "w": "svém",
+     "t": "my-own"
+    },
+    {
+     "w": "oboru",
+     "t": "field"
+    },
+    {
+     "w": "jsem",
+     "t": "(I)-have"
+    },
+    {
+     "w": "pracoval",
+     "t": "worked"
+    },
+    {
+     "w": "mnoho",
+     "t": "many"
+    },
+    {
+     "w": "let.",
+     "t": "years."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Then I moved to a new country.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Then"
+    },
+    {
+     "w": "jsem",
+     "t": "(I)-have"
+    },
+    {
+     "w": "se",
+     "t": "myself"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "moved"
+    },
+    {
+     "w": "do",
+     "t": "to"
+    },
+    {
+     "w": "nové",
+     "t": "new"
+    },
+    {
+     "w": "země.",
+     "t": "country."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Now I'm learning the language.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Now"
+    },
+    {
+     "w": "se",
+     "t": "myself"
+    },
+    {
+     "w": "učím",
+     "t": "(I)-am-learning"
+    },
+    {
+     "w": "jazyk.",
+     "t": "language."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Soon I'll be working in my field again.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Soon"
+    },
+    {
+     "w": "budu",
+     "t": "(I)-will-be"
+    },
+    {
+     "w": "zase",
+     "t": "again"
+    },
+    {
+     "w": "pracovat",
+     "t": "work"
+    },
+    {
+     "w": "ve",
+     "t": "in"
+    },
+    {
+     "w": "svém",
+     "t": "my-own"
+    },
+    {
+     "w": "oboru.",
+     "t": "field."
+    }
+   ]
+  }
+ ]
+}

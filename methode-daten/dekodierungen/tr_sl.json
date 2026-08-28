@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "tr",
+ "native": "sl",
+ "text": "Mesleğimde uzun yıllar çalıştım. Sonra yeni bir ülkeye geldim. Şimdi dili öğreniyorum. Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+ "sentences": [
+  {
+   "text": "Mesleğimde uzun yıllar çalıştım.",
+   "translation": "Dolgo let sem delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Mesleğimde",
+     "t": "V-svojem-poklicu"
+    },
+    {
+     "w": "uzun",
+     "t": "dolga"
+    },
+    {
+     "w": "yıllar",
+     "t": "leta"
+    },
+    {
+     "w": "çalıştım.",
+     "t": "sem-delal."
+    }
+   ]
+  },
+  {
+   "text": "Sonra yeni bir ülkeye geldim.",
+   "translation": "Nato sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Sonra",
+     "t": "nato"
+    },
+    {
+     "w": "yeni",
+     "t": "novo"
+    },
+    {
+     "w": "bir",
+     "t": "eno"
+    },
+    {
+     "w": "ülkeye",
+     "t": "v-državo"
+    },
+    {
+     "w": "geldim.",
+     "t": "sem-prišel."
+    }
+   ]
+  },
+  {
+   "text": "Şimdi dili öğreniyorum.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Şimdi",
+     "t": "zdaj"
+    },
+    {
+     "w": "dili",
+     "t": "jezik"
+    },
+    {
+     "w": "öğreniyorum.",
+     "t": "se-učim."
+    }
+   ]
+  },
+  {
+   "text": "Yakında tekrar mesleğimde çalışmaya başlayacağım.",
+   "translation": "Kmalu bom spet začel delati v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Yakında",
+     "t": "kmalu"
+    },
+    {
+     "w": "tekrar",
+     "t": "spet"
+    },
+    {
+     "w": "mesleğimde",
+     "t": "v-svojem-poklicu"
+    },
+    {
+     "w": "çalışmaya",
+     "t": "delati"
+    },
+    {
+     "w": "başlayacağım.",
+     "t": "bom-začel."
+    }
+   ]
+  }
+ ]
+}

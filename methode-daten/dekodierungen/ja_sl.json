@@ -1,0 +1,192 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "sl",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Dolgih let sem delal v svoji strokovni професији.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "jaz",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(tema)",
+     "r": "wa"
+    },
+    {
+     "w": "長年、",
+     "t": "dolgih-let,",
+     "r": "naganen,"
+    },
+    {
+     "w": "自分",
+     "t": "sam-sebe",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(pripada)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "strokovna-poklic",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "(v/na)",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "nastopljen-na",
+     "r": "tsuite"
+    },
+    {
+     "w": "働いてきました。",
+     "t": "sem-delal.",
+     "r": "hataraitekimashita."
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "ta",
+     "r": "sono"
+    },
+    {
+     "w": "後、",
+     "t": "po-tem,",
+     "r": "ato,"
+    },
+    {
+     "w": "新しい",
+     "t": "novo",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "državo",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "(v/na)",
+     "r": "e"
+    },
+    {
+     "w": "移り住みました。",
+     "t": "sem-se-preselil.",
+     "r": "utarisumimasita."
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Sedaj se učim jezika te države.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "sedaj",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(tema)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "te",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "države",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(pripada)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "jezik",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(predmet)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます。",
+     "t": "sem-učim.",
+     "r": "manande imasu."
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Kmalu spet začnem delati v svoji strokovni професији.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "kmalu",
+     "r": "mousugu"
+    },
+    {
+     "w": "また、",
+     "t": "spet,",
+     "r": "mata,"
+    },
+    {
+     "w": "自分",
+     "t": "svoji",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(pripada)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "strokovni-poklic",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "(v/na)",
+     "r": "de"
+    },
+    {
+     "w": "働き始める",
+     "t": "sem-začel-delati",
+     "r": "hatarakihajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "načrt",
+     "r": "yotei"
+    },
+    {
+     "w": "です。",
+     "t": "je.",
+     "r": "desu."
+    }
+   ]
+  }
+ ]
+}

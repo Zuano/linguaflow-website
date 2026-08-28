@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "ro",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Am lucrat în domeniul meu mulți ani.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Am"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "lucrat"
+    },
+    {
+     "w": "alallani",
+     "t": "în-domeniul-meu"
+    },
+    {
+     "w": "monta",
+     "t": "mulți"
+    },
+    {
+     "w": "vuotta.",
+     "t": "ani."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Apoi"
+    },
+    {
+     "w": "muutin",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "uuteen",
+     "t": "într-o-nouă"
+    },
+    {
+     "w": "maahan.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Acum studiez limba.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Acum"
+    },
+    {
+     "w": "opiskelen",
+     "t": "studiez"
+    },
+    {
+     "w": "kieltä.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "În curând intenționez să continui să lucrez în domeniul meu.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "În-curând"
+    },
+    {
+     "w": "aion",
+     "t": "intenționez"
+    },
+    {
+     "w": "jatkaa",
+     "t": "să-continui"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "lucrul"
+    },
+    {
+     "w": "alallani.",
+     "t": "în-domeniul-meu."
+    }
+   ]
+  }
+ ]
+}

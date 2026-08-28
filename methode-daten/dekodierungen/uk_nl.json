@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "nl",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Ik heb veel jaren in mijn vakgebied gewerkt.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ik",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "veel",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "jaren",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "werkte",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "in",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "mijn-eigen",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "vakgebied.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Daarna kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Daarna",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "ik",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "kwam-aan",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "naar",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "nieuw",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "land.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Nu",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "ik",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "leer",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "de-taal.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Binnenkort zal ik weer beginnen te werken in mijn vakgebied.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Binnenkort",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "ik",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "weer",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "zal-beginnen",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "te-werken",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "in",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "mijn-eigen",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "vakgebied.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

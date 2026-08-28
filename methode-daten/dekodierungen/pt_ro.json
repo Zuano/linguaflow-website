@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "ro",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Am lucrat mulți ani în profesia mea.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Am-lucrat"
+    },
+    {
+     "w": "muitos",
+     "t": "mulți"
+    },
+    {
+     "w": "anos",
+     "t": "ani"
+    },
+    {
+     "w": "na",
+     "t": "în"
+    },
+    {
+     "w": "minha",
+     "t": "mea"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesie."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Apoi, am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Apoi,"
+    },
+    {
+     "w": "vim",
+     "t": "am-venit"
+    },
+    {
+     "w": "para",
+     "t": "în"
+    },
+    {
+     "w": "um",
+     "t": "o"
+    },
+    {
+     "w": "novo",
+     "t": "nouă"
+    },
+    {
+     "w": "país.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Acum"
+    },
+    {
+     "w": "estou",
+     "t": "sunt"
+    },
+    {
+     "w": "a",
+     "t": "(parte-verb)"
+    },
+    {
+     "w": "aprender",
+     "t": "a-învăța"
+    },
+    {
+     "w": "a",
+     "t": "(articol)"
+    },
+    {
+     "w": "língua.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "În scurt timp, voi începe din nou să lucrez în profesia mea.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "În"
+    },
+    {
+     "w": "breve,",
+     "t": "scurt-timp,"
+    },
+    {
+     "w": "voltarei",
+     "t": "voi-reveni"
+    },
+    {
+     "w": "a",
+     "t": "să"
+    },
+    {
+     "w": "trabalhar",
+     "t": "lucrez"
+    },
+    {
+     "w": "na",
+     "t": "în"
+    },
+    {
+     "w": "minha",
+     "t": "mea"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesie."
+    }
+   ]
+  }
+ ]
+}

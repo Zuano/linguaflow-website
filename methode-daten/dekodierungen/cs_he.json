@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "he",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "עבדתי בתחום שלי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "ב"
+    },
+    {
+     "w": "svém",
+     "t": "שלי (שלו-עצמו)"
+    },
+    {
+     "w": "oboru",
+     "t": "תחום"
+    },
+    {
+     "w": "jsem",
+     "t": "(אני) עזר-לעבר"
+    },
+    {
+     "w": "pracoval",
+     "t": "עבדתי"
+    },
+    {
+     "w": "mnoho",
+     "t": "הרבה"
+    },
+    {
+     "w": "let.",
+     "t": "שנים."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "jsem",
+     "t": "(אני) עזר-לעבר"
+    },
+    {
+     "w": "se",
+     "t": "את-עצמי"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "עברתי (העברתי-מקום)"
+    },
+    {
+     "w": "do",
+     "t": "ל"
+    },
+    {
+     "w": "nové",
+     "t": "חדשה"
+    },
+    {
+     "w": "země.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "עכשיו"
+    },
+    {
+     "w": "se",
+     "t": "את-עצמי"
+    },
+    {
+     "w": "učím",
+     "t": "לומד"
+    },
+    {
+     "w": "jazyk.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "בקרוב אני אעבוד שוב בתחום שלי.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "בקרוב"
+    },
+    {
+     "w": "budu",
+     "t": "אהיה (עתיד)"
+    },
+    {
+     "w": "zase",
+     "t": "שוב"
+    },
+    {
+     "w": "pracovat",
+     "t": "לעבוד"
+    },
+    {
+     "w": "ve",
+     "t": "ב"
+    },
+    {
+     "w": "svém",
+     "t": "שלי (שלו-עצמו)"
+    },
+    {
+     "w": "oboru.",
+     "t": "תחום."
+    }
+   ]
+  }
+ ]
+}

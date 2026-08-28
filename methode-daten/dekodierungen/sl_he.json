@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "he",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "עבדתי שנים רבות במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "ארוכות"
+    },
+    {
+     "w": "leta",
+     "t": "שנים"
+    },
+    {
+     "w": "sem",
+     "t": "(אני) הייתי"
+    },
+    {
+     "w": "delal",
+     "t": "עובד"
+    },
+    {
+     "w": "v",
+     "t": "ב-"
+    },
+    {
+     "w": "svojem",
+     "t": "שלי (שלי־עצמי)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "במקצוע."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "אחר כך הגעתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "אחר כך"
+    },
+    {
+     "w": "sem",
+     "t": "(אני) הייתי"
+    },
+    {
+     "w": "prišel",
+     "t": "הגעתי"
+    },
+    {
+     "w": "v",
+     "t": "ל-"
+    },
+    {
+     "w": "novo",
+     "t": "חדשה"
+    },
+    {
+     "w": "državo.",
+     "t": "מדינה."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "עכשיו"
+    },
+    {
+     "w": "se",
+     "t": "(את) עצמי"
+    },
+    {
+     "w": "učim",
+     "t": "לומד"
+    },
+    {
+     "w": "jezika.",
+     "t": "את-השפה."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "בקרוב אחזור לעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "בקרוב"
+    },
+    {
+     "w": "bom",
+     "t": "(אני) אהיה"
+    },
+    {
+     "w": "spet",
+     "t": "שוב"
+    },
+    {
+     "w": "delal",
+     "t": "עובד"
+    },
+    {
+     "w": "v",
+     "t": "ב-"
+    },
+    {
+     "w": "svojem",
+     "t": "שלי (שלי־עצמי)"
+    },
+    {
+     "w": "poklicu.",
+     "t": "במקצוע."
+    }
+   ]
+  }
+ ]
+}

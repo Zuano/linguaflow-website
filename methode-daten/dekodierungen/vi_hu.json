@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "hu",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Sok éven át dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Én"
+    },
+    {
+     "w": "đã",
+     "t": "(múlt idő jele)"
+    },
+    {
+     "w": "làm",
+     "t": "csináltam"
+    },
+    {
+     "w": "việc",
+     "t": "munkát"
+    },
+    {
+     "w": "trong",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "ngành",
+     "t": "szakágban"
+    },
+    {
+     "w": "nghề",
+     "t": "szakmai (szó része)"
+    },
+    {
+     "w": "của",
+     "t": "-nak/-nek (birtokos)"
+    },
+    {
+     "w": "mình",
+     "t": "saját-magam"
+    },
+    {
+     "w": "nhiều",
+     "t": "sok"
+    },
+    {
+     "w": "năm.",
+     "t": "évig."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Aztán egy új országba érkeztem.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Utána"
+    },
+    {
+     "w": "đó,",
+     "t": "(annak),"
+    },
+    {
+     "w": "tôi",
+     "t": "én"
+    },
+    {
+     "w": "đến",
+     "t": "érkeztem"
+    },
+    {
+     "w": "một",
+     "t": "egy"
+    },
+    {
+     "w": "đất",
+     "t": "föld (szó része)"
+    },
+    {
+     "w": "nước",
+     "t": "ország"
+    },
+    {
+     "w": "mới.",
+     "t": "új."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Jelenleg itt tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "jelenleg (szó része)"
+    },
+    {
+     "w": "tại,",
+     "t": "jelenleg,"
+    },
+    {
+     "w": "tôi",
+     "t": "én"
+    },
+    {
+     "w": "đang",
+     "t": "(folyamatos jelen jele)"
+    },
+    {
+     "w": "học",
+     "t": "tanulom"
+    },
+    {
+     "w": "ngôn",
+     "t": "nyelv (szó része)"
+    },
+    {
+     "w": "ngữ",
+     "t": "nyelvet"
+    },
+    {
+     "w": "ở",
+     "t": "-ban/-ben (helyen)"
+    },
+    {
+     "w": "đây.",
+     "t": "itt."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Hamarosan tovább fogom folytatni a munkát a szakmámban.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Nemsokára (szó része)"
+    },
+    {
+     "w": "tới,",
+     "t": "közeledve,"
+    },
+    {
+     "w": "tôi",
+     "t": "én"
+    },
+    {
+     "w": "sẽ",
+     "t": "(jövő idő jele)"
+    },
+    {
+     "w": "tiếp",
+     "t": "folytatva (szó része)"
+    },
+    {
+     "w": "tục",
+     "t": "folytatás (szó része)"
+    },
+    {
+     "w": "làm",
+     "t": "csinálom"
+    },
+    {
+     "w": "việc",
+     "t": "munkát"
+    },
+    {
+     "w": "trong",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "ngành",
+     "t": "szakágban"
+    },
+    {
+     "w": "nghề",
+     "t": "szakmai (szó része)"
+    },
+    {
+     "w": "của",
+     "t": "-nak/-nek (birtokos)"
+    },
+    {
+     "w": "mình.",
+     "t": "saját-magam."
+    }
+   ]
+  }
+ ]
+}

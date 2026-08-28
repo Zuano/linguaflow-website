@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "el",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Έχω δουλέψει στο επάγγελμά μου για πολλά χρόνια.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Εγώ"
+    },
+    {
+     "w": "har",
+     "t": "έχω"
+    },
+    {
+     "w": "arbejdet",
+     "t": "δουλέψει"
+    },
+    {
+     "w": "i",
+     "t": "σε"
+    },
+    {
+     "w": "mit",
+     "t": "το-δικό-μου"
+    },
+    {
+     "w": "fag",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "i",
+     "t": "για"
+    },
+    {
+     "w": "mange",
+     "t": "πολλά"
+    },
+    {
+     "w": "år.",
+     "t": "χρόνια."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Έπειτα μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "flyttede",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "jeg",
+     "t": "εγώ"
+    },
+    {
+     "w": "til",
+     "t": "σε"
+    },
+    {
+     "w": "et",
+     "t": "μια"
+    },
+    {
+     "w": "nyt",
+     "t": "νέα"
+    },
+    {
+     "w": "land.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Τώρα"
+    },
+    {
+     "w": "lærer",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "jeg",
+     "t": "εγώ"
+    },
+    {
+     "w": "sproget.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Σύντομα θα δουλέψω πάλι στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "skal",
+     "t": "θα"
+    },
+    {
+     "w": "jeg",
+     "t": "εγώ"
+    },
+    {
+     "w": "arbejde",
+     "t": "δουλέψω"
+    },
+    {
+     "w": "i",
+     "t": "σε"
+    },
+    {
+     "w": "mit",
+     "t": "το-δικό-μου"
+    },
+    {
+     "w": "fag",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "igen.",
+     "t": "πάλι."
+    }
+   ]
+  }
+ ]
+}

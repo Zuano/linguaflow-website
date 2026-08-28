@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "lv",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Es esmu strādājis daudzus gadus savā profesijā.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Es"
+    },
+    {
+     "w": "har",
+     "t": "esmu"
+    },
+    {
+     "w": "arbetat",
+     "t": "strādājis"
+    },
+    {
+     "w": "många",
+     "t": "daudzus"
+    },
+    {
+     "w": "år",
+     "t": "gadus"
+    },
+    {
+     "w": "inom",
+     "t": "savā (jomā)"
+    },
+    {
+     "w": "mitt",
+     "t": "savā"
+    },
+    {
+     "w": "yrke.",
+     "t": "profesijā."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "flyttade",
+     "t": "pārcēlos"
+    },
+    {
+     "w": "jag",
+     "t": "es"
+    },
+    {
+     "w": "till",
+     "t": "uz"
+    },
+    {
+     "w": "ett",
+     "t": "(vienu)"
+    },
+    {
+     "w": "nytt",
+     "t": "jaunu"
+    },
+    {
+     "w": "land.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Tagad"
+    },
+    {
+     "w": "lär",
+     "t": "mācu"
+    },
+    {
+     "w": "jag",
+     "t": "es"
+    },
+    {
+     "w": "mig",
+     "t": "sevi (mācos)"
+    },
+    {
+     "w": "språket.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Drīz es sākšu strādāt savā profesijā no jauna.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Drīz"
+    },
+    {
+     "w": "ska",
+     "t": "(nākotnes-vārds)"
+    },
+    {
+     "w": "jag",
+     "t": "es"
+    },
+    {
+     "w": "börja",
+     "t": "sākt"
+    },
+    {
+     "w": "arbeta",
+     "t": "strādāt"
+    },
+    {
+     "w": "inom",
+     "t": "savā (jomā)"
+    },
+    {
+     "w": "mitt",
+     "t": "savā"
+    },
+    {
+     "w": "yrke",
+     "t": "profesijā"
+    },
+    {
+     "w": "igen.",
+     "t": "no-jauna."
+    }
+   ]
+  }
+ ]
+}

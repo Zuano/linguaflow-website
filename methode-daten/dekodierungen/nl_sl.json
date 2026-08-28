@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "nl",
+ "native": "sl",
+ "text": "Ik heb vele jaren in mijn vak gewerkt. Daarna ben ik naar een nieuw land gekomen. Nu leer ik de taal. Binnenkort ga ik weer in mijn vak werken.",
+ "sentences": [
+  {
+   "text": "Ik heb vele jaren in mijn vak gewerkt.",
+   "translation": "Delal sem mnogo let v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Ik",
+     "t": "Jaz"
+    },
+    {
+     "w": "heb",
+     "t": "sem"
+    },
+    {
+     "w": "vele",
+     "t": "mnogo"
+    },
+    {
+     "w": "jaren",
+     "t": "let"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "mijn",
+     "t": "svoji"
+    },
+    {
+     "w": "vak",
+     "t": "stroki"
+    },
+    {
+     "w": "gewerkt.",
+     "t": "delal."
+    }
+   ]
+  },
+  {
+   "text": "Daarna ben ik naar een nieuw land gekomen.",
+   "translation": "Nato sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Daarna",
+     "t": "Nato"
+    },
+    {
+     "w": "ben",
+     "t": "sem"
+    },
+    {
+     "w": "ik",
+     "t": "jaz"
+    },
+    {
+     "w": "naar",
+     "t": "v"
+    },
+    {
+     "w": "een",
+     "t": "neko"
+    },
+    {
+     "w": "nieuw",
+     "t": "novo"
+    },
+    {
+     "w": "land",
+     "t": "državo"
+    },
+    {
+     "w": "gekomen.",
+     "t": "prišel."
+    }
+   ]
+  },
+  {
+   "text": "Nu leer ik de taal.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Zdaj"
+    },
+    {
+     "w": "leer",
+     "t": "učim (se)"
+    },
+    {
+     "w": "ik",
+     "t": "jaz"
+    },
+    {
+     "w": "de",
+     "t": "(ta)"
+    },
+    {
+     "w": "taal.",
+     "t": "jezik."
+    }
+   ]
+  },
+  {
+   "text": "Binnenkort ga ik weer in mijn vak werken.",
+   "translation": "Kmalu bom spet delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Binnenkort",
+     "t": "Kmalu"
+    },
+    {
+     "w": "ga",
+     "t": "bom"
+    },
+    {
+     "w": "ik",
+     "t": "jaz"
+    },
+    {
+     "w": "weer",
+     "t": "spet"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "mijn",
+     "t": "svoji"
+    },
+    {
+     "w": "vak",
+     "t": "stroki"
+    },
+    {
+     "w": "werken.",
+     "t": "delal."
+    }
+   ]
+  }
+ ]
+}

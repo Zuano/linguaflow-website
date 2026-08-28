@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "it",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Ho lavorato molti anni nella mia professione.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Ho"
+    },
+    {
+     "w": "lucrat",
+     "t": "lavorato"
+    },
+    {
+     "w": "mulți",
+     "t": "molti"
+    },
+    {
+     "w": "ani",
+     "t": "anni"
+    },
+    {
+     "w": "în",
+     "t": "nella"
+    },
+    {
+     "w": "meseria",
+     "t": "professione (la)"
+    },
+    {
+     "w": "mea.",
+     "t": "mia."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "Poi mi sono trasferito in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "Poi"
+    },
+    {
+     "w": "m-am",
+     "t": "mi'sono"
+    },
+    {
+     "w": "mutat",
+     "t": "trasferito"
+    },
+    {
+     "w": "într-o",
+     "t": "in-un(a)"
+    },
+    {
+     "w": "țară",
+     "t": "paese"
+    },
+    {
+     "w": "nouă.",
+     "t": "nuovo."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Adesso sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Adesso"
+    },
+    {
+     "w": "învăț",
+     "t": "imparo"
+    },
+    {
+     "w": "limba.",
+     "t": "la-lingua."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Presto tornerò a lavorare nella mia professione.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "In"
+    },
+    {
+     "w": "curând",
+     "t": "breve"
+    },
+    {
+     "w": "voi",
+     "t": "(io)-farò"
+    },
+    {
+     "w": "lucra",
+     "t": "lavorare"
+    },
+    {
+     "w": "din",
+     "t": "di"
+    },
+    {
+     "w": "nou",
+     "t": "nuovo"
+    },
+    {
+     "w": "în",
+     "t": "nella"
+    },
+    {
+     "w": "meseria",
+     "t": "professione (la)"
+    },
+    {
+     "w": "mea.",
+     "t": "mia."
+    }
+   ]
+  }
+ ]
+}

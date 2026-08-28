@@ -1,0 +1,116 @@
+{
+ "formatVersion": 1,
+ "target": "hu",
+ "native": "pt",
+ "text": "Sok éven át a szakmámban dolgoztam. Aztán egy új országba költöztem. Most a nyelvet tanulom. Hamarosan újra a szakmámban fogok dolgozni.",
+ "sentences": [
+  {
+   "text": "Sok éven át a szakmámban dolgoztam.",
+   "translation": "Durante muitos anos trabalhei na minha profissão.",
+   "pairs": [
+    {
+     "w": "Sok",
+     "t": "Muitos"
+    },
+    {
+     "w": "éven",
+     "t": "anos-durante"
+    },
+    {
+     "w": "át",
+     "t": "através"
+    },
+    {
+     "w": "a",
+     "t": "na"
+    },
+    {
+     "w": "szakmámban",
+     "t": "minha-profissão"
+    },
+    {
+     "w": "dolgoztam.",
+     "t": "trabalhei."
+    }
+   ]
+  },
+  {
+   "text": "Aztán egy új országba költöztem.",
+   "translation": "Depois mudei-me para um novo país.",
+   "pairs": [
+    {
+     "w": "Aztán",
+     "t": "Depois"
+    },
+    {
+     "w": "egy",
+     "t": "um"
+    },
+    {
+     "w": "új",
+     "t": "novo"
+    },
+    {
+     "w": "országba",
+     "t": "país-para"
+    },
+    {
+     "w": "költöztem.",
+     "t": "mudei-me."
+    }
+   ]
+  },
+  {
+   "text": "Most a nyelvet tanulom.",
+   "translation": "Agora estou a aprender a língua.",
+   "pairs": [
+    {
+     "w": "Most",
+     "t": "Agora"
+    },
+    {
+     "w": "a",
+     "t": "a"
+    },
+    {
+     "w": "nyelvet",
+     "t": "língua"
+    },
+    {
+     "w": "tanulom.",
+     "t": "aprendo."
+    }
+   ]
+  },
+  {
+   "text": "Hamarosan újra a szakmámban fogok dolgozni.",
+   "translation": "Em breve voltarei a trabalhar na minha profissão.",
+   "pairs": [
+    {
+     "w": "Hamarosan",
+     "t": "Em-breve"
+    },
+    {
+     "w": "újra",
+     "t": "novamente"
+    },
+    {
+     "w": "a",
+     "t": "na"
+    },
+    {
+     "w": "szakmámban",
+     "t": "minha-profissão"
+    },
+    {
+     "w": "fogok",
+     "t": "vou"
+    },
+    {
+     "w": "dolgozni.",
+     "t": "trabalhar."
+    }
+   ]
+  }
+ ]
+}

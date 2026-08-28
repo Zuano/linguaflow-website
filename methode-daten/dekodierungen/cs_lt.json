@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "lt",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Savo srityje dirbau daug metų.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "savo (savoje)"
+    },
+    {
+     "w": "svém",
+     "t": "savo"
+    },
+    {
+     "w": "oboru",
+     "t": "srityje"
+    },
+    {
+     "w": "jsem",
+     "t": "esu (aš)"
+    },
+    {
+     "w": "pracoval",
+     "t": "dirbęs"
+    },
+    {
+     "w": "mnoho",
+     "t": "daug"
+    },
+    {
+     "w": "let.",
+     "t": "metų."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Vėliau persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "vėliau"
+    },
+    {
+     "w": "jsem",
+     "t": "esu (aš)"
+    },
+    {
+     "w": "se",
+     "t": "(sav-)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "persikėlęs"
+    },
+    {
+     "w": "do",
+     "t": "į"
+    },
+    {
+     "w": "nové",
+     "t": "naują"
+    },
+    {
+     "w": "země.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "dabar"
+    },
+    {
+     "w": "se",
+     "t": "(sav-)"
+    },
+    {
+     "w": "učím",
+     "t": "mokausi"
+    },
+    {
+     "w": "jazyk.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Greitai vėl dirbsiu savo srityje.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "greitai"
+    },
+    {
+     "w": "budu",
+     "t": "būsiu"
+    },
+    {
+     "w": "zase",
+     "t": "vėl"
+    },
+    {
+     "w": "pracovat",
+     "t": "dirbti"
+    },
+    {
+     "w": "ve",
+     "t": "savo (savoje)"
+    },
+    {
+     "w": "svém",
+     "t": "savo"
+    },
+    {
+     "w": "oboru.",
+     "t": "srityje."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "tr",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "Yıllardır kendi alanımda çalışıyorum.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "(Ben)-çalışmışım-durumdayım"
+    },
+    {
+     "w": "palju",
+     "t": "çok"
+    },
+    {
+     "w": "aastaid",
+     "t": "yıl(lar)ca"
+    },
+    {
+     "w": "oma",
+     "t": "kendi"
+    },
+    {
+     "w": "erialal",
+     "t": "alanımda"
+    },
+    {
+     "w": "töötanud.",
+     "t": "çalışmış."
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "Sonra"
+    },
+    {
+     "w": "kolisin",
+     "t": "taşındım"
+    },
+    {
+     "w": "uude",
+     "t": "yeni-bir"
+    },
+    {
+     "w": "riiki.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "Şimdi"
+    },
+    {
+     "w": "õpin",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "keelt.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "Yakında yine kendi alanımda çalışmaya başlayacağım.",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "Yakında"
+    },
+    {
+     "w": "hakkan",
+     "t": "başlayacağım"
+    },
+    {
+     "w": "jälle",
+     "t": "yine"
+    },
+    {
+     "w": "oma",
+     "t": "kendi"
+    },
+    {
+     "w": "erialal",
+     "t": "alanımda"
+    },
+    {
+     "w": "töötama.",
+     "t": "çalışmaya."
+    }
+   ]
+  }
+ ]
+}

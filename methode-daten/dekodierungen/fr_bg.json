@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "bg",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Упражнявах професията си в продължение на много години.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Аз'имам (съм)"
+    },
+    {
+     "w": "exercé",
+     "t": "упражнявал"
+    },
+    {
+     "w": "mon",
+     "t": "моята"
+    },
+    {
+     "w": "métier",
+     "t": "професия"
+    },
+    {
+     "w": "pendant",
+     "t": "през"
+    },
+    {
+     "w": "de",
+     "t": "на"
+    },
+    {
+     "w": "nombreuses",
+     "t": "многобройни"
+    },
+    {
+     "w": "années.",
+     "t": "години."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "После пристигнах в нова страна.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "После"
+    },
+    {
+     "w": "je",
+     "t": "аз"
+    },
+    {
+     "w": "suis",
+     "t": "съм"
+    },
+    {
+     "w": "arrivé",
+     "t": "пристигнал"
+    },
+    {
+     "w": "dans",
+     "t": "в"
+    },
+    {
+     "w": "un",
+     "t": "една"
+    },
+    {
+     "w": "nouveau",
+     "t": "нова"
+    },
+    {
+     "w": "pays.",
+     "t": "страна."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Сега,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "аз'уча"
+    },
+    {
+     "w": "la",
+     "t": "(тзи)"
+    },
+    {
+     "w": "langue.",
+     "t": "език."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Скоро ще се върна към професията си.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Скоро,"
+    },
+    {
+     "w": "je",
+     "t": "аз"
+    },
+    {
+     "w": "reprendrai",
+     "t": "ще-се-върна-към"
+    },
+    {
+     "w": "mon",
+     "t": "моята"
+    },
+    {
+     "w": "métier.",
+     "t": "професия."
+    }
+   ]
+  }
+ ]
+}

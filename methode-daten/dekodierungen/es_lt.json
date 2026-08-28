@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "lt",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "Dirbau savo profesijoje daug metų.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "Esu"
+    },
+    {
+     "w": "trabajado",
+     "t": "dirbęs"
+    },
+    {
+     "w": "muchos",
+     "t": "daug"
+    },
+    {
+     "w": "años",
+     "t": "metų"
+    },
+    {
+     "w": "en",
+     "t": "savo"
+    },
+    {
+     "w": "mi",
+     "t": "savo"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesijoje."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Vėliau persikraustiau į kitą šalį.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Vėliau"
+    },
+    {
+     "w": "me",
+     "t": "aš'(save)"
+    },
+    {
+     "w": "mudé",
+     "t": "persikrausčiau"
+    },
+    {
+     "w": "a",
+     "t": "į"
+    },
+    {
+     "w": "otro",
+     "t": "kitą"
+    },
+    {
+     "w": "país.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Dabar"
+    },
+    {
+     "w": "estoy",
+     "t": "esu"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "mokydamasis"
+    },
+    {
+     "w": "el",
+     "t": "tos"
+    },
+    {
+     "w": "idioma.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Greitai vėl grįšiu dirbti savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Greitai"
+    },
+    {
+     "w": "volveré",
+     "t": "vėl'grįšiu"
+    },
+    {
+     "w": "a",
+     "t": "(prie)"
+    },
+    {
+     "w": "trabajar",
+     "t": "dirbti"
+    },
+    {
+     "w": "en",
+     "t": "savo"
+    },
+    {
+     "w": "mi",
+     "t": "savo"
+    },
+    {
+     "w": "profesión.",
+     "t": "profesijoje."
+    }
+   ]
+  }
+ ]
+}

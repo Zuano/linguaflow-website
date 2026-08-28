@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "lv",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "Es strādāju daudzus gadus savā profesijā.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "esmu"
+    },
+    {
+     "w": "lavorato",
+     "t": "strādājis"
+    },
+    {
+     "w": "per",
+     "t": "par (dēļ)"
+    },
+    {
+     "w": "molti",
+     "t": "daudzus"
+    },
+    {
+     "w": "anni",
+     "t": "gadus"
+    },
+    {
+     "w": "nella",
+     "t": "savā (profesijā)"
+    },
+    {
+     "w": "mia",
+     "t": "manā"
+    },
+    {
+     "w": "professione.",
+     "t": "profesijā."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "pēc-tam"
+    },
+    {
+     "w": "mi",
+     "t": "sevi"
+    },
+    {
+     "w": "sono",
+     "t": "esmu"
+    },
+    {
+     "w": "trasferito",
+     "t": "pārcēlies"
+    },
+    {
+     "w": "in",
+     "t": "uz"
+    },
+    {
+     "w": "un",
+     "t": "vienu"
+    },
+    {
+     "w": "nuovo",
+     "t": "jaunu"
+    },
+    {
+     "w": "Paese.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "tagad"
+    },
+    {
+     "w": "sto",
+     "t": "esmu (tagad)"
+    },
+    {
+     "w": "imparando",
+     "t": "mācoties"
+    },
+    {
+     "w": "la",
+     "t": "(the)"
+    },
+    {
+     "w": "lingua.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "Drīz es atkal atgriezīšos strādāt savā profesijā.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "drīz"
+    },
+    {
+     "w": "tornerò",
+     "t": "atgriezīšos"
+    },
+    {
+     "w": "a",
+     "t": "(lai)"
+    },
+    {
+     "w": "lavorare",
+     "t": "strādāt"
+    },
+    {
+     "w": "nella",
+     "t": "savā (profesijā)"
+    },
+    {
+     "w": "mia",
+     "t": "manā"
+    },
+    {
+     "w": "professione.",
+     "t": "profesijā."
+    }
+   ]
+  }
+ ]
+}

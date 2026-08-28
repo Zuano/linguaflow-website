@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ar",
+ "native": "et",
+ "text": "لقد عملت في مهنتي لسنوات عديدة. ثم انتقلت إلى بلد جديد. والآن أتعلم اللغة. وسأعود قريبًا إلى العمل في مهنتي.",
+ "sentences": [
+  {
+   "text": "لقد عملت في مهنتي لسنوات عديدة.",
+   "translation": "Olen töötanud oma erialal juba palju aastaid.",
+   "pairs": [
+    {
+     "w": "لقد",
+     "t": "tõesti (juba)",
+     "r": "laqad"
+    },
+    {
+     "w": "عملت",
+     "t": "töötasin",
+     "r": "ʿamiltu"
+    },
+    {
+     "w": "في",
+     "t": "-s",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي",
+     "t": "oma-kutsealal",
+     "r": "mihnatī"
+    },
+    {
+     "w": "لسنوات",
+     "t": "aastate-jooksul",
+     "r": "lisanawāt"
+    },
+    {
+     "w": "عديدة.",
+     "t": "paljude.",
+     "r": "ʿadīdah."
+    }
+   ]
+  },
+  {
+   "text": "ثم انتقلت إلى بلد جديد.",
+   "translation": "Seejärel siirdusin uude riiki.",
+   "pairs": [
+    {
+     "w": "ثم",
+     "t": "seejärel",
+     "r": "thumma"
+    },
+    {
+     "w": "انتقلت",
+     "t": "siirdusin",
+     "r": "intaqaltu"
+    },
+    {
+     "w": "إلى",
+     "t": "-sse",
+     "r": "ilā"
+    },
+    {
+     "w": "بلد",
+     "t": "riiki",
+     "r": "balad"
+    },
+    {
+     "w": "جديد.",
+     "t": "uude.",
+     "r": "jadīd."
+    }
+   ]
+  },
+  {
+   "text": "والآن أتعلم اللغة.",
+   "translation": "Ja praegu õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "والآن",
+     "t": "ja-praegu",
+     "r": "wal-āna"
+    },
+    {
+     "w": "أتعلم",
+     "t": "õpin",
+     "r": "ataʿallamu"
+    },
+    {
+     "w": "اللغة.",
+     "t": "keelt.",
+     "r": "al-lughah."
+    }
+   ]
+  },
+  {
+   "text": "وسأعود قريبًا إلى العمل في مهنتي.",
+   "translation": "Ja varsti naasen tööle oma erialal.",
+   "pairs": [
+    {
+     "w": "وسأعود",
+     "t": "ja-naasen",
+     "r": "wa-saʿūdu"
+    },
+    {
+     "w": "قريبًا",
+     "t": "varsti",
+     "r": "qarīban"
+    },
+    {
+     "w": "إلى",
+     "t": "-le",
+     "r": "ilā"
+    },
+    {
+     "w": "العمل",
+     "t": "tööle",
+     "r": "al-ʿamal"
+    },
+    {
+     "w": "في",
+     "t": "-s",
+     "r": "fī"
+    },
+    {
+     "w": "مهنتي.",
+     "t": "oma-kutsealal.",
+     "r": "mihnatī."
+    }
+   ]
+  }
+ ]
+}

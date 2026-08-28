@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "cs",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Pracoval jsem ve svém oboru mnoho let.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Já"
+    },
+    {
+     "w": "worked",
+     "t": "pracoval-jsem"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "my",
+     "t": "svém"
+    },
+    {
+     "w": "profession",
+     "t": "oboru"
+    },
+    {
+     "w": "for",
+     "t": "po"
+    },
+    {
+     "w": "many",
+     "t": "mnoho"
+    },
+    {
+     "w": "years.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Pak jsem se přestěhoval do nové země.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Pak"
+    },
+    {
+     "w": "I",
+     "t": "já"
+    },
+    {
+     "w": "moved",
+     "t": "přestěhoval-jsem-se"
+    },
+    {
+     "w": "to",
+     "t": "do"
+    },
+    {
+     "w": "a",
+     "t": "(neurčitý-člen)"
+    },
+    {
+     "w": "new",
+     "t": "nové"
+    },
+    {
+     "w": "country.",
+     "t": "země."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Teď se učím ten jazyk.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Teď"
+    },
+    {
+     "w": "I'm",
+     "t": "já'jsem"
+    },
+    {
+     "w": "learning",
+     "t": "učící-se"
+    },
+    {
+     "w": "the",
+     "t": "ten"
+    },
+    {
+     "w": "language.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Brzy budu opět pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Brzy"
+    },
+    {
+     "w": "I'll",
+     "t": "já'budu"
+    },
+    {
+     "w": "be",
+     "t": "(pomocné-sloveso)"
+    },
+    {
+     "w": "working",
+     "t": "pracující"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "my",
+     "t": "svém"
+    },
+    {
+     "w": "profession",
+     "t": "oboru"
+    },
+    {
+     "w": "again.",
+     "t": "znovu."
+    }
+   ]
+  }
+ ]
+}

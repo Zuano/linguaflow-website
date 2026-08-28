@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "ko",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "저는 제 분야에서 수년 동안 일해 왔습니다.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "저는"
+    },
+    {
+     "w": "telah",
+     "t": "(이미)"
+    },
+    {
+     "w": "bekerja",
+     "t": "일했다"
+    },
+    {
+     "w": "di",
+     "t": "~에서"
+    },
+    {
+     "w": "bidang",
+     "t": "분야"
+    },
+    {
+     "w": "saya",
+     "t": "제(저의)"
+    },
+    {
+     "w": "selama",
+     "t": "~동안"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "수년."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "그 다음 저는 새로운 나라로 이사했습니다.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "그 다음에"
+    },
+    {
+     "w": "saya",
+     "t": "저는"
+    },
+    {
+     "w": "pindah",
+     "t": "이사했다"
+    },
+    {
+     "w": "ke",
+     "t": "~로"
+    },
+    {
+     "w": "negara",
+     "t": "나라"
+    },
+    {
+     "w": "baru.",
+     "t": "새로운."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "지금"
+    },
+    {
+     "w": "saya",
+     "t": "저는"
+    },
+    {
+     "w": "sedang",
+     "t": "~하고-있다"
+    },
+    {
+     "w": "belajar",
+     "t": "배우다"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "그-언어를."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "곧 저는 다시 제 분야에서 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "잠시"
+    },
+    {
+     "w": "lagi",
+     "t": "더(곧)"
+    },
+    {
+     "w": "saya",
+     "t": "저는"
+    },
+    {
+     "w": "akan",
+     "t": "~할-것이다"
+    },
+    {
+     "w": "kembali",
+     "t": "다시"
+    },
+    {
+     "w": "bekerja",
+     "t": "일하다"
+    },
+    {
+     "w": "di",
+     "t": "~에서"
+    },
+    {
+     "w": "bidang",
+     "t": "분야"
+    },
+    {
+     "w": "saya.",
+     "t": "제(저의)."
+    }
+   ]
+  }
+ ]
+}

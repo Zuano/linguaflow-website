@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "tr",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Yıllarca mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Ben",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "çok",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "yıl",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "çalıştım",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "göre (dalında)",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "uzmanlığıma göre.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Sonra",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "ben",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "taşındım",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "-e/-a",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "yeni",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "ülkeye.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Şimdi",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "ben",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "öğreniyorum",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "dil.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Yakında yeniden mesleğimde çalışmaya başlayacağım.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Yakında",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "ben",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "yeniden",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "başlayacağım",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "çalışmaya",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "göre (dalında)",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "uzmanlığıma göre.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

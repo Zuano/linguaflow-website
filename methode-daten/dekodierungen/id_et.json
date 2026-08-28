@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "et",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Olen töötanud oma valdkonnas juba mitmeid aastaid.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Mina"
+    },
+    {
+     "w": "telah",
+     "t": "olen (juba)"
+    },
+    {
+     "w": "bekerja",
+     "t": "töötanud"
+    },
+    {
+     "w": "di",
+     "t": "-s"
+    },
+    {
+     "w": "bidang",
+     "t": "valdkonnas"
+    },
+    {
+     "w": "saya",
+     "t": "minu"
+    },
+    {
+     "w": "selama",
+     "t": "jooksul"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "mitmete-aastate."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Seejärel kolisin uude riiki.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Seejärel"
+    },
+    {
+     "w": "saya",
+     "t": "mina"
+    },
+    {
+     "w": "pindah",
+     "t": "kolisin"
+    },
+    {
+     "w": "ke",
+     "t": "(sisse)"
+    },
+    {
+     "w": "negara",
+     "t": "riiki"
+    },
+    {
+     "w": "baru.",
+     "t": "uude."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Praegu õpin ma selle keelt.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Praegu"
+    },
+    {
+     "w": "saya",
+     "t": "mina"
+    },
+    {
+     "w": "sedang",
+     "t": "parasjagu"
+    },
+    {
+     "w": "belajar",
+     "t": "õpin"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "selle-keelt."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Varsti hakkan taas oma valdkonnas töötama.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Natukese-aja"
+    },
+    {
+     "w": "lagi",
+     "t": "pärast"
+    },
+    {
+     "w": "saya",
+     "t": "mina"
+    },
+    {
+     "w": "akan",
+     "t": "hakkan"
+    },
+    {
+     "w": "kembali",
+     "t": "taas"
+    },
+    {
+     "w": "bekerja",
+     "t": "töötama"
+    },
+    {
+     "w": "di",
+     "t": "-s"
+    },
+    {
+     "w": "bidang",
+     "t": "valdkonnas"
+    },
+    {
+     "w": "saya.",
+     "t": "minu."
+    }
+   ]
+  }
+ ]
+}

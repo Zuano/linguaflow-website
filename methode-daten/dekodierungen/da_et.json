@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "et",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "Ma olen töötanud oma erialal palju aastaid.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Mina"
+    },
+    {
+     "w": "har",
+     "t": "olen"
+    },
+    {
+     "w": "arbejdet",
+     "t": "töötanud"
+    },
+    {
+     "w": "i",
+     "t": "oma"
+    },
+    {
+     "w": "mit",
+     "t": "(täpsustus)"
+    },
+    {
+     "w": "fag",
+     "t": "erialal"
+    },
+    {
+     "w": "i",
+     "t": "(kestus)"
+    },
+    {
+     "w": "mange",
+     "t": "palju"
+    },
+    {
+     "w": "år.",
+     "t": "aastaid."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "Siis kolisin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "Siis"
+    },
+    {
+     "w": "flyttede",
+     "t": "kolisin"
+    },
+    {
+     "w": "jeg",
+     "t": "mina"
+    },
+    {
+     "w": "til",
+     "t": "(millesse)"
+    },
+    {
+     "w": "et",
+     "t": "üks"
+    },
+    {
+     "w": "nyt",
+     "t": "uus"
+    },
+    {
+     "w": "land.",
+     "t": "riik."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "Nüüd õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nüüd"
+    },
+    {
+     "w": "lærer",
+     "t": "õpin"
+    },
+    {
+     "w": "jeg",
+     "t": "mina"
+    },
+    {
+     "w": "sproget.",
+     "t": "keelt (see keel)."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "Varsti hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Varsti"
+    },
+    {
+     "w": "skal",
+     "t": "pean/hakkan"
+    },
+    {
+     "w": "jeg",
+     "t": "mina"
+    },
+    {
+     "w": "arbejde",
+     "t": "töötama"
+    },
+    {
+     "w": "i",
+     "t": "oma"
+    },
+    {
+     "w": "mit",
+     "t": "(täpsustus)"
+    },
+    {
+     "w": "fag",
+     "t": "erialal"
+    },
+    {
+     "w": "igen.",
+     "t": "jälle."
+    }
+   ]
+  }
+ ]
+}

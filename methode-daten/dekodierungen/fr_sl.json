@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "fr",
+ "native": "sl",
+ "text": "J'ai exercé mon métier pendant de nombreuses années. Puis je suis arrivé dans un nouveau pays. Maintenant, j'apprends la langue. Bientôt, je reprendrai mon métier.",
+ "sentences": [
+  {
+   "text": "J'ai exercé mon métier pendant de nombreuses années.",
+   "translation": "Svoj poklic sem opravljal mnogo let.",
+   "pairs": [
+    {
+     "w": "J'ai",
+     "t": "Jaz'sem"
+    },
+    {
+     "w": "exercé",
+     "t": "opravljal"
+    },
+    {
+     "w": "mon",
+     "t": "moj"
+    },
+    {
+     "w": "métier",
+     "t": "poklic"
+    },
+    {
+     "w": "pendant",
+     "t": "med"
+    },
+    {
+     "w": "de",
+     "t": "(od)"
+    },
+    {
+     "w": "nombreuses",
+     "t": "številnimi"
+    },
+    {
+     "w": "années.",
+     "t": "leti."
+    }
+   ]
+  },
+  {
+   "text": "Puis je suis arrivé dans un nouveau pays.",
+   "translation": "Nato sem prispel v novo državo.",
+   "pairs": [
+    {
+     "w": "Puis",
+     "t": "Nato"
+    },
+    {
+     "w": "je",
+     "t": "jaz"
+    },
+    {
+     "w": "suis",
+     "t": "sem"
+    },
+    {
+     "w": "arrivé",
+     "t": "prispel"
+    },
+    {
+     "w": "dans",
+     "t": "v"
+    },
+    {
+     "w": "un",
+     "t": "eno"
+    },
+    {
+     "w": "nouveau",
+     "t": "novo"
+    },
+    {
+     "w": "pays.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Maintenant, j'apprends la langue.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Maintenant,",
+     "t": "Zdaj,"
+    },
+    {
+     "w": "j'apprends",
+     "t": "jaz'se-učim"
+    },
+    {
+     "w": "la",
+     "t": "(tega)"
+    },
+    {
+     "w": "langue.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Bientôt, je reprendrai mon métier.",
+   "translation": "Kmalu bom znova opravljal svoj poklic.",
+   "pairs": [
+    {
+     "w": "Bientôt,",
+     "t": "Kmalu,"
+    },
+    {
+     "w": "je",
+     "t": "jaz"
+    },
+    {
+     "w": "reprendrai",
+     "t": "bom-znova-opravljal"
+    },
+    {
+     "w": "mon",
+     "t": "svoj"
+    },
+    {
+     "w": "métier.",
+     "t": "poklic."
+    }
+   ]
+  }
+ ]
+}

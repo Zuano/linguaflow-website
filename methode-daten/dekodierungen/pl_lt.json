@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "lt",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Daugelį metų dirbau savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Per"
+    },
+    {
+     "w": "wiele",
+     "t": "daug"
+    },
+    {
+     "w": "lat",
+     "t": "metų"
+    },
+    {
+     "w": "pracowałem",
+     "t": "dirbau"
+    },
+    {
+     "w": "w",
+     "t": "savo"
+    },
+    {
+     "w": "swoim",
+     "t": "(nuosavoje)"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profesijoje."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Vėliau atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Vėliau"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "atvykau"
+    },
+    {
+     "w": "do",
+     "t": "į"
+    },
+    {
+     "w": "nowego",
+     "t": "naują"
+    },
+    {
+     "w": "kraju.",
+     "t": "šalį."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Dabar"
+    },
+    {
+     "w": "uczę",
+     "t": "mokausi"
+    },
+    {
+     "w": "się",
+     "t": "(savęs)"
+    },
+    {
+     "w": "języka.",
+     "t": "kalbos."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Greitai vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Greitai"
+    },
+    {
+     "w": "znów",
+     "t": "vėl"
+    },
+    {
+     "w": "będę",
+     "t": "būsiu"
+    },
+    {
+     "w": "pracował",
+     "t": "dirbantis (dirbsiu)"
+    },
+    {
+     "w": "w",
+     "t": "savo"
+    },
+    {
+     "w": "swoim",
+     "t": "(nuosavoje)"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "profesijoje."
+    }
+   ]
+  }
+ ]
+}

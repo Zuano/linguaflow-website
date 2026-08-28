@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "zh",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "我已经在我的领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "我"
+    },
+    {
+     "w": "telah",
+     "t": "已经"
+    },
+    {
+     "w": "bekerja",
+     "t": "工作"
+    },
+    {
+     "w": "di",
+     "t": "在"
+    },
+    {
+     "w": "bidang",
+     "t": "领域"
+    },
+    {
+     "w": "saya",
+     "t": "我的"
+    },
+    {
+     "w": "selama",
+     "t": "长达"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "多年。"
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "后来我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "后来"
+    },
+    {
+     "w": "saya",
+     "t": "我"
+    },
+    {
+     "w": "pindah",
+     "t": "搬家"
+    },
+    {
+     "w": "ke",
+     "t": "到"
+    },
+    {
+     "w": "negara",
+     "t": "国家"
+    },
+    {
+     "w": "baru.",
+     "t": "新的。"
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "现在我正在学习那里的语言。",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "现在"
+    },
+    {
+     "w": "saya",
+     "t": "我"
+    },
+    {
+     "w": "sedang",
+     "t": "正在"
+    },
+    {
+     "w": "belajar",
+     "t": "学习"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "那里的语言。"
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "再过不久我将重新回到我的领域工作。",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "不久"
+    },
+    {
+     "w": "lagi",
+     "t": "再"
+    },
+    {
+     "w": "saya",
+     "t": "我"
+    },
+    {
+     "w": "akan",
+     "t": "将会"
+    },
+    {
+     "w": "kembali",
+     "t": "回去"
+    },
+    {
+     "w": "bekerja",
+     "t": "工作"
+    },
+    {
+     "w": "di",
+     "t": "在"
+    },
+    {
+     "w": "bidang",
+     "t": "领域"
+    },
+    {
+     "w": "saya.",
+     "t": "我的。"
+    }
+   ]
+  }
+ ]
+}

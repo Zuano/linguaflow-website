@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "bg",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "Работих много години в моята професия.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "Съм-(имам)"
+    },
+    {
+     "w": "lucrat",
+     "t": "работил"
+    },
+    {
+     "w": "mulți",
+     "t": "много"
+    },
+    {
+     "w": "ani",
+     "t": "години"
+    },
+    {
+     "w": "în",
+     "t": "в"
+    },
+    {
+     "w": "meseria",
+     "t": "професията"
+    },
+    {
+     "w": "mea.",
+     "t": "моята."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "После се преместих в една нова страна.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "После"
+    },
+    {
+     "w": "m-am",
+     "t": "се'съм"
+    },
+    {
+     "w": "mutat",
+     "t": "преместил"
+    },
+    {
+     "w": "într-o",
+     "t": "в-една"
+    },
+    {
+     "w": "țară",
+     "t": "страна"
+    },
+    {
+     "w": "nouă.",
+     "t": "нова."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "Сега"
+    },
+    {
+     "w": "învăț",
+     "t": "уча"
+    },
+    {
+     "w": "limba.",
+     "t": "езика."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "Скоро отново ще работя в своята професия.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "В"
+    },
+    {
+     "w": "curând",
+     "t": "скоро"
+    },
+    {
+     "w": "voi",
+     "t": "ще"
+    },
+    {
+     "w": "lucra",
+     "t": "работя"
+    },
+    {
+     "w": "din",
+     "t": "от"
+    },
+    {
+     "w": "nou",
+     "t": "ново (отново)"
+    },
+    {
+     "w": "în",
+     "t": "в"
+    },
+    {
+     "w": "meseria",
+     "t": "професията"
+    },
+    {
+     "w": "mea.",
+     "t": "моята."
+    }
+   ]
+  }
+ ]
+}

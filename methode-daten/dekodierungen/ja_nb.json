@@ -1,0 +1,237 @@
+{
+ "formatVersion": 1,
+ "target": "ja",
+ "native": "nb",
+ "text": "私は長年、自分の専門職に就いて働いてきました。その後、新しい国へ移り住みました。今はその国の言語を学んでいます。もうすぐまた、自分の専門職で働き始める予定です。",
+ "sentences": [
+  {
+   "text": "私は長年、自分の専門職に就いて働いてきました。",
+   "translation": "Jeg har jobbet i min fagutdannelse i mange år.",
+   "pairs": [
+    {
+     "w": "私",
+     "t": "jeg",
+     "r": "watashi"
+    },
+    {
+     "w": "は",
+     "t": "(emne)",
+     "r": "wa"
+    },
+    {
+     "w": "長年",
+     "t": "mange-år",
+     "r": "chōnen"
+    },
+    {
+     "w": "、",
+     "t": "(komma)",
+     "r": "、"
+    },
+    {
+     "w": "自分",
+     "t": "selv",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(eiendom)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "fagutdannelse",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "に",
+     "t": "(retning)",
+     "r": "ni"
+    },
+    {
+     "w": "就いて",
+     "t": "påtatt",
+     "r": "tsuuite"
+    },
+    {
+     "w": "働いてきました",
+     "t": "jobbede-og-har-jobbet",
+     "r": "hataraitekimashita"
+    },
+    {
+     "w": "。",
+     "t": "(punktum)",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "その後、新しい国へ移り住みました。",
+   "translation": "Etterpå flyttet jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "その",
+     "t": "det",
+     "r": "sono"
+    },
+    {
+     "w": "後",
+     "t": "etter",
+     "r": "go"
+    },
+    {
+     "w": "、",
+     "t": "(komma)",
+     "r": "、"
+    },
+    {
+     "w": "新しい",
+     "t": "ny",
+     "r": "atarashii"
+    },
+    {
+     "w": "国",
+     "t": "land",
+     "r": "kuni"
+    },
+    {
+     "w": "へ",
+     "t": "til",
+     "r": "e"
+    },
+    {
+     "w": "移り",
+     "t": "flytte",
+     "r": "utsuri"
+    },
+    {
+     "w": "住みました",
+     "t": "bosatte-meg",
+     "r": "sumimashita"
+    },
+    {
+     "w": "。",
+     "t": "(punktum)",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "今はその国の言語を学んでいます。",
+   "translation": "Nå lærer jeg språket i det landet.",
+   "pairs": [
+    {
+     "w": "今",
+     "t": "nå",
+     "r": "ima"
+    },
+    {
+     "w": "は",
+     "t": "(emne)",
+     "r": "wa"
+    },
+    {
+     "w": "その",
+     "t": "det",
+     "r": "sono"
+    },
+    {
+     "w": "国",
+     "t": "land",
+     "r": "kuni"
+    },
+    {
+     "w": "の",
+     "t": "(eiendom)",
+     "r": "no"
+    },
+    {
+     "w": "言語",
+     "t": "språk",
+     "r": "gengo"
+    },
+    {
+     "w": "を",
+     "t": "(objekt)",
+     "r": "wo"
+    },
+    {
+     "w": "学んでいます",
+     "t": "lærer",
+     "r": "manande-imasu"
+    },
+    {
+     "w": "。",
+     "t": "(punktum)",
+     "r": "。"
+    }
+   ]
+  },
+  {
+   "text": "もうすぐまた、自分の専門職で働き始める予定です。",
+   "translation": "Snart skal jeg begynne å jobbe igjen i min fagutdannelse.",
+   "pairs": [
+    {
+     "w": "もうすぐ",
+     "t": "snart",
+     "r": "mōsugu"
+    },
+    {
+     "w": "また",
+     "t": "igjen",
+     "r": "mata"
+    },
+    {
+     "w": "、",
+     "t": "(komma)",
+     "r": "、"
+    },
+    {
+     "w": "自分",
+     "t": "selv",
+     "r": "jibun"
+    },
+    {
+     "w": "の",
+     "t": "(eiendom)",
+     "r": "no"
+    },
+    {
+     "w": "専門職",
+     "t": "fagutdannelse",
+     "r": "senmonshoku"
+    },
+    {
+     "w": "で",
+     "t": "(midler)",
+     "r": "de"
+    },
+    {
+     "w": "働き",
+     "t": "jobbe",
+     "r": "hataraki"
+    },
+    {
+     "w": "始める",
+     "t": "begynne",
+     "r": "hajimeru"
+    },
+    {
+     "w": "予定",
+     "t": "plan",
+     "r": "yotei"
+    },
+    {
+     "w": "です",
+     "t": "er",
+     "r": "desu"
+    },
+    {
+     "w": "。",
+     "t": "(punktum)",
+     "r": "。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "formatVersion": 1,
+ "target": "lv",
+ "native": "tr",
+ "text": "Esmu daudzus gadus strādājis savā profesijā. Pēc tam pārcēlos uz jaunu valsti. Tagad apgūstu valodu. Drīz atkal strādāšu savā profesijā.",
+ "sentences": [
+  {
+   "text": "Esmu daudzus gadus strādājis savā profesijā.",
+   "translation": "Ben yıllarca kendi mesleğimde çalıştım.",
+   "pairs": [
+    {
+     "w": "Esmu",
+     "t": "Ben'im (çalışmışım)"
+    },
+    {
+     "w": "daudzus",
+     "t": "birçok"
+    },
+    {
+     "w": "gadus",
+     "t": "yıl"
+    },
+    {
+     "w": "strādājis",
+     "t": "çalışmış"
+    },
+    {
+     "w": "savā",
+     "t": "kendi"
+    },
+    {
+     "w": "profesijā.",
+     "t": "mesleğinde."
+    }
+   ]
+  },
+  {
+   "text": "Pēc tam pārcēlos uz jaunu valsti.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Pēc",
+     "t": "sonra"
+    },
+    {
+     "w": "tam",
+     "t": "ondan"
+    },
+    {
+     "w": "pārcēlos",
+     "t": "taşındım"
+    },
+    {
+     "w": "uz",
+     "t": "-e (doğru)"
+    },
+    {
+     "w": "jaunu",
+     "t": "yeni"
+    },
+    {
+     "w": "valsti.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Tagad apgūstu valodu.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Tagad",
+     "t": "şimdi"
+    },
+    {
+     "w": "apgūstu",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "valodu.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Drīz atkal strādāšu savā profesijā.",
+   "translation": "Yakında yine kendi mesleğimde çalışacağım.",
+   "pairs": [
+    {
+     "w": "Drīz",
+     "t": "yakında"
+    },
+    {
+     "w": "atkal",
+     "t": "yine"
+    },
+    {
+     "w": "strādāšu",
+     "t": "çalışacağım"
+    },
+    {
+     "w": "savā",
+     "t": "kendi"
+    },
+    {
+     "w": "profesijā.",
+     "t": "mesleğinde."
+    }
+   ]
+  }
+ ]
+}

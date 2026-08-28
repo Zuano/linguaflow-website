@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "et",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Töötasin palju aastaid oma erialal.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Töötasin"
+    },
+    {
+     "w": "muitos",
+     "t": "palju"
+    },
+    {
+     "w": "anos",
+     "t": "aastaid"
+    },
+    {
+     "w": "na",
+     "t": "omal"
+    },
+    {
+     "w": "minha",
+     "t": "minu"
+    },
+    {
+     "w": "profissão.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Pärast tulin uude riiki.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Pärast,"
+    },
+    {
+     "w": "vim",
+     "t": "tulin"
+    },
+    {
+     "w": "para",
+     "t": "kohta (suunas)"
+    },
+    {
+     "w": "um",
+     "t": "üht"
+    },
+    {
+     "w": "novo",
+     "t": "uut"
+    },
+    {
+     "w": "país.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Praegu õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Praegu"
+    },
+    {
+     "w": "estou",
+     "t": "olen"
+    },
+    {
+     "w": "a",
+     "t": "(tegevuse-osis)"
+    },
+    {
+     "w": "aprender",
+     "t": "õppimas"
+    },
+    {
+     "w": "a",
+     "t": "seda"
+    },
+    {
+     "w": "língua.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Varsti hakkan ma taas oma erialal töötama.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Peagi (osa)"
+    },
+    {
+     "w": "breve,",
+     "t": "varsti,"
+    },
+    {
+     "w": "voltarei",
+     "t": "hakkan-taas"
+    },
+    {
+     "w": "a",
+     "t": "(tegevuse-osis)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "töötama"
+    },
+    {
+     "w": "na",
+     "t": "omal"
+    },
+    {
+     "w": "minha",
+     "t": "minu"
+    },
+    {
+     "w": "profissão.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "lt",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Aš ilgus metus dirbau savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "Dirbęs",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "esu",
+     "r": "sŭm"
+    },
+    {
+     "w": "дълги",
+     "t": "ilgus",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "metus",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "savo",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "(priklauso man)",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesijoje.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Vėliau atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "Vėliau",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "atvykau",
+     "r": "doydokh"
+    },
+    {
+     "w": "в",
+     "t": "į",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "naują",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "šalį.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Dabar mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "Dabar",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "mokausi",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "kalbos.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Greitai vėl dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Greitai",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "vėl",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "(ateities-dalelė)",
+     "r": "shche"
+    },
+    {
+     "w": "работя",
+     "t": "dirbsiu",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "savo",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "(priklauso man)",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "profesijoje.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "nb",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Jeg har jobbet i mitt fagfelt i mange år.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Jeg-har"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "jobbet"
+    },
+    {
+     "w": "alallani",
+     "t": "i-mitt-fagfelt"
+    },
+    {
+     "w": "monta",
+     "t": "mange"
+    },
+    {
+     "w": "vuotta.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Så flyttet jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "Så"
+    },
+    {
+     "w": "muutin",
+     "t": "flyttet-jeg"
+    },
+    {
+     "w": "uuteen",
+     "t": "til-et-nytt"
+    },
+    {
+     "w": "maahan.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Nå studerer jeg språket.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "Nå"
+    },
+    {
+     "w": "opiskelen",
+     "t": "studerer-jeg"
+    },
+    {
+     "w": "kieltä.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Snart har jeg tenkt å fortsette å jobbe i mitt fagfelt.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "Snart"
+    },
+    {
+     "w": "aion",
+     "t": "har-jeg-tenkt"
+    },
+    {
+     "w": "jatkaa",
+     "t": "å-fortsette"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "å-jobbe"
+    },
+    {
+     "w": "alallani.",
+     "t": "i-mitt-fagfelt."
+    }
+   ]
+  }
+ ]
+}

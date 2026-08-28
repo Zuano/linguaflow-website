@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "ko",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "저는 제 전문 분야에서 여러 해 동안 일해 왔습니다.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "나는"
+    },
+    {
+     "w": "har",
+     "t": "해왔다"
+    },
+    {
+     "w": "jobbet",
+     "t": "일했다(일한)"
+    },
+    {
+     "w": "i",
+     "t": "~동안"
+    },
+    {
+     "w": "mange",
+     "t": "여러"
+    },
+    {
+     "w": "år",
+     "t": "해를"
+    },
+    {
+     "w": "innen",
+     "t": "~분야에서"
+    },
+    {
+     "w": "mitt",
+     "t": "나의"
+    },
+    {
+     "w": "fagområde.",
+     "t": "전문-분야."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "그러고 나서 저는 새로운 나라로 이사했습니다.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "그러고 나서"
+    },
+    {
+     "w": "flyttet",
+     "t": "이사했다"
+    },
+    {
+     "w": "jeg",
+     "t": "나는"
+    },
+    {
+     "w": "til",
+     "t": "~로"
+    },
+    {
+     "w": "et",
+     "t": "한(하나의)"
+    },
+    {
+     "w": "nytt",
+     "t": "새로운"
+    },
+    {
+     "w": "land.",
+     "t": "나라로."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "지금"
+    },
+    {
+     "w": "lærer",
+     "t": "배운다"
+    },
+    {
+     "w": "jeg",
+     "t": "나는"
+    },
+    {
+     "w": "språket.",
+     "t": "그-언어를."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "곧 저는 제 전문 분야에서 다시 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "곧"
+    },
+    {
+     "w": "skal",
+     "t": "~할 것이다"
+    },
+    {
+     "w": "jeg",
+     "t": "나는"
+    },
+    {
+     "w": "jobbe",
+     "t": "일하다"
+    },
+    {
+     "w": "innen",
+     "t": "~분야에서"
+    },
+    {
+     "w": "mitt",
+     "t": "나의"
+    },
+    {
+     "w": "fagområde",
+     "t": "전문-분야"
+    },
+    {
+     "w": "igjen.",
+     "t": "다시."
+    }
+   ]
+  }
+ ]
+}

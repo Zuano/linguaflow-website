@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "id",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Saya sudah bertahun-tahun bekerja sesuai dengan profesi saya.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Saya",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "banyak",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "tahun",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "bekerja",
+     "r": "pratsiuvav"
+    },
+    {
+     "w": "за",
+     "t": "sesuai-dengan",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "profesi-sendiri",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "profesi.",
+     "r": "spetsialnistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Kemudian saya datang ke negara baru.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "Kemudian",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "saya",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "datang",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "ke",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "baru",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "negara.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Sekarang saya sedang belajar bahasa.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "Sekarang",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "saya",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "sedang-belajar",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "bahasa.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Segera saya akan mulai bekerja lagi sesuai dengan profesi saya.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "Segera",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "saya",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "lagi",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "akan-mulai",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "bekerja",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "sesuai-dengan",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "profesi-sendiri",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "profesi.",
+     "r": "spetsialnistyu."
+    }
+   ]
+  }
+ ]
+}

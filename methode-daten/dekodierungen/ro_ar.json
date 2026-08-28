@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "ro",
+ "native": "ar",
+ "text": "Am lucrat mulți ani în meseria mea. Apoi m-am mutat într-o țară nouă. Acum învăț limba. În curând voi lucra din nou în meseria mea.",
+ "sentences": [
+  {
+   "text": "Am lucrat mulți ani în meseria mea.",
+   "translation": "عملت سنوات كثيرة في مهنتي.",
+   "pairs": [
+    {
+     "w": "Am",
+     "t": "لقد"
+    },
+    {
+     "w": "lucrat",
+     "t": "عملتُ"
+    },
+    {
+     "w": "mulți",
+     "t": "كثيرة"
+    },
+    {
+     "w": "ani",
+     "t": "سنوات"
+    },
+    {
+     "w": "în",
+     "t": "في"
+    },
+    {
+     "w": "meseria",
+     "t": "مهنة"
+    },
+    {
+     "w": "mea.",
+     "t": "مهنتي."
+    }
+   ]
+  },
+  {
+   "text": "Apoi m-am mutat într-o țară nouă.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Apoi",
+     "t": "ثم"
+    },
+    {
+     "w": "m-am",
+     "t": "انتقلتُ-لنفسي"
+    },
+    {
+     "w": "mutat",
+     "t": "(فعل-الانتقال)"
+    },
+    {
+     "w": "într-o",
+     "t": "إلى-بلد"
+    },
+    {
+     "w": "țară",
+     "t": "بلد"
+    },
+    {
+     "w": "nouă.",
+     "t": "جديد."
+    }
+   ]
+  },
+  {
+   "text": "Acum învăț limba.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Acum",
+     "t": "الآن"
+    },
+    {
+     "w": "învăț",
+     "t": "أتعلم"
+    },
+    {
+     "w": "limba.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "În curând voi lucra din nou în meseria mea.",
+   "translation": "وقريباً سأعمل مرة أخرى في مهنتي.",
+   "pairs": [
+    {
+     "w": "În",
+     "t": "في"
+    },
+    {
+     "w": "curând",
+     "t": "القريب (قريباً)"
+    },
+    {
+     "w": "voi",
+     "t": "سوف"
+    },
+    {
+     "w": "lucra",
+     "t": "أعمل"
+    },
+    {
+     "w": "din",
+     "t": "من"
+    },
+    {
+     "w": "nou",
+     "t": "جديد (مرة-أخرى)"
+    },
+    {
+     "w": "în",
+     "t": "في"
+    },
+    {
+     "w": "meseria",
+     "t": "مهنة"
+    },
+    {
+     "w": "mea.",
+     "t": "مهنتي."
+    }
+   ]
+  }
+ ]
+}

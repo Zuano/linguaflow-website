@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "pl",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Pracowałem w swojej dziedzinie od wielu lat.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Ja"
+    },
+    {
+     "w": "telah",
+     "t": "już"
+    },
+    {
+     "w": "bekerja",
+     "t": "pracowałem"
+    },
+    {
+     "w": "di",
+     "t": "w"
+    },
+    {
+     "w": "bidang",
+     "t": "dziedzinie"
+    },
+    {
+     "w": "saya",
+     "t": "mojej"
+    },
+    {
+     "w": "selama",
+     "t": "przez"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "wiele-lat."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Potem przeprowadziłem się do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Potem"
+    },
+    {
+     "w": "saya",
+     "t": "ja"
+    },
+    {
+     "w": "pindah",
+     "t": "przeprowadziłem-się"
+    },
+    {
+     "w": "ke",
+     "t": "do"
+    },
+    {
+     "w": "negara",
+     "t": "kraju"
+    },
+    {
+     "w": "baru.",
+     "t": "nowego."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Teraz uczę się jego języka.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Teraz"
+    },
+    {
+     "w": "saya",
+     "t": "ja"
+    },
+    {
+     "w": "sedang",
+     "t": "właśnie (trwa czynność)"
+    },
+    {
+     "w": "belajar",
+     "t": "uczę-się"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "jego-języka."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Niedługo znów będę pracować w swojej dziedzinie.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "lagi",
+     "t": "znowu"
+    },
+    {
+     "w": "saya",
+     "t": "ja"
+    },
+    {
+     "w": "akan",
+     "t": "będę"
+    },
+    {
+     "w": "kembali",
+     "t": "z-powrotem"
+    },
+    {
+     "w": "bekerja",
+     "t": "pracować"
+    },
+    {
+     "w": "di",
+     "t": "w"
+    },
+    {
+     "w": "bidang",
+     "t": "dziedzinie"
+    },
+    {
+     "w": "saya.",
+     "t": "mojej."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "lt",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Aš daug metų dirbau pagal specialybę.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Aš",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "daug",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "metų",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "dirbau",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "pagal",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "specialybę.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Paskui aš persikėliau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Paskui",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "aš",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "persikėliau",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "į",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "naują",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "šalį.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Dabar aš mokausi kalbos.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Dabar",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "aš",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "mokausi",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "kalbos.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Netrukus aš vėl pradėsiu dirbti pagal specialybę.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Netrukus",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "aš",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "vėl",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "pradėsiu",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "dirbti",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "pagal",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "specialybę.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

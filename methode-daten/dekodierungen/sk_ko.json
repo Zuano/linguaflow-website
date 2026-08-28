@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "ko",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "저는 제 분야에서 오랫동안 일했습니다.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "~에서"
+    },
+    {
+     "w": "mojom",
+     "t": "나의"
+    },
+    {
+     "w": "odbore",
+     "t": "분야"
+    },
+    {
+     "w": "som",
+     "t": "(나는)~했다"
+    },
+    {
+     "w": "pracoval",
+     "t": "일했다"
+    },
+    {
+     "w": "mnoho",
+     "t": "많은"
+    },
+    {
+     "w": "rokov.",
+     "t": "해(년) 동안."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "그 후에 저는 새로운 나라로 왔습니다.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "그 후에"
+    },
+    {
+     "w": "som",
+     "t": "(나는)~했다"
+    },
+    {
+     "w": "prišiel",
+     "t": "왔다"
+    },
+    {
+     "w": "do",
+     "t": "~으로"
+    },
+    {
+     "w": "novej",
+     "t": "새로운"
+    },
+    {
+     "w": "krajiny.",
+     "t": "나라."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "지금 저는 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "지금"
+    },
+    {
+     "w": "sa",
+     "t": "(재귀-자기자신)"
+    },
+    {
+     "w": "učím",
+     "t": "배운다"
+    },
+    {
+     "w": "jazyk.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "곧 저는 다시 제 분야에서 일할 것입니다.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "곧"
+    },
+    {
+     "w": "budem",
+     "t": "(나는)~할 것이다"
+    },
+    {
+     "w": "opäť",
+     "t": "다시"
+    },
+    {
+     "w": "pracovať",
+     "t": "일하다"
+    },
+    {
+     "w": "vo",
+     "t": "~에서"
+    },
+    {
+     "w": "svojom",
+     "t": "자신의"
+    },
+    {
+     "w": "odbore.",
+     "t": "분야."
+    }
+   ]
+  }
+ ]
+}

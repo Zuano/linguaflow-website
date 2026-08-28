@@ -1,0 +1,104 @@
+{
+ "formatVersion": 1,
+ "target": "lt",
+ "native": "et",
+ "text": "Daugelį metų dirbau savo profesijoje. Vėliau atvykau į naują šalį. Dabar mokausi kalbos. Netrukus vėl dirbsiu savo profesijoje.",
+ "sentences": [
+  {
+   "text": "Daugelį metų dirbau savo profesijoje.",
+   "translation": "Töötasin oma erialal aastaid.",
+   "pairs": [
+    {
+     "w": "Daugelį",
+     "t": "Palju"
+    },
+    {
+     "w": "metų",
+     "t": "aastaid"
+    },
+    {
+     "w": "dirbau",
+     "t": "töötasin"
+    },
+    {
+     "w": "savo",
+     "t": "oma"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "erialal."
+    }
+   ]
+  },
+  {
+   "text": "Vėliau atvykau į naują šalį.",
+   "translation": "Hiljem tulin uude riiki.",
+   "pairs": [
+    {
+     "w": "Vėliau",
+     "t": "Hiljem"
+    },
+    {
+     "w": "atvykau",
+     "t": "tulin (saabusin)"
+    },
+    {
+     "w": "į",
+     "t": "(millesse)"
+    },
+    {
+     "w": "naują",
+     "t": "uude"
+    },
+    {
+     "w": "šalį.",
+     "t": "riiki."
+    }
+   ]
+  },
+  {
+   "text": "Dabar mokausi kalbos.",
+   "translation": "Praegu õpin keelt.",
+   "pairs": [
+    {
+     "w": "Dabar",
+     "t": "Praegu"
+    },
+    {
+     "w": "mokausi",
+     "t": "õpin"
+    },
+    {
+     "w": "kalbos.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Netrukus vėl dirbsiu savo profesijoje.",
+   "translation": "Varsti töötan taas oma erialal.",
+   "pairs": [
+    {
+     "w": "Netrukus",
+     "t": "Varsti"
+    },
+    {
+     "w": "vėl",
+     "t": "taas"
+    },
+    {
+     "w": "dirbsiu",
+     "t": "töötan (hakkan töötama)"
+    },
+    {
+     "w": "savo",
+     "t": "oma"
+    },
+    {
+     "w": "profesijoje.",
+     "t": "erialal."
+    }
+   ]
+  }
+ ]
+}

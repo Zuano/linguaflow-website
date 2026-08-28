@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "en",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "I worked in my field for many years.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "In"
+    },
+    {
+     "w": "mojom",
+     "t": "my"
+    },
+    {
+     "w": "odbore",
+     "t": "field"
+    },
+    {
+     "w": "som",
+     "t": "(I)-have"
+    },
+    {
+     "w": "pracoval",
+     "t": "worked"
+    },
+    {
+     "w": "mnoho",
+     "t": "many"
+    },
+    {
+     "w": "rokov.",
+     "t": "years."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Then I came to a new country.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Then"
+    },
+    {
+     "w": "som",
+     "t": "(I)-have"
+    },
+    {
+     "w": "prišiel",
+     "t": "come"
+    },
+    {
+     "w": "do",
+     "t": "to"
+    },
+    {
+     "w": "novej",
+     "t": "new"
+    },
+    {
+     "w": "krajiny.",
+     "t": "country."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Now I am learning the language.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Now"
+    },
+    {
+     "w": "sa",
+     "t": "myself"
+    },
+    {
+     "w": "učím",
+     "t": "(I)-teach"
+    },
+    {
+     "w": "jazyk.",
+     "t": "language."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Soon I will work in my field again.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Soon"
+    },
+    {
+     "w": "budem",
+     "t": "(I)-will-be"
+    },
+    {
+     "w": "opäť",
+     "t": "again"
+    },
+    {
+     "w": "pracovať",
+     "t": "work"
+    },
+    {
+     "w": "vo",
+     "t": "in"
+    },
+    {
+     "w": "svojom",
+     "t": "my-own"
+    },
+    {
+     "w": "odbore.",
+     "t": "field."
+    }
+   ]
+  }
+ ]
+}

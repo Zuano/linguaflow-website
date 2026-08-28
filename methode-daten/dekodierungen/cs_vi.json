@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "vi",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "Tôi đã làm việc trong ngành của mình nhiều năm.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "Trong"
+    },
+    {
+     "w": "svém",
+     "t": "của-mình"
+    },
+    {
+     "w": "oboru",
+     "t": "ngành"
+    },
+    {
+     "w": "jsem",
+     "t": "(tôi)-đã"
+    },
+    {
+     "w": "pracoval",
+     "t": "làm-việc"
+    },
+    {
+     "w": "mnoho",
+     "t": "nhiều"
+    },
+    {
+     "w": "let.",
+     "t": "năm."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "Sau đó tôi đã chuyển đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "jsem",
+     "t": "(tôi)-đã"
+    },
+    {
+     "w": "se",
+     "t": "(mình)"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "chuyển-đi"
+    },
+    {
+     "w": "do",
+     "t": "đến"
+    },
+    {
+     "w": "nové",
+     "t": "mới"
+    },
+    {
+     "w": "země.",
+     "t": "đất-nước."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "se",
+     "t": "(mình)"
+    },
+    {
+     "w": "učím",
+     "t": "đang-học"
+    },
+    {
+     "w": "jazyk.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong ngành của mình.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "budu",
+     "t": "(tôi)-sẽ"
+    },
+    {
+     "w": "zase",
+     "t": "lại"
+    },
+    {
+     "w": "pracovat",
+     "t": "làm-việc"
+    },
+    {
+     "w": "ve",
+     "t": "trong"
+    },
+    {
+     "w": "svém",
+     "t": "của-mình"
+    },
+    {
+     "w": "oboru.",
+     "t": "ngành."
+    }
+   ]
+  }
+ ]
+}

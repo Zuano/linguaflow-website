@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "da",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Jeg har arbejdet mange år inden for mit fag.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Jeg"
+    },
+    {
+     "w": "har",
+     "t": "har"
+    },
+    {
+     "w": "arbetat",
+     "t": "arbejdet"
+    },
+    {
+     "w": "många",
+     "t": "mange"
+    },
+    {
+     "w": "år",
+     "t": "år"
+    },
+    {
+     "w": "inom",
+     "t": "inden-for"
+    },
+    {
+     "w": "mitt",
+     "t": "mit"
+    },
+    {
+     "w": "yrke.",
+     "t": "fag."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Derefter flyttede jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Derefter"
+    },
+    {
+     "w": "flyttade",
+     "t": "flyttede"
+    },
+    {
+     "w": "jag",
+     "t": "jeg"
+    },
+    {
+     "w": "till",
+     "t": "til"
+    },
+    {
+     "w": "ett",
+     "t": "et"
+    },
+    {
+     "w": "nytt",
+     "t": "nyt"
+    },
+    {
+     "w": "land.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Nu"
+    },
+    {
+     "w": "lär",
+     "t": "lærer"
+    },
+    {
+     "w": "jag",
+     "t": "jeg"
+    },
+    {
+     "w": "mig",
+     "t": "mig"
+    },
+    {
+     "w": "språket.",
+     "t": "sproget."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Snart skal jeg begynde at arbejde inden for mit fag igen.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Snart"
+    },
+    {
+     "w": "ska",
+     "t": "skal"
+    },
+    {
+     "w": "jag",
+     "t": "jeg"
+    },
+    {
+     "w": "börja",
+     "t": "begynde"
+    },
+    {
+     "w": "arbeta",
+     "t": "at-arbejde"
+    },
+    {
+     "w": "inom",
+     "t": "inden-for"
+    },
+    {
+     "w": "mitt",
+     "t": "mit"
+    },
+    {
+     "w": "yrke",
+     "t": "fag"
+    },
+    {
+     "w": "igen.",
+     "t": "igen."
+    }
+   ]
+  }
+ ]
+}

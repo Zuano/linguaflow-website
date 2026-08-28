@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "da",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "Jeg arbejdede mange år inden for mit fag.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "I"
+    },
+    {
+     "w": "mojom",
+     "t": "mit"
+    },
+    {
+     "w": "odbore",
+     "t": "fag"
+    },
+    {
+     "w": "som",
+     "t": "har"
+    },
+    {
+     "w": "pracoval",
+     "t": "arbejdet"
+    },
+    {
+     "w": "mnoho",
+     "t": "mange"
+    },
+    {
+     "w": "rokov.",
+     "t": "år."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Derefter kom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Derefter"
+    },
+    {
+     "w": "som",
+     "t": "er"
+    },
+    {
+     "w": "prišiel",
+     "t": "kommet"
+    },
+    {
+     "w": "do",
+     "t": "til"
+    },
+    {
+     "w": "novej",
+     "t": "nyt"
+    },
+    {
+     "w": "krajiny.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nu"
+    },
+    {
+     "w": "sa",
+     "t": "(sig)"
+    },
+    {
+     "w": "učím",
+     "t": "lærer"
+    },
+    {
+     "w": "jazyk.",
+     "t": "sprog."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Snart vil jeg igen arbejde inden for mit fag.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Snart"
+    },
+    {
+     "w": "budem",
+     "t": "vil-jeg"
+    },
+    {
+     "w": "opäť",
+     "t": "igen"
+    },
+    {
+     "w": "pracovať",
+     "t": "arbejde"
+    },
+    {
+     "w": "vo",
+     "t": "i"
+    },
+    {
+     "w": "svojom",
+     "t": "mit-eget"
+    },
+    {
+     "w": "odbore.",
+     "t": "fag."
+    }
+   ]
+  }
+ ]
+}

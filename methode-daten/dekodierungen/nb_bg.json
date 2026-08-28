@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "nb",
+ "native": "bg",
+ "text": "Jeg har jobbet i mange år innen mitt fagområde. Så flyttet jeg til et nytt land. Nå lærer jeg språket. Snart skal jeg jobbe innen mitt fagområde igjen.",
+ "sentences": [
+  {
+   "text": "Jeg har jobbet i mange år innen mitt fagområde.",
+   "translation": "Работил съм много години в моята професионална област.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "Аз"
+    },
+    {
+     "w": "har",
+     "t": "съм"
+    },
+    {
+     "w": "jobbet",
+     "t": "работил"
+    },
+    {
+     "w": "i",
+     "t": "в"
+    },
+    {
+     "w": "mange",
+     "t": "много"
+    },
+    {
+     "w": "år",
+     "t": "години"
+    },
+    {
+     "w": "innen",
+     "t": "в-рамките-на"
+    },
+    {
+     "w": "mitt",
+     "t": "моята"
+    },
+    {
+     "w": "fagområde.",
+     "t": "професионална-област."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttet jeg til et nytt land.",
+   "translation": "После се преместих в нова страна.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "После"
+    },
+    {
+     "w": "flyttet",
+     "t": "се-преместих"
+    },
+    {
+     "w": "jeg",
+     "t": "аз"
+    },
+    {
+     "w": "til",
+     "t": "в"
+    },
+    {
+     "w": "et",
+     "t": "една"
+    },
+    {
+     "w": "nytt",
+     "t": "нова"
+    },
+    {
+     "w": "land.",
+     "t": "страна."
+    }
+   ]
+  },
+  {
+   "text": "Nå lærer jeg språket.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Nå",
+     "t": "Сега"
+    },
+    {
+     "w": "lærer",
+     "t": "уча"
+    },
+    {
+     "w": "jeg",
+     "t": "аз"
+    },
+    {
+     "w": "språket.",
+     "t": "езика."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg jobbe innen mitt fagområde igjen.",
+   "translation": "Скоро ще работя отново в моята професионална област.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Скоро"
+    },
+    {
+     "w": "skal",
+     "t": "ще"
+    },
+    {
+     "w": "jeg",
+     "t": "аз"
+    },
+    {
+     "w": "jobbe",
+     "t": "работя"
+    },
+    {
+     "w": "innen",
+     "t": "в-рамките-на"
+    },
+    {
+     "w": "mitt",
+     "t": "моята"
+    },
+    {
+     "w": "fagområde",
+     "t": "професионална-област"
+    },
+    {
+     "w": "igjen.",
+     "t": "отново."
+    }
+   ]
+  }
+ ]
+}

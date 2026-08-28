@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "ar",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "لقد عملت لسنوات عديدة في مهنتي.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "لقد(فعل-مساعد)"
+    },
+    {
+     "w": "lavorato",
+     "t": "عملتُ"
+    },
+    {
+     "w": "per",
+     "t": "لـ(مدة)"
+    },
+    {
+     "w": "molti",
+     "t": "عديدة"
+    },
+    {
+     "w": "anni",
+     "t": "سنوات"
+    },
+    {
+     "w": "nella",
+     "t": "في"
+    },
+    {
+     "w": "mia",
+     "t": "مهنتي(ملكية)"
+    },
+    {
+     "w": "professione.",
+     "t": "مهنة."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "ثم"
+    },
+    {
+     "w": "mi",
+     "t": "نفسي(انعكاسي)"
+    },
+    {
+     "w": "sono",
+     "t": "لقد(فعل-مساعد)"
+    },
+    {
+     "w": "trasferito",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "in",
+     "t": "إلى"
+    },
+    {
+     "w": "un",
+     "t": "بلد(واحد)"
+    },
+    {
+     "w": "nuovo",
+     "t": "جديد"
+    },
+    {
+     "w": "Paese.",
+     "t": "بلد."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "الآن أنا أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "الآن"
+    },
+    {
+     "w": "sto",
+     "t": "أنا(حالياً)"
+    },
+    {
+     "w": "imparando",
+     "t": "أتعلم"
+    },
+    {
+     "w": "la",
+     "t": "الـ"
+    },
+    {
+     "w": "lingua.",
+     "t": "لغة."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "قريباً سأعود للعمل في مهنتي.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "قريباً"
+    },
+    {
+     "w": "tornerò",
+     "t": "سأعود"
+    },
+    {
+     "w": "a",
+     "t": "لـ"
+    },
+    {
+     "w": "lavorare",
+     "t": "العمل"
+    },
+    {
+     "w": "nella",
+     "t": "في"
+    },
+    {
+     "w": "mia",
+     "t": "مهنتي(ملكية)"
+    },
+    {
+     "w": "professione.",
+     "t": "مهنة."
+    }
+   ]
+  }
+ ]
+}

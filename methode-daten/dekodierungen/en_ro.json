@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "ro",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Am lucrat în profesia mea timp de mulți ani.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "Eu"
+    },
+    {
+     "w": "worked",
+     "t": "am-lucrat"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "my",
+     "t": "a-mea"
+    },
+    {
+     "w": "profession",
+     "t": "profesie"
+    },
+    {
+     "w": "for",
+     "t": "timp-de"
+    },
+    {
+     "w": "many",
+     "t": "mulți"
+    },
+    {
+     "w": "years.",
+     "t": "ani."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Apoi m-am mutat într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Apoi"
+    },
+    {
+     "w": "I",
+     "t": "eu"
+    },
+    {
+     "w": "moved",
+     "t": "m-am-mutat"
+    },
+    {
+     "w": "to",
+     "t": "în"
+    },
+    {
+     "w": "a",
+     "t": "o"
+    },
+    {
+     "w": "new",
+     "t": "nouă"
+    },
+    {
+     "w": "country.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Acum"
+    },
+    {
+     "w": "I'm",
+     "t": "eu'sunt"
+    },
+    {
+     "w": "learning",
+     "t": "învățând"
+    },
+    {
+     "w": "the",
+     "t": "limba"
+    },
+    {
+     "w": "language.",
+     "t": "(cea)."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "În curând voi lucra din nou în profesia mea.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "În-curând"
+    },
+    {
+     "w": "I'll",
+     "t": "eu'voi"
+    },
+    {
+     "w": "be",
+     "t": "fi"
+    },
+    {
+     "w": "working",
+     "t": "lucrând"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "my",
+     "t": "a-mea"
+    },
+    {
+     "w": "profession",
+     "t": "profesie"
+    },
+    {
+     "w": "again.",
+     "t": "din-nou."
+    }
+   ]
+  }
+ ]
+}

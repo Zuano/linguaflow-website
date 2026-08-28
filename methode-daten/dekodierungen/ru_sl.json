@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "sl",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Veliko let sem delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "jaz",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "veliko",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "let",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "sem-delal",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "po",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "stroki.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "nato",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "jaz",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "sem-se-preselil",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "v",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "novo",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "državo.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "zdaj",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "jaz",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "se-učim",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "jezik.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Kmalu bom spet začel delati v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "kmalu",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "jaz",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "spet",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "bom-začel",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "delati",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "po",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "stroki.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

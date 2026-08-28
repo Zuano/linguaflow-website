@@ -1,0 +1,227 @@
+{
+ "formatVersion": 1,
+ "target": "th",
+ "native": "en",
+ "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่ ตอนนี้ผมกำลังเรียนภาษาอยู่ และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+ "sentences": [
+  {
+   "text": "ผมทำงานในสาขาอาชีพของผมมาหลายปีแล้ว",
+   "translation": "I worked in my profession for many years already.",
+   "pairs": [
+    {
+     "w": "ผม",
+     "t": "I",
+     "r": "phom"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "work",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "branch",
+     "r": "sa-kha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profession",
+     "r": "a-chip"
+    },
+    {
+     "w": "ของ",
+     "t": "of",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "I",
+     "r": "phom"
+    },
+    {
+     "w": "มา",
+     "t": "(for)",
+     "r": "ma"
+    },
+    {
+     "w": "หลาย",
+     "t": "many",
+     "r": "lai"
+    },
+    {
+     "w": "ปี",
+     "t": "year",
+     "r": "pi"
+    },
+    {
+     "w": "แล้ว",
+     "t": "already",
+     "r": "laeo"
+    }
+   ]
+  },
+  {
+   "text": "หลังจากนั้น ผมย้ายไปอยู่ประเทศใหม่",
+   "translation": "After that, I moved to a new country.",
+   "pairs": [
+    {
+     "w": "หลังจากนั้น",
+     "t": "after-that",
+     "r": "lang-jak-nan"
+    },
+    {
+     "w": "ผม",
+     "t": "I",
+     "r": "phom"
+    },
+    {
+     "w": "ย้าย",
+     "t": "move",
+     "r": "yai"
+    },
+    {
+     "w": "ไป",
+     "t": "go",
+     "r": "pai"
+    },
+    {
+     "w": "อยู่",
+     "t": "stay-live",
+     "r": "yu"
+    },
+    {
+     "w": "ประเทศ",
+     "t": "country",
+     "r": "pra-thet"
+    },
+    {
+     "w": "ใหม่",
+     "t": "new",
+     "r": "mai"
+    }
+   ]
+  },
+  {
+   "text": "ตอนนี้ผมกำลังเรียนภาษาอยู่",
+   "translation": "Now I am studying language.",
+   "pairs": [
+    {
+     "w": "ตอนนี้",
+     "t": "now",
+     "r": "ton-ni"
+    },
+    {
+     "w": "ผม",
+     "t": "I",
+     "r": "phom"
+    },
+    {
+     "w": "กำลัง",
+     "t": "(progressive)",
+     "r": "kam-lang"
+    },
+    {
+     "w": "เรียน",
+     "t": "study",
+     "r": "rian"
+    },
+    {
+     "w": "ภาษา",
+     "t": "language",
+     "r": "pha-sa"
+    },
+    {
+     "w": "อยู่",
+     "t": "(ongoing)",
+     "r": "yu"
+    }
+   ]
+  },
+  {
+   "text": "และเร็วๆ นี้ ผมจะกลับมาทำงานในสาขาอาชีพของผมอีกครั้ง",
+   "translation": "And soon I will return to work in my profession again.",
+   "pairs": [
+    {
+     "w": "และ",
+     "t": "and",
+     "r": "ae"
+    },
+    {
+     "w": "เร็วๆ",
+     "t": "soon",
+     "r": "reo-reo"
+    },
+    {
+     "w": "นี้",
+     "t": "this",
+     "r": "ni"
+    },
+    {
+     "w": "ผม",
+     "t": "I",
+     "r": "phom"
+    },
+    {
+     "w": "จะ",
+     "t": "will",
+     "r": "cha"
+    },
+    {
+     "w": "กลับ",
+     "t": "return",
+     "r": "klap"
+    },
+    {
+     "w": "มา",
+     "t": "(toward-speaker)",
+     "r": "ma"
+    },
+    {
+     "w": "ทำงาน",
+     "t": "work",
+     "r": "tham-ngan"
+    },
+    {
+     "w": "ใน",
+     "t": "in",
+     "r": "nai"
+    },
+    {
+     "w": "สาขา",
+     "t": "branch",
+     "r": "sa-kha"
+    },
+    {
+     "w": "อาชีพ",
+     "t": "profession",
+     "r": "a-chip"
+    },
+    {
+     "w": "ของ",
+     "t": "of",
+     "r": "khong"
+    },
+    {
+     "w": "ผม",
+     "t": "I",
+     "r": "phom"
+    },
+    {
+     "w": "อีก",
+     "t": "again",
+     "r": "ik"
+    },
+    {
+     "w": "ครั้ง",
+     "t": "time",
+     "r": "khrang"
+    }
+   ]
+  }
+ ]
+}

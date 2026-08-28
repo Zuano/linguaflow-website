@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "it",
+ "native": "ko",
+ "text": "Ho lavorato per molti anni nella mia professione. Poi mi sono trasferito in un nuovo Paese. Ora sto imparando la lingua. Presto tornerò a lavorare nella mia professione.",
+ "sentences": [
+  {
+   "text": "Ho lavorato per molti anni nella mia professione.",
+   "translation": "저는 제 직업으로 여러 해 동안 일했습니다.",
+   "pairs": [
+    {
+     "w": "Ho",
+     "t": "나는-했다"
+    },
+    {
+     "w": "lavorato",
+     "t": "일한-것을"
+    },
+    {
+     "w": "per",
+     "t": "동안"
+    },
+    {
+     "w": "molti",
+     "t": "많은"
+    },
+    {
+     "w": "anni",
+     "t": "해들을"
+    },
+    {
+     "w": "nella",
+     "t": "~안에서(그)"
+    },
+    {
+     "w": "mia",
+     "t": "나의"
+    },
+    {
+     "w": "professione.",
+     "t": "직업."
+    }
+   ]
+  },
+  {
+   "text": "Poi mi sono trasferito in un nuovo Paese.",
+   "translation": "그 후 저는 새로운 나라로 이주했습니다.",
+   "pairs": [
+    {
+     "w": "Poi",
+     "t": "그다음에"
+    },
+    {
+     "w": "mi",
+     "t": "나를(재귀)"
+    },
+    {
+     "w": "sono",
+     "t": "나는-되었다"
+    },
+    {
+     "w": "trasferito",
+     "t": "이주한-것을"
+    },
+    {
+     "w": "in",
+     "t": "~으로"
+    },
+    {
+     "w": "un",
+     "t": "하나의"
+    },
+    {
+     "w": "nuovo",
+     "t": "새로운"
+    },
+    {
+     "w": "Paese.",
+     "t": "나라로."
+    }
+   ]
+  },
+  {
+   "text": "Ora sto imparando la lingua.",
+   "translation": "지금 저는 그 언어를 배우고 있습니다.",
+   "pairs": [
+    {
+     "w": "Ora",
+     "t": "지금"
+    },
+    {
+     "w": "sto",
+     "t": "나는-있다"
+    },
+    {
+     "w": "imparando",
+     "t": "배우는-중"
+    },
+    {
+     "w": "la",
+     "t": "그"
+    },
+    {
+     "w": "lingua.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Presto tornerò a lavorare nella mia professione.",
+   "translation": "곧 저는 제 직업으로 다시 일하러 돌아갈 것입니다.",
+   "pairs": [
+    {
+     "w": "Presto",
+     "t": "곧"
+    },
+    {
+     "w": "tornerò",
+     "t": "나는-돌아갈-것이다"
+    },
+    {
+     "w": "a",
+     "t": "~하러"
+    },
+    {
+     "w": "lavorare",
+     "t": "일하는-것"
+    },
+    {
+     "w": "nella",
+     "t": "~안에서(그)"
+    },
+    {
+     "w": "mia",
+     "t": "나의"
+    },
+    {
+     "w": "professione.",
+     "t": "직업."
+    }
+   ]
+  }
+ ]
+}

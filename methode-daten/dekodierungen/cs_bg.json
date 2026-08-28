@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "cs",
+ "native": "bg",
+ "text": "Ve svém oboru jsem pracoval mnoho let. Potom jsem se přestěhoval do nové země. Teď se učím jazyk. Brzy budu zase pracovat ve svém oboru.",
+ "sentences": [
+  {
+   "text": "Ve svém oboru jsem pracoval mnoho let.",
+   "translation": "В своята специалност работих много години.",
+   "pairs": [
+    {
+     "w": "Ve",
+     "t": "В"
+    },
+    {
+     "w": "svém",
+     "t": "своя(та)"
+    },
+    {
+     "w": "oboru",
+     "t": "специалност(та)"
+    },
+    {
+     "w": "jsem",
+     "t": "съм"
+    },
+    {
+     "w": "pracoval",
+     "t": "работил"
+    },
+    {
+     "w": "mnoho",
+     "t": "много"
+    },
+    {
+     "w": "let.",
+     "t": "години."
+    }
+   ]
+  },
+  {
+   "text": "Potom jsem se přestěhoval do nové země.",
+   "translation": "После се преместих в нова страна.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "После"
+    },
+    {
+     "w": "jsem",
+     "t": "съм"
+    },
+    {
+     "w": "se",
+     "t": "се"
+    },
+    {
+     "w": "přestěhoval",
+     "t": "преместил"
+    },
+    {
+     "w": "do",
+     "t": "в"
+    },
+    {
+     "w": "nové",
+     "t": "нова"
+    },
+    {
+     "w": "země.",
+     "t": "страна."
+    }
+   ]
+  },
+  {
+   "text": "Teď se učím jazyk.",
+   "translation": "Сега уча език.",
+   "pairs": [
+    {
+     "w": "Teď",
+     "t": "Сега"
+    },
+    {
+     "w": "se",
+     "t": "се"
+    },
+    {
+     "w": "učím",
+     "t": "уча"
+    },
+    {
+     "w": "jazyk.",
+     "t": "език."
+    }
+   ]
+  },
+  {
+   "text": "Brzy budu zase pracovat ve svém oboru.",
+   "translation": "Скоро отново ще работя в своята специалност.",
+   "pairs": [
+    {
+     "w": "Brzy",
+     "t": "Скоро"
+    },
+    {
+     "w": "budu",
+     "t": "ще-бъда"
+    },
+    {
+     "w": "zase",
+     "t": "отново"
+    },
+    {
+     "w": "pracovat",
+     "t": "да-работя"
+    },
+    {
+     "w": "ve",
+     "t": "в"
+    },
+    {
+     "w": "svém",
+     "t": "своя(та)"
+    },
+    {
+     "w": "oboru.",
+     "t": "специалност(та)."
+    }
+   ]
+  }
+ ]
+}

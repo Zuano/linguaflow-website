@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "fi",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "Työskentelin monta vuotta omalla alallani.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "minä",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "monta",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "vuotta",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "työskentelin",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "mukaan (oman)",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "ammatin.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "sitten",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "minä",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "muutin",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "-Vaan",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "uuteen",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "maahan.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "nyt",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "minä",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "opiskelen",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "kieltä.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Pian aloitan taas työskentelyn omalla alallani.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "pian",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "minä",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "taas",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "aloitan",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "työskentelemään",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "mukaan (oman)",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "ammatin.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

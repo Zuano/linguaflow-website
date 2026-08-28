@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "target": "bg",
+ "native": "et",
+ "text": "Работил съм дълги години в моята професия. После дойдох в нова страна. Сега изучавам езика. Скоро отново ще работя в моята професия.",
+ "sentences": [
+  {
+   "text": "Работил съм дълги години в моята професия.",
+   "translation": "Olen töötanud pikki aastaid oma erialal.",
+   "pairs": [
+    {
+     "w": "Работил",
+     "t": "töötanud",
+     "r": "Rabotil"
+    },
+    {
+     "w": "съм",
+     "t": "olen",
+     "r": "sŭm"
+    },
+    {
+     "w": "дълги",
+     "t": "pikki",
+     "r": "dŭlgi"
+    },
+    {
+     "w": "години",
+     "t": "aastaid",
+     "r": "godini"
+    },
+    {
+     "w": "в",
+     "t": "oma",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "(kuulub mulle)",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "erialal.",
+     "r": "profesiya."
+    }
+   ]
+  },
+  {
+   "text": "После дойдох в нова страна.",
+   "translation": "Pärast tulin uude riiki.",
+   "pairs": [
+    {
+     "w": "После",
+     "t": "pärast",
+     "r": "Posle"
+    },
+    {
+     "w": "дойдох",
+     "t": "tulin",
+     "r": "doydoh"
+    },
+    {
+     "w": "в",
+     "t": "uude",
+     "r": "v"
+    },
+    {
+     "w": "нова",
+     "t": "uude",
+     "r": "nova"
+    },
+    {
+     "w": "страна.",
+     "t": "riiki.",
+     "r": "strana."
+    }
+   ]
+  },
+  {
+   "text": "Сега изучавам езика.",
+   "translation": "Nüüd õpin keelt.",
+   "pairs": [
+    {
+     "w": "Сега",
+     "t": "nüüd",
+     "r": "Sega"
+    },
+    {
+     "w": "изучавам",
+     "t": "õpin",
+     "r": "izuchavam"
+    },
+    {
+     "w": "езика.",
+     "t": "keelt.",
+     "r": "ezika."
+    }
+   ]
+  },
+  {
+   "text": "Скоро отново ще работя в моята професия.",
+   "translation": "Varsti hakkan taas töötama oma erialal.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "varsti",
+     "r": "Skoro"
+    },
+    {
+     "w": "отново",
+     "t": "taas",
+     "r": "otnovo"
+    },
+    {
+     "w": "ще",
+     "t": "hakkan",
+     "r": "shche"
+    },
+    {
+     "w": "работя",
+     "t": "töötama",
+     "r": "rabotya"
+    },
+    {
+     "w": "в",
+     "t": "oma",
+     "r": "v"
+    },
+    {
+     "w": "моята",
+     "t": "(kuulub mulle)",
+     "r": "moyata"
+    },
+    {
+     "w": "професия.",
+     "t": "erialal.",
+     "r": "profesiya."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "target": "ru",
+ "native": "fr",
+ "text": "Я много лет работал по специальности. Затем я переехал в новую страну. Сейчас я изучаю язык. Скоро я снова начну работать по специальности.",
+ "sentences": [
+  {
+   "text": "Я много лет работал по специальности.",
+   "translation": "J'ai travaillé de nombreuses années dans ma spécialité.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "Je",
+     "r": "Ya"
+    },
+    {
+     "w": "много",
+     "t": "beaucoup-de",
+     "r": "mnogo"
+    },
+    {
+     "w": "лет",
+     "t": "années",
+     "r": "let"
+    },
+    {
+     "w": "работал",
+     "t": "travaillais",
+     "r": "rabotal"
+    },
+    {
+     "w": "по",
+     "t": "selon",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "ma-spécialité.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  },
+  {
+   "text": "Затем я переехал в новую страну.",
+   "translation": "Ensuite, j'ai déménagé dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Затем",
+     "t": "Ensuite",
+     "r": "Zatem"
+    },
+    {
+     "w": "я",
+     "t": "je",
+     "r": "ya"
+    },
+    {
+     "w": "переехал",
+     "t": "ai-déménagé",
+     "r": "pereyekhal"
+    },
+    {
+     "w": "в",
+     "t": "dans",
+     "r": "v"
+    },
+    {
+     "w": "новую",
+     "t": "un-nouveau",
+     "r": "novuyu"
+    },
+    {
+     "w": "страну.",
+     "t": "pays.",
+     "r": "stranu."
+    }
+   ]
+  },
+  {
+   "text": "Сейчас я изучаю язык.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Сейчас",
+     "t": "Maintenant",
+     "r": "Seychas"
+    },
+    {
+     "w": "я",
+     "t": "je",
+     "r": "ya"
+    },
+    {
+     "w": "изучаю",
+     "t": "apprends",
+     "r": "izuchayu"
+    },
+    {
+     "w": "язык.",
+     "t": "la-langue.",
+     "r": "yazyk."
+    }
+   ]
+  },
+  {
+   "text": "Скоро я снова начну работать по специальности.",
+   "translation": "Bientôt, je recommencerai à travailler dans ma spécialité.",
+   "pairs": [
+    {
+     "w": "Скоро",
+     "t": "Bientôt",
+     "r": "Skoro"
+    },
+    {
+     "w": "я",
+     "t": "je",
+     "r": "ya"
+    },
+    {
+     "w": "снова",
+     "t": "de-nouveau",
+     "r": "snova"
+    },
+    {
+     "w": "начну",
+     "t": "commencerai",
+     "r": "nachnu"
+    },
+    {
+     "w": "работать",
+     "t": "à-travailler",
+     "r": "rabotat'"
+    },
+    {
+     "w": "по",
+     "t": "selon",
+     "r": "po"
+    },
+    {
+     "w": "специальности.",
+     "t": "ma-spécialité.",
+     "r": "spetsial'nosti."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "da",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "I mange år arbejdede jeg i mit fag.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "I-løbet-af"
+    },
+    {
+     "w": "wiele",
+     "t": "mange"
+    },
+    {
+     "w": "lat",
+     "t": "år"
+    },
+    {
+     "w": "pracowałem",
+     "t": "arbejdede-jeg"
+    },
+    {
+     "w": "w",
+     "t": "i"
+    },
+    {
+     "w": "swoim",
+     "t": "mit-eget"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "fag."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Bagefter kom jeg til et nyt land.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Bagefter"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "ankom-jeg"
+    },
+    {
+     "w": "do",
+     "t": "til"
+    },
+    {
+     "w": "nowego",
+     "t": "nyt"
+    },
+    {
+     "w": "kraju.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Nu lærer jeg sproget.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Nu"
+    },
+    {
+     "w": "uczę",
+     "t": "lærer-jeg"
+    },
+    {
+     "w": "się",
+     "t": "mig"
+    },
+    {
+     "w": "języka.",
+     "t": "sproget."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "Snart vil jeg igen arbejde i mit fag.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "Snart"
+    },
+    {
+     "w": "znów",
+     "t": "igen"
+    },
+    {
+     "w": "będę",
+     "t": "vil-jeg"
+    },
+    {
+     "w": "pracował",
+     "t": "arbejde"
+    },
+    {
+     "w": "w",
+     "t": "i"
+    },
+    {
+     "w": "swoim",
+     "t": "mit-eget"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "fag."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "ja",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "私は長年、自分の専門分野で働いてきました。",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "私は~してきた"
+    },
+    {
+     "w": "palju",
+     "t": "多くの"
+    },
+    {
+     "w": "aastaid",
+     "t": "年を"
+    },
+    {
+     "w": "oma",
+     "t": "自分の"
+    },
+    {
+     "w": "erialal",
+     "t": "専門分野で"
+    },
+    {
+     "w": "töötanud.",
+     "t": "働いた。"
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "それから新しい国に引っ越しました。",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "それから"
+    },
+    {
+     "w": "kolisin",
+     "t": "私は引っ越した"
+    },
+    {
+     "w": "uude",
+     "t": "新しい(へ)"
+    },
+    {
+     "w": "riiki.",
+     "t": "国に。"
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "今は言葉を学んでいます。",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "今"
+    },
+    {
+     "w": "õpin",
+     "t": "私は学んでいる"
+    },
+    {
+     "w": "keelt.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "もうすぐまた自分の専門分野で働き始めます。",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "hakkan",
+     "t": "私は始める"
+    },
+    {
+     "w": "jälle",
+     "t": "再び"
+    },
+    {
+     "w": "oma",
+     "t": "自分の"
+    },
+    {
+     "w": "erialal",
+     "t": "専門分野で"
+    },
+    {
+     "w": "töötama.",
+     "t": "働くことを。"
+    }
+   ]
+  }
+ ]
+}

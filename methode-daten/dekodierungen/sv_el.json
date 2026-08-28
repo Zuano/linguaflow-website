@@ -1,0 +1,148 @@
+{
+ "formatVersion": 1,
+ "target": "sv",
+ "native": "el",
+ "text": "Jag har arbetat många år inom mitt yrke. Sedan flyttade jag till ett nytt land. Nu lär jag mig språket. Snart ska jag börja arbeta inom mitt yrke igen.",
+ "sentences": [
+  {
+   "text": "Jag har arbetat många år inom mitt yrke.",
+   "translation": "Έχω εργαστεί πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Jag",
+     "t": "Εγώ"
+    },
+    {
+     "w": "har",
+     "t": "έχω"
+    },
+    {
+     "w": "arbetat",
+     "t": "εργαστεί"
+    },
+    {
+     "w": "många",
+     "t": "πολλά"
+    },
+    {
+     "w": "år",
+     "t": "χρόνια"
+    },
+    {
+     "w": "inom",
+     "t": "μέσα-στο"
+    },
+    {
+     "w": "mitt",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "yrke.",
+     "t": "επάγγελμα."
+    }
+   ]
+  },
+  {
+   "text": "Sedan flyttade jag till ett nytt land.",
+   "translation": "Έπειτα μετακόμισα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Sedan",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "flyttade",
+     "t": "μετακόμισα"
+    },
+    {
+     "w": "jag",
+     "t": "εγώ"
+    },
+    {
+     "w": "till",
+     "t": "σε"
+    },
+    {
+     "w": "ett",
+     "t": "μια"
+    },
+    {
+     "w": "nytt",
+     "t": "νέα"
+    },
+    {
+     "w": "land.",
+     "t": "χώρα."
+    }
+   ]
+  },
+  {
+   "text": "Nu lär jag mig språket.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "Τώρα"
+    },
+    {
+     "w": "lär",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "jag",
+     "t": "εγώ"
+    },
+    {
+     "w": "mig",
+     "t": "στον-εαυτό-μου"
+    },
+    {
+     "w": "språket.",
+     "t": "τη-γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Snart ska jag börja arbeta inom mitt yrke igen.",
+   "translation": "Σύντομα θα αρχίσω να εργάζομαι στο επάγγελμά μου ξανά.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "ska",
+     "t": "θα"
+    },
+    {
+     "w": "jag",
+     "t": "εγώ"
+    },
+    {
+     "w": "börja",
+     "t": "αρχίσω"
+    },
+    {
+     "w": "arbeta",
+     "t": "να-εργάζομαι"
+    },
+    {
+     "w": "inom",
+     "t": "μέσα-στο"
+    },
+    {
+     "w": "mitt",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "yrke",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "igen.",
+     "t": "ξανά."
+    }
+   ]
+  }
+ ]
+}

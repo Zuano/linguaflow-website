@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sl",
+ "native": "fr",
+ "text": "Dolga leta sem delal v svojem poklicu. Potem sem prišel v novo državo. Zdaj se učim jezika. Kmalu bom spet delal v svojem poklicu.",
+ "sentences": [
+  {
+   "text": "Dolga leta sem delal v svojem poklicu.",
+   "translation": "Pendant de longues années, j'ai travaillé dans mon métier.",
+   "pairs": [
+    {
+     "w": "Dolga",
+     "t": "Longues"
+    },
+    {
+     "w": "leta",
+     "t": "années"
+    },
+    {
+     "w": "sem",
+     "t": "j'ai"
+    },
+    {
+     "w": "delal",
+     "t": "travaillé"
+    },
+    {
+     "w": "v",
+     "t": "dans"
+    },
+    {
+     "w": "svojem",
+     "t": "mon"
+    },
+    {
+     "w": "poklicu.",
+     "t": "métier."
+    }
+   ]
+  },
+  {
+   "text": "Potem sem prišel v novo državo.",
+   "translation": "Ensuite, je suis venu dans un nouveau pays.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Ensuite"
+    },
+    {
+     "w": "sem",
+     "t": "je-suis"
+    },
+    {
+     "w": "prišel",
+     "t": "venu"
+    },
+    {
+     "w": "v",
+     "t": "dans"
+    },
+    {
+     "w": "novo",
+     "t": "un-nouveau"
+    },
+    {
+     "w": "državo.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Zdaj se učim jezika.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Zdaj",
+     "t": "Maintenant"
+    },
+    {
+     "w": "se",
+     "t": "(réfléchi)"
+    },
+    {
+     "w": "učim",
+     "t": "j'apprends"
+    },
+    {
+     "w": "jezika.",
+     "t": "la-langue."
+    }
+   ]
+  },
+  {
+   "text": "Kmalu bom spet delal v svojem poklicu.",
+   "translation": "Bientôt, je travaillerai de nouveau dans mon métier.",
+   "pairs": [
+    {
+     "w": "Kmalu",
+     "t": "Bientôt"
+    },
+    {
+     "w": "bom",
+     "t": "je-vais"
+    },
+    {
+     "w": "spet",
+     "t": "de-nouveau"
+    },
+    {
+     "w": "delal",
+     "t": "travailler"
+    },
+    {
+     "w": "v",
+     "t": "dans"
+    },
+    {
+     "w": "svojem",
+     "t": "mon"
+    },
+    {
+     "w": "poklicu.",
+     "t": "métier."
+    }
+   ]
+  }
+ ]
+}

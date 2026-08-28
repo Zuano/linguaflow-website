@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "th",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "ผมทำงานในอาชีพของตัวเองมาหลายปี",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "เป็นเวลา"
+    },
+    {
+     "w": "wiele",
+     "t": "หลาย"
+    },
+    {
+     "w": "lat",
+     "t": "ปี"
+    },
+    {
+     "w": "pracowałem",
+     "t": "ผมทำงาน"
+    },
+    {
+     "w": "w",
+     "t": "ใน"
+    },
+    {
+     "w": "swoim",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "อาชีพ"
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "หลังจากนั้นผมก็ย้ายมาที่ประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "หลังจากนั้น"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "ผมมาถึง(ด้วยพาหนะ)"
+    },
+    {
+     "w": "do",
+     "t": "ยัง"
+    },
+    {
+     "w": "nowego",
+     "t": "ใหม่"
+    },
+    {
+     "w": "kraju.",
+     "t": "ประเทศ"
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "ตอนนี้ผมกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "uczę",
+     "t": "ผมเรียน"
+    },
+    {
+     "w": "się",
+     "t": "(สะท้อนตัวเอง)"
+    },
+    {
+     "w": "języka.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "เร็วๆ นี้ผมจะกลับไปทำงานในอาชีพของตัวเองอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "เร็วๆ นี้"
+    },
+    {
+     "w": "znów",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "będę",
+     "t": "ผมจะ"
+    },
+    {
+     "w": "pracował",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "w",
+     "t": "ใน"
+    },
+    {
+     "w": "swoim",
+     "t": "ของตัวเอง"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "อาชีพ"
+    }
+   ]
+  }
+ ]
+}

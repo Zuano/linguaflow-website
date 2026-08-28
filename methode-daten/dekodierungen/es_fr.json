@@ -1,0 +1,132 @@
+{
+ "formatVersion": 1,
+ "target": "es",
+ "native": "fr",
+ "text": "He trabajado muchos años en mi profesión. Después me mudé a otro país. Ahora estoy aprendiendo el idioma. Pronto volveré a trabajar en mi profesión.",
+ "sentences": [
+  {
+   "text": "He trabajado muchos años en mi profesión.",
+   "translation": "J'ai travaillé de nombreuses années dans mon métier.",
+   "pairs": [
+    {
+     "w": "He",
+     "t": "J'ai"
+    },
+    {
+     "w": "trabajado",
+     "t": "travaillé"
+    },
+    {
+     "w": "muchos",
+     "t": "nombreuses"
+    },
+    {
+     "w": "años",
+     "t": "années"
+    },
+    {
+     "w": "en",
+     "t": "dans"
+    },
+    {
+     "w": "mi",
+     "t": "mon"
+    },
+    {
+     "w": "profesión.",
+     "t": "métier."
+    }
+   ]
+  },
+  {
+   "text": "Después me mudé a otro país.",
+   "translation": "Ensuite, j'ai déménagé dans un autre pays.",
+   "pairs": [
+    {
+     "w": "Después",
+     "t": "Ensuite"
+    },
+    {
+     "w": "me",
+     "t": "me"
+    },
+    {
+     "w": "mudé",
+     "t": "suis-déménagé"
+    },
+    {
+     "w": "a",
+     "t": "dans"
+    },
+    {
+     "w": "otro",
+     "t": "un-autre"
+    },
+    {
+     "w": "país.",
+     "t": "pays."
+    }
+   ]
+  },
+  {
+   "text": "Ahora estoy aprendiendo el idioma.",
+   "translation": "Maintenant, j'apprends la langue.",
+   "pairs": [
+    {
+     "w": "Ahora",
+     "t": "Maintenant"
+    },
+    {
+     "w": "estoy",
+     "t": "je-suis"
+    },
+    {
+     "w": "aprendiendo",
+     "t": "apprenant"
+    },
+    {
+     "w": "el",
+     "t": "la"
+    },
+    {
+     "w": "idioma.",
+     "t": "langue."
+    }
+   ]
+  },
+  {
+   "text": "Pronto volveré a trabajar en mi profesión.",
+   "translation": "Bientôt, je recommencerai à travailler dans mon métier.",
+   "pairs": [
+    {
+     "w": "Pronto",
+     "t": "Bientôt"
+    },
+    {
+     "w": "volveré",
+     "t": "je-recommencerai"
+    },
+    {
+     "w": "a",
+     "t": "à"
+    },
+    {
+     "w": "trabajar",
+     "t": "travailler"
+    },
+    {
+     "w": "en",
+     "t": "dans"
+    },
+    {
+     "w": "mi",
+     "t": "mon"
+    },
+    {
+     "w": "profesión.",
+     "t": "métier."
+    }
+   ]
+  }
+ ]
+}

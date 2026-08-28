@@ -1,0 +1,108 @@
+{
+ "formatVersion": 1,
+ "target": "et",
+ "native": "zh",
+ "text": "Olen palju aastaid oma erialal töötanud. Siis kolisin uude riiki. Nüüd õpin keelt. Varsti hakkan jälle oma erialal töötama.",
+ "sentences": [
+  {
+   "text": "Olen palju aastaid oma erialal töötanud.",
+   "translation": "我在自己的专业领域工作了很多年。",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "我-已经"
+    },
+    {
+     "w": "palju",
+     "t": "很多"
+    },
+    {
+     "w": "aastaid",
+     "t": "年"
+    },
+    {
+     "w": "oma",
+     "t": "自己的"
+    },
+    {
+     "w": "erialal",
+     "t": "专业领域里"
+    },
+    {
+     "w": "töötanud.",
+     "t": "工作过。"
+    }
+   ]
+  },
+  {
+   "text": "Siis kolisin uude riiki.",
+   "translation": "后来我搬到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Siis",
+     "t": "然后"
+    },
+    {
+     "w": "kolisin",
+     "t": "我-搬家了"
+    },
+    {
+     "w": "uude",
+     "t": "新的"
+    },
+    {
+     "w": "riiki.",
+     "t": "国家。"
+    }
+   ]
+  },
+  {
+   "text": "Nüüd õpin keelt.",
+   "translation": "现在我在学习语言。",
+   "pairs": [
+    {
+     "w": "Nüüd",
+     "t": "现在"
+    },
+    {
+     "w": "õpin",
+     "t": "我-学习"
+    },
+    {
+     "w": "keelt.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Varsti hakkan jälle oma erialal töötama.",
+   "translation": "很快我又将在自己的专业领域工作了。",
+   "pairs": [
+    {
+     "w": "Varsti",
+     "t": "很快"
+    },
+    {
+     "w": "hakkan",
+     "t": "我-将要"
+    },
+    {
+     "w": "jälle",
+     "t": "再次"
+    },
+    {
+     "w": "oma",
+     "t": "自己的"
+    },
+    {
+     "w": "erialal",
+     "t": "专业领域里"
+    },
+    {
+     "w": "töötama.",
+     "t": "工作。"
+    }
+   ]
+  }
+ ]
+}

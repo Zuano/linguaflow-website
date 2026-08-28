@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "en",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "I have worked in my field for many years.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "I"
+    },
+    {
+     "w": "telah",
+     "t": "have"
+    },
+    {
+     "w": "bekerja",
+     "t": "worked"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "field"
+    },
+    {
+     "w": "saya",
+     "t": "my"
+    },
+    {
+     "w": "selama",
+     "t": "for"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "many-years."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Then I moved to a new country.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Then"
+    },
+    {
+     "w": "saya",
+     "t": "I"
+    },
+    {
+     "w": "pindah",
+     "t": "moved"
+    },
+    {
+     "w": "ke",
+     "t": "to"
+    },
+    {
+     "w": "negara",
+     "t": "country"
+    },
+    {
+     "w": "baru.",
+     "t": "new."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Now I am learning the language.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Now"
+    },
+    {
+     "w": "saya",
+     "t": "I"
+    },
+    {
+     "w": "sedang",
+     "t": "currently-(am)"
+    },
+    {
+     "w": "belajar",
+     "t": "learning"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "the-language."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Soon I will return to working in my field.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Soon"
+    },
+    {
+     "w": "lagi",
+     "t": "(more)"
+    },
+    {
+     "w": "saya",
+     "t": "I"
+    },
+    {
+     "w": "akan",
+     "t": "will"
+    },
+    {
+     "w": "kembali",
+     "t": "return"
+    },
+    {
+     "w": "bekerja",
+     "t": "work"
+    },
+    {
+     "w": "di",
+     "t": "in"
+    },
+    {
+     "w": "bidang",
+     "t": "field"
+    },
+    {
+     "w": "saya.",
+     "t": "my."
+    }
+   ]
+  }
+ ]
+}

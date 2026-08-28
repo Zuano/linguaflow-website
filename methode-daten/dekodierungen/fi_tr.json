@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "tr",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Kendi alanımda uzun yıllar çalıştım.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "ben-etmişim"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "çalışmış"
+    },
+    {
+     "w": "alallani",
+     "t": "kendi-alanımda"
+    },
+    {
+     "w": "monta",
+     "t": "birçok"
+    },
+    {
+     "w": "vuotta.",
+     "t": "yıl."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Sonra yeni bir ülkeye taşındım.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "sonra"
+    },
+    {
+     "w": "muutin",
+     "t": "taşındım"
+    },
+    {
+     "w": "uuteen",
+     "t": "yeni-bir"
+    },
+    {
+     "w": "maahan.",
+     "t": "ülkeye."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Şimdi dil öğreniyorum.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "şimdi"
+    },
+    {
+     "w": "opiskelen",
+     "t": "öğreniyorum"
+    },
+    {
+     "w": "kieltä.",
+     "t": "dili."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Yakında kendi alanımda çalışmaya devam etmeyi planlıyorum.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "yakında"
+    },
+    {
+     "w": "aion",
+     "t": "niyetindeyim"
+    },
+    {
+     "w": "jatkaa",
+     "t": "devam-etmeye"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "çalışmaya"
+    },
+    {
+     "w": "alallani.",
+     "t": "kendi-alanımda."
+    }
+   ]
+  }
+ ]
+}

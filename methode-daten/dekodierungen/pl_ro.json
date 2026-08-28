@@ -1,0 +1,124 @@
+{
+ "formatVersion": 1,
+ "target": "pl",
+ "native": "ro",
+ "text": "Przez wiele lat pracowałem w swoim zawodzie. Potem przyjechałem do nowego kraju. Teraz uczę się języka. Wkrótce znów będę pracował w swoim zawodzie.",
+ "sentences": [
+  {
+   "text": "Przez wiele lat pracowałem w swoim zawodzie.",
+   "translation": "Timp de mulți ani am lucrat în meseria mea.",
+   "pairs": [
+    {
+     "w": "Przez",
+     "t": "Timp-de"
+    },
+    {
+     "w": "wiele",
+     "t": "mulți"
+    },
+    {
+     "w": "lat",
+     "t": "ani"
+    },
+    {
+     "w": "pracowałem",
+     "t": "am-lucrat"
+    },
+    {
+     "w": "w",
+     "t": "în"
+    },
+    {
+     "w": "swoim",
+     "t": "a-mea"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "meserie."
+    }
+   ]
+  },
+  {
+   "text": "Potem przyjechałem do nowego kraju.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Potem",
+     "t": "Apoi"
+    },
+    {
+     "w": "przyjechałem",
+     "t": "am-venit"
+    },
+    {
+     "w": "do",
+     "t": "în"
+    },
+    {
+     "w": "nowego",
+     "t": "nouă"
+    },
+    {
+     "w": "kraju.",
+     "t": "țară."
+    }
+   ]
+  },
+  {
+   "text": "Teraz uczę się języka.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Acum"
+    },
+    {
+     "w": "uczę",
+     "t": "învăț"
+    },
+    {
+     "w": "się",
+     "t": "(pe-mine)"
+    },
+    {
+     "w": "języka.",
+     "t": "limbii."
+    }
+   ]
+  },
+  {
+   "text": "Wkrótce znów będę pracował w swoim zawodzie.",
+   "translation": "În scurt timp voi lucra din nou în meseria mea.",
+   "pairs": [
+    {
+     "w": "Wkrótce",
+     "t": "În-scurt-timp"
+    },
+    {
+     "w": "znów",
+     "t": "din-nou"
+    },
+    {
+     "w": "będę",
+     "t": "voi"
+    },
+    {
+     "w": "pracował",
+     "t": "lucra"
+    },
+    {
+     "w": "w",
+     "t": "în"
+    },
+    {
+     "w": "swoim",
+     "t": "a-mea"
+    },
+    {
+     "w": "zawodzie.",
+     "t": "meserie."
+    }
+   ]
+  }
+ ]
+}

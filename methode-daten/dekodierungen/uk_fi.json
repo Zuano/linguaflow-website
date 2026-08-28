@@ -1,0 +1,157 @@
+{
+ "formatVersion": 1,
+ "target": "uk",
+ "native": "fi",
+ "text": "Я багато років працював за своєю спеціальністю. Потім я приїхав до нової країни. Зараз я вивчаю мову. Незабаром я знову почну працювати за своєю спеціальністю.",
+ "sentences": [
+  {
+   "text": "Я багато років працював за своєю спеціальністю.",
+   "translation": "Työskentelin monta vuotta omalla alallani.",
+   "pairs": [
+    {
+     "w": "Я",
+     "t": "minä",
+     "r": "Ya"
+    },
+    {
+     "w": "багато",
+     "t": "monta",
+     "r": "bahato"
+    },
+    {
+     "w": "років",
+     "t": "vuotta",
+     "r": "rokiv"
+    },
+    {
+     "w": "працював",
+     "t": "työskentelin",
+     "r": "pratsyuvav"
+    },
+    {
+     "w": "за",
+     "t": "(oman) mukaan",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "omalla",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "alallani.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  },
+  {
+   "text": "Потім я приїхав до нової країни.",
+   "translation": "Sitten muutin uuteen maahan.",
+   "pairs": [
+    {
+     "w": "Потім",
+     "t": "sitten",
+     "r": "Potim"
+    },
+    {
+     "w": "я",
+     "t": "minä",
+     "r": "ya"
+    },
+    {
+     "w": "приїхав",
+     "t": "saavuin",
+     "r": "pryyikhav"
+    },
+    {
+     "w": "до",
+     "t": "-uun",
+     "r": "do"
+    },
+    {
+     "w": "нової",
+     "t": "uuteen",
+     "r": "novoyi"
+    },
+    {
+     "w": "країни.",
+     "t": "maahan.",
+     "r": "krayiny."
+    }
+   ]
+  },
+  {
+   "text": "Зараз я вивчаю мову.",
+   "translation": "Nyt opiskelen kieltä.",
+   "pairs": [
+    {
+     "w": "Зараз",
+     "t": "nyt",
+     "r": "Zaraz"
+    },
+    {
+     "w": "я",
+     "t": "minä",
+     "r": "ya"
+    },
+    {
+     "w": "вивчаю",
+     "t": "opiskelen",
+     "r": "vyvchayu"
+    },
+    {
+     "w": "мову.",
+     "t": "kieltä.",
+     "r": "movu."
+    }
+   ]
+  },
+  {
+   "text": "Незабаром я знову почну працювати за своєю спеціальністю.",
+   "translation": "Pian aloitan taas työskentelyn omalla alallani.",
+   "pairs": [
+    {
+     "w": "Незабаром",
+     "t": "pian",
+     "r": "Nezabarom"
+    },
+    {
+     "w": "я",
+     "t": "minä",
+     "r": "ya"
+    },
+    {
+     "w": "знову",
+     "t": "taas",
+     "r": "znovu"
+    },
+    {
+     "w": "почну",
+     "t": "aloitan",
+     "r": "pochnu"
+    },
+    {
+     "w": "працювати",
+     "t": "työskentelemään",
+     "r": "pratsyuvaty"
+    },
+    {
+     "w": "за",
+     "t": "(oman) mukaan",
+     "r": "za"
+    },
+    {
+     "w": "своєю",
+     "t": "omalla",
+     "r": "svoyeyu"
+    },
+    {
+     "w": "спеціальністю.",
+     "t": "alallani.",
+     "r": "spetsial'nistyu."
+    }
+   ]
+  }
+ ]
+}

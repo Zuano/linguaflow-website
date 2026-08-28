@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "da",
+ "native": "ar",
+ "text": "Jeg har arbejdet i mit fag i mange år. Så flyttede jeg til et nyt land. Nu lærer jeg sproget. Snart skal jeg arbejde i mit fag igen.",
+ "sentences": [
+  {
+   "text": "Jeg har arbejdet i mit fag i mange år.",
+   "translation": "لقد عملت في مجال تخصصي لسنوات عديدة.",
+   "pairs": [
+    {
+     "w": "Jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "har",
+     "t": "قد"
+    },
+    {
+     "w": "arbejdet",
+     "t": "عملتُ"
+    },
+    {
+     "w": "i",
+     "t": "في"
+    },
+    {
+     "w": "mit",
+     "t": "مجال-تخصصي"
+    },
+    {
+     "w": "fag",
+     "t": "(تخصصي)"
+    },
+    {
+     "w": "i",
+     "t": "لمدة"
+    },
+    {
+     "w": "mange",
+     "t": "عديدة"
+    },
+    {
+     "w": "år.",
+     "t": "سنوات."
+    }
+   ]
+  },
+  {
+   "text": "Så flyttede jeg til et nyt land.",
+   "translation": "ثم انتقلت إلى بلد جديد.",
+   "pairs": [
+    {
+     "w": "Så",
+     "t": "ثم"
+    },
+    {
+     "w": "flyttede",
+     "t": "انتقلتُ"
+    },
+    {
+     "w": "jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "til",
+     "t": "إلى"
+    },
+    {
+     "w": "et",
+     "t": "بلد"
+    },
+    {
+     "w": "nyt",
+     "t": "جديد"
+    },
+    {
+     "w": "land.",
+     "t": "(بلد)."
+    }
+   ]
+  },
+  {
+   "text": "Nu lærer jeg sproget.",
+   "translation": "الآن أتعلم اللغة.",
+   "pairs": [
+    {
+     "w": "Nu",
+     "t": "الآن"
+    },
+    {
+     "w": "lærer",
+     "t": "أتعلم"
+    },
+    {
+     "w": "jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "sproget.",
+     "t": "اللغة."
+    }
+   ]
+  },
+  {
+   "text": "Snart skal jeg arbejde i mit fag igen.",
+   "translation": "قريباً سأعمل في مجال تخصصي مرة أخرى.",
+   "pairs": [
+    {
+     "w": "Snart",
+     "t": "قريباً"
+    },
+    {
+     "w": "skal",
+     "t": "سوف"
+    },
+    {
+     "w": "jeg",
+     "t": "أنا"
+    },
+    {
+     "w": "arbejde",
+     "t": "أعمل"
+    },
+    {
+     "w": "i",
+     "t": "في"
+    },
+    {
+     "w": "mit",
+     "t": "مجال-تخصصي"
+    },
+    {
+     "w": "fag",
+     "t": "(تخصصي)"
+    },
+    {
+     "w": "igen.",
+     "t": "مرة-أخرى."
+    }
+   ]
+  }
+ ]
+}

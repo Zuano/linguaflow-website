@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "he",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "עבדתי בתחום שלי במשך שנים רבות.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "אני"
+    },
+    {
+     "w": "telah",
+     "t": "כבר (עבר)"
+    },
+    {
+     "w": "bekerja",
+     "t": "עבדתי"
+    },
+    {
+     "w": "di",
+     "t": "ב"
+    },
+    {
+     "w": "bidang",
+     "t": "תחום"
+    },
+    {
+     "w": "saya",
+     "t": "שלי"
+    },
+    {
+     "w": "selama",
+     "t": "במשך"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "שנים-רבות."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "אחר כך עברתי למדינה חדשה.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "saya",
+     "t": "אני"
+    },
+    {
+     "w": "pindah",
+     "t": "עברתי (הגעתי)"
+    },
+    {
+     "w": "ke",
+     "t": "ל"
+    },
+    {
+     "w": "negara",
+     "t": "מדינה"
+    },
+    {
+     "w": "baru.",
+     "t": "חדשה."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "עכשיו"
+    },
+    {
+     "w": "saya",
+     "t": "אני"
+    },
+    {
+     "w": "sedang",
+     "t": "כרגע (ממשיך)"
+    },
+    {
+     "w": "belajar",
+     "t": "לומד"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "את-השפה."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "בקרוב אני אחזור לעבוד בתחום שלי.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "עוד-קצת"
+    },
+    {
+     "w": "lagi",
+     "t": "עוד"
+    },
+    {
+     "w": "saya",
+     "t": "אני"
+    },
+    {
+     "w": "akan",
+     "t": "אעתיד (אני)"
+    },
+    {
+     "w": "kembali",
+     "t": "לחזור"
+    },
+    {
+     "w": "bekerja",
+     "t": "לעבוד"
+    },
+    {
+     "w": "di",
+     "t": "ב"
+    },
+    {
+     "w": "bidang",
+     "t": "תחום"
+    },
+    {
+     "w": "saya.",
+     "t": "שלי."
+    }
+   ]
+  }
+ ]
+}

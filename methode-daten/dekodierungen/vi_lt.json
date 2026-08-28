@@ -1,0 +1,196 @@
+{
+ "formatVersion": 1,
+ "target": "vi",
+ "native": "lt",
+ "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm. Sau đó, tôi đến một đất nước mới. Hiện tại, tôi đang học ngôn ngữ ở đây. Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+ "sentences": [
+  {
+   "text": "Tôi đã làm việc trong ngành nghề của mình nhiều năm.",
+   "translation": "Aš dirbau savo profesijoje daug metų.",
+   "pairs": [
+    {
+     "w": "Tôi",
+     "t": "Aš"
+    },
+    {
+     "w": "đã",
+     "t": "(praeities-žymuo)"
+    },
+    {
+     "w": "làm",
+     "t": "dirbau"
+    },
+    {
+     "w": "việc",
+     "t": "darbą"
+    },
+    {
+     "w": "trong",
+     "t": "savo"
+    },
+    {
+     "w": "ngành",
+     "t": "srityje"
+    },
+    {
+     "w": "nghề",
+     "t": "profesijos"
+    },
+    {
+     "w": "của",
+     "t": "(priklausymo-žodis)"
+    },
+    {
+     "w": "mình",
+     "t": "savo"
+    },
+    {
+     "w": "nhiều",
+     "t": "daug"
+    },
+    {
+     "w": "năm.",
+     "t": "metų."
+    }
+   ]
+  },
+  {
+   "text": "Sau đó, tôi đến một đất nước mới.",
+   "translation": "Vėliau aš atvykau į naują šalį.",
+   "pairs": [
+    {
+     "w": "Sau",
+     "t": "Po"
+    },
+    {
+     "w": "đó,",
+     "t": "to,"
+    },
+    {
+     "w": "tôi",
+     "t": "aš"
+    },
+    {
+     "w": "đến",
+     "t": "atvykau-į"
+    },
+    {
+     "w": "một",
+     "t": "vieną"
+    },
+    {
+     "w": "đất",
+     "t": "šalį"
+    },
+    {
+     "w": "nước",
+     "t": "(šalis)"
+    },
+    {
+     "w": "mới.",
+     "t": "naują."
+    }
+   ]
+  },
+  {
+   "text": "Hiện tại, tôi đang học ngôn ngữ ở đây.",
+   "translation": "Šiuo metu aš mokausi kalbos čia.",
+   "pairs": [
+    {
+     "w": "Hiện",
+     "t": "Šiuo"
+    },
+    {
+     "w": "tại,",
+     "t": "metu,"
+    },
+    {
+     "w": "tôi",
+     "t": "aš"
+    },
+    {
+     "w": "đang",
+     "t": "(esamojo-veiksmo-žymuo)"
+    },
+    {
+     "w": "học",
+     "t": "mokausi"
+    },
+    {
+     "w": "ngôn",
+     "t": "kalbos"
+    },
+    {
+     "w": "ngữ",
+     "t": "(kalba)"
+    },
+    {
+     "w": "ở",
+     "t": "(vietoje)"
+    },
+    {
+     "w": "đây.",
+     "t": "čia."
+    }
+   ]
+  },
+  {
+   "text": "Sắp tới, tôi sẽ tiếp tục làm việc trong ngành nghề của mình.",
+   "translation": "Ateityje aš toliau dirbsiu savo profesijoje.",
+   "pairs": [
+    {
+     "w": "Sắp",
+     "t": "Netrukus"
+    },
+    {
+     "w": "tới,",
+     "t": "(ateityje),"
+    },
+    {
+     "w": "tôi",
+     "t": "aš"
+    },
+    {
+     "w": "sẽ",
+     "t": "(būsimojo-laiko-žymuo)"
+    },
+    {
+     "w": "tiếp",
+     "t": "toliau"
+    },
+    {
+     "w": "tục",
+     "t": "(tęsti)"
+    },
+    {
+     "w": "làm",
+     "t": "dirbti"
+    },
+    {
+     "w": "việc",
+     "t": "darbą"
+    },
+    {
+     "w": "trong",
+     "t": "savo"
+    },
+    {
+     "w": "ngành",
+     "t": "srityje"
+    },
+    {
+     "w": "nghề",
+     "t": "profesijos"
+    },
+    {
+     "w": "của",
+     "t": "(priklausymo-žodis)"
+    },
+    {
+     "w": "mình.",
+     "t": "savo."
+    }
+   ]
+  }
+ ]
+}

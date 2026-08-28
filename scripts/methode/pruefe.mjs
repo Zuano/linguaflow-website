@@ -49,8 +49,9 @@ for (const t of codes) {
       if (strip(s.pairs.map((p) => p.w).join("")) !== strip(s.text)) {
         err(`${t}_${n}: Paare ergeben nicht den Satztext („${s.text.slice(0, 30)}…")`);
       }
-      if (byCode[t].nonLatin && s.pairs.some((p) => !p.r)) err(`${t}_${n}: Umschrift fehlt`);
-      if (s.pairs.some((p) => !p.t || !p.t.trim())) err(`${t}_${n}: leere Bedeutung`);
+      const symbolOnly = (w) => typeof w === "string" && /^[\p{P}\p{S}ๆ]+$/u.test(w);
+      if (byCode[t].nonLatin && s.pairs.some((p) => !p.r && !symbolOnly(p.w))) err(`${t}_${n}: Umschrift fehlt`);
+      if (s.pairs.some((p) => (!p.t || !p.t.trim()) && !symbolOnly(p.w))) err(`${t}_${n}: leere Bedeutung`);
     }
     decOk++;
   }

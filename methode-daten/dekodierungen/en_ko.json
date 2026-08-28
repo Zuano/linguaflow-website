@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "ko",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "나는 내 직업에서 여러 해 동안 일했다.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "나는"
+    },
+    {
+     "w": "worked",
+     "t": "일했다"
+    },
+    {
+     "w": "in",
+     "t": "~에서"
+    },
+    {
+     "w": "my",
+     "t": "나의"
+    },
+    {
+     "w": "profession",
+     "t": "직업"
+    },
+    {
+     "w": "for",
+     "t": "~동안"
+    },
+    {
+     "w": "many",
+     "t": "많은"
+    },
+    {
+     "w": "years.",
+     "t": "해(년)들."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "그런 다음 나는 새로운 나라로 이주했다.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "그런-다음"
+    },
+    {
+     "w": "I",
+     "t": "나는"
+    },
+    {
+     "w": "moved",
+     "t": "이주했다"
+    },
+    {
+     "w": "to",
+     "t": "~로"
+    },
+    {
+     "w": "a",
+     "t": "하나의"
+    },
+    {
+     "w": "new",
+     "t": "새로운"
+    },
+    {
+     "w": "country.",
+     "t": "나라."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "지금 나는 그 언어를 배우고 있다.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "지금"
+    },
+    {
+     "w": "I'm",
+     "t": "나는'있다"
+    },
+    {
+     "w": "learning",
+     "t": "배우는-중"
+    },
+    {
+     "w": "the",
+     "t": "그"
+    },
+    {
+     "w": "language.",
+     "t": "언어."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "곧 나는 다시 내 직업에서 일하게 될 것이다.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "곧"
+    },
+    {
+     "w": "I'll",
+     "t": "나는'할-것이다"
+    },
+    {
+     "w": "be",
+     "t": "(상태가)-되다"
+    },
+    {
+     "w": "working",
+     "t": "일하는-중"
+    },
+    {
+     "w": "in",
+     "t": "~에서"
+    },
+    {
+     "w": "my",
+     "t": "나의"
+    },
+    {
+     "w": "profession",
+     "t": "직업"
+    },
+    {
+     "w": "again.",
+     "t": "다시."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "en",
+ "native": "sl",
+ "text": "I worked in my profession for many years. Then I moved to a new country. Now I'm learning the language. Soon I'll be working in my profession again.",
+ "sentences": [
+  {
+   "text": "I worked in my profession for many years.",
+   "translation": "Dolgo let sem delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "I",
+     "t": "jaz"
+    },
+    {
+     "w": "worked",
+     "t": "sem-delal"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "my",
+     "t": "svoji"
+    },
+    {
+     "w": "profession",
+     "t": "stroki"
+    },
+    {
+     "w": "for",
+     "t": "za"
+    },
+    {
+     "w": "many",
+     "t": "veliko"
+    },
+    {
+     "w": "years.",
+     "t": "let."
+    }
+   ]
+  },
+  {
+   "text": "Then I moved to a new country.",
+   "translation": "Nato sem se preselil v novo državo.",
+   "pairs": [
+    {
+     "w": "Then",
+     "t": "Nato"
+    },
+    {
+     "w": "I",
+     "t": "jaz"
+    },
+    {
+     "w": "moved",
+     "t": "sem-se-preselil"
+    },
+    {
+     "w": "to",
+     "t": "v"
+    },
+    {
+     "w": "a",
+     "t": "(člen)"
+    },
+    {
+     "w": "new",
+     "t": "novo"
+    },
+    {
+     "w": "country.",
+     "t": "državo."
+    }
+   ]
+  },
+  {
+   "text": "Now I'm learning the language.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Now",
+     "t": "Zdaj"
+    },
+    {
+     "w": "I'm",
+     "t": "jaz'sem"
+    },
+    {
+     "w": "learning",
+     "t": "učeč-se"
+    },
+    {
+     "w": "the",
+     "t": "(člen)"
+    },
+    {
+     "w": "language.",
+     "t": "jezika."
+    }
+   ]
+  },
+  {
+   "text": "Soon I'll be working in my profession again.",
+   "translation": "Kmalu bom spet delal v svoji stroki.",
+   "pairs": [
+    {
+     "w": "Soon",
+     "t": "Kmalu"
+    },
+    {
+     "w": "I'll",
+     "t": "jaz'bom"
+    },
+    {
+     "w": "be",
+     "t": "biti"
+    },
+    {
+     "w": "working",
+     "t": "delajoč"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "my",
+     "t": "svoji"
+    },
+    {
+     "w": "profession",
+     "t": "stroki"
+    },
+    {
+     "w": "again.",
+     "t": "spet."
+    }
+   ]
+  }
+ ]
+}

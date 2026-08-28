@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "bg",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "В моята специалност работих много години.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "В"
+    },
+    {
+     "w": "mojom",
+     "t": "моята"
+    },
+    {
+     "w": "odbore",
+     "t": "специалност"
+    },
+    {
+     "w": "som",
+     "t": "(спомагателен-глагол-съм)"
+    },
+    {
+     "w": "pracoval",
+     "t": "работил"
+    },
+    {
+     "w": "mnoho",
+     "t": "много"
+    },
+    {
+     "w": "rokov.",
+     "t": "години."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "После дойдох в нова страна.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "После"
+    },
+    {
+     "w": "som",
+     "t": "(спомагателен-глагол-съм)"
+    },
+    {
+     "w": "prišiel",
+     "t": "дойдох"
+    },
+    {
+     "w": "do",
+     "t": "в"
+    },
+    {
+     "w": "novej",
+     "t": "нова"
+    },
+    {
+     "w": "krajiny.",
+     "t": "страна."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Сега уча език.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Сега"
+    },
+    {
+     "w": "sa",
+     "t": "се"
+    },
+    {
+     "w": "učím",
+     "t": "уча"
+    },
+    {
+     "w": "jazyk.",
+     "t": "език."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Скоро отново ще работя в своята специалност.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Скоро"
+    },
+    {
+     "w": "budem",
+     "t": "ще"
+    },
+    {
+     "w": "opäť",
+     "t": "отново"
+    },
+    {
+     "w": "pracovať",
+     "t": "работя"
+    },
+    {
+     "w": "vo",
+     "t": "в"
+    },
+    {
+     "w": "svojom",
+     "t": "своята"
+    },
+    {
+     "w": "odbore.",
+     "t": "специалност."
+    }
+   ]
+  }
+ ]
+}

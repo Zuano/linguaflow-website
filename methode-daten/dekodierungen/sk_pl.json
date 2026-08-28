@@ -1,0 +1,128 @@
+{
+ "formatVersion": 1,
+ "target": "sk",
+ "native": "pl",
+ "text": "V mojom odbore som pracoval mnoho rokov. Potom som prišiel do novej krajiny. Teraz sa učím jazyk. Čoskoro budem opäť pracovať vo svojom odbore.",
+ "sentences": [
+  {
+   "text": "V mojom odbore som pracoval mnoho rokov.",
+   "translation": "W mojej branży pracowałem wiele lat.",
+   "pairs": [
+    {
+     "w": "V",
+     "t": "W"
+    },
+    {
+     "w": "mojom",
+     "t": "mojej"
+    },
+    {
+     "w": "odbore",
+     "t": "branży"
+    },
+    {
+     "w": "som",
+     "t": "(słowo pomocnicze: ja)"
+    },
+    {
+     "w": "pracoval",
+     "t": "pracowałem"
+    },
+    {
+     "w": "mnoho",
+     "t": "wiele"
+    },
+    {
+     "w": "rokov.",
+     "t": "lat."
+    }
+   ]
+  },
+  {
+   "text": "Potom som prišiel do novej krajiny.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Potom",
+     "t": "Potem"
+    },
+    {
+     "w": "som",
+     "t": "(słowo pomocnicze: ja)"
+    },
+    {
+     "w": "prišiel",
+     "t": "przyszedłem (przyjechałem)"
+    },
+    {
+     "w": "do",
+     "t": "do"
+    },
+    {
+     "w": "novej",
+     "t": "nowego"
+    },
+    {
+     "w": "krajiny.",
+     "t": "kraju."
+    }
+   ]
+  },
+  {
+   "text": "Teraz sa učím jazyk.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Teraz",
+     "t": "Teraz"
+    },
+    {
+     "w": "sa",
+     "t": "się"
+    },
+    {
+     "w": "učím",
+     "t": "uczę"
+    },
+    {
+     "w": "jazyk.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Čoskoro budem opäť pracovať vo svojom odbore.",
+   "translation": "Wkrótce będę znowu pracować w swojej branży.",
+   "pairs": [
+    {
+     "w": "Čoskoro",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "budem",
+     "t": "będę"
+    },
+    {
+     "w": "opäť",
+     "t": "znowu"
+    },
+    {
+     "w": "pracovať",
+     "t": "pracować"
+    },
+    {
+     "w": "vo",
+     "t": "w"
+    },
+    {
+     "w": "svojom",
+     "t": "swojej"
+    },
+    {
+     "w": "odbore.",
+     "t": "branży."
+    }
+   ]
+  }
+ ]
+}

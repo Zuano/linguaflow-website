@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "nl",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Ik heb veel jaren in mijn beroep gewerkt.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Ik-werkte"
+    },
+    {
+     "w": "muitos",
+     "t": "veel"
+    },
+    {
+     "w": "anos",
+     "t": "jaren"
+    },
+    {
+     "w": "na",
+     "t": "in-de"
+    },
+    {
+     "w": "minha",
+     "t": "mijn"
+    },
+    {
+     "w": "profissão.",
+     "t": "beroep."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Daarna kwam ik naar een nieuw land.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Daarna,"
+    },
+    {
+     "w": "vim",
+     "t": "kwam-ik"
+    },
+    {
+     "w": "para",
+     "t": "naar"
+    },
+    {
+     "w": "um",
+     "t": "een"
+    },
+    {
+     "w": "novo",
+     "t": "nieuw"
+    },
+    {
+     "w": "país.",
+     "t": "land."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Nu ben ik de taal aan het leren.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Nu"
+    },
+    {
+     "w": "estou",
+     "t": "ben-ik"
+    },
+    {
+     "w": "a",
+     "t": "aan-het"
+    },
+    {
+     "w": "aprender",
+     "t": "leren"
+    },
+    {
+     "w": "a",
+     "t": "de"
+    },
+    {
+     "w": "língua.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Binnenkort zal ik weer in mijn beroep werken.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "Bin-"
+    },
+    {
+     "w": "breve,",
+     "t": "nenkort,"
+    },
+    {
+     "w": "voltarei",
+     "t": "zal-ik-terugkeren"
+    },
+    {
+     "w": "a",
+     "t": "om"
+    },
+    {
+     "w": "trabalhar",
+     "t": "te-werken"
+    },
+    {
+     "w": "na",
+     "t": "in-de"
+    },
+    {
+     "w": "minha",
+     "t": "mijn"
+    },
+    {
+     "w": "profissão.",
+     "t": "beroep."
+    }
+   ]
+  }
+ ]
+}

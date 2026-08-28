@@ -1,0 +1,100 @@
+{
+ "formatVersion": 1,
+ "target": "fi",
+ "native": "ru",
+ "text": "Olen työskennellyt alallani monta vuotta. Sitten muutin uuteen maahan. Nyt opiskelen kieltä. Pian aion jatkaa työskentelyä alallani.",
+ "sentences": [
+  {
+   "text": "Olen työskennellyt alallani monta vuotta.",
+   "translation": "Я работал в своей сфере много лет.",
+   "pairs": [
+    {
+     "w": "Olen",
+     "t": "Я-есть"
+    },
+    {
+     "w": "työskennellyt",
+     "t": "работавший"
+    },
+    {
+     "w": "alallani",
+     "t": "в-своей-сфере"
+    },
+    {
+     "w": "monta",
+     "t": "много"
+    },
+    {
+     "w": "vuotta.",
+     "t": "лет."
+    }
+   ]
+  },
+  {
+   "text": "Sitten muutin uuteen maahan.",
+   "translation": "Потом я переехал в новую страну.",
+   "pairs": [
+    {
+     "w": "Sitten",
+     "t": "потом"
+    },
+    {
+     "w": "muutin",
+     "t": "я-переехал"
+    },
+    {
+     "w": "uuteen",
+     "t": "в-новую"
+    },
+    {
+     "w": "maahan.",
+     "t": "страну."
+    }
+   ]
+  },
+  {
+   "text": "Nyt opiskelen kieltä.",
+   "translation": "Сейчас я изучаю язык.",
+   "pairs": [
+    {
+     "w": "Nyt",
+     "t": "сейчас"
+    },
+    {
+     "w": "opiskelen",
+     "t": "я-изучаю"
+    },
+    {
+     "w": "kieltä.",
+     "t": "язык."
+    }
+   ]
+  },
+  {
+   "text": "Pian aion jatkaa työskentelyä alallani.",
+   "translation": "Скоро я собираюсь продолжить работу в своей сфере.",
+   "pairs": [
+    {
+     "w": "Pian",
+     "t": "скоро"
+    },
+    {
+     "w": "aion",
+     "t": "я-собираюсь"
+    },
+    {
+     "w": "jatkaa",
+     "t": "продолжить"
+    },
+    {
+     "w": "työskentelyä",
+     "t": "работу"
+    },
+    {
+     "w": "alallani.",
+     "t": "в-своей-сфере."
+    }
+   ]
+  }
+ ]
+}

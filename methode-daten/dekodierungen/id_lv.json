@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "id",
+ "native": "lv",
+ "text": "Saya telah bekerja di bidang saya selama bertahun-tahun. Kemudian saya pindah ke negara baru. Sekarang saya sedang belajar bahasanya. Sebentar lagi saya akan kembali bekerja di bidang saya.",
+ "sentences": [
+  {
+   "text": "Saya telah bekerja di bidang saya selama bertahun-tahun.",
+   "translation": "Es jau daudzus gadus esmu strādājis savā jomā.",
+   "pairs": [
+    {
+     "w": "Saya",
+     "t": "Es"
+    },
+    {
+     "w": "telah",
+     "t": "jau (esmu)"
+    },
+    {
+     "w": "bekerja",
+     "t": "strādājis"
+    },
+    {
+     "w": "di",
+     "t": "savā"
+    },
+    {
+     "w": "bidang",
+     "t": "jomā"
+    },
+    {
+     "w": "saya",
+     "t": "(mana)"
+    },
+    {
+     "w": "selama",
+     "t": "jau (ilgi)"
+    },
+    {
+     "w": "bertahun-tahun.",
+     "t": "daudzus-gadus."
+    }
+   ]
+  },
+  {
+   "text": "Kemudian saya pindah ke negara baru.",
+   "translation": "Pēc tam es pārcēlos uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Kemudian",
+     "t": "Pēc-tam"
+    },
+    {
+     "w": "saya",
+     "t": "es"
+    },
+    {
+     "w": "pindah",
+     "t": "pārcēlos"
+    },
+    {
+     "w": "ke",
+     "t": "uz"
+    },
+    {
+     "w": "negara",
+     "t": "valsti"
+    },
+    {
+     "w": "baru.",
+     "t": "jaunu."
+    }
+   ]
+  },
+  {
+   "text": "Sekarang saya sedang belajar bahasanya.",
+   "translation": "Tagad es mācos šo valodu.",
+   "pairs": [
+    {
+     "w": "Sekarang",
+     "t": "Tagad"
+    },
+    {
+     "w": "saya",
+     "t": "es"
+    },
+    {
+     "w": "sedang",
+     "t": "pašlaik"
+    },
+    {
+     "w": "belajar",
+     "t": "mācos"
+    },
+    {
+     "w": "bahasanya.",
+     "t": "tās-valodu."
+    }
+   ]
+  },
+  {
+   "text": "Sebentar lagi saya akan kembali bekerja di bidang saya.",
+   "translation": "Drīzumā es atkal strādāšu savā jomā.",
+   "pairs": [
+    {
+     "w": "Sebentar",
+     "t": "Drīzumā"
+    },
+    {
+     "w": "lagi",
+     "t": "(atkal)"
+    },
+    {
+     "w": "saya",
+     "t": "es"
+    },
+    {
+     "w": "akan",
+     "t": "(nākotne)"
+    },
+    {
+     "w": "kembali",
+     "t": "atkal"
+    },
+    {
+     "w": "bekerja",
+     "t": "strādāšu"
+    },
+    {
+     "w": "di",
+     "t": "savā"
+    },
+    {
+     "w": "bidang",
+     "t": "jomā"
+    },
+    {
+     "w": "saya.",
+     "t": "(mana)."
+    }
+   ]
+  }
+ ]
+}

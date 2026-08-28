@@ -1,0 +1,136 @@
+{
+ "formatVersion": 1,
+ "target": "pt",
+ "native": "lv",
+ "text": "Trabalhei muitos anos na minha profissão. Depois, vim para um novo país. Agora estou a aprender a língua. Em breve, voltarei a trabalhar na minha profissão.",
+ "sentences": [
+  {
+   "text": "Trabalhei muitos anos na minha profissão.",
+   "translation": "Es strādāju daudzus gadus savā profesijā.",
+   "pairs": [
+    {
+     "w": "Trabalhei",
+     "t": "Es-strādāju"
+    },
+    {
+     "w": "muitos",
+     "t": "daudzus"
+    },
+    {
+     "w": "anos",
+     "t": "gadus"
+    },
+    {
+     "w": "na",
+     "t": "savā (iekš)"
+    },
+    {
+     "w": "minha",
+     "t": "manā"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesijā."
+    }
+   ]
+  },
+  {
+   "text": "Depois, vim para um novo país.",
+   "translation": "Pēc tam es atbraucu uz jaunu valsti.",
+   "pairs": [
+    {
+     "w": "Depois,",
+     "t": "Pēc-tam,"
+    },
+    {
+     "w": "vim",
+     "t": "es-atbraucu"
+    },
+    {
+     "w": "para",
+     "t": "uz"
+    },
+    {
+     "w": "um",
+     "t": "vienu"
+    },
+    {
+     "w": "novo",
+     "t": "jaunu"
+    },
+    {
+     "w": "país.",
+     "t": "valsti."
+    }
+   ]
+  },
+  {
+   "text": "Agora estou a aprender a língua.",
+   "translation": "Tagad es mācos valodu.",
+   "pairs": [
+    {
+     "w": "Agora",
+     "t": "Tagad"
+    },
+    {
+     "w": "estou",
+     "t": "es-esmu"
+    },
+    {
+     "w": "a",
+     "t": "(darbības-vārda-daļa)"
+    },
+    {
+     "w": "aprender",
+     "t": "mācīties"
+    },
+    {
+     "w": "a",
+     "t": "(šo)"
+    },
+    {
+     "w": "língua.",
+     "t": "valodu."
+    }
+   ]
+  },
+  {
+   "text": "Em breve, voltarei a trabalhar na minha profissão.",
+   "translation": "Drīzumā es atkal sākšu strādāt savā profesijā.",
+   "pairs": [
+    {
+     "w": "Em",
+     "t": "(iekš)"
+    },
+    {
+     "w": "breve,",
+     "t": "drīzumā,"
+    },
+    {
+     "w": "voltarei",
+     "t": "es-atkal-sākšu"
+    },
+    {
+     "w": "a",
+     "t": "(darbības-vārda-daļa)"
+    },
+    {
+     "w": "trabalhar",
+     "t": "strādāt"
+    },
+    {
+     "w": "na",
+     "t": "savā (iekš)"
+    },
+    {
+     "w": "minha",
+     "t": "manā"
+    },
+    {
+     "w": "profissão.",
+     "t": "profesijā."
+    }
+   ]
+  }
+ ]
+}
