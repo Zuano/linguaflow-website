@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "lv",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Tā darbojas LinguaFlow",
+      "text": "Ja tu mācies vārdu sarakstus, tu nemācies valodu. Šajā lapā tu reāllaikā redzēsi, kā jau pēc dažām sekundēm sajūta mainās: Augšējais paraugteksts ir reāls lietotnes skats, ko vari izmēģināt pats, un šo paskaidrojumu tev uzreiz nolasīs balss, kas skan kā dzimtā valodas runātāja, kamēr vārdi izgaismojas. Ar LinguaFlow tu apgūsti valodas tā, kā to vēlas tava smadzenes: vispirms saprast, tad klausīties, tad runāt. Šīs metodes pamatā ir Birkenbihla metode, un tai ir četri posmi: dekodēšana, aktīvā klausīšanās, pasīvā klausīšanās un praktizēšana. Izmēģini to — pieskarieties kādam vārdam augšā."
+    },
+    {
+      "id": "k2",
+      "title": "Teksta skats",
+      "text": "Augšā redzi tekstu tieši tā, kā to parāda lietotne. Katrs vārds ir neliela kartīte: augšā vārds mērķvalodā, zem tā — tā nozīme tavā dzimtajā valodā — vārds pēc vārda, mērķvalodas secībā. Zem tā atrodas viss teikums, kas vēlreiz ir tulkots plūstošā valodā. Valodām ar citu rakstību tiek pievienota rinda ar transkripciju, lai tu varētu visu izlasīt. Pieskarieties vārdam: balss turpinās atskaņot tieši no šīs vietas."
+    },
+    {
+      "id": "k3",
+      "title": "1. solis: Dekodēšana",
+      "text": "Šo vārdu pa vārdam tulkojumu sauc par dekodēšanu. Tas apzināti izklausās neveikli — jo tieši tā tu redzi, kā valoda patiesībā ir uzbūvēta, nemaz nemācoties no galvas gramatikas noteikumus. Agrāk to darīja stundām ilgi ar rokām, izmantojot vārdnīcu. LinguaFlow lietotne šo posmu veic pilnībā tavā vietā — katram tekstam, ko vēlies apgūt."
+    },
+    {
+      "id": "k4",
+      "title": "2. solis: Aktīvā klausīšanās",
+      "text": "Tagad tu klausies tekstu un vienlaikus lasi līdzi. Ja esi iesācējs, lasi nozīmes rindu savā dzimtajā valodā, klausies mērķvalodā lēnā tempā un bieži nospied pauzes pogu — tādējādi tavs prāts saista skaņu ar nozīmi. Ja esi vidēja līmeņa valodas lietotājs, lasi oriģinālo tekstu un tikai pie nezināmiem vārdiem īsi paskaties uz leju. Šajā procesā bieži izmanto A-B atkārtojumu: atzīmē vienu teikumu un atkārto to ciklā — izmēģini to augšā."
+    },
+    {
+      "id": "k5",
+      "title": "3. solis: Pasīvā klausīšanās",
+      "text": "Pēc tam ļauj tekstam turpināties fonā — sakārtojot telpu, pastaigājoties vai aizmiegot. Tev nav jākoncentrējas uz klausīšanos: tavs smadzenes pašas iegaumē valodas skaņu un melodiju. Tieši tas ir sagatavošanās runāšanai."
+    },
+    {
+      "id": "k6",
+      "title": "4. solis: Tavu mērķi nosaka",
+      "text": "No šejienes viss ir atkarīgs no taviem mācību mērķiem. Ja vēlies tikai saprast valodu, tad mērķis jau ir sasniegts — vienkārši turpini ar otro un trešo soli. Ja vēlies runāt, tad nāk kārta runāšanai kopā: izmanto A-B atkārtojumu, lai izvēlētos īsu teikumu, iestati ļoti lēnu ātrumu un runā līdzi ierakstam — kā korī. Tu uzreiz dzirdēsi, ja kaut kas skan citādi, un pats sevi izlabosi. To var darīt jebkur, pat tramvajā: ar austiņām tas skan kā telefonsaruna. Un, ja vēlies iemācīties rakstīt, vienkārši pieraksti tekstu teikumu pa teikumam."
+    },
+    {
+      "id": "k7",
+      "title": "Sāc!",
+      "text": "Tieši tā darbojas „LinguaFlow“ — ar taviem paša tekstiem, fotogrāfijām un grāmatām, gatavu mācību programmu un dzimtās valodas līmeņa balss ierakstiem vairāk nekā 30 valodās. Lejupielādē lietotni un sāc jau šodien."
+    }
+  ]
+}

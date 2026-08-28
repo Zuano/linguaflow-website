@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "fr",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Voici comment fonctionne LinguaFlow",
+      "text": "Apprendre des listes de vocabulaire ne suffit pas pour apprendre une langue. Sur cette page, tu verras en direct à quel point l'expérience est différente en quelques secondes : Le texte d'exemple ci-dessus est une véritable interface d'application que tu peux découvrir par toi-même, et cette explication va t'être lue immédiatement par une voix de qualité native, tandis que les mots s'illuminent. Avec LinguaFlow, tu apprends les langues comme ton cerveau l'apprécie : d'abord comprendre, puis écouter, puis parler. La méthode sur laquelle repose LinguaFlow s'inspire de la méthode Birkenbihl et comporte quatre étapes : décodage, écoute active, écoute passive et pratique. Essaie-la : clique sur un mot ci-dessus."
+    },
+    {
+      "id": "k2",
+      "title": "L'affichage du texte",
+      "text": "Ci-dessus, tu vois un texte exactement tel que l'application te le présente. Chaque mot est une petite fiche : en haut, le mot dans ta langue cible, en dessous, sa signification dans ta langue maternelle — mot pour mot, dans l'ordre de la langue cible. En dessous, tu retrouves la traduction fluide de la phrase entière. Pour les langues utilisant un alphabet différent, une ligne de transcription est ajoutée afin que tu puisses tout lire. Appuie sur un mot : la lecture vocale reprend exactement à cet endroit."
+    },
+    {
+      "id": "k3",
+      "title": "Étape 1 : Décodage",
+      "text": "Cette traduction mot à mot s'appelle le « décodage ». Elle semble volontairement maladroite — car c'est justement ainsi que tu découvres comment la langue est réellement construite, sans avoir à apprendre par cœur des règles de grammaire. Autrefois, on passait des heures à le faire à la main avec un dictionnaire. Dans LinguaFlow, l'application se charge entièrement de cette étape à ta place — pour chaque texte que tu souhaites apprendre."
+    },
+    {
+      "id": "k4",
+      "title": "Étape 2 : Écoute active",
+      "text": "Tu vas maintenant écouter le texte tout en le lisant. En tant que débutant, lis la ligne de traduction dans ta langue maternelle, écoute la langue cible à un rythme lent et appuie souvent sur « Pause » : cela permet à ton esprit d'associer le son au sens. Si tu es de niveau avancé, lis le texte original et ne jette un coup d’œil vers le bas que lorsque tu tombes sur des mots que tu ne connais pas. Utilise souvent la répétition A-B : sélectionne une seule phrase et fais-la passer en boucle — essaie ça ci-dessus."
+    },
+    {
+      "id": "k5",
+      "title": "Étape 3 : Écoute passive",
+      "text": "Laisse ensuite le texte tourner en arrière-plan — pendant que tu ranges, que tu te promènes ou que tu t'endors. Tu n'as pas besoin d'écouter attentivement : ton cerveau mémorise tout seul les sons et la mélodie de la langue. C'est exactement cela, la préparation à l'expression orale."
+    },
+    {
+      "id": "k6",
+      "title": "Étape 4 : C'est ton objectif qui détermine",
+      "text": "À partir de là, c'est ton objectif d'apprentissage qui détermine la suite. Si tu souhaites simplement comprendre la langue, tu as déjà atteint ton objectif : contente-toi de suivre les étapes deux et trois. Si tu veux parler, passe à la lecture en chœur : à l’aide de la répétition A-B, choisis une petite phrase, règle la vitesse au ralenti et prononce-la en même temps que la voix, comme dans un chœur. Tu entends immédiatement si quelque chose sonne différemment et tu te corriges tout naturellement. Ça marche partout, même dans le tramway : avec des écouteurs, on dirait une conversation téléphonique. Et si tu veux apprendre à écrire, recopie simplement le texte phrase par phrase."
+    },
+    {
+      "id": "k7",
+      "title": "C'est parti !",
+      "text": "C'est exactement ainsi que fonctionne LinguaFlow : avec tes propres textes, photos et livres, un parcours d'apprentissage tout prêt et des voix de qualité native, dans plus de 30 langues. Télécharge l'application et commence dès aujourd'hui."
+    }
+  ]
+}

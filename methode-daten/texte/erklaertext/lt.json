@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "lt",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Kaip veikia „LinguaFlow“",
+      "text": "Jei mokaisi žodžių sąrašus, tu nemoki kalbos. Šiame puslapyje gali gyvai pamatyti, kaip per kelias sekundes viskas pasikeičia: Pateiktas pavyzdinis tekstas yra tikrasis programėlės vaizdas, kurį gali išbandyti pats, o šį paaiškinimą tau tuoj pat perskaitys gimtakalbio kokybės balsas, tuo tarpu žodžiai bus paryškinti. Su „LinguaFlow“ mokaisi kalbų taip, kaip tai patinka tavo smegenims: pirmiausia suprasti, tada išgirsti, tada ištarti. Šis metodas yra įkvėptas Birkenbihl metodo ir susideda iš keturių etapų: dekodavimas, aktyvus klausymas, pasyvus klausymas ir praktikavimas. Išbandyk – spustelėk žodį viršuje."
+    },
+    {
+      "id": "k2",
+      "title": "Teksto peržiūra",
+      "text": "Viršuje matai tekstą būtent taip, kaip jį rodo programa. Kiekvienas žodis yra maža kortelė: viršuje – žodis tiksline kalba, po juo – jo reikšmė tavo gimtąja kalba – žodis po žodžio, tiksline kalbos tvarka. Toliau pateikiamas visas sakinys, sklandžiai išverstas. Kalbų, kuriose naudojama kitokia rašyba, atveju pridedama eilutė su transkripcija, kad galėtum viską perskaityti. Bakstelėk žodį: balsas tęs grojimą būtent nuo tos vietos."
+    },
+    {
+      "id": "k3",
+      "title": "1 žingsnis: Dekodavimas",
+      "text": "Šis žodis į žodį vertimas vadinamas „dekodavimu“. Jis sąmoningai skamba nelengvai — nes būtent taip gali pamatyti, kaip kalba iš tikrųjų yra sudaryta, visiškai nesimokant gramatikos taisyklių. Anksčiau tai darydavo valandų valandas rankiniu būdu, naudodamiesi žodynu. „LinguaFlow“ programėlė šį žingsnį atliks už tave – su bet kokiu tekstu, kurį nori išmokti."
+    },
+    {
+      "id": "k4",
+      "title": "2 žingsnis: Aktyvus klausymasis",
+      "text": "Dabar klausykis teksto ir tuo pačiu skaityk kartu. Jei esi pradedantysis, skaityk reikšmės eilutę savo gimtąja kalba, klausykis tikslinės kalbos lėtai ir dažnai spausk „Pauzė“ — taip tavo smegenys susies garsą su reikšme. Jei esi pažengęs, skaityk originalų tekstą ir tik sutikęs nežinomų žodžių trumpai pažvelk žemyn. Dažnai naudok A-B kartojimą: pažymėk vieną sakinį ir paleisk jį kartojimo režimu — išbandyk tai viršuje."
+    },
+    {
+      "id": "k5",
+      "title": "3 žingsnis: Pasyvus klausymasis",
+      "text": "Leisk tekstui toliau skambėti fone — tvarkydamasis, vaikščiodamas ar užmiegant. Tau nereikia susikaupti ir klausytis: tavo smegenys pačios įsimins kalbos skambesį ir melodiją. Būtent tai ir yra pasiruošimas kalbėti."
+    },
+    {
+      "id": "k6",
+      "title": "4 žingsnis: viską lemia tavo tikslas",
+      "text": "Nuo čia viską lemia tavo mokymosi tikslas. Jei nori tik suprasti kalbą, tavo tikslas jau pasiektas – tiesiog lik prie antrojo ir trečiojo žingsnių. Jei nori kalbėti, laikas choro kartojimui: pasinaudodamas A-B kartojimu, pasirink trumpą sakinį, nustatyk labai lėtą greitį ir kartok kartu su įrašu – kaip chore. Tu iš karto išgirsi, jei kažkas skamba kitaip, ir pats save ištaisysi. Tai galima daryti bet kur, net tramvaje: su ausinėmis tai skamba kaip pokalbis telefonu. O jei nori išmokti rašyti, tiesiog perrašyk tekstą sakinys po sakinio."
+    },
+    {
+      "id": "k7",
+      "title": "Pradėk",
+      "text": "Būtent taip veikia „LinguaFlow“ — su tavo pačių tekstais, nuotraukomis ir knygomis, parengtu mokymosi planu ir gimtakalbių kokybės įgarsinimais daugiau nei 30 kalbų. Atsisiųsk programėlę ir pradėk jau šiandien."
+    }
+  ]
+}

@@ -40,6 +40,7 @@ SOURCE_FILES = [
     "impressum.html",
     "was-ist-neu.html",
     "newsletter.html",
+    "methode.html",
 ]
 
 # Alle 33 DeepL-Zielsprachen

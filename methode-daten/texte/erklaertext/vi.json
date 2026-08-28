@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Cách thức hoạt động của LinguaFlow",
+      "text": "Nếu chỉ học các danh sách từ vựng, bạn sẽ không thể học được ngôn ngữ. Trên trang này, bạn sẽ thấy ngay cảm giác khác biệt chỉ trong vài giây: Đoạn văn mẫu ở trên là giao diện ứng dụng thực tế mà bạn có thể tương tác trực tiếp, và ngay lập tức, một giọng đọc chuẩn như người bản xứ sẽ đọc to đoạn giải thích này cho bạn nghe, trong khi các từ sẽ sáng lên đồng thời. Với LinguaFlow, bạn học ngôn ngữ theo cách mà não bộ ưa thích: trước tiên là hiểu, sau đó là nghe, rồi mới đến nói. Phương pháp này lấy cảm hứng từ Phương pháp Birkenbihl và bao gồm bốn bước: giải mã, nghe chủ động, nghe thụ động và thực hành. Hãy thử ngay — nhấn vào một từ ở trên."
+    },
+    {
+      "id": "k2",
+      "title": "Chế độ xem văn bản",
+      "text": "Ở trên, bạn sẽ thấy một đoạn văn bản y hệt như cách ứng dụng hiển thị. Mỗi từ là một thẻ nhỏ: phía trên là từ trong ngôn ngữ mục tiêu, phía dưới là nghĩa của nó trong ngôn ngữ mẹ đẻ của bạn — từng từ một, theo thứ tự của ngôn ngữ mục tiêu. Phía dưới là toàn bộ câu được dịch lại một cách trôi chảy. Đối với các ngôn ngữ sử dụng hệ chữ viết khác, ứng dụng sẽ hiển thị thêm một dòng phiên âm để bạn có thể đọc được toàn bộ nội dung. Nhấn vào một từ: giọng đọc sẽ tiếp tục phát từ chính vị trí đó."
+    },
+    {
+      "id": "k3",
+      "title": "Bước 1: Giải mã",
+      "text": "Cách dịch từng từ một này được gọi là “giải mã”. Cách dịch này nghe có vẻ gượng gạo một cách cố ý — bởi chính nhờ vậy, bạn mới có thể thấy được cấu trúc thực sự của ngôn ngữ, mà không cần phải nhồi nhét các quy tắc ngữ pháp. Trước đây, người ta phải dành hàng giờ để làm việc này bằng tay với từ điển. Trong LinguaFlow, ứng dụng sẽ thực hiện hoàn toàn bước này cho bạn — đối với bất kỳ văn bản nào bạn muốn học."
+    },
+    {
+      "id": "k4",
+      "title": "Bước 2: Lắng nghe tích cực",
+      "text": "Bây giờ bạn hãy vừa nghe văn bản vừa đọc theo. Với người mới bắt đầu, bạn nên đọc dòng giải thích bằng tiếng mẹ đẻ, nghe ngôn ngữ mục tiêu với tốc độ chậm và thường xuyên nhấn nút tạm dừng — nhờ đó, não bộ của bạn sẽ liên kết âm thanh với ý nghĩa. Nếu bạn là người học ở trình độ nâng cao, hãy đọc văn bản gốc và chỉ nhìn xuống dưới một chút khi gặp từ không quen. Hãy thường xuyên áp dụng phương pháp lặp lại A-B: đánh dấu một câu duy nhất và phát lặp đi lặp lại — hãy thử ngay ở trên đây."
+    },
+    {
+      "id": "k5",
+      "title": "Bước 3: Lắng nghe thụ động",
+      "text": "Sau đó, hãy để đoạn văn bản tiếp tục phát ở chế độ nền — trong lúc dọn dẹp, đi dạo hoặc khi chuẩn bị đi ngủ. Bạn không cần phải tập trung lắng nghe: não bộ của bạn sẽ tự động ghi nhớ âm thanh và giai điệu của ngôn ngữ. Chính điều này chính là bước chuẩn bị cho việc nói."
+    },
+    {
+      "id": "k6",
+      "title": "Bước 4: Mục tiêu của bạn sẽ quyết định",
+      "text": "Từ đây, mục tiêu học tập của bạn sẽ quyết định hướng đi. Nếu bạn chỉ muốn hiểu ngôn ngữ này, thì bạn đã đạt được mục tiêu rồi — chỉ cần tiếp tục với bước hai và ba là được. Nếu bạn muốn nói, hãy thử phương pháp nói theo nhóm: Dùng phương pháp lặp lại A-B để chọn một câu ngắn, điều chỉnh tốc độ thật chậm và nói theo giọng trong bài — giống như hát trong dàn hợp xướng vậy. Bạn sẽ nghe ra ngay lập tức nếu có gì đó khác biệt và tự động điều chỉnh lại. Bạn có thể thực hiện phương pháp này ở bất cứ đâu, ngay cả trên xe điện: khi đeo tai nghe, âm thanh sẽ giống như một cuộc điện thoại. Còn nếu bạn muốn học viết, chỉ cần chép lại văn bản câu từng câu là được."
+    },
+    {
+      "id": "k7",
+      "title": "Bắt đầu đi",
+      "text": "LinguaFlow hoạt động chính xác như vậy — với các văn bản, ảnh và sách của riêng bạn, một lộ trình học tập sẵn có cùng giọng đọc chất lượng như người bản ngữ, trong hơn 30 ngôn ngữ. Tải ứng dụng về và bắt đầu ngay hôm nay."
+    }
+  ]
+}

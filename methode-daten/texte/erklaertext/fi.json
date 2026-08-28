@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "fi",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Näin LinguaFlow toimii",
+      "text": "Pelkästään sanalistoja opiskelemalla et opi kieltä. Tällä sivulla näet reaaliaikaisesti, kuinka tilanne muuttuu muutamassa sekunnissa: Yllä oleva esimerkkiteksti on aito, käytettävissä oleva sovelluksen näkymä, ja ääni lukee tämän selityksen sinulle heti äidinkielen puhujan laadulla, samalla kun sanat valaistuvat. LinguaFlow-sovelluksella opit kieliä tavalla, josta aivosi pitävät: ensin ymmärrät, sitten kuulet, sitten puhut. Menetelmä perustuu Birkenbihlin menetelmään ja koostuu neljästä vaiheesta: dekoodaus, aktiivinen kuuntelu, passiivinen kuuntelu ja harjoittelu. Kokeile sitä – napauta ylhäällä olevaa sanaa."
+    },
+    {
+      "id": "k2",
+      "title": "Tekstinäkymä",
+      "text": "Yllä näet tekstin juuri sellaisena kuin sovellus sen näyttää. Jokainen sana on pieni kortti: yläosassa sana kohdekielelläsi, sen alla sen merkitys äidinkielelläsi — sana sanalta, kohdekielen järjestyksessä. Sen alla on koko lause vielä kerran sujuvasti käännettynä. Kielissä, joissa käytetään erilaista kirjoitusjärjestelmää, mukana on rivi, jossa on translitteraatio, jotta voit lukea kaiken. Napauta sanaa: ääni jatkaa toistamista juuri siitä kohdasta."
+    },
+    {
+      "id": "k3",
+      "title": "Vaihe 1: Dekoodaus",
+      "text": "Tätä sana-sanalta-käännöstä kutsutaan dekoodaamiseksi. Se kuulostaa tarkoituksella kömpelöltä — sillä juuri näin näet, miten kieli todella rakentuu, ilman että sinun tarvitsee päntätä kielioppisääntöjä. Aiemmin tätä tehtiin tuntikausia käsin sanakirjan avulla. LinguaFlow-sovelluksessa sovellus hoitaa tämän vaiheen kokonaan puolestasi — jokaisen tekstin osalta, jonka haluat oppia."
+    },
+    {
+      "id": "k4",
+      "title": "Vaihe 2: Aktiivinen kuuntelu",
+      "text": "Nyt kuuntelet tekstiä ja luet sitä samalla. Aloittelijana luet merkitysrivin äidinkielelläsi, kuuntelet kohdekieltä hitaasti ja painat usein taukopainiketta — näin mielesi yhdistää äänen merkitykseen. Edistyneenä lukijana luet alkuperäistä tekstiä ja katsot vain tuntemattomien sanojen kohdalla lyhyesti alas. Käytä tässä usein A-B-toistoa: merkitse yksi lause ja toista sitä silmukassa — kokeile sitä yllä."
+    },
+    {
+      "id": "k5",
+      "title": "Vaihe 3: Passiivinen kuuntelu",
+      "text": "Anna tekstin jatkua taustalla – siivotessasi, kävellessäsi tai nukahtaessasi. Sinun ei tarvitse kuunnella keskittyneesti: aivosi tallentavat kielen äänen ja melodian itsestään. Juuri tämä on valmistautumista puhumiseen."
+    },
+    {
+      "id": "k6",
+      "title": "Vaihe 4: Tavoitteesi ratkaisee",
+      "text": "Tästä eteenpäin oppimistavoitteesi määrää suunnan. Jos haluat vain ymmärtää kieltä, olet jo saavuttanut tavoitteesi — jatka vain vaiheisiin kaksi ja kolme. Jos haluat puhua, siirry kuoropuheen harjoitteluun: valitse A-B-toistolla lyhyt lause, aseta nopeus hyvin hitaaksi ja puhu samanaikaisesti ääneen — kuin kuorossa. Kuulet heti, jos jokin kuulostaa erilaiselta, ja korjaat virheet aivan itsestään. Tämä onnistuu missä tahansa, jopa raitiovaunussa: kuulokkeiden avulla se kuulostaa puhelinkeskustelulta. Ja jos haluat oppia kirjoittamaan, kirjoita teksti yksinkertaisesti lause lauseelta mukana."
+    },
+    {
+      "id": "k7",
+      "title": "Aloita",
+      "text": "Juuri näin LinguaFlow toimii — omien tekstiesi, valokuviesi ja kirjojesi avulla, valmiilla oppimispolulla ja äidinkielen puhujien tasoisilla äänillä, yli 30 kielellä. Lataa sovellus ja aloita jo tänään."
+    }
+  ]
+}

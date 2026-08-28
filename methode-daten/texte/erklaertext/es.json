@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "es",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Así funciona LinguaFlow",
+      "text": "Si te limitas a aprender listas de vocabulario, no estás aprendiendo un idioma. En esta página podrás ver en directo cómo cambia la sensación en cuestión de segundos: El texto de ejemplo de arriba es una vista real de la aplicación que puedes tocar, y una voz con calidad de hablante nativo te leerá esta explicación al instante, mientras las palabras se iluminan. Con LinguaFlow aprendes idiomas tal y como le gusta a tu cerebro: primero comprender, luego escuchar y, por último, hablar. El método en el que se basa se inspira en el método Birkenbihl y consta de cuatro pasos: decodificación, escucha activa, escucha pasiva y práctica. Pruébalo: pulsa sobre una palabra de arriba."
+    },
+    {
+      "id": "k2",
+      "title": "La vista de texto",
+      "text": "Arriba ves un texto tal y como te lo muestra la aplicación. Cada palabra es una pequeña ficha: arriba, la palabra en tu idioma de destino; debajo, su significado en tu lengua materna —palabra por palabra, en el orden del idioma de destino—. Debajo aparece de nuevo la frase completa traducida de forma fluida. En el caso de los idiomas con un alfabeto diferente, se añade una línea con la transcripción para que puedas leerlo todo. Toca una palabra: la voz continuará reproduciéndose exactamente a partir de ahí."
+    },
+    {
+      "id": "k3",
+      "title": "Paso 1: Descifrar",
+      "text": "Esta traducción palabra por palabra se llama «decodificación». Suena deliberadamente torpe, porque así es precisamente como ves cómo está construida realmente la lengua, sin necesidad de memorizar reglas gramaticales. Antes, esto se hacía a mano durante horas con el diccionario. En LinguaFlow, la aplicación se encarga por completo de este paso por ti, para cualquier texto que quieras aprender."
+    },
+    {
+      "id": "k4",
+      "title": "Paso 2: Escucha activa",
+      "text": "Ahora escucha el texto y léelo al mismo tiempo. Si eres principiante, lee la línea de significado en tu lengua materna, escucha el idioma de destino a un ritmo lento y pulsa a menudo el botón de pausa; así, tu mente asociará el sonido con el significado. Si eres un usuario avanzado, lee el texto original y solo echa un vistazo rápido hacia abajo cuando encuentres palabras que no conozcas. Aprovecha a menudo la repetición A-B: selecciona una sola frase y repítela en bucle; pruébalo más arriba."
+    },
+    {
+      "id": "k5",
+      "title": "Paso 3: Escucha pasiva",
+      "text": "Deja que el texto siga sonando de fondo mientras ordenas, das un paseo o te duermes. No hace falta que escuches con atención: tu cerebro asimila por sí solo el sonido y la melodía del idioma. Eso es precisamente lo que te prepara para hablar."
+    },
+    {
+      "id": "k6",
+      "title": "Paso 4: Tu objetivo es lo que cuenta",
+      "text": "A partir de aquí, tu objetivo de aprendizaje es lo que cuenta. Si solo quieres entender el idioma, ya has alcanzado tu objetivo: simplemente sigue con los pasos dos y tres. Si quieres hablar, llega el momento de hablar en coro: elige una frase corta con la repetición A-B, pon la velocidad muy lenta y habla al mismo tiempo que la voz, como en un coro. Notarás enseguida si algo suena diferente y te corregirás tú mismo. Esto se puede hacer en cualquier sitio, incluso en el tranvía: con auriculares, parece una llamada telefónica. Y si quieres aprender a escribir, simplemente escribe el texto frase por frase."
+    },
+    {
+      "id": "k7",
+      "title": "Empieza",
+      "text": "Así es exactamente como funciona LinguaFlow: con tus propios textos, fotos y libros, un itinerario de aprendizaje ya preparado y voces con calidad de hablantes nativos, en más de 30 idiomas. Descárgate la aplicación y empieza hoy mismo."
+    }
+  ]
+}

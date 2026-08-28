@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "sl",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Tako deluje LinguaFlow",
+      "text": "Če se učiš iz seznamov besed, se ne učiš jezika. Na tej strani lahko v živo vidiš, kako se to v nekaj sekundah drugače počuti: Primer besedila zgoraj je resnični prikaz aplikacije, ki ga lahko preizkusiš, to pojasnilo pa ti bo takoj prebrala glasovna sinteza v kakovosti maternega govorca, medtem ko se besede osvetljujejo. Z LinguaFlow se jezike učiš tako, kot to ima rad tvoj možgan: najprej razumeš, potem poslušaš, nato pa govoriš. Metoda, na kateri temelji, črpa navdih iz Birkenbihlove metode in obsega štiri korake: dekodiranje, aktivno poslušanje, pasivno poslušanje in vaje. Preizkusi jo – klikni na besedo zgoraj."
+    },
+    {
+      "id": "k2",
+      "title": "Pogled besedila",
+      "text": "Zgoraj vidiš besedilo točno tako, kot ti ga prikaže aplikacija. Vsaka beseda je majhna kartica: zgoraj je beseda v ciljnem jeziku, pod njo pa njen pomen v tvojem maternem jeziku – beseda za besedo, v vrstnem redu ciljnega jezika. Pod tem je še enkrat naveden celoten stavek, tekoče preveden. Pri jezikih z drugačnim pisom je dodana vrstica s transkripcijo, da lahko vse prebereš. Dotakni se besede: glas bo nadaljeval predvajanje točno od tam."
+    },
+    {
+      "id": "k3",
+      "title": "Korak 1: Dekodiranje",
+      "text": "Ta beseda za besedo prevod se imenuje dekodiranje. Zveni namerno nerodno — saj tako lahko vidiš, kako je jezik resnično zgrajen, brez da bi se moral učiti gramatičnih pravil na pamet. Nekoč so to počeli ure in ure ročno s pomočjo slovarja. V aplikaciji LinguaFlow ta korak v celoti opravi aplikacija namesto tebe – za vsak besedilo, ki se ga želiš naučiti."
+    },
+    {
+      "id": "k4",
+      "title": "Korak 2: Aktivno poslušanje",
+      "text": "Zdaj poslušaj besedilo in hkrati beri z njim. Kot začetnik preberi vrstico z pomenom v svojem maternem jeziku, poslušaj ciljni jezik na počasnem tempu in pogosto pritisni na pavzo – tako bo tvoj um povezal zvok s pomenom. Kot napreden uporabnik bereš izvirno besedilo in le pri neznanih besedah na hitro pogledaš navzdol. Pri tem pogosto uporabi ponovitev A-B: označi posamezen stavek in ga predvajaj v zanki – preizkusi to zgoraj."
+    },
+    {
+      "id": "k5",
+      "title": "3. korak: Pasivno poslušanje",
+      "text": "Pusti, da se besedilo nato predvaja v ozadju – med pospravljanjem, sprehodom ali zaspavanjem. Ni ti treba pozorno poslušati: tvoji možgani si sami zapomnijo zvok in melodijo jezika. Prav to je priprava na govorjenje."
+    },
+    {
+      "id": "k6",
+      "title": "4. korak: Odloča tvoj cilj",
+      "text": "Od tu naprej je odvisno od tvojega učnega cilja. Če želiš jezik le razumeti, si že dosegel cilj – preprosto ostani pri korakih dva in tri. Če želiš govoriti, sledi govorjenje v zboru: z metodo ponavljanja A-B vzemi kratek stavek, nastavi hitrost na zelo počasno in govori hkrati z glasom – kot v zboru. Takoj boš slišal, če kaj zveni drugače, in se boš sam popravil. To lahko počneš kjerkoli, celo v tramvaju: s slušalkami zveni kot telefonski pogovor. Če pa se želiš naučiti pisati, preprosto prepiši besedilo stavek za stavkom."
+    },
+    {
+      "id": "k7",
+      "title": "Začni",
+      "text": "Prav tako deluje LinguaFlow – z tvojimi lastnimi besedili, fotografijami in knjigami, pripravljeno učno potjo ter glasovi v kakovosti maternih govorcev v več kot 30 jezikih. Prenesi si aplikacijo in začni še danes."
+    }
+  ]
+}

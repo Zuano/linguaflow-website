@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "nb",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Slik fungerer LinguaFlow",
+      "text": "Å lære ordlister betyr ikke at du lærer et språk. På denne siden kan du se i sanntid hvordan det føles annerledes på bare noen sekunder: Eksemplet ovenfor er en ekte app-visning du kan prøve selv, og denne forklaringen blir straks lest opp av en stemme med morsmålskvalitet, mens ordene lyser opp. Med LinguaFlow lærer du språk på den måten hjernen din liker: først forstå, så høre, så snakke. Metoden bak er inspirert av Birkenbihl-metoden og består av fire trinn: avkoding, aktiv lytting, passiv lytting og øving. Prøv det – trykk på et ord øverst."
+    },
+    {
+      "id": "k2",
+      "title": "Tekstvisningen",
+      "text": "Ovenfor ser du en tekst akkurat slik appen viser den. Hvert ord er et lite kort: øverst står ordet på målspråket, under det står betydningen på morsmålet ditt — ord for ord, i målspråkets rekkefølge. Under det står hele setningen oversatt i en flytende tekst. For språk med et annet skriftsystem legges det til en linje med transkripsjon, slik at du kan lese alt. Trykk på et ord: Stemmen fortsetter avspillingen akkurat derfra."
+    },
+    {
+      "id": "k3",
+      "title": "Trinn 1: Dekoding",
+      "text": "Denne ord-for-ord-oversettelsen kalles «dekoding». Den høres bevisst klossete ut – for på denne måten ser du nøyaktig hvordan språket egentlig er bygget opp, helt uten å måtte pugge grammatikkregler. Før i tiden brukte man timevis på å gjøre dette for hånd med ordboken. I LinguaFlow tar appen seg av dette trinnet helt og holdent for deg – for hver eneste tekst du ønsker å lære deg."
+    },
+    {
+      "id": "k4",
+      "title": "Trinn 2: Aktiv lytting",
+      "text": "Nå skal du lytte til teksten og lese den samtidig. Som nybegynner leser du betydningslinjen på morsmålet ditt, lytter til målspråket i rolig tempo og trykker ofte på pause — slik knytter hjernen din lyden til betydningen. Som viderekommen leser du originalteksten og ser bare raskt ned når du støter på ukjente ord. Bruk gjerne A-B-gjentakelsen: Merk av en enkelt setning og la den gå i loop – prøv det ovenfor."
+    },
+    {
+      "id": "k5",
+      "title": "Trinn 3: Passiv lytting",
+      "text": "La teksten fortsette å spille i bakgrunnen – mens du rydder, går en tur eller sovner. Du trenger ikke å lytte konsentrert: Hjernen din tar automatisk til seg språkets klang og melodi. Det er nettopp dette som er forberedelsen til å snakke."
+    },
+    {
+      "id": "k6",
+      "title": "Trinn 4: Målet ditt avgjør",
+      "text": "Herfra avhenger det av hva du ønsker å oppnå. Hvis du bare vil forstå språket, har du allerede nådd målet – bare fortsett med trinn to og tre. Hvis du vil snakke, er det på tide med korsang: Ta en kort setning med A-B-gjentakelsen, sett hastigheten helt lavt og snakk samtidig med stemmen – akkurat som i et kor. Du hører umiddelbart hvis noe høres annerledes ut, og korrigerer deg helt av deg selv. Dette kan du gjøre hvor som helst, til og med på trikken: Med hodetelefoner høres det ut som en telefonsamtale. Og hvis du vil lære å skrive, skriver du bare teksten setning for setning."
+    },
+    {
+      "id": "k7",
+      "title": "Kom i gang",
+      "text": "Slik fungerer LinguaFlow – med dine egne tekster, bilder og bøker, et ferdig utarbeidet læringsforløp og stemmer i morsmålsstandard, på over 30 språk. Last ned appen og kom i gang allerede i dag."
+    }
+  ]
+}

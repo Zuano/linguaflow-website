@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "cs",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Takto funguje LinguaFlow",
+      "text": "Když se učíš seznamy slovíček, neučíš se jazyk. Na této stránce uvidíš na vlastní oči, jak se to během několika vteřin změní: Ukázkový text nahoře je skutečný náhled do aplikace, který si můžeš vyzkoušet na vlastní kůži, a tento text ti hned přečte hlas v kvalitě rodilého mluvčího, zatímco se slova rozsvítí. S LinguaFlow se učíš jazyky tak, jak to má tvůj mozek rád: nejdřív porozumět, pak poslouchat, pak mluvit. Metoda, na které je založena, je inspirována Birkenbihlovou metodou a skládá se ze čtyř kroků: dekódování, aktivní poslech, pasivní poslech a procvičování. Vyzkoušej to — klikni nahoře na nějaké slovo."
+    },
+    {
+      "id": "k2",
+      "title": "Zobrazení textu",
+      "text": "Nahoře vidíš text přesně tak, jak ti ho aplikace zobrazuje. Každé slovo je malá kartička: nahoře je slovo v cílovém jazyce, pod ním jeho význam v tvém mateřském jazyce — slovo za slovem, v pořadí cílového jazyka. Pod tím je ještě jednou plynule přeložená celá věta. U jazyků s jiným písmem je přidán řádek s přepisem, abys mohl vše přečíst. Klepni na slovo: hlas pokračuje přesně od tohoto místa."
+    },
+    {
+      "id": "k3",
+      "title": "Krok 1: Dekódování",
+      "text": "Tento doslovný překlad se nazývá „dekódování“. Zní záměrně kostrbatě – právě tak totiž vidíš, jak je jazyk skutečně sestaven, aniž bys se musel učit gramatická pravidla nazpaměť. Dříve se to dělalo ručně se slovníkem celé hodiny. V LinguaFlow za tebe tento krok zcela převezme aplikace – a to u každého textu, který se chceš naučit."
+    },
+    {
+      "id": "k4",
+      "title": "Krok 2: Aktivní naslouchání",
+      "text": "Nyní si poslechni text a zároveň ho čti. Jako začátečník čti vysvětlivky ve svém mateřském jazyce, poslouchej cílový jazyk pomalu a často stiskni tlačítko pauzy – tak si tvůj mozek spojí zvuk s významem. Jako pokročilý čteš původní text a nahlédneš dolů jen u neznámých slov. Často přitom využívej opakování A-B: označ jednu větu a pusť si ji v smyčce — vyzkoušej to nahoře."
+    },
+    {
+      "id": "k5",
+      "title": "Krok 3: Pasivní poslech",
+      "text": "Nech si text poté dál přehrávat na pozadí – při úklidu, procházce nebo při usínání. Nemusíš se soustředit na poslech: tvůj mozek si zvuk a melodii jazyka zapamatuje sám. Právě to je příprava na mluvení."
+    },
+    {
+      "id": "k6",
+      "title": "Krok 4: Záleží na tvém cíli",
+      "text": "Od této chvíle záleží na tvém cíli učení. Chceš-li jazyk pouze rozumět, už jsi dosáhl svého cíle – prostě zůstaň u kroku dva a tři. Chceš-li mluvit, přichází na řadu sborové mluvení: Vyber si pomocí opakování A-B krátkou větu, nastav rychlost na úplně pomalou a mluv současně s hlasem – jako ve sboru. Okamžitě uslyšíš, když něco zní jinak, a sám se opravíš. To jde kdekoli, dokonce i v tramvaji: se sluchátky to zní jako telefonní hovor. A pokud se chceš naučit psát, prostě si text přepiš větu po větě."
+    },
+    {
+      "id": "k7",
+      "title": "Začni",
+      "text": "Přesně tak funguje LinguaFlow – s tvými vlastními texty, fotkami a knihami, s hotovým výukovým plánem a hlasy v kvalitě rodilých mluvčích, a to ve více než 30 jazycích. Stáhni si aplikaci a začni ještě dnes."
+    }
+  ]
+}

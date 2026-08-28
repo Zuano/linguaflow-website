@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "pl",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Tak działa LinguaFlow",
+      "text": "Ucząc się list słówek, nie uczysz się języka. Na tej stronie na żywo zobaczysz, jak w ciągu kilku sekund wszystko się zmienia: Powyższy tekst przykładowy to prawdziwy widok aplikacji, z którym możesz się zapoznać, a to wyjaśnienie zostanie Ci za chwilę odczytane przez głos o jakości native speakera, podczas gdy słowa będą podświetlane. Dzięki LinguaFlow uczysz się języków tak, jak lubi to Twój mózg: najpierw rozumiesz, potem słuchasz, a na końcu mówisz. Metoda ta, inspirowana metodą Birkenbihla, składa się z czterech etapów: dekodowania, słuchania aktywnego, słuchania biernego oraz ćwiczeń. Wypróbuj ją — kliknij na dowolne słowo powyżej."
+    },
+    {
+      "id": "k2",
+      "title": "Widok tekstu",
+      "text": "Powyżej widzisz tekst dokładnie taki, jak wyświetla go aplikacja. Każde słowo to mała karta: u góry słowo w języku docelowym, a poniżej jego znaczenie w Twoim języku ojczystym — słowo po słowie, w kolejności języka docelowego. Poniżej znajduje się jeszcze raz całe zdanie w płynnym tłumaczeniu. W przypadku języków z innym alfabetem dodawany jest wiersz z transkrypcją, abyś mógł wszystko przeczytać. Dotknij słowa: głos będzie kontynuował odczytywanie dokładnie od tego miejsca."
+    },
+    {
+      "id": "k3",
+      "title": "Krok 1: Dekodowanie",
+      "text": "To tłumaczenie słowo w słowo nazywa się „dekodowaniem”. Brzmi ono celowo niezgrabnie — bo właśnie w ten sposób widzisz, jak naprawdę zbudowany jest język, zupełnie bez wkuwania zasad gramatycznych. Kiedyś robiło się to ręcznie, korzystając ze słownika, i zajmowało to całe godziny. W LinguaFlow aplikacja całkowicie przejmuje ten etap za Ciebie — w przypadku każdego tekstu, którego chcesz się nauczyć."
+    },
+    {
+      "id": "k4",
+      "title": "Krok 2: Aktywne słuchanie",
+      "text": "Teraz słuchaj tekstu i czytaj go jednocześnie. Jako początkujący czytaj wyjaśnienia w swoim języku ojczystym, słuchaj języka docelowego w wolnym tempie i często zatrzymuj odtwarzanie — w ten sposób twój umysł kojarzy dźwięk z znaczeniem. Jeśli jesteś na poziomie zaawansowanym, czytaj tekst oryginalny i spoglądaj w dół tylko w przypadku nieznanych słów. Korzystaj przy tym często z powtórzeń A-B: zaznacz pojedyncze zdanie i odtwarzaj je w pętli — wypróbuj to powyżej."
+    },
+    {
+      "id": "k5",
+      "title": "Krok 3: Słuchanie bierne",
+      "text": "Następnie pozwól, by tekst nadal grał w tle — podczas sprzątania, spaceru czy zasypiania. Nie musisz słuchać z pełną uwagą: twój mózg sam przyswaja brzmienie i melodię języka. Właśnie to jest przygotowaniem do mówienia."
+    },
+    {
+      "id": "k6",
+      "title": "Krok 4: To zależy od twojego celu",
+      "text": "Od tego momentu wszystko zależy od twojego celu nauki. Jeśli chcesz tylko rozumieć język, to już osiągnąłeś cel — po prostu pozostań przy krokach drugim i trzecim. Jeśli chcesz mówić, czas na mówienie chóralne: wybierz krótkie zdanie do powtórzenia metodą A-B, ustaw bardzo wolne tempo i mów jednocześnie z nagraniem — jak w chórze. Od razu usłyszysz, jeśli coś brzmi inaczej, i sam się poprawisz. Można to robić wszędzie, nawet w tramwaju: w słuchawkach brzmi to jak rozmowa telefoniczna. A jeśli chcesz nauczyć się pisać, po prostu przepisuj tekst zdanie po zdaniu."
+    },
+    {
+      "id": "k7",
+      "title": "Zacznij",
+      "text": "Właśnie tak działa LinguaFlow — z Twoimi własnymi tekstami, zdjęciami i książkami, gotową ścieżką nauki oraz głosami na poziomie native speakera w ponad 30 językach. Pobierz aplikację i zacznij już dziś."
+    }
+  ]
+}

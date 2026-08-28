@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "id",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Begini Cara Kerja LinguaFlow",
+      "text": "Jika kamu hanya menghafal daftar kosakata, kamu tidak benar-benar belajar bahasa. Di halaman ini, kamu bisa melihat secara langsung bagaimana rasanya berbeda dalam hitungan detik: Teks contoh di atas adalah tampilan aplikasi asli yang bisa kamu rasakan langsung, dan penjelasan ini akan segera dibacakan oleh suara berkualitas penutur asli, sementara kata-katanya menyala bersamaan. Dengan LinguaFlow, kamu belajar bahasa sesuai cara kerja otakmu: pertama memahami, lalu mendengarkan, kemudian berbicara. Metode di baliknya terinspirasi dari Metode Birkenbihl dan terdiri dari empat langkah: mendekode, mendengarkan aktif, mendengarkan pasif, dan berlatih. Cobalah — ketuk sebuah kata di atas."
+    },
+    {
+      "id": "k2",
+      "title": "Tampilan Teks",
+      "text": "Di atas, kamu akan melihat teks persis seperti yang ditampilkan oleh aplikasi ini. Setiap kata berupa kartu kecil: di bagian atas terdapat kata dalam bahasa target, di bawahnya terdapat artinya dalam bahasa ibu kamu — kata demi kata, sesuai urutan dalam bahasa target. Di bawahnya, seluruh kalimat tersebut diterjemahkan kembali secara lancar. Untuk bahasa dengan aksara yang berbeda, ditambahkan satu baris transkripsi agar kamu bisa membaca semuanya. Ketuk sebuah kata: suara akan melanjutkan pemutaran tepat dari sana."
+    },
+    {
+      "id": "k3",
+      "title": "Langkah 1: Mendekodekan",
+      "text": "Terjemahan kata per kata ini disebut “dekodifikasi”. Terjemahan ini sengaja dibuat terdengar tidak lancar — karena dengan begitu kamu bisa melihat bagaimana bahasa itu sebenarnya terbentuk, tanpa perlu menghafal aturan tata bahasa. Dulu, orang melakukannya berjam-jam secara manual dengan kamus. Di LinguaFlow, aplikasi ini akan menangani langkah ini sepenuhnya untukmu — untuk setiap teks yang ingin kamu pelajari."
+    },
+    {
+      "id": "k4",
+      "title": "Langkah 2: Mendengarkan secara aktif",
+      "text": "Sekarang, dengarkan teksnya sambil membacanya. Sebagai pemula, bacalah baris arti dalam bahasa ibu Anda, dengarkan bahasa target secara perlahan, dan sering-seringlah menekan tombol jeda — dengan begitu, otak Anda akan mengaitkan bunyi dengan maknanya. Sebagai pelajar tingkat lanjut, bacalah teks aslinya dan lihatlah ke bawah sebentar hanya saat menemukan kata-kata yang tidak dikenal. Gunakanlah metode pengulangan A-B sesering mungkin: tandai satu kalimat dan putar ulang secara berulang — coba lakukan di atas."
+    },
+    {
+      "id": "k5",
+      "title": "Langkah 3: Mendengarkan secara pasif",
+      "text": "Biarkan teks tersebut terus diputar di latar belakang — saat membereskan rumah, berjalan-jalan, atau sebelum tidur. Kamu tidak perlu mendengarkannya dengan penuh konsentrasi: Otakmu akan secara otomatis menyerap bunyi dan melodi bahasa tersebut. Inilah persiapan untuk berbicara."
+    },
+    {
+      "id": "k6",
+      "title": "Langkah 4: Tujuanmu yang menentukan",
+      "text": "Mulai dari sini, tujuan belajarmu yang menentukan. Jika kamu hanya ingin memahami bahasa tersebut, kamu sudah mencapai tujuanmu — cukup lanjutkan ke langkah dua dan tiga. Jika kamu ingin berbicara, inilah saatnya berlatih berbicara secara serempak: Pilih kalimat pendek dengan metode pengulangan A-B, atur kecepatan sangat lambat, dan ucapkan bersamaan dengan suara yang diputar — seperti bernyanyi dalam paduan suara. Kamu akan langsung mendengar jika ada yang terdengar berbeda, dan secara otomatis akan mengoreksinya sendiri. Cara ini bisa dilakukan di mana saja, bahkan di dalam trem: dengan menggunakan headphone, suaranya akan terdengar seperti sedang menelepon. Dan jika kamu ingin belajar menulis, cukup tuliskan teks tersebut kalimat demi kalimat."
+    },
+    {
+      "id": "k7",
+      "title": "Ayo mulai",
+      "text": "Begitulah cara kerja LinguaFlow — dengan teks, foto, dan buku milikmu sendiri, jalur pembelajaran yang sudah siap pakai, serta suara berkualitas penutur asli, dalam lebih dari 30 bahasa. Unduh aplikasinya dan mulailah hari ini juga."
+    }
+  ]
+}

@@ -14,6 +14,7 @@ on:
       - 'impressum.html'
       - 'was-ist-neu.html'
       - 'newsletter.html'
+      - 'methode.html'
       - 'ratgeber*.html'
       - 'funktion*.html'
       - 'zurueck-in-deinen-beruf/**.html'

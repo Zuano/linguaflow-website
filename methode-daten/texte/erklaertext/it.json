@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "it",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Ecco come funziona LinguaFlow",
+      "text": "Imparare liste di vocaboli non significa imparare una lingua. In questa pagina vedrai in tempo reale come, in pochi secondi, la sensazione cambia: Il testo di esempio qui sopra è una vera e propria schermata dell’app che puoi toccare con mano, e questa spiegazione ti verrà subito letta da una voce di qualità pari a quella di un madrelingua, mentre le parole si illuminano. Con LinguaFlow impari le lingue nel modo che piace al tuo cervello: prima capisci, poi ascolti, poi parli. Il metodo su cui si basa si ispira al metodo Birkenbihl e prevede quattro fasi: decodifica, ascolto attivo, ascolto passivo ed esercitazione. Provalo: tocca una parola in alto."
+    },
+    {
+      "id": "k2",
+      "title": "Visualizzazione del testo",
+      "text": "In alto vedi un testo esattamente come te lo mostra l’app. Ogni parola è una piccola scheda: in alto la parola nella tua lingua di destinazione, sotto il suo significato nella tua lingua madre — parola per parola, nell’ordine della lingua di destinazione. Sotto c’è ancora una volta l’intera frase tradotta in modo scorrevole. Per le lingue con un alfabeto diverso, viene aggiunta una riga con la traslitterazione, in modo che tu possa leggere tutto. Tocca una parola: la voce riprende la riproduzione proprio da quel punto."
+    },
+    {
+      "id": "k3",
+      "title": "Fase 1: Decodifica",
+      "text": "Questa traduzione parola per parola si chiama “decodifica”. Sembra volutamente stentata — perché è proprio così che puoi vedere come è realmente costruita la lingua, senza dover imparare a memoria le regole grammaticali. Un tempo lo si faceva a mano per ore, con il dizionario. In LinguaFlow, l’app si occupa completamente di questo passaggio al posto tuo — per ogni testo che desideri imparare."
+    },
+    {
+      "id": "k4",
+      "title": "Fase 2: Ascolto attivo",
+      "text": "Ora ascolta il testo e segui la lettura. Se sei un principiante, leggi la riga con il significato nella tua lingua madre, ascolta la lingua di destinazione a velocità ridotta e metti spesso in pausa: in questo modo la tua mente assocerà il suono al significato. Se sei un utente avanzato, leggi il testo originale e dai un’occhiata in basso solo quando incontri parole che non conosci. Utilizza spesso la ripetizione A-B: evidenzia una singola frase e riproducila in loop — provalo qui sopra."
+    },
+    {
+      "id": "k5",
+      "title": "Fase 3: Ascolto passivo",
+      "text": "Lascia che il testo continui a suonare in sottofondo — mentre riordini, fai una passeggiata o ti addormenti. Non devi ascoltare con attenzione: il tuo cervello assimilerà da solo il suono e la melodia della lingua. È proprio questa la preparazione alla conversazione."
+    },
+    {
+      "id": "k6",
+      "title": "Fase 4: È il tuo obiettivo a decidere",
+      "text": "Da qui in poi è il tuo obiettivo di apprendimento a decidere. Se vuoi solo capire la lingua, hai già raggiunto l’obiettivo: basta che ti attieni ai passaggi due e tre. Se vuoi parlare, entra in gioco la ripetizione corale: con il metodo A-B, prendi una frase breve, imposta la velocità al minimo e ripeti contemporaneamente con la voce, come in un coro. Ti accorgerai subito se qualcosa suona diverso e ti correggerai da solo. Puoi farlo ovunque, persino in tram: con le cuffie sembra una telefonata. E se vuoi imparare a scrivere, trascrivi semplicemente il testo frase per frase."
+    },
+    {
+      "id": "k7",
+      "title": "Dai, inizia!",
+      "text": "È proprio così che funziona LinguaFlow: con i tuoi testi, le tue foto e i tuoi libri, un percorso di apprendimento già pronto e voci di madrelingua, in oltre 30 lingue. Scarica l’app e inizia oggi stesso."
+    }
+  ]
+}

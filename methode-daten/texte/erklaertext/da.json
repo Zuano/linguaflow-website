@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "da",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Sådan fungerer LinguaFlow",
+      "text": "Når du lærer ordlister, lærer du ikke et sprog. På denne side kan du se live, hvordan det føles anderledes på få sekunder: Eksempelteksten ovenfor er en ægte app-visning, du kan prøve selv, og denne forklaring læses straks op for dig af en stemme i modersmåls kvalitet, mens ordene lyser op. Med LinguaFlow lærer du sprog på den måde, din hjerne foretrækker: først forstå, derefter lytte, så tale. Metoden bag er inspireret af Birkenbihl-metoden og består af fire trin: afkodning, aktiv lytning, passiv lytning og øvelse. Prøv det – tryk på et ord ovenfor."
+    },
+    {
+      "id": "k2",
+      "title": "Tekstvisningen",
+      "text": "Ovenfor ser du en tekst præcis, som appen viser den. Hvert ord er et lille kort: øverst står ordet på dit målsprog, og nedenunder står dets betydning på dit modersmål — ord for ord, i målsprogets rækkefølge. Derunder står hele sætningen endnu en gang oversat i en sammenhængende tekst. For sprog med et andet skriftsystem tilføjes en linje med transskriptionen, så du kan læse det hele. Tryk på et ord: Stemmen fortsætter afspilningen præcis derfra."
+    },
+    {
+      "id": "k3",
+      "title": "Trin 1: Afkodning",
+      "text": "Denne ord-for-ord-oversættelse kaldes afkodning. Den lyder bevidst klodset — for netop sådan kan du se, hvordan sproget virkelig er opbygget, helt uden at skulle lære grammatikregler udenad. Før i tiden brugte man timevis på at gøre det manuelt med en ordbog. I LinguaFlow klarer appen dette trin fuldstændigt for dig – for enhver tekst, du vil lære."
+    },
+    {
+      "id": "k4",
+      "title": "Trin 2: Aktiv lytning",
+      "text": "Nu lytter du til teksten og læser med. Som begynder læser du oversættelsen på dit modersmål, lytter til målsproget i et roligt tempo og trykker ofte på pause — på den måde forbinder din hjerne lyden med betydningen. Som øvet læser du originalteksten og kigger kun kort ned, når du støder på ukendte ord. Brug ofte A-B-gentagelsen: Marker en enkelt sætning, og lad den køre i en løkke — prøv det ovenfor."
+    },
+    {
+      "id": "k5",
+      "title": "Trin 3: Passiv lytning",
+      "text": "Lad teksten køre videre i baggrunden – mens du rydder op, går en tur eller falder i søvn. Du behøver ikke at lytte koncentreret: Din hjerne lagrer sprogets klang og melodi helt af sig selv. Det er netop det, der er forberedelsen til at tale."
+    },
+    {
+      "id": "k6",
+      "title": "Trin 4: Det afhænger af dit mål",
+      "text": "Herfra afhænger det af dit læringsmål. Hvis du blot vil forstå sproget, har du allerede nået dit mål – bliv bare ved trin to og tre. Hvis du vil tale, kommer kor-talningen ind: Vælg en kort sætning med A-B-gentagelsen, sæt hastigheden helt ned, og tal med stemmen samtidig – ligesom i et kor. Du hører straks, hvis noget lyder anderledes, og retter dig helt af dig selv. Det kan du gøre overalt, selv i sporvognen: Med hovedtelefoner lyder det som en telefonsamtale. Og hvis du vil lære at skrive, skal du blot skrive teksten med sætning for sætning."
+    },
+    {
+      "id": "k7",
+      "title": "Kom i gang",
+      "text": "Sådan fungerer LinguaFlow — med dine egne tekster, fotos og bøger, et færdigt læringsforløb og stemmer i modersmåls-kvalitet på over 30 sprog. Hent appen og kom i gang i dag."
+    }
+  ]
+}

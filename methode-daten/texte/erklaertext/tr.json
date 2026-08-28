@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "tr",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "LinguaFlow böyle çalışır",
+      "text": "Kelime listelerini ezberlemekle dil öğrenmiş olmuyorsun. Bu sayfada, birkaç saniye içinde bunun nasıl farklı bir his uyandırdığını canlı olarak görebilirsin: Yukarıdaki örnek metin, gerçek bir uygulama arayüzüdür ve bu açıklama, kelimeler parladıkça ana dil konuşmacısı kalitesinde bir ses tarafından sana okunur. LinguaFlow ile dilleri beyninin sevdiği şekilde öğrenirsin: önce anlamak, sonra dinlemek, sonra konuşmak. Bunun arkasındaki yöntem, Birkenbihl Yöntemi’nden esinlenmiştir ve dört adımdan oluşur: Kod çözme, aktif dinleme, pasif dinleme ve alıştırma. Dene bir bak — yukarıdaki kelimelerden birine dokun."
+    },
+    {
+      "id": "k2",
+      "title": "Metin görünümü",
+      "text": "Yukarıda, metni uygulamanın sana gösterdiği şekliyle görebilirsin. Her kelime küçük bir kart gibidir: üstte hedef dilindeki kelime, altında ise ana dilindeki anlamı yer alır — kelime kelime, hedef dilin sırasına göre. Bunun altında ise tüm cümle akıcı bir şekilde çevrilmiş olarak tekrar yer alır. Farklı bir yazı sistemine sahip dillerde, her şeyi okuyabilmen için bir satırlık transliterasyon eklenir. Bir kelimeye dokun: Ses, tam o noktadan itibaren devam eder."
+    },
+    {
+      "id": "k3",
+      "title": "1. Adım: Kod çözme",
+      "text": "Bu kelime kelime çeviriye “kod çözme” denir. Kasıtlı olarak akıcı olmayan bir şekilde kulağa geliyor — çünkü bu sayede dilin gerçek yapısını, gramer kurallarını ezberlemeye hiç gerek kalmadan görebilirsin. Eskiden bunu saatlerce sözlük yardımıyla elle yapardık. LinguaFlow uygulamasında ise, öğrenmek istediğin her metin için bu adımı tamamen senin yerine uygulama halleder."
+    },
+    {
+      "id": "k4",
+      "title": "2. Adım: Aktif Dinleme",
+      "text": "Şimdi metni dinlerken aynı anda okuyacaksın. Başlangıç seviyesindeyken, ana dilinde anlam satırını okuyacak, hedef dili yavaşça dinleyecek ve sık sık duraklat düğmesine basacaksın — böylece beynin ses ile anlamı birbirine bağlayacak. İleri seviye bir öğrenciysen, orijinal metni okur ve sadece bilmediğin kelimelerde kısaca aşağıya bakarsın. Bu sırada sık sık A-B tekrarı yöntemini kullan: Tek bir cümleyi seç ve onu döngü halinde dinle — yukarıda dene."
+    },
+    {
+      "id": "k5",
+      "title": "3. Adım: Pasif Dinleme",
+      "text": "Ardından metni arka planda çalmaya devam et — evi toplarken, yürüyüş yaparken ya da uykuya dalarken. Dikkatini vererek dinlemen gerekmez: Beynin, dilin sesini ve melodisini kendiliğinden ezberler. İşte konuşmaya hazırlık tam da budur."
+    },
+    {
+      "id": "k6",
+      "title": "4. Adım: Hedefin belirleyicidir",
+      "text": "Bundan sonrası, öğrenme hedefinize bağlıdır. Sadece dili anlamak istiyorsan, zaten hedefinize ulaşmışsınız demektir — ikinci ve üçüncü adımlarda kalın yeter. Konuşmak istiyorsanız, sıra koro şeklinde konuşmaya gelir: A-B tekrarıyla kısa bir cümle seçin, hızı çok yavaş ayarlayın ve sesle aynı anda konuşun — tıpkı bir koroda olduğu gibi. Bir şeyin farklı geldiğini hemen fark edersin ve kendiliğinden düzeltirsin. Bunu her yerde yapabilirsin, hatta tramvayda bile: Kulaklıklarla dinlediğinde sanki bir telefon görüşmesi gibi gelir. Yazmayı öğrenmek istiyorsan, metni cümle cümle yazmaya devam et."
+    },
+    {
+      "id": "k7",
+      "title": "Başla",
+      "text": "LinguaFlow tam da bu şekilde çalışır — kendi metinlerin, fotoğrafların ve kitaplarınla, hazır bir öğrenme yoluyla ve 30'dan fazla dilde ana dil konuşmacısı kalitesinde seslerle. Uygulamayı indir ve bugün başla."
+    }
+  ]
+}

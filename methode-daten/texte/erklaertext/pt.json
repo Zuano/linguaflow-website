@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "pt",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "É assim que funciona o LinguaFlow",
+      "text": "Se te limitares a decorar listas de vocabulário, não estás a aprender uma língua. Nesta página, podes ver em tempo real como a experiência muda em poucos segundos: O texto de exemplo acima é uma visualização real da aplicação que podes experimentar, e esta explicação vai ser-te lida imediatamente por uma voz com qualidade de falante nativo, enquanto as palavras se iluminam. Com o LinguaFlow, aprendes línguas da forma que o teu cérebro prefere: primeiro compreender, depois ouvir e, por fim, falar. O método subjacente é inspirado no Método Birkenbihl e tem quatro etapas: descodificação, audição ativa, audição passiva e prática. Experimenta — clica numa palavra acima."
+    },
+    {
+      "id": "k2",
+      "title": "A visualização do texto",
+      "text": "Acima, vês um texto exatamente como a aplicação o apresenta. Cada palavra é um pequeno cartão: em cima, a palavra no teu idioma de destino; por baixo, o seu significado no teu idioma nativo — palavra por palavra, na ordem do idioma de destino. Abaixo disso, encontra-se a frase completa traduzida de forma fluida. No caso de línguas com um alfabeto diferente, é adicionada uma linha com a transcrição, para que possas ler tudo. Toca numa palavra: a voz continua a reproduzir-se exatamente a partir daí."
+    },
+    {
+      "id": "k3",
+      "title": "Passo 1: Descodificar",
+      "text": "Esta tradução palavra por palavra chama-se «descodificação». Parece propositadamente desajeitada — porque é exatamente assim que se percebe como a língua está realmente construída, sem ter de decorar regras gramaticais. Antigamente, fazia-se isto manualmente durante horas, com o dicionário. No LinguaFlow, a aplicação trata desta etapa na íntegra por ti — para qualquer texto que queiras aprender."
+    },
+    {
+      "id": "k4",
+      "title": "Passo 2: Escuta ativa",
+      "text": "Agora, ouve o texto e vai lendo ao mesmo tempo. Como principiante, lê a linha de significado na tua língua materna, ouve a língua-alvo lentamente e faz pausas frequentes — assim, o teu cérebro associa o som ao significado. Se fores avançado, lê o texto original e só olha rapidamente para baixo quando encontrares palavras desconhecidas. Recorre frequentemente à repetição A-B: seleciona uma única frase e reproduz-a em loop — experimenta agora mesmo."
+    },
+    {
+      "id": "k5",
+      "title": "Passo 3: Audição passiva",
+      "text": "Deixa o texto a tocar em segundo plano — enquanto arrumas a casa, dás um passeio ou adormeces. Não precisas de ouvir com atenção: o teu cérebro assimila naturalmente o som e a melodia da língua. É precisamente isso que constitui a preparação para falar."
+    },
+    {
+      "id": "k6",
+      "title": "Passo 4: O teu objetivo é que determina",
+      "text": "A partir daqui, o teu objetivo de aprendizagem é que decide. Se queres apenas compreender a língua, já atingiste o teu objetivo — basta ficares-te pelos passos dois e três. Se queres falar, entra em cena a repetição em coro: escolhe uma frase curta com a repetição A-B, define a velocidade para muito lenta e fala ao mesmo tempo que a voz — como num coro. Ouves imediatamente se algo soa diferente e corriges-te espontaneamente. Isto funciona em qualquer lugar, até mesmo no elétrico: com auscultadores, parece uma chamada telefónica. E se quiseres aprender a escrever, basta escreveres o texto frase a frase."
+    },
+    {
+      "id": "k7",
+      "title": "Começa!",
+      "text": "É exatamente assim que o LinguaFlow funciona — com os teus próprios textos, fotografias e livros, um percurso de aprendizagem já definido e vozes com qualidade de falantes nativos, em mais de 30 línguas. Descarrega a aplicação e começa hoje mesmo."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "ro",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Iată cum funcționează LinguaFlow",
+      "text": "Dacă înveți liste de cuvinte, nu înveți o limbă. Pe această pagină vei vedea în timp real cum se schimbă senzația în câteva secunde: Textul de exemplu de mai sus este o interfață reală a aplicației, pe care o poți explora, iar această explicație îți va fi citită imediat de o voce cu calitatea unui vorbitor nativ, în timp ce cuvintele se luminează. Cu LinguaFlow înveți limbile străine așa cum îi place creierului tău: mai întâi înțelegi, apoi asculți, apoi vorbești. Metoda care stă la baza acestui sistem este inspirată de metoda Birkenbihl și cuprinde patru etape: decodare, ascultare activă, ascultare pasivă și exersare. Încearcă — apasă pe un cuvânt din partea de sus."
+    },
+    {
+      "id": "k2",
+      "title": "Vizualizarea textului",
+      "text": "Mai sus vezi un text exact așa cum ți-l afișează aplicația. Fiecare cuvânt este o mică fișă: sus se află cuvântul în limba țintă, iar dedesubt semnificația acestuia în limba ta maternă — cuvânt cu cuvânt, în ordinea limbii țintă. Mai jos, întreaga propoziție este redată încă o dată într-o traducere fluentă. În cazul limbilor cu un alfabet diferit, se adaugă o linie cu transcrierea, pentru ca tu să poți citi totul. Atinge un cuvânt: vocea va continua redarea exact de acolo."
+    },
+    {
+      "id": "k3",
+      "title": "Pasul 1: Decodare",
+      "text": "Această traducere cuvânt cu cuvânt se numește „decodare”. Sună intenționat stângaci — pentru că exact așa poți vedea cum este construită cu adevărat limba, fără a fi nevoie să înveți pe de rost reguli gramaticale. Pe vremuri, acest lucru se făcea manual, cu ajutorul dicționarului, timp de ore întregi. În LinguaFlow, aplicația se ocupă complet de acest pas pentru tine — pentru fiecare text pe care vrei să-l înveți."
+    },
+    {
+      "id": "k4",
+      "title": "Pasul 2: Ascultarea activă",
+      "text": "Acum asculți textul și citești în același timp. Ca începător, citești rândul cu semnificația în limba ta maternă, asculți limba țintă în ritm lent și apeși des pe pauză — astfel, mintea ta asociază sunetul cu semnificația. Dacă ești avansat, citești textul original și te uiți în jos doar pentru câteva secunde când întâlnești cuvinte necunoscute. Folosește des repetarea A-B: selectează o singură propoziție și redă-o în buclă — încearcă chiar acum mai sus."
+    },
+    {
+      "id": "k5",
+      "title": "Pasul 3: Ascultarea pasivă",
+      "text": "Lasă textul să ruleze în fundal — în timp ce faci curățenie, te plimbi sau adormi. Nu trebuie să asculți cu atenție: creierul tău învață de unul singur sunetul și melodia limbii. Tocmai asta înseamnă pregătirea pentru vorbire."
+    },
+    {
+      "id": "k6",
+      "title": "Pasul 4: Obiectivul tău este decisiv",
+      "text": "De aici încolo, totul depinde de obiectivul tău de învățare. Dacă vrei doar să înțelegi limba, ți-ai atins deja obiectivul — rămâi pur și simplu la pașii doi și trei. Dacă vrei să vorbești, urmează exercițiul de vorbire în cor: alege o propoziție scurtă folosind repetarea A-B, setează viteza la foarte lent și vorbește simultan cu vocea din înregistrare — ca într-un cor. Vei auzi imediat dacă ceva sună diferit și te vei corecta de la sine. Poți face asta oriunde, chiar și în tramvai: cu căștile, sună ca o convorbire telefonică. Iar dacă vrei să înveți să scrii, notează textul pur și simplu propoziție cu propoziție."
+    },
+    {
+      "id": "k7",
+      "title": "Dă-i drumul",
+      "text": "Exact așa funcționează LinguaFlow — cu propriile tale texte, fotografii și cărți, un parcurs de învățare gata pregătit și voci de calitate, înregistrate de vorbitori nativi, în peste 30 de limbi. Descarcă aplicația și începe chiar astăzi."
+    }
+  ]
+}

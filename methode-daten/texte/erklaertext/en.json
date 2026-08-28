@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "How LinguaFlow Works",
+      "text": "If you just memorize vocabulary lists, you’re not actually learning a language. On this page, you’ll see firsthand how things feel different in just a few seconds: The sample text above is a real, interactive app interface, and a native-speaker-quality voice will read this explanation aloud to you right away while the words light up. With LinguaFlow, you learn languages the way your brain prefers: first understand, then listen, then speak. The method behind it is inspired by the Birkenbihl Method and consists of four steps: decoding, active listening, passive listening, and practice. Give it a try—tap a word above."
+    },
+    {
+      "id": "k2",
+      "title": "Text View",
+      "text": "Above, you’ll see a text exactly as the app displays it. Each word is a small card: at the top, the word in your target language; below that, its meaning in your native language—word for word, in the order of the target language. Below that, the entire sentence is translated again in a natural, flowing way. For languages with a different writing system, a line with the transliteration is included so you can read everything. Tap a word: The voice will resume playing right from there."
+    },
+    {
+      "id": "k3",
+      "title": "Step 1: Decode",
+      "text": "This word-for-word translation is called decoding. It sounds deliberately clunky—because that’s exactly how you see how the language is really structured, without having to memorize any grammar rules. In the past, people used to do this by hand for hours using a dictionary. In LinguaFlow, the app handles this step entirely for you—for any text you want to learn."
+    },
+    {
+      "id": "k4",
+      "title": "Step 2: Active Listening",
+      "text": "Now listen to the text while reading along. As a beginner, read the translation in your native language, listen to the target language at a slow pace, and press pause often—this helps your brain associate the sound with the meaning. As an advanced learner, read the original text and only glance down briefly when you encounter unfamiliar words. Make frequent use of the A-B repeat feature: select a single sentence and play it on a loop—give it a try above."
+    },
+    {
+      "id": "k5",
+      "title": "Step 3: Passive Listening",
+      "text": "Let the text play in the background afterward—while you're cleaning, taking a walk, or falling asleep. You don't have to listen intently: Your brain will naturally absorb the sounds and melody of the language. That's exactly what prepares you for speaking."
+    },
+    {
+      "id": "k6",
+      "title": "Step 4: Your goal determines",
+      "text": "From here on, it depends on your learning goal. If you just want to understand the language, you’ve already reached your goal—just stick with steps two and three. If you want to speak, try speaking along: Using the A-B repeat, pick a short sentence, set the speed to very slow, and speak along with the voice—just like in a choir. You’ll immediately hear if something sounds different, and you’ll correct yourself automatically. You can do this anywhere, even on the streetcar: with headphones, it sounds like a phone call. And if you want to learn to write, just write out the text sentence by sentence."
+    },
+    {
+      "id": "k7",
+      "title": "Get started",
+      "text": "That's exactly how LinguaFlow works—with your own texts, photos, and books, a ready-made learning path, and native-speaker-quality voices in over 30 languages. Download the app and get started today."
+    }
+  ]
+}

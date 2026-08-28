@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "et",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Nii toimib LinguaFlow",
+      "text": "Kui õpid sõnavara nimekirju, ei õpi sa keelt. Sellel lehel näed reaalajas, kuidas see mõne sekundi jooksul teistmoodi tundub: Ülaltoodud näidistekst on tõeline rakenduse vaade, mida saad ise katsetada, ja seda selgitust loeb sulle kohe emakeele tasemel hääl ette, samal ajal kui sõnad valgustuvad. LinguaFlow abil õpid keeli nii, nagu su aju seda eelistab: kõigepealt mõistad, siis kuulad, seejärel räägid. Selle taga olev meetod on inspireeritud Birkenbihli meetodist ja koosneb neljast etapist: dekodeerimine, aktiivne kuulamine, passiivne kuulamine ja harjutamine. Proovi seda – puuduta ülevalt mõnda sõna."
+    },
+    {
+      "id": "k2",
+      "title": "Teksti vaade",
+      "text": "Üleval näed teksti täpselt nii, nagu rakendus seda sulle kuvab. Iga sõna on väike kaart: ülaosas on sõna sihtkeeles, selle all selle tähendus emakeeles – sõna-sõnalt, sihtkeele järjekorras. Allpool on kogu lause veel kord sujuvalt tõlgitud. Keelte puhul, millel on teistsugune kirjasüsteem, lisatakse rida transkriptsiooniga, et saaksid kõike lugeda. Puuduta sõna: hääl jätkab just sealt edasi."
+    },
+    {
+      "id": "k3",
+      "title": "1. samm: dekodeerimine",
+      "text": "Seda sõna-sõnalt tõlkimist nimetatakse dekodeerimiseks. See kõlab tahtlikult konarlikult – sest just nii saadki aru, kuidas keel tegelikult on üles ehitatud, ilma et peaksid grammatika reegleid pähe õppima. Varem tehti seda tundide kaupa käsitsi sõnaraamatu abil. LinguaFlow rakendus teeb selle sammu sinu eest täielikult ära – iga teksti puhul, mida sa õppida soovid."
+    },
+    {
+      "id": "k4",
+      "title": "2. samm: Aktiivne kuulamine",
+      "text": "Nüüd kuulad teksti ja loed seda samal ajal kaasa. Algajana loed tähenduse rida oma emakeeles, kuulad sihtkeelt aeglaselt ja vajutad sageli pausinuppu – nii seostab su aju heli tähendusega. Kui oled edasijõudnud õppija, loe originaalteksti ja vaata allapoole vaid tundmatute sõnade puhul. Kasuta selle juures sageli A-B-kordust: märgi üks lause ja lase seda korduvalt mängida – proovi seda ülal ära."
+    },
+    {
+      "id": "k5",
+      "title": "3. samm: Passiivne kuulamine",
+      "text": "Lase tekstil seejärel taustal edasi mängida – koristamise, jalutamise või magamajäämise ajal. Sa ei pea keskendunult kuulama: su aju talletab keele kõla ja meloodia iseenesest. Just see ongi kõnelemise ettevalmistus."
+    },
+    {
+      "id": "k6",
+      "title": "4. samm: Sõltub sinu eesmärgist",
+      "text": "Siit edasi sõltub kõik sinu õppimiseesmärgist. Kui soovid keelt lihtsalt mõista, oled juba eesmärgi saavutanud – jää lihtsalt teise ja kolmanda sammu juurde. Kui soovid rääkida, tuleb kordamine kooris: võta A-B-kordamise abil lühike lause, sea kiirus väga aeglaseks ja räägi samaaegselt häälega kaasa – nagu kooris. Kuuled kohe, kui midagi kõlab teisiti, ja parandad end iseenesest. Seda saab teha kõikjal, isegi trammis: kõrvaklappidega kõlab see nagu telefonikõne. Ja kui tahad kirjutamist õppida, kirjuta tekst lihtsalt lausehaaval kaasa."
+    },
+    {
+      "id": "k7",
+      "title": "Alusta",
+      "text": "Just nii toimibki LinguaFlow – sinu enda tekstide, fotode ja raamatutega, valmis õppekavaga ning emakeelena kõnelevate häältega enam kui 30 keeles. Lae rakendus alla ja alusta juba täna."
+    }
+  ]
+}

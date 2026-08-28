@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "hu",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "Így működik a LinguaFlow",
+      "text": "Ha szókincslistákat tanulsz, azzal nem tanulsz meg nyelvet. Ezen az oldalon élőben láthatod, hogyan változik meg az élmény másodpercek alatt: A fenti példaszöveg egy valódi, kézzel fogható alkalmazás-nézet, és ezt a magyarázatot rögtön anyanyelvi színvonalú hang felolvassa neked, miközben a szavak kivilágítanak. A LinguaFlow-val úgy tanulsz nyelveket, ahogyan az agyad szereti: először megérteni, aztán hallani, végül beszélni. A módszer a Birkenbihl-módszerből merít ihletet, és négy lépésből áll: dekódolás, aktív hallgatás, passzív hallgatás és gyakorlás. Próbáld ki – kattints felül egy szóra!"
+    },
+    {
+      "id": "k2",
+      "title": "A szöveg megtekintése",
+      "text": "Fent láthatod a szöveget pontosan úgy, ahogyan az alkalmazás megjeleníti. Minden szó egy kis kártya: felül a szó a célnyelven, alatta a jelentése az anyanyelveden — szóról szóra, a célnyelv sorrendjében. Alatta pedig a teljes mondat folyékony fordításban szerepel. Azoknál a nyelveknél, amelyek más írásrendszerrel rendelkeznek, egy sor transzkripció is megjelenik, hogy mindent el tudd olvasni. Érints meg egy szót: a hang pontosan onnan folytatja a lejátszást."
+    },
+    {
+      "id": "k3",
+      "title": "1. lépés: Dekódolás",
+      "text": "Ezt a szó szerinti fordítást dekódolásnak nevezzük. Szándékosan kissé akadozónak hangzik — mert így pontosan láthatod, hogyan épül fel valójában a nyelv, anélkül, hogy nyelvtani szabályokat kellene magolni. Régen ezt órákig kézzel, szótár segítségével végezték. A LinguaFlow alkalmazásban az app teljesen elvégzi ezt a lépést helyetted – minden olyan szöveg esetében, amelyet meg akarsz tanulni."
+    },
+    {
+      "id": "k4",
+      "title": "2. lépés: Aktív hallgatás",
+      "text": "Most hallgasd meg a szöveget, és közben kövesd a szöveget. Kezdőként olvasd el a jelentésmagyarázatot anyanyelveden, hallgasd meg lassan a célnyelvet, és gyakran nyomd meg a szünet gombot — így az agyad összekapcsolja a hangot a jelentéssel. Haladóként olvasd el az eredeti szöveget, és csak az ismeretlen szavaknál pillants le röviden. Használd gyakran az A-B-ismétlést: jelöld ki egy mondatot, és játszd le újra és újra – próbáld ki fent!"
+    },
+    {
+      "id": "k5",
+      "title": "3. lépés: Passzív hallgatás",
+      "text": "Ezt követően hagyd, hogy a szöveg a háttérben tovább szóljon – takarítás közben, sétálás közben vagy elalváskor. Nem kell koncentrálnod a hallgatásra: az agyad magától megjegyzi a nyelv hangzását és dallamát. Pontosan ez a beszédre való felkészülés."
+    },
+    {
+      "id": "k6",
+      "title": "4. lépés: A célod határozza meg",
+      "text": "Innentől kezdve a tanulási célod határozza meg a további lépéseket. Ha csak a nyelvet szeretnéd megérteni, máris elérted a célodat – egyszerűen maradj a második és harmadik lépésnél. Ha beszélni akarsz, jön a kórusos beszéd: az A-B-ismétléssel válassz egy rövid mondatot, állítsd be a sebességet nagyon lassúra, és beszélj egyidejűleg a hanggal – mintha kórusban énekelnél. Azonnal meghallod, ha valami máshogy hangzik, és teljesen ösztönösen kijavítod magad. Ez bárhol működik, még a villamoson is: fülhallgatóval úgy hangzik, mintha telefonálnál. Ha pedig írni szeretnél tanulni, egyszerűen írd le a szöveget mondatról mondatra."
+    },
+    {
+      "id": "k7",
+      "title": "Kezdd el!",
+      "text": "Pontosan így működik a LinguaFlow — a saját szövegeiddel, fotóiddal és könyveiddel, egy kész tanulási útvonallal és anyanyelvi színvonalú hangfelvételekkel, több mint 30 nyelven. Töltsd le az alkalmazást, és kezdj neki még ma!"
+    }
+  ]
+}
