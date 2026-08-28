@@ -1,5 +1,55 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-08-28 — Interaktive Methoden-Erklärseite (`methode.html`): Grundsatzentscheidungen
+
+Geplant in der Session „linguaflow-interactive-explanation" (Grilling-Runden 1+2,
+alle Punkte von Christian entschieden). Details und Schritte: `.claude/plan-methode-seite.md`.
+
+- **Audio wird vorab generiert, nicht zur Laufzeit.** Die Vorlese-Audios (Beispieltext
+  je Zielsprache, Erklärtext je Muttersprache) entstehen einmalig per Skript über die
+  Sprachsynthese-API (Muster: `functions/scripts/generateLearningPathAudio.mjs` im
+  App-Backend, Endpunkt `with-timestamps` liefert Wort-Zeitstempel für die
+  Karaoke-Hervorhebung). Die Website liefert nur statische MP3+JSON aus.
+  **Begründung:** Ein API-Schlüssel im Browser wäre sofort stehlbar; ein Proxy-Server
+  hätte laufende Kosten und widerspricht der statischen GitHub-Pages-Architektur.
+  Nachteil (akzeptiert): Textänderungen erfordern Neu-Generierung per Skript.
+  Der Anbieter der Sprachsynthese wird auf der Website weiterhin nicht genannt
+  (Bestandsregel, nur „Muttersprachler-Qualität").
+- **Volle Sprachpaar-Matrix: 33 × 32 = 1.056 Dekodierungen.** Muttersprache und
+  Zielsprache kommen beide aus der kanonischen App-Sprachliste (die 33 Kacheln auf
+  der Startseite, Quelle `AVAILABLE_LANGUAGES.md` im App-Repo; inkl. Hebräisch und
+  Russisch, die keine Website-Ordner haben — die Muttersprache wird auf der Seite
+  gewählt, nicht über den Sprachordner). Die 10 „nur-Quellsprache"-Sprachen der App
+  (Google-Übersetzung, ohne Sprachausgabe) sind ausdrücklich NICHT dabei.
+- **Dekodierungen entstehen über die App-eigene Dekodier-Pipeline** (Cloud Function
+  `decodeText`, Claude-gestützt, inkl. Umschrift bei nicht-lateinischen Schriften),
+  nicht über eine Website-eigene Nachbildung. **Begründung:** Die Website soll
+  exakt zeigen, was die App liefert; Qualität und Format (w/t/r-Paare) sind dort
+  bereits produktionserprobt. Einmalige KI-Kosten grob 10–20 €.
+- **Ein erfundener Beispieltext statt Lernweg-Inhalt der App** (Christians Wunsch):
+  4 kurze Sätze zum Thema „zurück in deinen Beruf dank Sprachkenntnissen" —
+  universell, nicht berufsspezifisch. Deutscher Meistertext, per DeepL in die 33
+  Zielsprachen übersetzt, dann je Paar dekodiert.
+- **Alle Daten liegen im Website-Repo** (Dekodierungs-JSON, Audio, Zeitstempel;
+  geschätzt 50–90 MB), nicht im Google-Cloud-Speicher der App. **Begründung:**
+  Die Seite bleibt eigenständig lauffähig, unabhängig von Umbauten am App-Backend.
+- **`methode.html` wird in alle 33 Website-Sprachen übersetzt** (reguläre
+  Pipeline, einmalig 2–4 €), weil die Seite selbst 33 Muttersprachen bedient —
+  eine nur-deutsche Hülle wäre unstimmig. Die interaktiven Inhalte liegen in
+  eigenen JSON-Dateien und laufen NICHT durch DeepLs Seitenübersetzung
+  (Inline-JS/Daten sind dort ohnehin geschützt).
+- **Verlinkung von `index.html` per Cache-Trick** + Hand-Nachtrag in EN/EN-GB
+  (Präzedenz: Galerie-Erweiterung 2026-08-16); restliche Sprachen beim nächsten
+  ohnehin bezahlten index-Lauf. Spart ~27 € Sofortkosten.
+- **Kein Erklär-Popup beim Wort-Antippen:** Tippen springt im Audio zu diesem Wort
+  und spielt ab dort — exakt das App-Verhalten. Keine Level-Abfrage vor dem Start;
+  Anfänger- und Fortgeschrittenen-Weg werden beide gezeigt. Eigenständige Seite,
+  keine technische Vorleistung für das Free-Tool aus dem Marketing-Backlog.
+- **Geprüft und verworfen:** `npx create-ai-eng-app` (Kurs-Kit für
+  Next.js/Supabase-Apps; passt weder zur statischen Website noch zur
+  Tutorial-Seite, würde CLAUDE.md/Settings des Repos umschreiben, UNLICENSED
+  ohne einsehbares Repository).
+
 ## Rechtstexte nur Deutsch + Englisch (2026-07-12)
 
 **Entscheidung:** Datenschutzerklärung, EULA und Impressum gibt es nur noch auf
