@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "et",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Olen palju aastaid oma elukutses töötanud.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Mina"
+    },
+    {
+     "w": "habe",
+     "t": "olen"
+    },
+    {
+     "w": "viele",
+     "t": "palju"
+    },
+    {
+     "w": "Jahre",
+     "t": "aastaid"
+    },
+    {
+     "w": "in",
+     "t": "oma"
+    },
+    {
+     "w": "meinem",
+     "t": "(Wortteil, kuulub 'in meinem')"
+    },
+    {
+     "w": "Beruf",
+     "t": "elukutses"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "töötanud."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Siis tulin ma uude riiki.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Siis"
+    },
+    {
+     "w": "bin",
+     "t": "olen"
+    },
+    {
+     "w": "ich",
+     "t": "mina"
+    },
+    {
+     "w": "in",
+     "t": "sisse"
+    },
+    {
+     "w": "ein",
+     "t": "üks (uus)"
+    },
+    {
+     "w": "neues",
+     "t": "uude"
+    },
+    {
+     "w": "Land",
+     "t": "riiki"
+    },
+    {
+     "w": "gekommen.",
+     "t": "tulnud."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Praegu õpin ma keelt.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Praegu"
+    },
+    {
+     "w": "lerne",
+     "t": "õpin"
+    },
+    {
+     "w": "ich",
+     "t": "mina"
+    },
+    {
+     "w": "die",
+     "t": "(seda)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "keelt."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Varsti töötan ma taas oma elukutses.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Varsti"
+    },
+    {
+     "w": "arbeite",
+     "t": "töötan"
+    },
+    {
+     "w": "ich",
+     "t": "mina"
+    },
+    {
+     "w": "wieder",
+     "t": "taas"
+    },
+    {
+     "w": "in",
+     "t": "oma"
+    },
+    {
+     "w": "meinem",
+     "t": "(Wortteil, kuulub 'in meinem')"
+    },
+    {
+     "w": "Beruf.",
+     "t": "elukutses."
+    }
+   ]
+  }
+ ]
+}

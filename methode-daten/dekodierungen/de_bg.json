@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "bg",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Работил съм много години в моята професия.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Аз"
+    },
+    {
+     "w": "habe",
+     "t": "съм"
+    },
+    {
+     "w": "viele",
+     "t": "много"
+    },
+    {
+     "w": "Jahre",
+     "t": "години"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "meinem",
+     "t": "моята"
+    },
+    {
+     "w": "Beruf",
+     "t": "професия"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "работил."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "После дойдох в една нова страна.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "После"
+    },
+    {
+     "w": "bin",
+     "t": "съм"
+    },
+    {
+     "w": "ich",
+     "t": "аз"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "ein",
+     "t": "една"
+    },
+    {
+     "w": "neues",
+     "t": "нова"
+    },
+    {
+     "w": "Land",
+     "t": "страна"
+    },
+    {
+     "w": "gekommen.",
+     "t": "дошъл."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Сега уча езика.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Сега"
+    },
+    {
+     "w": "lerne",
+     "t": "уча"
+    },
+    {
+     "w": "ich",
+     "t": "аз"
+    },
+    {
+     "w": "die",
+     "t": "(определителен-член)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "език."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Скоро отново ще работя в моята професия.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Скоро"
+    },
+    {
+     "w": "arbeite",
+     "t": "работя"
+    },
+    {
+     "w": "ich",
+     "t": "аз"
+    },
+    {
+     "w": "wieder",
+     "t": "отново"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "meinem",
+     "t": "моята"
+    },
+    {
+     "w": "Beruf.",
+     "t": "професия."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "uk",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Я багато років працював за своєю професією.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Я"
+    },
+    {
+     "w": "habe",
+     "t": "мав (допоміжне-дієслово)"
+    },
+    {
+     "w": "viele",
+     "t": "багато"
+    },
+    {
+     "w": "Jahre",
+     "t": "років"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "meinem",
+     "t": "своїй"
+    },
+    {
+     "w": "Beruf",
+     "t": "професії"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "працював."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Потім я приїхав у нову країну.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Потім"
+    },
+    {
+     "w": "bin",
+     "t": "є (допоміжне-дієслово)"
+    },
+    {
+     "w": "ich",
+     "t": "я"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "ein",
+     "t": "одну"
+    },
+    {
+     "w": "neues",
+     "t": "нову"
+    },
+    {
+     "w": "Land",
+     "t": "країну"
+    },
+    {
+     "w": "gekommen.",
+     "t": "приїхав."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Тепер я вивчаю мову.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Тепер"
+    },
+    {
+     "w": "lerne",
+     "t": "вивчаю"
+    },
+    {
+     "w": "ich",
+     "t": "я"
+    },
+    {
+     "w": "die",
+     "t": "цю"
+    },
+    {
+     "w": "Sprache.",
+     "t": "мову."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Скоро я знову працюватиму за своєю професією.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Скоро"
+    },
+    {
+     "w": "arbeite",
+     "t": "працюю"
+    },
+    {
+     "w": "ich",
+     "t": "я"
+    },
+    {
+     "w": "wieder",
+     "t": "знову"
+    },
+    {
+     "w": "in",
+     "t": "в"
+    },
+    {
+     "w": "meinem",
+     "t": "своїй"
+    },
+    {
+     "w": "Beruf.",
+     "t": "професії."
+    }
+   ]
+  }
+ ]
+}

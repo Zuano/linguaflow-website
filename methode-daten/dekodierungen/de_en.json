@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "en",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "I worked in my profession for many years.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "I"
+    },
+    {
+     "w": "habe",
+     "t": "have"
+    },
+    {
+     "w": "viele",
+     "t": "many"
+    },
+    {
+     "w": "Jahre",
+     "t": "years"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "meinem",
+     "t": "my"
+    },
+    {
+     "w": "Beruf",
+     "t": "profession"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "worked."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Then I came to a new country.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Then"
+    },
+    {
+     "w": "bin",
+     "t": "am (have)"
+    },
+    {
+     "w": "ich",
+     "t": "I"
+    },
+    {
+     "w": "in",
+     "t": "to (into)"
+    },
+    {
+     "w": "ein",
+     "t": "a"
+    },
+    {
+     "w": "neues",
+     "t": "new"
+    },
+    {
+     "w": "Land",
+     "t": "country"
+    },
+    {
+     "w": "gekommen.",
+     "t": "come."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Now I am learning the language.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Now"
+    },
+    {
+     "w": "lerne",
+     "t": "learn"
+    },
+    {
+     "w": "ich",
+     "t": "I"
+    },
+    {
+     "w": "die",
+     "t": "the"
+    },
+    {
+     "w": "Sprache.",
+     "t": "language."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Soon I will work in my profession again.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Soon"
+    },
+    {
+     "w": "arbeite",
+     "t": "work"
+    },
+    {
+     "w": "ich",
+     "t": "I"
+    },
+    {
+     "w": "wieder",
+     "t": "again"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "meinem",
+     "t": "my"
+    },
+    {
+     "w": "Beruf.",
+     "t": "profession."
+    }
+   ]
+  }
+ ]
+}

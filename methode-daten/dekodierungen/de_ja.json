@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "ja",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "私は自分の職業で長年働きました。",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "私は"
+    },
+    {
+     "w": "habe",
+     "t": "（〜し）た"
+    },
+    {
+     "w": "viele",
+     "t": "多くの"
+    },
+    {
+     "w": "Jahre",
+     "t": "年を"
+    },
+    {
+     "w": "in",
+     "t": "〜において"
+    },
+    {
+     "w": "meinem",
+     "t": "私の"
+    },
+    {
+     "w": "Beruf",
+     "t": "職業"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "働いた。"
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "それから私は新しい国に来ました。",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "それから"
+    },
+    {
+     "w": "bin",
+     "t": "（〜し）た"
+    },
+    {
+     "w": "ich",
+     "t": "私は"
+    },
+    {
+     "w": "in",
+     "t": "〜へ"
+    },
+    {
+     "w": "ein",
+     "t": "一つの"
+    },
+    {
+     "w": "neues",
+     "t": "新しい"
+    },
+    {
+     "w": "Land",
+     "t": "国に"
+    },
+    {
+     "w": "gekommen.",
+     "t": "来た。"
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "今、私はその言語を学んでいます。",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "今"
+    },
+    {
+     "w": "lerne",
+     "t": "学ぶ"
+    },
+    {
+     "w": "ich",
+     "t": "私は"
+    },
+    {
+     "w": "die",
+     "t": "その"
+    },
+    {
+     "w": "Sprache.",
+     "t": "言語を。"
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "もうすぐ私は再び自分の職業で働きます。",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "もうすぐ"
+    },
+    {
+     "w": "arbeite",
+     "t": "働く"
+    },
+    {
+     "w": "ich",
+     "t": "私は"
+    },
+    {
+     "w": "wieder",
+     "t": "再び"
+    },
+    {
+     "w": "in",
+     "t": "〜において"
+    },
+    {
+     "w": "meinem",
+     "t": "私の"
+    },
+    {
+     "w": "Beruf.",
+     "t": "職業で。"
+    }
+   ]
+  }
+ ]
+}

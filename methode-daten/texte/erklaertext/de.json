@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lang": "de",
+  "chapters": [
+    {
+      "id": "k1",
+      "title": "So funktioniert LinguaFlow",
+      "text": "Diese Seite erzählt dir nicht nur, wie LinguaFlow funktioniert — sie zeigt es dir live. Der Beispieltext oben ist eine echte App-Ansicht zum Anfassen, und diese Erklärung liest dir gleich eine Stimme in Muttersprachler-Qualität vor, während die Wörter mitleuchten. Mit LinguaFlow lernst du Sprachen so, wie dein Gehirn es mag: erst verstehen, dann hören, dann sprechen. Die Methode dahinter ist inspiriert von der Birkenbihl-Methode und hat vier Schritte: Dekodieren, aktives Hören, passives Hören und Üben. Probier es aus — tippe oben auf ein Wort."
+    },
+    {
+      "id": "k2",
+      "title": "Die Textansicht",
+      "text": "Oben siehst du einen Text genau so, wie ihn dir die App zeigt. Jedes Wort ist eine kleine Karte: oben das Wort in deiner Zielsprache, darunter seine Bedeutung in deiner Muttersprache — Wort für Wort, in der Reihenfolge der Zielsprache. Darunter steht der ganze Satz noch einmal flüssig übersetzt. Bei Sprachen mit anderer Schrift kommt eine Zeile mit der Umschrift dazu, damit du alles lesen kannst. Tippe auf ein Wort: Die Stimme spielt genau ab dort weiter."
+    },
+    {
+      "id": "k3",
+      "title": "Schritt 1: Dekodieren",
+      "text": "Diese Wort-für-Wort-Übersetzung heißt Dekodieren. Sie klingt absichtlich holprig — denn genau so siehst du, wie die Sprache wirklich gebaut ist, ganz ohne Grammatikregeln zu pauken. Früher machte man das stundenlang von Hand mit dem Wörterbuch. In LinguaFlow erledigt die App diesen Schritt komplett für dich — für jeden Text, den du lernen willst."
+    },
+    {
+      "id": "k4",
+      "title": "Schritt 2: Aktives Hören",
+      "text": "Jetzt hörst du den Text und liest dabei mit. Als Anfänger liest du die Bedeutungszeile in deiner Muttersprache, hörst die Zielsprache langsam und drückst oft auf Pause — so verknüpft dein Kopf den Klang mit der Bedeutung. Als Fortgeschrittener liest du den Originaltext und schaust nur bei unbekannten Wörtern kurz nach unten. Nutze dabei oft die A-B-Wiederholung: Markiere einen einzelnen Satz und lass ihn in Schleife laufen — probiere es oben aus."
+    },
+    {
+      "id": "k5",
+      "title": "Schritt 3: Passives Hören",
+      "text": "Lass den Text danach im Hintergrund weiterlaufen — beim Aufräumen, Spazieren oder Einschlafen. Du musst nicht konzentriert zuhören: Dein Gehirn prägt sich Klang und Melodie der Sprache von selbst ein. Genau das ist die Vorbereitung aufs Sprechen."
+    },
+    {
+      "id": "k6",
+      "title": "Schritt 4: Dein Ziel entscheidet",
+      "text": "Ab hier entscheidet dein Lernziel. Willst du die Sprache nur verstehen, bist du jetzt schon am Ziel — bleib einfach bei Schritt zwei und drei. Willst du sprechen, kommt das Chorsprechen: Nimm dir mit der A-B-Wiederholung einen kurzen Satz, stelle die Geschwindigkeit ganz langsam und sprich gleichzeitig mit der Stimme mit — wie im Chor. Du hörst sofort, wenn etwas anders klingt, und korrigierst dich ganz von selbst. Das geht überall, sogar in der Straßenbahn: Mit Kopfhörern klingt es wie ein Telefonat. Und willst du schreiben lernen, schreibe den Text einfach Satz für Satz mit."
+    },
+    {
+      "id": "k7",
+      "title": "Leg los",
+      "text": "Genau so funktioniert LinguaFlow — mit deinen eigenen Texten, Fotos und Büchern, einem fertigen Lernweg und Stimmen in Muttersprachler-Qualität, in über 30 Sprachen. Hol dir die App und fang heute an."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "he",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "עבדתי שנים רבות במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "אני"
+    },
+    {
+     "w": "habe",
+     "t": "יש-לי (עברתי)"
+    },
+    {
+     "w": "viele",
+     "t": "רבות"
+    },
+    {
+     "w": "Jahre",
+     "t": "שנים"
+    },
+    {
+     "w": "in",
+     "t": "ב"
+    },
+    {
+     "w": "meinem",
+     "t": "שלי"
+    },
+    {
+     "w": "Beruf",
+     "t": "מקצוע"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "עבדתי."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "אחר כך הגעתי לארץ חדשה.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "אחר-כך"
+    },
+    {
+     "w": "bin",
+     "t": "אני-הייתי"
+    },
+    {
+     "w": "ich",
+     "t": "אני"
+    },
+    {
+     "w": "in",
+     "t": "אל"
+    },
+    {
+     "w": "ein",
+     "t": "ארץ (א')"
+    },
+    {
+     "w": "neues",
+     "t": "חדשה"
+    },
+    {
+     "w": "Land",
+     "t": "ארץ"
+    },
+    {
+     "w": "gekommen.",
+     "t": "באתי."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "עכשיו אני לומד את השפה.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "עכשיו"
+    },
+    {
+     "w": "lerne",
+     "t": "לומד"
+    },
+    {
+     "w": "ich",
+     "t": "אני"
+    },
+    {
+     "w": "die",
+     "t": "את-ה"
+    },
+    {
+     "w": "Sprache.",
+     "t": "שפה."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "בקרוב אני אחזור לעבוד במקצוע שלי.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "בקרוב"
+    },
+    {
+     "w": "arbeite",
+     "t": "אעבוד"
+    },
+    {
+     "w": "ich",
+     "t": "אני"
+    },
+    {
+     "w": "wieder",
+     "t": "שוב"
+    },
+    {
+     "w": "in",
+     "t": "ב"
+    },
+    {
+     "w": "meinem",
+     "t": "שלי"
+    },
+    {
+     "w": "Beruf.",
+     "t": "מקצוע."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "el",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Έχω δουλέψει πολλά χρόνια στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Εγώ"
+    },
+    {
+     "w": "habe",
+     "t": "έχω"
+    },
+    {
+     "w": "viele",
+     "t": "πολλά"
+    },
+    {
+     "w": "Jahre",
+     "t": "χρόνια"
+    },
+    {
+     "w": "in",
+     "t": "στο"
+    },
+    {
+     "w": "meinem",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "Beruf",
+     "t": "επάγγελμα"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "δουλέψει."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Έπειτα ήρθα σε μια νέα χώρα.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Έπειτα"
+    },
+    {
+     "w": "bin",
+     "t": "είμαι (έχω)"
+    },
+    {
+     "w": "ich",
+     "t": "εγώ"
+    },
+    {
+     "w": "in",
+     "t": "σε"
+    },
+    {
+     "w": "ein",
+     "t": "μια"
+    },
+    {
+     "w": "neues",
+     "t": "νέα"
+    },
+    {
+     "w": "Land",
+     "t": "χώρα"
+    },
+    {
+     "w": "gekommen.",
+     "t": "ερχόμενος (ήρθα)."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Τώρα μαθαίνω τη γλώσσα.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Τώρα"
+    },
+    {
+     "w": "lerne",
+     "t": "μαθαίνω"
+    },
+    {
+     "w": "ich",
+     "t": "εγώ"
+    },
+    {
+     "w": "die",
+     "t": "τη"
+    },
+    {
+     "w": "Sprache.",
+     "t": "γλώσσα."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Σύντομα θα δουλέψω ξανά στο επάγγελμά μου.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Σύντομα"
+    },
+    {
+     "w": "arbeite",
+     "t": "δουλεύω (θα-δουλέψω)"
+    },
+    {
+     "w": "ich",
+     "t": "εγώ"
+    },
+    {
+     "w": "wieder",
+     "t": "ξανά"
+    },
+    {
+     "w": "in",
+     "t": "στο"
+    },
+    {
+     "w": "meinem",
+     "t": "δικό-μου"
+    },
+    {
+     "w": "Beruf.",
+     "t": "επάγγελμα."
+    }
+   ]
+  }
+ ]
+}

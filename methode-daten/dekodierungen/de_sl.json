@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "sl",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Delal sem mnogo let v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "jaz"
+    },
+    {
+     "w": "habe",
+     "t": "sem"
+    },
+    {
+     "w": "viele",
+     "t": "mnogo"
+    },
+    {
+     "w": "Jahre",
+     "t": "let"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "meinem",
+     "t": "svojem"
+    },
+    {
+     "w": "Beruf",
+     "t": "poklicu"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "delal."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Nato sem prišel v novo državo.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "nato"
+    },
+    {
+     "w": "bin",
+     "t": "sem"
+    },
+    {
+     "w": "ich",
+     "t": "jaz"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "ein",
+     "t": "eno"
+    },
+    {
+     "w": "neues",
+     "t": "novo"
+    },
+    {
+     "w": "Land",
+     "t": "državo"
+    },
+    {
+     "w": "gekommen.",
+     "t": "prišel."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Zdaj se učim jezika.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "zdaj"
+    },
+    {
+     "w": "lerne",
+     "t": "učim"
+    },
+    {
+     "w": "ich",
+     "t": "jaz"
+    },
+    {
+     "w": "die",
+     "t": "(ta)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "jezik."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Kmalu bom spet delal v svojem poklicu.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "kmalu"
+    },
+    {
+     "w": "arbeite",
+     "t": "delam"
+    },
+    {
+     "w": "ich",
+     "t": "jaz"
+    },
+    {
+     "w": "wieder",
+     "t": "spet"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "meinem",
+     "t": "svojem"
+    },
+    {
+     "w": "Beruf.",
+     "t": "poklicu."
+    }
+   ]
+  }
+ ]
+}

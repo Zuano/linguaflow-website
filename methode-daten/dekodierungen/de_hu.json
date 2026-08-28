@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "hu",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Sok évig dolgoztam a szakmámban.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Én"
+    },
+    {
+     "w": "habe",
+     "t": "(segédige, múlt idő)"
+    },
+    {
+     "w": "viele",
+     "t": "sok"
+    },
+    {
+     "w": "Jahre",
+     "t": "évet"
+    },
+    {
+     "w": "in",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "meinem",
+     "t": "az-én"
+    },
+    {
+     "w": "Beruf",
+     "t": "szakmámban"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "dolgoztam."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Aztán egy új országba kerültem.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Aztán"
+    },
+    {
+     "w": "bin",
+     "t": "(segédige, múlt idő)"
+    },
+    {
+     "w": "ich",
+     "t": "én"
+    },
+    {
+     "w": "in",
+     "t": "-ba/-be"
+    },
+    {
+     "w": "ein",
+     "t": "egy"
+    },
+    {
+     "w": "neues",
+     "t": "új"
+    },
+    {
+     "w": "Land",
+     "t": "országba"
+    },
+    {
+     "w": "gekommen.",
+     "t": "jöttem (kerültem)."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Most tanulom a nyelvet.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Most"
+    },
+    {
+     "w": "lerne",
+     "t": "tanulom"
+    },
+    {
+     "w": "ich",
+     "t": "én"
+    },
+    {
+     "w": "die",
+     "t": "a"
+    },
+    {
+     "w": "Sprache.",
+     "t": "nyelvet."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Nemsokára ismét a szakmámban fogok dolgozni.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Nemsokára"
+    },
+    {
+     "w": "arbeite",
+     "t": "dolgozom"
+    },
+    {
+     "w": "ich",
+     "t": "én"
+    },
+    {
+     "w": "wieder",
+     "t": "ismét"
+    },
+    {
+     "w": "in",
+     "t": "-ban/-ben"
+    },
+    {
+     "w": "meinem",
+     "t": "az-én"
+    },
+    {
+     "w": "Beruf.",
+     "t": "szakmámban."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "_comment": "UI strings of the method page per native language. 'de' is the master; other languages are added by scripts/methode/uebersetze-erklaertext.mjs (DeepL). / UI-Texte der Methoden-Seite je Muttersprache. 'de' ist der Meister; übrige Sprachen ergänzt das DeepL-Skript.",
+  "de": {
+    "nativeLabel": "Ich spreche",
+    "targetLabel": "Ich möchte lernen",
+    "start": "Los geht's",
+    "playerTitle": "Dein Beispieltext",
+    "playerHint": "Tippe auf ein Wort – die Stimme spielt genau ab dort.",
+    "play": "Abspielen",
+    "pause": "Pause",
+    "slow": "Langsam",
+    "ab": "A–B",
+    "abHintStart": "Tippe das erste Wort der Schleife an.",
+    "abHintEnd": "Jetzt das letzte Wort antippen – die Schleife startet.",
+    "abHintActive": "Schleife läuft – A–B erneut drücken zum Beenden.",
+    "listen": "Anhören",
+    "tocTitle": "Inhalt",
+    "loading": "Wird geladen …",
+    "pairMissing": "Dieses Sprachpaar ist noch nicht verfügbar – wähle ein anderes.",
+    "audioMissing": "Das Audio für diese Sprache folgt in Kürze."
+  }
+}

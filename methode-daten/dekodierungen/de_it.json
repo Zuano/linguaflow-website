@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "it",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Ho lavorato molti anni nella mia professione.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Io"
+    },
+    {
+     "w": "habe",
+     "t": "ho"
+    },
+    {
+     "w": "viele",
+     "t": "molti"
+    },
+    {
+     "w": "Jahre",
+     "t": "anni"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "meinem",
+     "t": "mio (nel)"
+    },
+    {
+     "w": "Beruf",
+     "t": "lavoro"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "lavorato."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Poi sono arrivato in un nuovo paese.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Poi"
+    },
+    {
+     "w": "bin",
+     "t": "sono"
+    },
+    {
+     "w": "ich",
+     "t": "io"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "ein",
+     "t": "un"
+    },
+    {
+     "w": "neues",
+     "t": "nuovo"
+    },
+    {
+     "w": "Land",
+     "t": "paese"
+    },
+    {
+     "w": "gekommen.",
+     "t": "venuto."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Ora sto imparando la lingua.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Ora"
+    },
+    {
+     "w": "lerne",
+     "t": "imparo"
+    },
+    {
+     "w": "ich",
+     "t": "io"
+    },
+    {
+     "w": "die",
+     "t": "la"
+    },
+    {
+     "w": "Sprache.",
+     "t": "lingua."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Presto lavorerò di nuovo nella mia professione.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Presto"
+    },
+    {
+     "w": "arbeite",
+     "t": "lavoro"
+    },
+    {
+     "w": "ich",
+     "t": "io"
+    },
+    {
+     "w": "wieder",
+     "t": "di-nuovo"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "meinem",
+     "t": "mio (nel)"
+    },
+    {
+     "w": "Beruf.",
+     "t": "lavoro."
+    }
+   ]
+  }
+ ]
+}

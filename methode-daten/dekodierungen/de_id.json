@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "id",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Saya telah bekerja bertahun-tahun dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Saya"
+    },
+    {
+     "w": "habe",
+     "t": "telah"
+    },
+    {
+     "w": "viele",
+     "t": "banyak"
+    },
+    {
+     "w": "Jahre",
+     "t": "tahun"
+    },
+    {
+     "w": "in",
+     "t": "dalam"
+    },
+    {
+     "w": "meinem",
+     "t": "profesi-saya (punya)"
+    },
+    {
+     "w": "Beruf",
+     "t": "profesi"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "bekerja."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Kemudian saya datang ke sebuah negara baru.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Kemudian"
+    },
+    {
+     "w": "bin",
+     "t": "(kata-bantu:telah)"
+    },
+    {
+     "w": "ich",
+     "t": "saya"
+    },
+    {
+     "w": "in",
+     "t": "ke"
+    },
+    {
+     "w": "ein",
+     "t": "sebuah"
+    },
+    {
+     "w": "neues",
+     "t": "baru"
+    },
+    {
+     "w": "Land",
+     "t": "negara"
+    },
+    {
+     "w": "gekommen.",
+     "t": "datang."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Sekarang saya belajar bahasanya.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Sekarang"
+    },
+    {
+     "w": "lerne",
+     "t": "belajar"
+    },
+    {
+     "w": "ich",
+     "t": "saya"
+    },
+    {
+     "w": "die",
+     "t": "(kata-sandang)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "bahasa."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Segera saya akan bekerja kembali dalam profesi saya.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Segera"
+    },
+    {
+     "w": "arbeite",
+     "t": "bekerja"
+    },
+    {
+     "w": "ich",
+     "t": "saya"
+    },
+    {
+     "w": "wieder",
+     "t": "lagi"
+    },
+    {
+     "w": "in",
+     "t": "dalam"
+    },
+    {
+     "w": "meinem",
+     "t": "profesi-saya (punya)"
+    },
+    {
+     "w": "Beruf.",
+     "t": "profesi."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "vi",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Tôi đã làm việc nhiều năm trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Tôi"
+    },
+    {
+     "w": "habe",
+     "t": "đã (trợ động từ)"
+    },
+    {
+     "w": "viele",
+     "t": "nhiều"
+    },
+    {
+     "w": "Jahre",
+     "t": "năm"
+    },
+    {
+     "w": "in",
+     "t": "trong"
+    },
+    {
+     "w": "meinem",
+     "t": "của-tôi"
+    },
+    {
+     "w": "Beruf",
+     "t": "nghề"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "làm-việc."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Sau đó tôi đã đến một đất nước mới.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Sau-đó"
+    },
+    {
+     "w": "bin",
+     "t": "đã (trợ động từ)"
+    },
+    {
+     "w": "ich",
+     "t": "tôi"
+    },
+    {
+     "w": "in",
+     "t": "đến"
+    },
+    {
+     "w": "ein",
+     "t": "một"
+    },
+    {
+     "w": "neues",
+     "t": "mới"
+    },
+    {
+     "w": "Land",
+     "t": "đất-nước"
+    },
+    {
+     "w": "gekommen.",
+     "t": "đến-nơi."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Bây giờ tôi đang học ngôn ngữ.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Bây-giờ"
+    },
+    {
+     "w": "lerne",
+     "t": "học"
+    },
+    {
+     "w": "ich",
+     "t": "tôi"
+    },
+    {
+     "w": "die",
+     "t": "(mạo-từ)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "ngôn-ngữ."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Chẳng bao lâu nữa tôi sẽ lại làm việc trong nghề của mình.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Chẳng-bao-lâu-nữa"
+    },
+    {
+     "w": "arbeite",
+     "t": "làm-việc"
+    },
+    {
+     "w": "ich",
+     "t": "tôi"
+    },
+    {
+     "w": "wieder",
+     "t": "lại"
+    },
+    {
+     "w": "in",
+     "t": "trong"
+    },
+    {
+     "w": "meinem",
+     "t": "của-tôi"
+    },
+    {
+     "w": "Beruf.",
+     "t": "nghề."
+    }
+   ]
+  }
+ ]
+}

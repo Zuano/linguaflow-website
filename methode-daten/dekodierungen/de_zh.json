@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "zh",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "我在我的职业中工作了很多年。",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "我"
+    },
+    {
+     "w": "habe",
+     "t": "有(助动词)"
+    },
+    {
+     "w": "viele",
+     "t": "很多"
+    },
+    {
+     "w": "Jahre",
+     "t": "年"
+    },
+    {
+     "w": "in",
+     "t": "在"
+    },
+    {
+     "w": "meinem",
+     "t": "我的"
+    },
+    {
+     "w": "Beruf",
+     "t": "职业"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "工作过。"
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "然后我来到了一个新的国家。",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "然后"
+    },
+    {
+     "w": "bin",
+     "t": "是(助动词)"
+    },
+    {
+     "w": "ich",
+     "t": "我"
+    },
+    {
+     "w": "in",
+     "t": "到"
+    },
+    {
+     "w": "ein",
+     "t": "一个"
+    },
+    {
+     "w": "neues",
+     "t": "新的"
+    },
+    {
+     "w": "Land",
+     "t": "国家"
+    },
+    {
+     "w": "gekommen.",
+     "t": "来了。"
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "现在我在学习这种语言。",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "现在"
+    },
+    {
+     "w": "lerne",
+     "t": "学习"
+    },
+    {
+     "w": "ich",
+     "t": "我"
+    },
+    {
+     "w": "die",
+     "t": "这个(定冠词)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "语言。"
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "不久我又会在我的职业中工作了。",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "不久"
+    },
+    {
+     "w": "arbeite",
+     "t": "工作"
+    },
+    {
+     "w": "ich",
+     "t": "我"
+    },
+    {
+     "w": "wieder",
+     "t": "再次"
+    },
+    {
+     "w": "in",
+     "t": "在"
+    },
+    {
+     "w": "meinem",
+     "t": "我的"
+    },
+    {
+     "w": "Beruf.",
+     "t": "职业中。"
+    }
+   ]
+  }
+ ]
+}

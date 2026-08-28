@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "th",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "ฉันทำงานในอาชีพของฉันมาหลายปีแล้ว",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "ฉัน"
+    },
+    {
+     "w": "habe",
+     "t": "ได้ (ทำ)"
+    },
+    {
+     "w": "viele",
+     "t": "หลาย"
+    },
+    {
+     "w": "Jahre",
+     "t": "ปี"
+    },
+    {
+     "w": "in",
+     "t": "ใน"
+    },
+    {
+     "w": "meinem",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "Beruf",
+     "t": "อาชีพ"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "ทำงาน-มาแล้ว"
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "จากนั้นฉันก็มาถึงประเทศใหม่",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "จากนั้น"
+    },
+    {
+     "w": "bin",
+     "t": "ได้ (เป็น)"
+    },
+    {
+     "w": "ich",
+     "t": "ฉัน"
+    },
+    {
+     "w": "in",
+     "t": "เข้าไปใน"
+    },
+    {
+     "w": "ein",
+     "t": "หนึ่ง (ประเทศ)"
+    },
+    {
+     "w": "neues",
+     "t": "ใหม่"
+    },
+    {
+     "w": "Land",
+     "t": "ประเทศ"
+    },
+    {
+     "w": "gekommen.",
+     "t": "มา-แล้ว"
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "ตอนนี้ฉันกำลังเรียนภาษา",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "ตอนนี้"
+    },
+    {
+     "w": "lerne",
+     "t": "เรียน"
+    },
+    {
+     "w": "ich",
+     "t": "ฉัน"
+    },
+    {
+     "w": "die",
+     "t": "(คำนำหน้านาม)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "ภาษา"
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "ในไม่ช้าฉันจะกลับไปทำงานในอาชีพของฉันอีกครั้ง",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "ในไม่ช้า"
+    },
+    {
+     "w": "arbeite",
+     "t": "ทำงาน"
+    },
+    {
+     "w": "ich",
+     "t": "ฉัน"
+    },
+    {
+     "w": "wieder",
+     "t": "อีกครั้ง"
+    },
+    {
+     "w": "in",
+     "t": "ใน"
+    },
+    {
+     "w": "meinem",
+     "t": "ของฉัน"
+    },
+    {
+     "w": "Beruf.",
+     "t": "อาชีพ"
+    }
+   ]
+  }
+ ]
+}

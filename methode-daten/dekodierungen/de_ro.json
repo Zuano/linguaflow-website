@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "ro",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Am lucrat mulți ani în meseria mea.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Eu"
+    },
+    {
+     "w": "habe",
+     "t": "am"
+    },
+    {
+     "w": "viele",
+     "t": "mulți"
+    },
+    {
+     "w": "Jahre",
+     "t": "ani"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "meinem",
+     "t": "meseria-mea (a-mea)"
+    },
+    {
+     "w": "Beruf",
+     "t": "meserie"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "lucrat."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Apoi am venit într-o țară nouă.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Apoi"
+    },
+    {
+     "w": "bin",
+     "t": "am"
+    },
+    {
+     "w": "ich",
+     "t": "eu"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "ein",
+     "t": "o"
+    },
+    {
+     "w": "neues",
+     "t": "nouă"
+    },
+    {
+     "w": "Land",
+     "t": "țară"
+    },
+    {
+     "w": "gekommen.",
+     "t": "venit."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Acum învăț limba.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Acum"
+    },
+    {
+     "w": "lerne",
+     "t": "învăț"
+    },
+    {
+     "w": "ich",
+     "t": "eu"
+    },
+    {
+     "w": "die",
+     "t": "(pe)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "limba."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Curând voi lucra din nou în meseria mea.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Curând"
+    },
+    {
+     "w": "arbeite",
+     "t": "lucrez"
+    },
+    {
+     "w": "ich",
+     "t": "eu"
+    },
+    {
+     "w": "wieder",
+     "t": "din-nou"
+    },
+    {
+     "w": "in",
+     "t": "în"
+    },
+    {
+     "w": "meinem",
+     "t": "meseria-mea (a-mea)"
+    },
+    {
+     "w": "Beruf.",
+     "t": "meserie."
+    }
+   ]
+  }
+ ]
+}

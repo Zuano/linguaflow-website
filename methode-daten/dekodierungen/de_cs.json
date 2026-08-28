@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "cs",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Pracoval jsem mnoho let ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Já"
+    },
+    {
+     "w": "habe",
+     "t": "jsem"
+    },
+    {
+     "w": "viele",
+     "t": "mnoho"
+    },
+    {
+     "w": "Jahre",
+     "t": "let"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "meinem",
+     "t": "svém"
+    },
+    {
+     "w": "Beruf",
+     "t": "oboru"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "pracoval."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Potom jsem přijel do nové země.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Potom"
+    },
+    {
+     "w": "bin",
+     "t": "jsem"
+    },
+    {
+     "w": "ich",
+     "t": "já"
+    },
+    {
+     "w": "in",
+     "t": "do"
+    },
+    {
+     "w": "ein",
+     "t": "jednu"
+    },
+    {
+     "w": "neues",
+     "t": "novou"
+    },
+    {
+     "w": "Land",
+     "t": "zemi"
+    },
+    {
+     "w": "gekommen.",
+     "t": "přijel."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Teď se učím jazyk.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Teď"
+    },
+    {
+     "w": "lerne",
+     "t": "učím"
+    },
+    {
+     "w": "ich",
+     "t": "já"
+    },
+    {
+     "w": "die",
+     "t": "ten"
+    },
+    {
+     "w": "Sprache.",
+     "t": "jazyk."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Brzy budu opět pracovat ve svém oboru.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Brzy"
+    },
+    {
+     "w": "arbeite",
+     "t": "budu-pracovat"
+    },
+    {
+     "w": "ich",
+     "t": "já"
+    },
+    {
+     "w": "wieder",
+     "t": "znovu"
+    },
+    {
+     "w": "in",
+     "t": "v"
+    },
+    {
+     "w": "meinem",
+     "t": "svém"
+    },
+    {
+     "w": "Beruf.",
+     "t": "oboru."
+    }
+   ]
+  }
+ ]
+}

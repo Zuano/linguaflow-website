@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "ko",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "나는 내 직업에서 여러 해 동안 일했다.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "나는"
+    },
+    {
+     "w": "habe",
+     "t": "했다(가지고-있다)"
+    },
+    {
+     "w": "viele",
+     "t": "많은"
+    },
+    {
+     "w": "Jahre",
+     "t": "해들을(년들을)"
+    },
+    {
+     "w": "in",
+     "t": "~에서"
+    },
+    {
+     "w": "meinem",
+     "t": "나의"
+    },
+    {
+     "w": "Beruf",
+     "t": "직업"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "일했다."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "그 다음에 나는 새로운 나라로 왔다.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "그다음에"
+    },
+    {
+     "w": "bin",
+     "t": "~이다(왔다)"
+    },
+    {
+     "w": "ich",
+     "t": "나는"
+    },
+    {
+     "w": "in",
+     "t": "~으로"
+    },
+    {
+     "w": "ein",
+     "t": "하나의"
+    },
+    {
+     "w": "neues",
+     "t": "새로운"
+    },
+    {
+     "w": "Land",
+     "t": "나라"
+    },
+    {
+     "w": "gekommen.",
+     "t": "왔다."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "지금 나는 그 언어를 배운다.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "지금"
+    },
+    {
+     "w": "lerne",
+     "t": "배운다"
+    },
+    {
+     "w": "ich",
+     "t": "나는"
+    },
+    {
+     "w": "die",
+     "t": "그"
+    },
+    {
+     "w": "Sprache.",
+     "t": "언어를."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "곧 나는 다시 내 직업에서 일한다.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "곧"
+    },
+    {
+     "w": "arbeite",
+     "t": "일한다"
+    },
+    {
+     "w": "ich",
+     "t": "나는"
+    },
+    {
+     "w": "wieder",
+     "t": "다시"
+    },
+    {
+     "w": "in",
+     "t": "~에서"
+    },
+    {
+     "w": "meinem",
+     "t": "나의"
+    },
+    {
+     "w": "Beruf.",
+     "t": "직업."
+    }
+   ]
+  }
+ ]
+}

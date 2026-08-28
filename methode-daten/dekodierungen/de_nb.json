@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "nb",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Jeg har jobbet i mange år i mitt yrke.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Jeg"
+    },
+    {
+     "w": "habe",
+     "t": "har"
+    },
+    {
+     "w": "viele",
+     "t": "mange"
+    },
+    {
+     "w": "Jahre",
+     "t": "år"
+    },
+    {
+     "w": "in",
+     "t": "i"
+    },
+    {
+     "w": "meinem",
+     "t": "mitt"
+    },
+    {
+     "w": "Beruf",
+     "t": "yrke"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "jobbet."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Så kom jeg til et nytt land.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Så"
+    },
+    {
+     "w": "bin",
+     "t": "er"
+    },
+    {
+     "w": "ich",
+     "t": "jeg"
+    },
+    {
+     "w": "in",
+     "t": "til"
+    },
+    {
+     "w": "ein",
+     "t": "et"
+    },
+    {
+     "w": "neues",
+     "t": "nytt"
+    },
+    {
+     "w": "Land",
+     "t": "land"
+    },
+    {
+     "w": "gekommen.",
+     "t": "kommet."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Nå lærer jeg språket.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Nå"
+    },
+    {
+     "w": "lerne",
+     "t": "lærer"
+    },
+    {
+     "w": "ich",
+     "t": "jeg"
+    },
+    {
+     "w": "die",
+     "t": "(det)"
+    },
+    {
+     "w": "Sprache.",
+     "t": "språket."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Snart jobber jeg igjen i mitt yrke.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Snart"
+    },
+    {
+     "w": "arbeite",
+     "t": "jobber"
+    },
+    {
+     "w": "ich",
+     "t": "jeg"
+    },
+    {
+     "w": "wieder",
+     "t": "igjen"
+    },
+    {
+     "w": "in",
+     "t": "i"
+    },
+    {
+     "w": "meinem",
+     "t": "mitt"
+    },
+    {
+     "w": "Beruf.",
+     "t": "yrke."
+    }
+   ]
+  }
+ ]
+}

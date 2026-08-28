@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "pt",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Eu trabalhei muitos anos na minha profissão.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Eu"
+    },
+    {
+     "w": "habe",
+     "t": "tenho (auxiliar)"
+    },
+    {
+     "w": "viele",
+     "t": "muitos"
+    },
+    {
+     "w": "Jahre",
+     "t": "anos"
+    },
+    {
+     "w": "in",
+     "t": "em"
+    },
+    {
+     "w": "meinem",
+     "t": "minha"
+    },
+    {
+     "w": "Beruf",
+     "t": "profissão"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "trabalhado."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Depois eu fui para um novo país.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Depois"
+    },
+    {
+     "w": "bin",
+     "t": "sou/estou (auxiliar)"
+    },
+    {
+     "w": "ich",
+     "t": "eu"
+    },
+    {
+     "w": "in",
+     "t": "para (em)"
+    },
+    {
+     "w": "ein",
+     "t": "um"
+    },
+    {
+     "w": "neues",
+     "t": "novo"
+    },
+    {
+     "w": "Land",
+     "t": "país"
+    },
+    {
+     "w": "gekommen.",
+     "t": "vindo."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Agora eu aprendo a língua.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Agora"
+    },
+    {
+     "w": "lerne",
+     "t": "aprendo"
+    },
+    {
+     "w": "ich",
+     "t": "eu"
+    },
+    {
+     "w": "die",
+     "t": "a"
+    },
+    {
+     "w": "Sprache.",
+     "t": "língua."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Em breve eu trabalharei de novo na minha profissão.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Em-breve"
+    },
+    {
+     "w": "arbeite",
+     "t": "trabalho"
+    },
+    {
+     "w": "ich",
+     "t": "eu"
+    },
+    {
+     "w": "wieder",
+     "t": "de-novo"
+    },
+    {
+     "w": "in",
+     "t": "em"
+    },
+    {
+     "w": "meinem",
+     "t": "minha"
+    },
+    {
+     "w": "Beruf.",
+     "t": "profissão."
+    }
+   ]
+  }
+ ]
+}

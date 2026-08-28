@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "pl",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Pracowałem wiele lat w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Ja"
+    },
+    {
+     "w": "habe",
+     "t": "mam (czas przeszły)"
+    },
+    {
+     "w": "viele",
+     "t": "wiele"
+    },
+    {
+     "w": "Jahre",
+     "t": "lat"
+    },
+    {
+     "w": "in",
+     "t": "w"
+    },
+    {
+     "w": "meinem",
+     "t": "moim"
+    },
+    {
+     "w": "Beruf",
+     "t": "zawodzie"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "pracowałem."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Potem przyjechałem do nowego kraju.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Potem"
+    },
+    {
+     "w": "bin",
+     "t": "jestem (czas przeszły)"
+    },
+    {
+     "w": "ich",
+     "t": "ja"
+    },
+    {
+     "w": "in",
+     "t": "do"
+    },
+    {
+     "w": "ein",
+     "t": "jednego"
+    },
+    {
+     "w": "neues",
+     "t": "nowego"
+    },
+    {
+     "w": "Land",
+     "t": "kraju"
+    },
+    {
+     "w": "gekommen.",
+     "t": "przybyłem."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Teraz uczę się języka.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Teraz"
+    },
+    {
+     "w": "lerne",
+     "t": "uczę-się"
+    },
+    {
+     "w": "ich",
+     "t": "ja"
+    },
+    {
+     "w": "die",
+     "t": "tego"
+    },
+    {
+     "w": "Sprache.",
+     "t": "języka."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Wkrótce znów będę pracować w moim zawodzie.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Wkrótce"
+    },
+    {
+     "w": "arbeite",
+     "t": "pracuję"
+    },
+    {
+     "w": "ich",
+     "t": "ja"
+    },
+    {
+     "w": "wieder",
+     "t": "znowu"
+    },
+    {
+     "w": "in",
+     "t": "w"
+    },
+    {
+     "w": "meinem",
+     "t": "moim"
+    },
+    {
+     "w": "Beruf.",
+     "t": "zawodzie."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "nl",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "Ik heb vele jaren in mijn beroep gewerkt.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Ik"
+    },
+    {
+     "w": "habe",
+     "t": "heb"
+    },
+    {
+     "w": "viele",
+     "t": "vele"
+    },
+    {
+     "w": "Jahre",
+     "t": "jaren"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "meinem",
+     "t": "mijn"
+    },
+    {
+     "w": "Beruf",
+     "t": "beroep"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "gewerkt."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Toen ben ik naar een nieuw land gekomen.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Toen"
+    },
+    {
+     "w": "bin",
+     "t": "ben"
+    },
+    {
+     "w": "ich",
+     "t": "ik"
+    },
+    {
+     "w": "in",
+     "t": "naar"
+    },
+    {
+     "w": "ein",
+     "t": "een"
+    },
+    {
+     "w": "neues",
+     "t": "nieuw"
+    },
+    {
+     "w": "Land",
+     "t": "land"
+    },
+    {
+     "w": "gekommen.",
+     "t": "gekomen."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Nu leer ik de taal.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Nu"
+    },
+    {
+     "w": "lerne",
+     "t": "leer"
+    },
+    {
+     "w": "ich",
+     "t": "ik"
+    },
+    {
+     "w": "die",
+     "t": "de"
+    },
+    {
+     "w": "Sprache.",
+     "t": "taal."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Binnenkort werk ik weer in mijn beroep.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Binnenkort"
+    },
+    {
+     "w": "arbeite",
+     "t": "werk"
+    },
+    {
+     "w": "ich",
+     "t": "ik"
+    },
+    {
+     "w": "wieder",
+     "t": "weer"
+    },
+    {
+     "w": "in",
+     "t": "in"
+    },
+    {
+     "w": "meinem",
+     "t": "mijn"
+    },
+    {
+     "w": "Beruf.",
+     "t": "beroep."
+    }
+   ]
+  }
+ ]
+}

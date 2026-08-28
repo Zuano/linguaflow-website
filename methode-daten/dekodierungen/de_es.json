@@ -1,0 +1,144 @@
+{
+ "formatVersion": 1,
+ "target": "de",
+ "native": "es",
+ "text": "Ich habe viele Jahre in meinem Beruf gearbeitet. Dann bin ich in ein neues Land gekommen. Jetzt lerne ich die Sprache. Bald arbeite ich wieder in meinem Beruf.",
+ "sentences": [
+  {
+   "text": "Ich habe viele Jahre in meinem Beruf gearbeitet.",
+   "translation": "He trabajado muchos años en mi profesión.",
+   "pairs": [
+    {
+     "w": "Ich",
+     "t": "Yo"
+    },
+    {
+     "w": "habe",
+     "t": "he"
+    },
+    {
+     "w": "viele",
+     "t": "muchos"
+    },
+    {
+     "w": "Jahre",
+     "t": "años"
+    },
+    {
+     "w": "in",
+     "t": "en"
+    },
+    {
+     "w": "meinem",
+     "t": "mi"
+    },
+    {
+     "w": "Beruf",
+     "t": "profesión"
+    },
+    {
+     "w": "gearbeitet.",
+     "t": "trabajado."
+    }
+   ]
+  },
+  {
+   "text": "Dann bin ich in ein neues Land gekommen.",
+   "translation": "Luego llegué a un nuevo país.",
+   "pairs": [
+    {
+     "w": "Dann",
+     "t": "Luego"
+    },
+    {
+     "w": "bin",
+     "t": "he"
+    },
+    {
+     "w": "ich",
+     "t": "yo"
+    },
+    {
+     "w": "in",
+     "t": "a"
+    },
+    {
+     "w": "ein",
+     "t": "un"
+    },
+    {
+     "w": "neues",
+     "t": "nuevo"
+    },
+    {
+     "w": "Land",
+     "t": "país"
+    },
+    {
+     "w": "gekommen.",
+     "t": "llegado."
+    }
+   ]
+  },
+  {
+   "text": "Jetzt lerne ich die Sprache.",
+   "translation": "Ahora estoy aprendiendo el idioma.",
+   "pairs": [
+    {
+     "w": "Jetzt",
+     "t": "Ahora"
+    },
+    {
+     "w": "lerne",
+     "t": "aprendo"
+    },
+    {
+     "w": "ich",
+     "t": "yo"
+    },
+    {
+     "w": "die",
+     "t": "el"
+    },
+    {
+     "w": "Sprache.",
+     "t": "idioma."
+    }
+   ]
+  },
+  {
+   "text": "Bald arbeite ich wieder in meinem Beruf.",
+   "translation": "Pronto volveré a trabajar en mi profesión.",
+   "pairs": [
+    {
+     "w": "Bald",
+     "t": "Pronto"
+    },
+    {
+     "w": "arbeite",
+     "t": "trabajo"
+    },
+    {
+     "w": "ich",
+     "t": "yo"
+    },
+    {
+     "w": "wieder",
+     "t": "de-nuevo"
+    },
+    {
+     "w": "in",
+     "t": "en"
+    },
+    {
+     "w": "meinem",
+     "t": "mi"
+    },
+    {
+     "w": "Beruf.",
+     "t": "profesión."
+    }
+   ]
+  }
+ ]
+}
