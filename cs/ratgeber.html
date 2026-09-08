@@ -31,14 +31,24 @@
 
   <!-- Structured Data: Breadcrumb -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://linguaflow.app/" },
-      { "@type": "ListItem", "position": 2, "name": "Ratgeber", "item": "https://linguaflow.app/ratgeber.html" }
-    ]
-  }
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Úvodní stránka",
+      "item": "https://linguaflow.app/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Praktický průvodce",
+      "item": "https://linguaflow.app/ratgeber.html"
+    }
+  ]
+}
   </script>
   <!-- i18n-hreflang:start -->
   <link rel="alternate" hreflang="de" href="https://linguaflow.app/ratgeber.html">
@@ -82,11 +92,17 @@
 
 <nav class="navbar">
   <div class="container">
-    <a href="./" class="logo">Lingua <span>Flow</span></a>
+    <a href="./" class="logo">LinguaFlow</a>
     <div class="nav-links" id="navLinks">
-      <a href="./#methode">Metoda</a>
+      <a href="methode.html">Metoda</a>
       
       <a href="./#features">Funkce</a>
+      
+      <a href="./#sprachen">Jazyky</a>
+      
+      <a href="/zurueck-in-deinen-beruf/">Certifikace</a>
+      
+      <a href="./#preise">Ceny</a>
       
       <a href="ratgeber.html">Průvodce</a>
       
@@ -158,7 +174,7 @@
       <div class="help-card">
         <div class="help-icon">🎓</div>
         <h3>Zahraniční diplom: uznání a nostrifikace</h3>
-        <p>Kdo je za to zodpovědný, kolik to stojí, jak dlouho to trvá? Komplexní přehled pro diplomy z EU i ze třetích zemí.</p>
+        <p>Kdo je za to odpovědný, kolik to stojí, jak dlouho to trvá? Komplexní přehled pro diplomy z členských států EU i ze třetích zemí.</p>
         <a href="ratgeber-anerkennung-auslaendischer-abschluss.html" class="btn btn-outline btn-sm" style="margin-top:16px;">K průvodci</a>
       </div>
       <div class="help-card">
@@ -170,14 +186,20 @@
       <div class="help-card">
         <div class="help-icon">🗣️</div>
         <h3>Němčina B2 pro pečovatele</h3>
-        <p>Proč je úroveň B2 klíčovou kvalifikací, jak dlouho to skutečně trvá a jak se pomocí vlastních odborných textů naučíš rychleji.</p>
+        <p>Proč je úroveň B2 klíčovou kvalifikací, jak dlouho to skutečně trvá a jak se s vlastními odbornými texty naučíš rychleji.</p>
         <a href="ratgeber-deutsch-b2-pflege.html" class="btn btn-outline btn-sm" style="margin-top:16px;">K průvodci</a>
       </div>
       <div class="help-card">
         <div class="help-icon">🧹</div>
-        <h3>Práce jako pomoc v domácnosti ve Vídni</h3>
-        <p>Hodinové mzdy, legální registrace, šek na služby – a proč musí být vaše práce jako pomocnice v domácnosti jen dočasnou zastávkou.</p>
+        <h3>Práce jako pomocnice v domácnosti ve Vídni</h3>
+        <p>Hodinové mzdy, legální registrace, šek na služby – a proč musí být vaše práce jako pomoc v domácnosti jen dočasnou zastávkou.</p>
         <a href="ratgeber-haushaltshilfe-jobs-wien.html" class="btn btn-outline btn-sm" style="margin-top:16px;">K průvodci</a>
+      </div>
+      <div class="help-card">
+        <div class="help-icon">🇩🇪</div>
+        <h3>Návrat do svého povolání — uznání v Německu</h3>
+        <p>Pro Německo místo Rakouska: telc Deutsch B1·B2 Pflege, odborná jazyková zkouška, ZAB a anabin – s čísly, zdroji a stavem k srpnu 2026.</p>
+        <a href="/zurueck-in-deinen-beruf/" class="btn btn-outline btn-sm" style="margin-top:16px;">Do sekce</a>
       </div>
     </div>
 
@@ -187,9 +209,9 @@
 <!-- ratgeber-cta:start -->
 <section class="cta-section">
   <div class="container">
-    <p class="section-label">Váš další krok</p>
+    <p class="section-label">Tvůj další krok</p>
     <h2>Učte se němčinu s <span translate="no">LinguaFlow</span></h2>
-    <p>Lepší pracovní příležitosti začínají lepší znalostí němčiny. <span translate="no">LinguaFlow</span> rozklíčuje každý text slovo po slově – včetně tvé odborné terminologie. Inspirováno Birkenbihlovou metodou, vyzkoušej zdarma.</p>
+    <p>Lepší pracovní příležitosti začínají lepší znalostí němčiny. <span translate="no">LinguaFlow</span> rozklíčuje každý text slovo po slově – včetně tvé odborné slovní zásoby. Inspirováno Birkenbihlovou metodou, vyzkoušej zdarma.</p>
     <div class="cta-buttons">
       <a href="https://apps.apple.com/us/app/linguaflow-decoder/id6744939323" target="_blank" rel="noopener">
         <img src="/img/badge-appstore.svg" alt="Laden im App Store" loading="lazy" style="height:54px;">
@@ -208,6 +230,8 @@
       <span>© 2025 LinguaFlow e.U. Všechna práva vyhrazena.</span>
       <div style="display:flex;gap:16px;">
         <a href="./">Úvod</a>
+        
+        <a href="was-ist-neu.html">Co je nového</a>
         
         <a href="ratgeber.html">Průvodce</a>
         

@@ -36,23 +36,25 @@
 
 <nav class="navbar">
   <div class="container">
-    <a href="./" class="logo">Lingua<span>Flow</span></a>
+    <a href="./" class="logo">LinguaFlow</a>
     <div class="nav-links" id="navLinks">
-      <a href="./#methode">Method</a>
+      <a href="methode.html">Method</a>
       
       <a href="./#features">Features</a>
       
       <a href="./#sprachen">Languages</a>
       
+      <a href="/en/zurueck-in-deinen-beruf/">Accreditation</a>
+      
+      <a href="./#preise">Pricing</a>
+      
       <a href="ratgeber.html">Guide</a>
       
       <a href="hilfe.html">Help</a>
       
-      <a href="was-ist-neu.html">What&#x27;s New</a>
-      
       <a href="./#download" class="btn btn-primary btn-sm nav-cta">Download the App</a>
     </div>
-    <!-- i18n-navswitcher:start -->
+<!-- i18n-navswitcher:start -->
     <select class="nav-lang-switcher" onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language">
       <option value="/was-ist-neu.html">🇩🇪 DE</option>
       <option value="/en/was-ist-neu.html" selected>🇺🇸 EN</option>
@@ -77,9 +79,9 @@
     <style>
       /* Changelog timeline / Änderungsprotokoll-Zeitleiste */
       .cl-timeline { position: relative; margin-top: 8px; }
-      .cl-timeline::before { content: &quot;&quot;; position: absolute; left: 7px; top: 8px; bottom: 8px; width: 2px; background: var(--gray-200); }
+      .cl-timeline::before { content: ""; position: absolute; left: 7px; top: 8px; bottom: 8px; width: 2px; background: var(--gray-200); }
       .cl-entry { position: relative; padding: 0 0 48px 40px; }
-      .cl-entry::before { content: &quot;&quot;; position: absolute; left: 0; top: 6px; width: 16px; height: 16px; border-radius: 50%; background: var(--teal); border: 3px solid var(--white); box-shadow: 0 0 0 2px var(--teal); }
+      .cl-entry::before { content: ""; position: absolute; left: 0; top: 6px; width: 16px; height: 16px; border-radius: 50%; background: var(--teal); border: 3px solid var(--white); box-shadow: 0 0 0 2px var(--teal); }
       .cl-entry.cl-muted::before { background: var(--gray-400); box-shadow: 0 0 0 2px var(--gray-400); }
       .cl-head { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 6px; }
       .cl-version { font-size: 1.25rem; font-weight: 800; color: var(--dark); }
@@ -89,14 +91,171 @@
       .cl-entry h3 { margin-top: 14px; margin-bottom: 6px; font-size: 1rem; }
       .cl-entry ul { list-style: none; padding-left: 0; }
       .cl-entry ul li { padding-left: 26px; position: relative; margin-bottom: 8px; }
-      .cl-entry ul.cl-new li::before { content: &quot;✨&quot;; position: absolute; left: 0; }
-      .cl-entry ul.cl-improved li::before { content: &quot;🔧&quot;; position: absolute; left: 0; }
+      .cl-entry ul.cl-new li::before { content: "✨"; position: absolute; left: 0; }
+      .cl-entry ul.cl-improved li::before { content: "🔧"; position: absolute; left: 0; }
       .cl-tagline { color: var(--gray-600); font-style: italic; margin-bottom: 4px; }
     </style>
 
-    <p style="text-align:center;margin-bottom:48px;">Here you can see what’s been added with each update and what we’ve improved. The version numbers refer to the iOS app; the Android app will receive the same features gradually.</p>
+    <p style="text-align:center;margin-bottom:48px;">Here you can see what’s been added with each update and what we’ve improved. Each entry lists the version number of the iOS app and the Android app that included the new feature.</p>
 
     <div class="cl-timeline">
+
+      <!-- 3.0 / Android 1.7.0 + 1.8.0 -->
+      <div class="cl-entry">
+        <div class="cl-head">
+          <span class="cl-version">Version 3.0</span>
+          
+          <span class="cl-badge">iOS 3.0 Android 1.7.0 / 1.8.0</span>
+          
+          <span class="cl-date">September 2026</span>
+        </div>
+        <p class="cl-tagline">Free classics, try it out without an account, and an app that says “you” in 31 languages.</p>
+        <h3>New</h3>
+        <ul class="cl-new">
+          <li><strong>Public Domain Books:</strong> Browse free classics in your target language right in the app and read them with sentence-by-sentence decoding.</li>
+          <li><strong>Try it without registering:</strong> Decode, have text read aloud, read books, and talk to the AI partner for a week—you don’t have to create an account until you’re sure it’s right for you. Everything you’ve done as a guest will be saved.</li>
+          <li><strong>Sign in with Apple on Android (1.8.0):</strong> Your Apple account from your iPhone or iPad now works on Android too—including your subscription.</li>
+        </ul>
+        <h3>Improved</h3>
+        <ul class="cl-improved">
+          <li>All text in the app is now translated into all 31 languages—in a consistent, friendly tone, and we address you informally throughout.</li>
+          <li>Minor bug fixes.</li>
+        </ul>
+      </div>
+
+      <!-- 2.8.3 / Android 1.5.7 -->
+      <div class="cl-entry">
+        <div class="cl-head">
+          <span class="cl-version">Version 2.8.3</span>
+          
+          <span class="cl-badge">iOS 2.8.3 Android 1.5.7</span>
+          
+          <span class="cl-date">September 2026</span>
+        </div>
+        <p class="cl-tagline">Japanese now sounds right.</p>
+        <h3>Improved</h3>
+        <ul class="cl-improved">
+          <li><strong>Japanese:</strong> The voice now reads every word correctly—in the learning path, when decoding your own texts, and in the book reader. To do this, it uses the syllabic script (kana) for each word; the kanji, romanization, and meaning remain on the screen.</li>
+          <li>In the book reader, Japanese displays one card per word instead of an entire paragraph.</li>
+          <li>Minor improvements.</li>
+        </ul>
+      </div>
+
+      <!-- 2.8.1 / Android 1.5.5 -->
+      <div class="cl-entry">
+        <div class="cl-head">
+          <span class="cl-version">Version 2.8.1</span>
+          
+          <span class="cl-badge">iOS 2.8.1 Android 1.5.5</span>
+          
+          <span class="cl-date">September 2026</span>
+        </div>
+        <p class="cl-tagline">Experience decoding right from the start—and every decoding has a name.</p>
+        <h3>New</h3>
+        <ul class="cl-new">
+          <li><strong>Example sentence in the onboarding:</strong> A short sentence shows you right from the start how decoding works—word by word, for you to discover on your own.</li>
+          <li><strong>Decodings with titles:</strong> Each decoding is automatically given a short title in your language and can be renamed.</li>
+          <li><strong>Learning path with English as the starting language:</strong> The learning path is now also available with English as the starting language—for all target languages.</li>
+        </ul>
+      </div>
+
+      <!-- 2.8 / Android 1.5.4 -->
+      <div class="cl-entry">
+        <div class="cl-head">
+          <span class="cl-version">Version 2.8</span>
+          
+          <span class="cl-badge">iOS 2.8 Android 1.5.4</span>
+          
+          <span class="cl-date">August 2026</span>
+        </div>
+        <p class="cl-tagline">Text-to-speech that follows along with the text word for word.</p>
+        <h3>New</h3>
+        <ul class="cl-new">
+          <li><strong>Press</strong> and <strong>hold a word:</strong> Tapping and holding a word plays only that word—slowly and clearly.</li>
+        </ul>
+        <h3>Improved</h3>
+        <ul class="cl-improved">
+          <li>Text-to-speech and the text now sync exactly word for word—the spoken word is always highlighted.</li>
+          <li>Several improvements to text-to-speech.</li>
+        </ul>
+      </div>
+
+      <!-- 2.7.2 / Android 1.5.3 -->
+      <div class="cl-entry cl-muted">
+        <div class="cl-head">
+          <span class="cl-version">Version 2.7.2</span>
+          
+          <span class="cl-badge cl-badge-gray">iOS 2.7.2 Android 1.5.3</span>
+          
+          <span class="cl-date">August 2026</span>
+        </div>
+        <p class="cl-tagline">Stability.</p>
+        <h3>Improved</h3>
+        <ul class="cl-improved">
+          <li>Transcription (phonetic transcription) during decoding for languages with non-Latin scripts.</li>
+          <li>The playback loop no longer stops on its own.</li>
+          <li>Decoding of long texts no longer fails; text-to-speech in Thai in Book Mode has been fixed; extra-long word cards remain on the screen.</li>
+        </ul>
+      </div>
+
+      <!-- 2.6.1 -->
+      <div class="cl-entry cl-muted">
+        <div class="cl-head">
+          <span class="cl-version">Version 2.6.1</span>
+          
+          <span class="cl-badge cl-badge-gray">iOS 2.6.1</span>
+          
+          <span class="cl-date">August 2026</span>
+        </div>
+        <h3>Improved</h3>
+        <ul class="cl-improved">
+          <li>Fixes a bug that caused the app to become unresponsive on the iPad after the update.</li>
+        </ul>
+      </div>
+
+      <!-- 2.6 / Android 1.5.1 -->
+      <div class="cl-entry">
+        <div class="cl-head">
+          <span class="cl-version">Version 2.6</span>
+          
+          <span class="cl-badge">iOS 2.6 Android 1.5.1</span>
+          
+          <span class="cl-date">August 2026</span>
+        </div>
+        <p class="cl-tagline">The learning path speaks your language.</p>
+        <h3>New</h3>
+        <ul class="cl-new">
+          <li><strong>Learning Path in your native language:</strong> If you’re learning German or English, word-for-word definitions, chapter titles, learning objectives, and exercises appear in your own language—for 31 languages.</li>
+        </ul>
+        <h3>Improved</h3>
+        <ul class="cl-improved">
+          <li>When using the read-aloud feature in the Learning Path, the loading circle kept spinning even though the audio was already playing—fixed.</li>
+        </ul>
+      </div>
+
+      <!-- 2.5 / Android 1.5.0 -->
+      <div class="cl-entry">
+        <div class="cl-head">
+          <span class="cl-version">Version 2.5</span>
+          
+          <span class="cl-badge">iOS 2.5 Android 1.5.0</span>
+          
+          <span class="cl-date">August 2026</span>
+        </div>
+        <p class="cl-tagline">Major update—more new features than ever before.</p>
+        <h3>New</h3>
+        <ul class="cl-new">
+          <li><strong>Learning Path in 32 languages:</strong> Guided stories with word-for-word decoding, audio narration, and exercises—including a pronunciation guide for non-Latin scripts.</li>
+          <li><strong>AI Conversation Partner:</strong> Practice real conversations—every response comes with word-for-word translation and audio.</li>
+          <li><strong>Series, XP &amp; Daily Goal:</strong> Stay motivated and track your progress.</li>
+          <li><strong>Fresh design:</strong> The new home screen puts decoding, scanning, and dictation at your fingertips.</li>
+        </ul>
+        <h3>Improved</h3>
+        <ul class="cl-improved">
+          <li>More natural, native-sounding text-to-speech voices in many languages.</li>
+          <li>Bug fixes and improvements.</li>
+        </ul>
+      </div>
 
       <!-- 2.4 -->
       <div class="cl-entry">
@@ -110,14 +269,14 @@
         <p class="cl-tagline">Try it free for 30 days and get an app that speaks your language.</p>
         <h3>New</h3>
         <ul class="cl-new">
-          <li><strong>30-day free trial:</strong> The annual subscription now includes a full month free (previously 14 days)—enough time to try out all the Pro features at your own pace.</li>
+          <li><strong>Try it free for 30 days:</strong> The annual subscription now includes a full month free (previously 14 days)—enough time to try out all the Pro features at your leisure.</li>
           <li><strong>Reminder before the trial period ends:</strong> If you’d like, we’ll send you a reminder via message or email before your free month ends—no unpleasant surprises.</li>
           <li><strong>9 new app languages:</strong> The user interface is now available in 30 languages—fully translated, from onboarding to settings.</li>
         </ul>
         <h3>Improved</h3>
         <ul class="cl-improved">
           <li>All screens are fully localized—including hidden text and error messages.</li>
-          <li>Anonymous, privacy-friendly usage statistics help us improve the app in targeted ways—without ads or tracking.</li>
+          <li>Anonymous, privacy-friendly usage statistics help us improve the app in targeted ways—without ads and without tracking.</li>
         </ul>
       </div>
 
@@ -150,12 +309,12 @@
         <p class="cl-tagline">The major update—LinguaFlow becomes a complete learning platform.</p>
         <h3>New</h3>
         <ul class="cl-new">
-          <li><strong>Read and understand books:</strong> Import ePub books and read them in your target language—with each word translated individually and natural AI pronunciation.</li>
+          <li><strong>Read and understand books:</strong> Import EPUB books and read them in your target language—with each word translated individually and natural AI pronunciation.</li>
           <li><strong>Streaks, XP, and Daily Goals:</strong> Earn experience points, keep your learning streak going, and track your progress right from the Home Screen widget.</li>
           <li><strong>Synchronization across all devices:</strong> Translations, books, reading progress, and settings are automatically available on iPhone, iPad, and Mac—in real time and even offline.</li>
           <li><strong>Translate documents:</strong> Upload PDF, Word (.docx), OpenOffice (.odt), and Markdown files and have them translated word for word. No character limit for Pro users.</li>
           <li><strong>Voice input and camera scan:</strong> Speak text or scan it directly with the camera—it’s transcribed and translated instantly.</li>
-          <li><strong>New design and mascot “Lingu”:</strong> Friendly onboarding, a more modern interface, and lots of thoughtful details.</li>
+          <li><strong>New design and mascot “Lingu”: A</strong> friendly onboarding experience, a more modern interface, and lots of thoughtful details.</li>
           <li><strong>New subscription model:</strong> Three fair Pro options—weekly, 3-month, or annual.</li>
         </ul>
         <h3>Improved</h3>
@@ -194,7 +353,7 @@
           
           <span class="cl-date">2025</span>
         </div>
-        <p class="cl-tagline">The Beginning: LinguaFlow launches on the App Store.</p>
+        <p class="cl-tagline">The Beginning: LinguaFlow is now available on the App Store.</p>
       </div>
 
     </div>
@@ -210,6 +369,8 @@
       <span>© 2025 LinguaFlow e.U. All rights reserved.</span>
       <div style="display:flex;gap:16px;">
         <a href="./">Home</a>
+        
+        <a href="was-ist-neu.html">What’s New</a>
         
         <a href="ratgeber.html">Guide</a>
         

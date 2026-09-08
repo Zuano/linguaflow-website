@@ -31,14 +31,24 @@
 
   <!-- Structured Data: Breadcrumb -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://linguaflow.app/" },
-      { "@type": "ListItem", "position": 2, "name": "Ratgeber", "item": "https://linguaflow.app/ratgeber.html" }
-    ]
-  }
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Pagrindinis puslapis",
+      "item": "https://linguaflow.app/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Praktinis vadovas",
+      "item": "https://linguaflow.app/ratgeber.html"
+    }
+  ]
+}
   </script>
   <!-- i18n-hreflang:start -->
   <link rel="alternate" hreflang="de" href="https://linguaflow.app/ratgeber.html">
@@ -82,11 +92,17 @@
 
 <nav class="navbar">
   <div class="container">
-    <a href="./" class="logo">Lingua <span>Flow</span></a>
+    <a href="./" class="logo">LinguaFlow</a>
     <div class="nav-links" id="navLinks">
-      <a href="./#methode">Metodas</a>
+      <a href="methode.html">Metodika</a>
       
       <a href="./#features">Funkcijos</a>
+      
+      <a href="./#sprachen">Kalbos</a>
+      
+      <a href="/zurueck-in-deinen-beruf/">Pripažinimas</a>
+      
+      <a href="./#preise">Kainos</a>
       
       <a href="ratgeber.html">Vadovas</a>
       
@@ -148,9 +164,9 @@
 <section class="page-content">
   <div class="container" style="max-width:800px;">
 
-    <p>Daugelis žmonių, dirbančių Austrijoje namų ūkio pagalbininkais, valytojais ar 24 valandų priežiūros darbuotojais, savo gimtinėje įgijo profesiją ar net baigė studijas. Tačiau slaugytojos, mokytojo, buhalterės ar inžinieriaus diplomas čia dažnai automatiškai nepripažįstamas – todėl tikroji profesija lieka nepasiekiama, nors Austrija daugelyje sričių desperatiškai ieško kvalifikuotų darbuotojų.</p>
+    <p>Daugelis žmonių, dirbančių Austrijoje namų ūkio pagalbininkais, valytojais ar 24 valandų priežiūros darbuotojais, savo gimtojoje šalyje įgijo profesiją ar net baigė studijas. Tačiau slaugytojos, mokytojo, buhalterės ar inžinieriaus diplomas čia dažnai automatiškai nepripažįstamas – todėl tikroji profesija lieka nepasiekiama, nors Austrija daugelyje sričių desperatiškai ieško kvalifikuotų darbuotojų.</p>
 
-    <p>Gera žinia: grįžti į įgytą profesiją yra įmanoma. Daugeliu atvejų tai reikalauja dviejų etapų – <strong>tavo diplomo pripažinimo (nostrifikacijos)</strong> ir <strong>profesijai tinkamo vokiečių</strong> <strong>kalbos lygio</strong> (sveikatos priežiūros profesijose dažniausiai B2). Kas įveikia abu šiuos etapus, dažnai vėliau dirba pagal kolektyvinę sutartį, gauna 13-ąjį ir 14-ąjį atlyginimus, turi teisę į atostogas ir uždirba žymiai daugiau.</p>
+    <p>Gera žinia: grįžti į įgytą profesiją yra įmanoma. Daugeliu atvejų tai reikalauja dviejų etapų – <strong>tavo diplomo pripažinimo arba nostrifikacijos</strong> ir <strong>profesijai tinkamo vokiečių</strong> <strong>kalbos</strong> <strong>lygio</strong> (sveikatos priežiūros profesijose dažniausiai B2). Kas įveikia šiuos du etapus, dažnai vėliau dirba pagal kolektyvinę sutartį, gauna 13-ąjį ir 14-ąjį atlyginimus, turi teisę į atostogas ir uždirba žymiai daugiau.</p>
 
     <p>Šiuose vadovuose rasi konkrečius skaičius, žingsnis po žingsnio instrukcijas ir oficialias kreipimosi vietas – nemokamai ir be registracijos.</p>
 
@@ -170,14 +186,20 @@
       <div class="help-card">
         <div class="help-icon">🗣️</div>
         <h3>Vokiečių kalba B2 lygio slaugytojams</h3>
-        <p>Kodėl B2 lygis yra pagrindinė kvalifikacija, kiek laiko iš tikrųjų užtrunka mokymasis ir kaip greičiau mokytis naudodamasis savo specialybės tekstais.</p>
-        <a href="ratgeber-deutsch-b2-pflege.html" class="btn btn-outline btn-sm" style="margin-top:16px;">Eiti į vadovą</a>
+        <p>Kodėl B2 yra pagrindinė kvalifikacija, kiek laiko tai iš tiesų užtrunka ir kaip greičiau mokytis naudodamasis savo specialybės tekstais.</p>
+        <a href="ratgeber-deutsch-b2-pflege.html" class="btn btn-outline btn-sm" style="margin-top:16px;">Prie vadovo</a>
       </div>
       <div class="help-card">
         <div class="help-icon">🧹</div>
         <h3>Namų ūkio pagalbos darbo vietos Vienoje</h3>
-        <p>Valandinis atlyginimas, teisėta registracija, paslaugų čekis – ir kodėl darbas namų ūkio pagalbine turi būti tik tarpinė stotelė.</p>
-        <a href="ratgeber-haushaltshilfe-jobs-wien.html" class="btn btn-outline btn-sm" style="margin-top:16px;">Pereiti prie vadovo</a>
+        <p>Valandinis atlyginimas, legalus įdarbinimas, paslaugų čekis – ir kodėl darbas namų ūkio pagalbine turi būti tik tarpinė stotelė.</p>
+        <a href="ratgeber-haushaltshilfe-jobs-wien.html" class="btn btn-outline btn-sm" style="margin-top:16px;">Prie gido</a>
+      </div>
+      <div class="help-card">
+        <div class="help-icon">🇩🇪</div>
+        <h3>Grįžimas į savo profesiją – pripažinimas Vokietijoje</h3>
+        <p>Vokietijai, o ne Austrijai: „telc Deutsch B1·B2 Pflege“, specialybės kalbos egzaminas, ZAB ir „anabin“ – su skaičiais, šaltiniais ir duomenimis, galiojančiais 2026 m. rugpjūčio mėn.</p>
+        <a href="/zurueck-in-deinen-beruf/" class="btn btn-outline btn-sm" style="margin-top:16px;">Prie skyriaus</a>
       </div>
     </div>
 
@@ -189,7 +211,7 @@
   <div class="container">
     <p class="section-label">Tavo kitas žingsnis</p>
     <h2>Vokiečių kalbos mokymasis su „<span translate="no">LinguaFlow</span>“</h2>
-    <p>Geresnės darbo galimybės prasideda nuo geresnių vokiečių kalbos žinių. „<span translate="no">LinguaFlow</span>“ iššifruoja kiekvieną tekstą žodis po žodžio – net ir tavo specialybės terminus. Įkvėpta Birkenbihl metodo, išbandyk nemokamai.</p>
+    <p>Geresnės karjeros galimybės prasideda nuo geresnių vokiečių kalbos žinių. „<span translate="no">LinguaFlow</span>“ iššifruoja kiekvieną tekstą žodis po žodžio – net ir jūsų specialybės terminus. Įkvėpta Birkenbihl metodo, išbandykite nemokamai.</p>
     <div class="cta-buttons">
       <a href="https://apps.apple.com/us/app/linguaflow-decoder/id6744939323" target="_blank" rel="noopener">
         <img src="/img/badge-appstore.svg" alt="Laden im App Store" loading="lazy" style="height:54px;">
@@ -209,11 +231,13 @@
       <div style="display:flex;gap:16px;">
         <a href="./">Pagrindinis puslapis</a>
         
+        <a href="was-ist-neu.html">Naujienos</a>
+        
         <a href="ratgeber.html">Patarimai</a>
         
         <a href="impressum.html">Teisinė informacija</a>
         
-        <a href="datenschutz.html">Privatumo politika</a>
+        <a href="datenschutz.html">Duomenų apsauga</a>
       </div>
     </div>
   </div>

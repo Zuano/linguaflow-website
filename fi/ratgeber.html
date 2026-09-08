@@ -31,14 +31,24 @@
 
   <!-- Structured Data: Breadcrumb -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://linguaflow.app/" },
-      { "@type": "ListItem", "position": 2, "name": "Ratgeber", "item": "https://linguaflow.app/ratgeber.html" }
-    ]
-  }
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Etusivu",
+      "item": "https://linguaflow.app/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Opas",
+      "item": "https://linguaflow.app/ratgeber.html"
+    }
+  ]
+}
   </script>
   <!-- i18n-hreflang:start -->
   <link rel="alternate" hreflang="de" href="https://linguaflow.app/ratgeber.html">
@@ -82,15 +92,21 @@
 
 <nav class="navbar">
   <div class="container">
-    <a href="./" class="logo">Lingua <span>Flow</span></a>
+    <a href="./" class="logo">LinguaFlow</a>
     <div class="nav-links" id="navLinks">
-      <a href="./#methode">Menetelmä</a>
+      <a href="methode.html">Menetelmä</a>
       
       <a href="./#features">Ominaisuudet</a>
       
+      <a href="./#sprachen">Kielet</a>
+      
+      <a href="/zurueck-in-deinen-beruf/">Sertifiointi</a>
+      
+      <a href="./#preise">Hinnat</a>
+      
       <a href="ratgeber.html">Opas</a>
       
-      <a href="hilfe.html">Ohje</a>
+      <a href="hilfe.html">Ohjeet</a>
       
       <a href="./#download" class="btn btn-primary btn-sm nav-cta">Lataa sovellus</a>
     </div>
@@ -141,16 +157,16 @@
 <section class="page-header">
   <div class="container">
     <h1>Opas: Paremmat työllistymismahdollisuudet Itävallassa</h1>
-    <p>Ammatin tunnustaminen, palkka ja tie väliaikaisesta työstä unelma-ammattiin</p>
+    <p>Ammattitunnustaminen, palkka ja tie väliaikaisesta työstä unelma-ammattiin</p>
   </div>
 </section>
 
 <section class="page-content">
   <div class="container" style="max-width:800px;">
 
-    <p>Monet ihmiset, jotka työskentelevät Itävallassa kotiapulaisina, siivoojina tai 24-tunnin hoitajina, ovat oppineet ammatin tai jopa suorittaneet korkeakoulututkinnon kotimaassaan. Sairaanhoitajan, opettajan, kirjanpitäjän tai insinöörin tutkinto ei kuitenkaan usein riitä täällä automaattisesti – ja niinpä varsinainen ammatti jää saavuttamattomaksi, vaikka Itävalta etsii kipeästi ammattitaitoista työvoimaa monilla aloilla.</p>
+    <p>Monet ihmiset, jotka työskentelevät Itävallassa kotiapulaisina, siivoojina tai 24-tunnin hoitajina, ovat kotimaassaan oppineet ammatin tai jopa suorittaneet korkeakoulututkinnon. Sairaanhoitajan, opettajan, kirjanpitäjän tai insinöörin tutkinto ei kuitenkaan usein riitä täällä automaattisesti – ja niinpä varsinainen ammatti jää saavuttamattomaksi, vaikka Itävalta etsii kipeästi ammattitaitoista työvoimaa monilla aloilla.</p>
 
-    <p>Hyvä uutinen on, että paluu opittuun ammattiin on mahdollista. Se tapahtuu useimmissa tapauksissa kahden vaiheen kautta: <strong>tutkintosi tunnustaminen eli nostrifiointi</strong> sekä <strong>ammattiin sopiva saksan</strong> <strong>kielen taso</strong> (terveydenhuollon ammateissa yleensä B2). Jos hoidat molemmat asiat kuntoon, pääset usein työskentelemään työehtosopimuksen puitteissa, saat 13. ja 14. palkan, lomaoikeuden ja huomattavasti paremman palkan.</p>
+    <p>Hyvä uutinen on, että paluu opittuun ammattiin on mahdollista. Se tapahtuu useimmissa tapauksissa kahden vaiheen kautta: <strong>tutkintosi tunnustaminen eli nostrifiointi</strong> sekä <strong>ammattiin sopiva saksan</strong> <strong>kielen</strong> <strong>taso</strong> (terveydenhuollon ammateissa yleensä B2). Jos hoidat molemmat asiat, pääset usein työskentelemään työehtosopimuksen puitteissa, saat 13. ja 14. palkan, lomaoikeuden ja huomattavasti paremmat ansiot.</p>
 
     <p>Näistä oppaista löydät konkreettisia lukuja, vaiheittaisia ohjeita ja viralliset yhteyspisteet – ilmaiseksi ja ilman rekisteröitymistä.</p>
 
@@ -158,7 +174,7 @@
       <div class="help-card">
         <div class="help-icon">🎓</div>
         <h3>Ulkomainen tutkinto: tunnustaminen ja nostrifiointi</h3>
-        <p>Kuka on vastuussa, mitä se maksaa, kuinka kauan se kestää? Kattava yleiskatsaus EU-maiden ja kolmansien maiden tutkintoihin.</p>
+        <p>Kuka on vastuussa, mitä se maksaa, kuinka kauan se kestää? Kattava katsaus EU-maiden ja kolmansien maiden tutkintoihin.</p>
         <a href="ratgeber-anerkennung-auslaendischer-abschluss.html" class="btn btn-outline btn-sm" style="margin-top:16px;">Opas</a>
       </div>
       <div class="help-card">
@@ -169,15 +185,21 @@
       </div>
       <div class="help-card">
         <div class="help-icon">🗣️</div>
-        <h3>Saksan kieli B2 hoitohenkilökunnalle</h3>
-        <p>Miksi B2 on avaintaito, kuinka kauan opiskelu todella kestää ja kuinka opit nopeammin omien ammattitekstien avulla.</p>
+        <h3>Saksan kieli tasolla B2 hoitohenkilökunnalle</h3>
+        <p>Miksi B2 on avaintaito, kuinka kauan sen oppiminen todella kestää ja kuinka opit nopeammin omien ammattitekstien avulla.</p>
         <a href="ratgeber-deutsch-b2-pflege.html" class="btn btn-outline btn-sm" style="margin-top:16px;">Opas</a>
       </div>
       <div class="help-card">
         <div class="help-icon">🧹</div>
         <h3>Kotiapulaisen työpaikat Wienissä</h3>
-        <p>Tuntipalkat, laillinen rekisteröityminen, palvelusekki – ja miksi kotiapulaisen työsi ei tarvitse olla kuin väliaikainen vaihe.</p>
+        <p>Tuntipalkat, laillinen rekisteröityminen, palvelusekki – ja miksi kotiapulaisen työsi tarvitsee olla vain väliaikainen vaihe.</p>
         <a href="ratgeber-haushaltshilfe-jobs-wien.html" class="btn btn-outline btn-sm" style="margin-top:16px;">Opas</a>
+      </div>
+      <div class="help-card">
+        <div class="help-icon">🇩🇪</div>
+        <h3>Paluu omaan ammattiin — tunnustaminen Saksassa</h3>
+        <p>Itävallan sijaan Saksaan: telc Deutsch B1·B2 Pflege, ammattikielikoe, ZAB ja anabin – luvut, lähteet ja tilanne elokuussa 2026.</p>
+        <a href="/zurueck-in-deinen-beruf/" class="btn btn-outline btn-sm" style="margin-top:16px;">Osiolle</a>
       </div>
     </div>
 
@@ -188,8 +210,8 @@
 <section class="cta-section">
   <div class="container">
     <p class="section-label">Seuraava askeleesi</p>
-    <h2>Opi saksaa <span translate="no">LinguaFlow</span>-palvelun avulla</h2>
-    <p>Paremmat työllistymismahdollisuudet alkavat paremmasta saksan kielitaidosta. <span translate="no">LinguaFlow</span> tulkitsee jokaisen tekstin sana sanalta – myös ammattikielesi. Birkenbihlin menetelmästä inspiraationsa saanut palvelu, kokeile ilmaiseksi.</p>
+    <h2>Opi saksaa <span translate="no">LinguaFlow</span>:n avulla</h2>
+    <p>Paremmat työllistymismahdollisuudet alkavat paremmasta saksan kielitaidosta. <span translate="no">LinguaFlow</span> tulkitsee jokaisen tekstin sana sanalta – myös ammattikielesi. Birkenbihlin menetelmän innoittamana, kokeile ilmaiseksi.</p>
     <div class="cta-buttons">
       <a href="https://apps.apple.com/us/app/linguaflow-decoder/id6744939323" target="_blank" rel="noopener">
         <img src="/img/badge-appstore.svg" alt="Laden im App Store" loading="lazy" style="height:54px;">
@@ -209,9 +231,11 @@
       <div style="display:flex;gap:16px;">
         <a href="./">Etusivu</a>
         
+        <a href="was-ist-neu.html">Uutta</a>
+        
         <a href="ratgeber.html">Opas</a>
         
-        <a href="impressum.html">Oikeudelliset tiedot</a>
+        <a href="impressum.html">Julkaisutiedot</a>
         
         <a href="datenschutz.html">Tietosuoja</a>
       </div>

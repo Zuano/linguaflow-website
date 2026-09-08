@@ -31,13 +31,13 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "name": "Belajar bahasa dengan LinguaFlow – terinspirasi oleh Metode Birkenbihl",
-  "description": "Empat langkah untuk memahami dan belajar berbicara suatu bahasa: mendekodifikasi, mendengarkan secara aktif, mendengarkan secara pasif, dan berlatih sesuai dengan tujuan belajar.",
+  "description": "Empat langkah untuk memahami dan belajar berbicara suatu bahasa: mendekode, mendengarkan secara aktif, mendengarkan secara pasif, dan berlatih sesuai dengan tujuan belajar.",
   "inLanguage": "id",
   "step": [
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Mendekodekan",
+      "name": "Mendekode",
       "text": "Teks dalam bahasa asing diterjemahkan kata demi kata ke dalam bahasa ibu. Langkah ini sepenuhnya ditangani oleh aplikasi LinguaFlow."
     },
     {
@@ -50,7 +50,7 @@
       "@type": "HowToStep",
       "position": 3,
       "name": "Mendengarkan secara pasif",
-      "text": "Putar ulang bagian teks tersebut secara berulang di latar belakang. Otak akan secara otomatis menghafal bunyi dan intonasi bahasa tersebut – sebagai persiapan untuk berbicara."
+      "text": "Putar bagian teks tersebut berulang-ulang di latar belakang. Otak akan secara otomatis menghafal bunyi dan intonasi bahasa tersebut – sebagai persiapan untuk berbicara."
     },
     {
       "@type": "HowToStep",
@@ -103,13 +103,17 @@
 
 <nav class="navbar">
   <div class="container">
-    <a href="./" class="logo">Lingua <span>Flow</span></a>
+    <a href="./" class="logo">LinguaFlow</a>
     <div class="nav-links" id="navLinks">
-      <a href="./#methode">Metode</a>
+      <a href="methode.html">Metode</a>
       
-      <a href="funktionen.html">Fitur</a>
+      <a href="./#features">Fitur</a>
       
       <a href="./#sprachen">Bahasa</a>
+      
+      <a href="/zurueck-in-deinen-beruf/">Pengakuan</a>
+      
+      <a href="./#preise">Harga</a>
       
       <a href="ratgeber.html">Panduan</a>
       
@@ -164,7 +168,7 @@
 <section class="page-header">
   <div class="container">
     <h1>Coba sendiri cara kerja LinguaFlow</h1>
-    <p>Aplikasi bahasa tidak akan mengajarkanmu bahasa. Demo ini akan menunjukkan dalam 20 detik apa yang selama ini kurang dari otakmu – pilih bahasamu dan coba langsung.</p>
+    <p>Aplikasi bahasa tidak akan mengajarkanmu bahasa. Demo ini akan menunjukkan dalam 20 detik apa yang selama ini kurang dari otakmu – pilih bahasa yang kamu inginkan dan coba langsung.</p>
   </div>
 </section>
 
@@ -194,7 +198,7 @@
       .mt-btn-play:hover { background: var(--teal-dark); color: #fff; }
       .mt-hint { font-size: .85rem; color: var(--gray-400); margin: 10px 2px 0; min-height: 1.2em; }
 
-      /* Word cards, like the app&#x27;s decoded view.
+      /* Word cards, like the app's decoded view.
          Wortkarten wie in der Dekodier-Ansicht der App. */
       .mt-text { padding: 4px 2px; }
       .mt-sentence { margin-bottom: 14px; }
@@ -259,7 +263,7 @@
           <h2 data-ui="playerTitle">Teks contohmu</h2>
           <div class="mt-controls">
             <button class="mt-btn mt-btn-play" id="mtPlay" aria-label="Abspielen">▶</button>
-            <button class="mt-btn" id="mtSlow">🐢 <span data-ui="slow">Pelan</span></button>
+            <button class="mt-btn" id="mtSlow">🐢 <span data-ui="slow">Pelan-pelan</span></button>
             <button class="mt-btn" id="mtAB"><span data-ui="ab">A–B</span></button>
           </div>
         </div>
@@ -279,27 +283,27 @@
       <article id="mtChapters">
         <section class="mt-chapter" id="k1">
           <div class="mt-chapter-head"><h2>Begini cara kerja LinguaFlow</h2></div>
-          <div class="mt-chaptext">Jika kamu hanya menghafal daftar kosakata, kamu tidak benar-benar belajar bahasa. Di halaman ini, kamu bisa melihat langsung bagaimana rasanya belajar dengan cara yang berbeda dalam hitungan detik: Teks contoh di atas adalah tampilan aplikasi nyata yang dapat kamu coba langsung, dan penjelasan ini akan segera dibacakan oleh suara berkualitas penutur asli, sementara kata-katanya menyala. Dengan LinguaFlow, kamu belajar bahasa sesuai cara kerja otakmu: pertama memahami, lalu mendengarkan, kemudian berbicara. Metode di baliknya terinspirasi dari Metode Birkenbihl dan terdiri dari empat langkah: mendekode, mendengarkan aktif, mendengarkan pasif, dan berlatih. Cobalah — ketuk sebuah kata di atas.</div>
+          <div class="mt-chaptext">Jika kamu hanya menghafal daftar kosakata, kamu tidak benar-benar belajar bahasa. Di halaman ini, kamu bisa melihat langsung bagaimana rasanya dalam hitungan detik: Teks contoh di atas adalah tampilan aplikasi asli yang bisa kamu coba langsung, dan penjelasan ini akan segera dibacakan oleh suara berkualitas penutur asli, sementara kata-katanya menyala. Dengan LinguaFlow, kamu belajar bahasa sesuai cara kerja otakmu: pertama memahami, lalu mendengarkan, kemudian berbicara. Metode di baliknya terinspirasi dari Metode Birkenbihl dan terdiri dari empat langkah: mendekode, mendengarkan aktif, mendengarkan pasif, dan berlatih. Cobalah — ketuk sebuah kata di atas.</div>
         </section>
         <section class="mt-chapter" id="k2">
           <div class="mt-chapter-head"><h2>Tampilan Teks</h2></div>
-          <div class="mt-chaptext">Di atas, Anda akan melihat teks persis seperti yang ditampilkan oleh aplikasi. Setiap kata berupa kartu kecil: di bagian atas terdapat kata dalam bahasa target, di bawahnya arti kata tersebut dalam bahasa ibu Anda — kata demi kata, sesuai urutan bahasa target. Di bawahnya, seluruh kalimat diterjemahkan kembali dengan lancar. Untuk bahasa dengan aksara yang berbeda, akan ditambahkan satu baris transkripsi agar Anda dapat membaca semuanya. Ketuk sebuah kata: Suara akan melanjutkan pemutaran tepat dari sana.</div>
+          <div class="mt-chaptext">Di atas, Anda melihat teks persis seperti yang ditampilkan oleh aplikasi. Setiap kata berupa kartu kecil: di bagian atas terdapat kata dalam bahasa tujuan Anda, di bawahnya arti kata tersebut dalam bahasa ibu Anda — kata demi kata, sesuai urutan bahasa tujuan. Di bawahnya, seluruh kalimat diterjemahkan kembali secara lancar. Untuk bahasa dengan aksara yang berbeda, terdapat baris tambahan berisi transkripsi agar Anda dapat membaca semuanya. Ketuk sebuah kata: Suara akan melanjutkan pemutaran tepat dari sana.</div>
         </section>
         <section class="mt-chapter" id="k3">
           <div class="mt-chapter-head"><h2>Langkah 1: Mendekodekan</h2></div>
-          <div class="mt-chaptext">Terjemahan kata per kata ini disebut dekodifikasi. Terjemahan ini sengaja terdengar tidak lancar — karena dengan begitu kamu bisa melihat bagaimana bahasa tersebut sebenarnya dibangun, tanpa perlu menghafal aturan tata bahasa. Dulu, orang melakukannya berjam-jam secara manual dengan kamus. Di LinguaFlow, aplikasi ini menangani langkah ini sepenuhnya untukmu — untuk setiap teks yang ingin kamu pelajari.</div>
+          <div class="mt-chaptext">Terjemahan kata per kata ini disebut dekodifikasi. Terjemahannya sengaja dibuat terdengar tersendat-sendat — karena dengan begitu kamu bisa melihat bagaimana bahasa tersebut sebenarnya dibangun, tanpa perlu menghafal aturan tata bahasa. Dulu, orang melakukannya selama berjam-jam secara manual dengan kamus. Di LinguaFlow, aplikasi ini menangani langkah ini sepenuhnya untukmu — untuk setiap teks yang ingin kamu pelajari.</div>
         </section>
         <section class="mt-chapter" id="k4">
-          <div class="mt-chapter-head"><h2>Langkah 2: Mendengarkan Aktif</h2></div>
-          <div class="mt-chaptext">Sekarang, dengarkan teks tersebut sambil membacanya bersamaan. Sebagai pemula, bacalah baris arti dalam bahasa ibu Anda, dengarkan bahasa target secara perlahan, dan sering-seringlah menekan tombol jeda — dengan begitu, otak Anda akan mengaitkan bunyi dengan maknanya. Sebagai pengguna tingkat lanjut, bacalah teks aslinya dan lihat ke bawah sebentar hanya saat menemukan kata-kata yang tidak dikenal. Sering-seringlah menggunakan pengulangan A-B: tandai satu kalimat dan putar berulang-ulang — coba lakukan di atas.</div>
+          <div class="mt-chapter-head"><h2>Langkah 2: Mendengarkan Secara Aktif</h2></div>
+          <div class="mt-chaptext">Sekarang, dengarkan teks tersebut sambil membacanya bersamaan. Sebagai pemula, bacalah baris arti dalam bahasa ibu Anda, dengarkan bahasa target dengan perlahan, dan sering-seringlah menekan tombol jeda — dengan begitu, otak Anda akan mengaitkan bunyi dengan maknanya. Sebagai pelajar tingkat lanjut, bacalah teks aslinya dan lihat ke bawah sebentar hanya saat menemukan kata yang tidak dikenal. Gunakan sering teknik pengulangan A-B: tandai satu kalimat dan putar berulang-ulang — coba di bagian atas.</div>
         </section>
         <section class="mt-chapter" id="k5">
           <div class="mt-chapter-head"><h2>Langkah 3: Mendengarkan Secara Pasif</h2></div>
-          <div class="mt-chaptext">Biarkan teks tersebut terus diputar di latar belakang — saat membereskan rumah, berjalan-jalan, atau sebelum tidur. Kamu tidak perlu mendengarkan dengan penuh konsentrasi: Otakmu akan secara otomatis menghafal bunyi dan melodi bahasa tersebut. Inilah persiapan yang tepat untuk berbicara.</div>
+          <div class="mt-chaptext">Biarkan teks tersebut terus diputar di latar belakang — saat membereskan rumah, berjalan-jalan, atau sebelum tidur. Kamu tidak perlu mendengarkan dengan penuh konsentrasi: Otakmu akan secara otomatis menyerap bunyi dan irama bahasa tersebut. Inilah persiapan yang tepat untuk berbicara.</div>
         </section>
         <section class="mt-chapter" id="k6">
-          <div class="mt-chapter-head"><h2>Langkah 4: Tujuanmu yang menentukan</h2></div>
-          <div class="mt-chaptext">Mulai dari sini, tujuan belajarmu yang menentukan. Jika kamu hanya ingin memahami bahasa tersebut, kamu sudah mencapai tujuan — cukup lanjutkan ke langkah dua dan tiga. Jika kamu ingin berbicara, lakukan latihan berbicara bersama: Pilih kalimat pendek dengan metode pengulangan A-B, atur kecepatan sangat lambat, dan ucapkan bersamaan dengan suara rekaman — seperti bernyanyi dalam paduan suara. Kamu akan langsung mendengar jika ada yang terdengar berbeda, dan memperbaikinya dengan sendirinya. Ini bisa dilakukan di mana saja, bahkan di trem: Dengan headphone, suaranya terdengar seperti sedang menelepon. Dan jika kamu ingin belajar menulis, cukup tuliskan teksnya kalimat demi kalimat.</div>
+          <div class="mt-chapter-head"><h2>Langkah 4: Tujuanmu yang Menentukan</h2></div>
+          <div class="mt-chaptext">Mulai dari sini, tujuan belajar Anda yang menentukan. Jika kamu hanya ingin memahami bahasa tersebut, kamu sudah mencapai tujuan — cukup lanjutkan ke langkah dua dan tiga. Jika kamu ingin berbicara, lakukan latihan berbicara berbaris: Gunakan pengulangan A-B untuk mengambil kalimat pendek, atur kecepatan sangat lambat, dan ucapkan bersamaan dengan suara yang diputar — seperti bernyanyi dalam paduan suara. Kamu akan langsung mendengar jika ada yang terdengar berbeda, dan secara otomatis memperbaikinya. Ini bisa dilakukan di mana saja, bahkan di trem: dengan headphone, suaranya akan terdengar seperti sedang menelepon. Dan jika kamu ingin belajar menulis, cukup tuliskan teks tersebut kalimat demi kalimat.</div>
         </section>
         <section class="mt-chapter" id="k7">
           <div class="mt-chapter-head"><h2>Ayo mulai</h2></div>
@@ -329,11 +333,13 @@
       <div style="display:flex;gap:16px;flex-wrap:wrap;">
         <a href="./">Beranda</a>
         
+        <a href="was-ist-neu.html">Apa yang Baru</a>
+        
         <a href="funktionen.html">Fitur</a>
         
         <a href="ratgeber.html">Panduan</a>
         
-        <a href="impressum.html">Informasi Hukum</a>
+        <a href="impressum.html">Tentang Kami</a>
         
         <a href="datenschutz.html">Kebijakan Privasi</a>
       </div>

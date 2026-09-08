@@ -31,31 +31,31 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "name": "Imparare le lingue con LinguaFlow – ispirato al metodo Birkenbihl",
-  "description": "Imparare a comprendere e parlare una lingua in quattro fasi: decodifica, ascolto attivo, ascolto passivo ed esercitazione in base all'obiettivo di apprendimento.",
+  "description": "Imparare a comprendere e parlare una lingua in quattro fasi: decodifica, ascolto attivo, ascolto passivo ed esercitazione in base all’obiettivo di apprendimento.",
   "inLanguage": "it",
   "step": [
     {
       "@type": "HowToStep",
       "position": 1,
       "name": "Decodificare",
-      "text": "Il testo in lingua straniera viene tradotto parola per parola nella lingua madre. Questo passaggio viene gestito interamente dall'app LinguaFlow."
+      "text": "Il testo in lingua straniera viene tradotto parola per parola nella lingua madre. Questa operazione viene eseguita interamente dall'app LinguaFlow."
     },
     {
       "@type": "HowToStep",
       "position": 2,
       "name": "Ascolto attivo",
-      "text": "Ascoltare il testo con attenzione, leggendo contemporaneamente e facendo frequenti pause: è così che il suono della lingua straniera si associa al significato."
+      "text": "Ascoltare il testo con attenzione, leggendolo contemporaneamente e facendo frequenti pause: è così che il suono della lingua straniera si associa al significato."
     },
     {
       "@type": "HowToStep",
       "position": 3,
       "name": "Ascolto passivo",
-      "text": "Lascia che il brano venga riprodotto in sottofondo. Il cervello assimila spontaneamente il suono e l’intonazione, preparandosi così a parlare."
+      "text": "Lascia che il brano venga riprodotto in sottofondo. Il cervello assimila spontaneamente il suono e l’intonazione del discorso: è la preparazione alla conversazione."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Esercitarsi in base all'obiettivo di apprendimento",
+      "name": "Esercitarsi in base all'obiettivo didattico",
       "text": "Solo comprensione: concentrarsi sui passaggi 2 e 3. Espressione orale: ripetere in coro con ripetizione A-B a velocità molto lenta. Espressione scritta: trascrivere il testo frase per frase."
     }
   ]
@@ -103,13 +103,17 @@
 
 <nav class="navbar">
   <div class="container">
-    <a href="./" class="logo">Lingua <span>Flow</span></a>
+    <a href="./" class="logo">LinguaFlow</a>
     <div class="nav-links" id="navLinks">
-      <a href="./#methode">Metodo</a>
+      <a href="methode.html">Metodo</a>
       
-      <a href="funktionen.html">Funzionalità</a>
+      <a href="./#features">Caratteristiche</a>
       
       <a href="./#sprachen">Lingue</a>
+      
+      <a href="/zurueck-in-deinen-beruf/">Riconoscimenti</a>
+      
+      <a href="./#preise">Prezzi</a>
       
       <a href="ratgeber.html">Guida</a>
       
@@ -194,7 +198,7 @@
       .mt-btn-play:hover { background: var(--teal-dark); color: #fff; }
       .mt-hint { font-size: .85rem; color: var(--gray-400); margin: 10px 2px 0; min-height: 1.2em; }
 
-      /* Word cards, like the app&#x27;s decoded view.
+      /* Word cards, like the app's decoded view.
          Wortkarten wie in der Dekodier-Ansicht der App. */
       .mt-text { padding: 4px 2px; }
       .mt-sentence { margin-bottom: 14px; }
@@ -264,7 +268,7 @@
           </div>
         </div>
         <div class="mt-text" id="mtText"></div>
-        <p class="mt-hint" id="mtHint" data-ui="playerHint">Tocca una parola: la voce riproduce esattamente da quel punto.</p>
+        <p class="mt-hint" id="mtHint" data-ui="playerHint">Tocca una parola: la voce riproduce il testo a partire da quel punto esatto.</p>
       </div>
 
       <!-- Overview / Inhaltsverzeichnis -->
@@ -279,7 +283,7 @@
       <article id="mtChapters">
         <section class="mt-chapter" id="k1">
           <div class="mt-chapter-head"><h2>Ecco come funziona LinguaFlow</h2></div>
-          <div class="mt-chaptext">Imparare liste di vocaboli non significa imparare una lingua. In questa pagina puoi vedere in tempo reale come, in pochi secondi, l’esperienza cambia: Il testo di esempio qui sopra è una vera e propria schermata dell&#x27;app che puoi esplorare, e questa spiegazione ti verrà letta immediatamente da una voce con la qualità di un madrelingua, mentre le parole si illuminano. Con LinguaFlow impari le lingue nel modo in cui piace al tuo cervello: prima capisci, poi ascolti, poi parli. Il metodo su cui si basa si ispira al metodo Birkenbihl e prevede quattro fasi: decodifica, ascolto attivo, ascolto passivo ed esercitazione. Provalo: tocca una parola in alto.</div>
+          <div class="mt-chaptext">Imparare liste di vocaboli non significa imparare una lingua. In questa pagina puoi vedere in tempo reale come, in pochi secondi, l’esperienza cambia: Il testo di esempio qui sopra è una vera e propria schermata dell’app che puoi esplorare, e questa spiegazione ti verrà letta immediatamente da una voce con la qualità di un madrelingua, mentre le parole si illuminano. Con LinguaFlow impari le lingue nel modo in cui piace al tuo cervello: prima capisci, poi ascolti, poi parli. Il metodo su cui si basa si ispira al metodo Birkenbihl e prevede quattro fasi: decodifica, ascolto attivo, ascolto passivo ed esercitazione. Provalo: tocca una parola in alto.</div>
         </section>
         <section class="mt-chapter" id="k2">
           <div class="mt-chapter-head"><h2>La visualizzazione del testo</h2></div>
@@ -287,19 +291,19 @@
         </section>
         <section class="mt-chapter" id="k3">
           <div class="mt-chapter-head"><h2>Passo 1: Decodifica</h2></div>
-          <div class="mt-chaptext">Questa traduzione parola per parola si chiama decodifica. Suona volutamente a scatti — perché è proprio così che puoi vedere come è realmente strutturata la lingua, senza dover imparare a memoria le regole grammaticali. Un tempo lo si faceva a mano per ore con il dizionario. In LinguaFlow, l’app svolge completamente questo passaggio per te — per ogni testo che desideri imparare.</div>
+          <div class="mt-chaptext">Questa traduzione parola per parola si chiama decodifica. Sembra volutamente a scatti — perché è proprio così che puoi vedere come è realmente costruita la lingua, senza dover imparare a memoria le regole grammaticali. Un tempo lo si faceva a mano per ore con il dizionario. In LinguaFlow, l’app esegue questo passaggio completamente al posto tuo — per ogni testo che vuoi imparare.</div>
         </section>
         <section class="mt-chapter" id="k4">
           <div class="mt-chapter-head"><h2>Fase 2: Ascolto attivo</h2></div>
-          <div class="mt-chaptext">Ora ascolta il testo e segui la lettura. Se sei un principiante, leggi la riga con il significato nella tua lingua madre, ascolta la lingua di destinazione a velocità ridotta e metti spesso in pausa: in questo modo la tua mente associa il suono al significato. Se sei un utente avanzato, leggi il testo originale e dai un’occhiata in basso solo quando incontri parole sconosciute. Utilizza spesso la ripetizione A-B: seleziona una singola frase e riproducila in loop — provalo qui sopra.</div>
+          <div class="mt-chaptext">Ora ascolta il testo e segui la lettura. Se sei un principiante, leggi la riga con il significato nella tua lingua madre, ascolta la lingua di destinazione a velocità ridotta e metti spesso in pausa: in questo modo la tua mente associa il suono al significato. Se sei un utente avanzato, leggi il testo originale e dai un&#x27;occhiata in basso solo quando incontri parole sconosciute. Usa spesso la ripetizione A-B: seleziona una singola frase e riproducila in loop — provalo qui sopra.</div>
         </section>
         <section class="mt-chapter" id="k5">
           <div class="mt-chapter-head"><h2>Fase 3: Ascolto passivo</h2></div>
-          <div class="mt-chaptext">Lascia poi che il testo continui in sottofondo — mentre riordini, fai una passeggiata o ti addormenti. Non devi ascoltare con concentrazione: il tuo cervello memorizza da solo il suono e la melodia della lingua. È proprio questa la preparazione alla conversazione.</div>
+          <div class="mt-chaptext">Lascia poi che il testo continui a suonare in sottofondo — mentre riordini, fai una passeggiata o ti addormenti. Non devi ascoltare con concentrazione: il tuo cervello memorizza da solo il suono e la melodia della lingua. È proprio questa la preparazione alla conversazione.</div>
         </section>
         <section class="mt-chapter" id="k6">
           <div class="mt-chapter-head"><h2>Fase 4: è il tuo obiettivo a decidere</h2></div>
-          <div class="mt-chaptext">Da questo punto in poi è il tuo obiettivo di apprendimento a decidere. Se vuoi solo capire la lingua, hai già raggiunto il tuo obiettivo: continua semplicemente con i passaggi due e tre. Se vuoi parlare, entra in gioco la ripetizione corale: con la ripetizione A-B, scegli una frase breve, imposta la velocità al minimo e ripeti contemporaneamente con la voce, come in un coro. Ti accorgerai subito se qualcosa suona diverso e ti correggerai da solo. Puoi farlo ovunque, persino in tram: con le cuffie sembra una telefonata. E se vuoi imparare a scrivere, trascrivi semplicemente il testo frase per frase.</div>
+          <div class="mt-chaptext">Da questo punto in poi è il tuo obiettivo di apprendimento a decidere. Se vuoi solo capire la lingua, hai già raggiunto il tuo obiettivo: continua semplicemente con i passaggi due e tre. Se vuoi parlare, entra in gioco la ripetizione corale: con la ripetizione A-B, scegli una frase breve, imposta la velocità al minimo e ripeti contemporaneamente a voce alta — come in un coro. Ti accorgerai subito se qualcosa suona diverso e ti correggerai da solo. Puoi farlo ovunque, persino in tram: con le cuffie sembra una telefonata. E se vuoi imparare a scrivere, trascrivi semplicemente il testo frase per frase.</div>
         </section>
         <section class="mt-chapter" id="k7">
           <div class="mt-chapter-head"><h2>Inizia subito</h2></div>
@@ -328,6 +332,8 @@
       <span>© 2026 LinguaFlow e.U. Tutti i diritti riservati.</span>
       <div style="display:flex;gap:16px;flex-wrap:wrap;">
         <a href="./">Home</a>
+        
+        <a href="was-ist-neu.html">Novità</a>
         
         <a href="funktionen.html">Funzionalità</a>
         
