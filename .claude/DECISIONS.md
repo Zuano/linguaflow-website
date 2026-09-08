@@ -93,6 +93,27 @@ Deutsch (Quelle) und Englisch (`/en/was-ist-neu.html`). Gesteuert über
 1.0), neueste zuerst. Bei jedem neuen Release oben einen Eintrag ergänzen.
 Android-Einträge können später ergänzt werden (Android aktuell 1.4.2).
 
+## 2026-09-08 — Eine Navigation für alle Seiten, Hamburger ab 1180 px, „Was ist neu" nur im Footer
+
+**Entscheidung (Christian):** Alle Seiten zeigen dieselbe Navigation wie die Startseite
+(Methode, Features, Sprachen, Anerkennung, Preise, Ratgeber, Hilfe, App herunterladen).
+„Was ist neu" kommt nicht in die Nav (wäre der 8. Punkt und sprengt die Zeile), sondern
+in den Footer jeder Seite. Weil 7 Punkte + Button + Sprachwahl erst ab ~1200 px in eine
+Zeile passen, schaltet das Hamburger-Menü jetzt ab 1180 px statt 768 px (Tablets und
+kleine Laptop-Fenster sehen das Hamburger-Menü).
+
+**Begründung:** Vorher trug jede Seite eine eigene handkopierte Nav mit anderer Auswahl —
+Menüpunkte „verschwanden" beim Seitenwechsel. Eine gemeinsame Kopfzeile per Include gibt
+es in diesem statischen Setup nicht; die Regel „Nav-Block aus hilfe.html kopieren" plus
+Prüfskript ersetzt sie. Die einmalige DeepL-Neuübersetzung der betroffenen Seiten
+(ca. 80–120 €) wurde freigegeben, weil sie nebenbei den offenen JSON-LD-Nachrüstpunkt
+für Startseite und Ratgeber erledigt.
+
+**Außerdem:** `was-ist-neu.html` ist die plattformübergreifende Update-Historie (iOS +
+Android je Eintrag) und wird ab jetzt von der Release-Session der Apps gepflegt
+(Skill `app-release-api`, Schritt 7). In der App bleibt nur das aktuelle Release
+(Lokalisierung in 31 Sprachen); ein Link „Alle Updates ansehen" führt hierher.
+
 ## 2026-08-21 — JSON-LD wird uebersetzt, Nachruestung statt Neuuebersetzung
 
 **Entscheidung:** Die Schema-Textfelder (`name`, `text`, `description`,
