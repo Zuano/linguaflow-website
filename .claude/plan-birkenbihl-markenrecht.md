@@ -106,6 +106,15 @@ CTA-Kasten: „… Inspiriert von der Birkenbihl-Methode, kostenlos ausprobieren
 Ist regelkonform (Fließtext, max. 2 Nennungen pro Seite). Änderung würde 5 Seiten
 neu übersetzen lassen (~15 €/Seite = ~75 €). **Christian: so lassen.**
 
+## Umsetzungsstand (2026-09-23)
+
+Schritte 1–7 erledigt, Commit auf `fix/birkenbihl-markenrecht`. Abweichungen/Ergänzungen
+zur Tabelle: zusätzlich bereinigt `index.html` `twitter:title`, `og:image:alt` und der
+Untertitel der Methode-Sektion („Inspiriert von der Birkenbihl-Methode nutzt LinguaFlow …"
+→ ohne Lead); `youtube/index.html` Meta-Keyword „Birkenbihl" entfernt. Block 1 der
+Hilfeseite: Fragen unverändert, aber laut DECISIONS die LinguaFlow-Verkaufssätze aus den
+Antworten genommen. Schritte 8–10 offen.
+
 ## Geplante Schritte
 
 1. **Skripte zuerst** (`update-ratings.py`, `translate-site.py`) → Check: `grep -n Birkenbihl scripts/*.py` zeigt nur noch die `description`-Zeile.

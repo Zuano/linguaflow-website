@@ -1,7 +1,7 @@
 {
   "name": "LinguaFlow",
   "short_name": "LinguaFlow",
-  "description": "Sprachlern-App nach der Birkenbihl-Methode. Wort-für-Wort-Übersetzung mit Kontext, Bücher-Reader, 30+ Sprachen.",
+  "description": "Sprachlern-App, inspiriert von der Birkenbihl-Methode. Wort-für-Wort-Übersetzung mit Kontext, Bücher-Reader, 30+ Sprachen.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

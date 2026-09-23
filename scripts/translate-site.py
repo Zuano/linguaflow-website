@@ -399,21 +399,14 @@ def deepl_translate(html: str, target_lang: str, lang_attr: str,
 
 # Begriffe, die DeepL sprachlich richtig, aber fuer die Suche schaedlich
 # uebersetzt. Sie werden nach der Uebersetzung pro Sprache zurueckgesetzt.
-# Ohne das ging die polnische H2 bei jedem index.html-Lauf verloren: DeepL macht
-# aus "Birkenbihl-App" ein "aplikacja Birkenbihla" — in Polen gesucht wird aber
-# nach "metoda Birkenbihla". Der Regex greift die H2 ueber das Wort "Birkenbihl",
-# ist also unabhaengig davon, wie DeepL den Rest des Satzes formuliert.
+# Derzeit leer: Der fruehere PL-Eintrag erzwang die H2 "… metodą Birkenbihla";
+# seit 2026-09-23 darf "Birkenbihl" aus Markengruenden in keiner Ueberschrift
+# mehr stehen (siehe .claude/DECISIONS.md). Mechanismus bleibt fuer kuenftige
+# Korrekturen erhalten: {slug: [(regex, ersatz), ...]}.
 # / Terms DeepL renders correctly but in a way that hurts search visibility;
-# restored per language after translation.
-POST_TRANSLATION_FIXES = {
-    "pl": [
-        (
-            r'(<h2 class="section-title">)[^<]*Birkenbihl[^<]*(</h2>)',
-            "\\1Koniec ze starym systemem szkolnym – aplikacja do nauki języków "
-            "metodą Birkenbihla\\2",
-        ),
-    ],
-}
+# restored per language after translation. Currently empty: the former PL entry
+# forced "Birkenbihl" into an H2, which trademark rules forbid since 2026-09-23.
+POST_TRANSLATION_FIXES = {}
 
 
 def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
