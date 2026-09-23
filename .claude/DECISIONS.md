@@ -41,7 +41,7 @@ Methode" ist in AT nicht als Marke geschützt. Grilling-Session
   `.claude/plan-birkenbihl-markenrecht.md`). Startseite bekommt keine solche
   Ausnahme (reine Werbung).
 - **Ratgeber-CTA** („Inspiriert von der Birkenbihl-Methode, kostenlos ausprobieren")
-  bleibt vorerst: regelkonform, Änderung kostete ~75 € Neuübersetzung.
+  bleibt: regelkonform (Fließtext, max. 2 Nennungen/Seite), Änderung kostete ~75 € Neuübersetzung.
 - Umfang: nur Website. App-Store-/Play-Store-/Chrome-Web-Store-Texte folgen separat.
 
 ## 2026-08-28 — Interaktive Methoden-Erklärseite (`methode.html`): Grundsatzentscheidungen

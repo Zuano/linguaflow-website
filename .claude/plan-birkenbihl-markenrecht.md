@@ -1,7 +1,7 @@
 # Plan: Birkenbihl-Markenrecht auf der Website entschärfen
 
 Stand 2026-09-23, Grilling-Session „birkenbihl-trademark-review" (alle Punkte von
-Christian entschieden). Entscheidungen: `.claude/DECISIONS.md` (2026-09-23),
+Christian entschieden; Vorher-Nachher-Tabelle am 2026-09-23 freigegeben). Entscheidungen: `.claude/DECISIONS.md` (2026-09-23),
 Glossar: `CONTEXT.md` („LinguaFlow-Methode", „Birkenbihl-Methode").
 Branch: `fix/birkenbihl-markenrecht` (Worktree `.claude/worktrees/birkenbihl-markenrecht`).
 
@@ -100,11 +100,11 @@ Ergebnis: sichtbarer Fließtext nennt Birkenbihl 2× (Hero-Absatz, Footer) + Kla
 | `scripts/update-ratings.py:75-76` | `alternateName` „Birkenbihl Decoder" | Feld entfernen; `description` wie oben |
 | `scripts/translate-site.py:403-413` | PL-Fix erzwingt H2 „… metodą Birkenbihla" | Eintrag **entfernen** (H2 enthält kein Birkenbihl mehr; Regex würde ins Leere greifen) |
 
-### Ratgeber-Seiten (`ratgeber*.html`, 5 Seiten) — offen (Rückfrage)
+### Ratgeber-Seiten (`ratgeber*.html`, 5 Seiten) — bleiben unverändert (entschieden 2026-09-23)
 
 CTA-Kasten: „… Inspiriert von der Birkenbihl-Methode, kostenlos ausprobieren."
 Ist regelkonform (Fließtext, max. 2 Nennungen pro Seite). Änderung würde 5 Seiten
-neu übersetzen lassen (~15 €/Seite = ~75 €). **Empfehlung: so lassen.**
+neu übersetzen lassen (~15 €/Seite = ~75 €). **Christian: so lassen.**
 
 ## Geplante Schritte
 
@@ -141,7 +141,6 @@ Doku: `CONTEXT.md`, `.claude/DECISIONS.md`, `.claude/TODO.md`, diese Datei.
 
 ## Offene Fragen
 
-- Ratgeber-CTA so lassen (Empfehlung) oder für ~75 € neu übersetzen?
 - Antwort des Anwalts zu Block 1 (E-Mail-Entwurf unten).
 
 ## E-Mail-Entwurf an die Kanzlei (Q11)
