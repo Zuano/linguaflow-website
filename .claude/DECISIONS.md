@@ -1,5 +1,49 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-09-23 — Birkenbihl-Markenrecht: „Birkenbihl" nur noch als Fließtext-Hinweis
+
+Anlass: Markenrechtsberatung (WKO-Gründerberatung, Rechtsanwalt + Markenexperte)
+nannte die bisherige Nutzung auf der Website „definitiv rechtswidrig". Register-
+Stand (TMview, 2026-09-23): In Österreich gilt nur die Unionsmarke **„Birkenbihl"**
+Nr. 011480051 der Ashoka GmbH (bis 2033, u. a. Klasse 9 Lernsoftware). „Birkenbihl-
+Methode" ist in AT nicht als Marke geschützt. Grilling-Session
+„birkenbihl-trademark-review", alle Punkte von Christian entschieden.
+
+- **Erlaubt nur:** „inspiriert von der Birkenbihl-Methode" als sachlicher Hinweis im
+  Fließtext, höchstens 1–2× pro Seite. **Nie** in Seitentitel, Überschrift,
+  Blickfang-Zeile, Produktname, Bild-Alt-Text, Meta-Keywords oder Schema-Namen.
+  **Begründung:** Anwalt — Markennutzung/Blickfang/„Trittbrettfahrerei" riskiert
+  Unterlassung plus Lizenzgebühr nach marktüblichem Satz; Nicht-Antwort der Erbin
+  ist keine Erlaubnis. Nachteil (akzeptiert): weniger Sichtbarkeit bei Suchen nach
+  „Birkenbihl".
+- **Eigener Name „LinguaFlow-Methode"** für die vier Schritte, statt sie als „die
+  Birkenbihl-Methode" auszugeben (siehe `CONTEXT.md`).
+- **Startseiten-Titel:** „Sprachen lernen ohne Vokabeln – LinguaFlow App". Zeile über
+  der H1: „Die LinguaFlow-Methode"; der Birkenbihl-Hinweis wandert ans Ende des
+  Absatzes unter der H1. „Birkenbihl-App"/„Birkenbihl Decoder" entfallen
+  (auch in `scripts/update-ratings.py` und im PL-Fix in `translate-site.py`).
+- **Klarstellung in der Fußzeile** von Start- und Hilfeseite: Birkenbihl® ist eine
+  Marke der Ashoka GmbH, LinguaFlow ist unabhängig.
+- **Neuübersetzung der betroffenen Seiten** über die normale DeepL-Pipeline wird
+  bewusst bezahlt (geschätzt 30–60 €), damit alle 33 Sprachen einheitlich sind.
+- **Unbelegte Aussage entschärft:** „von Hunderttausenden Lernenden" (Hilfeseite)
+  → ohne Zahl (Wettbewerbsrecht, nicht belegbar).
+- **Hilfeseiten-FAQ: zwei getrennte Blöcke** (Christians Wunsch: Suchtreffer für
+  „Birkenbihl-Methode" behalten). Block 1 „Hintergrund: Die Birkenbihl-Methode" =
+  reine Information über die Methode, Fragen dürfen sie benennen („Was ist die
+  Birkenbihl-Methode?"), Klarstellungssatz davor, keine LinguaFlow-Werbung in den
+  Antworten; „Welche Erfahrungen …?" wird gestrichen (verkaufte LinguaFlow unter
+  Birkenbihl-Überschrift). Block 2 „Fragen zu LinguaFlow" ohne Birkenbihl in den
+  Überschriften. Seitentitel/Description ohne Birkenbihl-Lead. **Begründung:**
+  Beschreibende Nennung der Methode ist vom Verweis-Privileg gedeckt; das DPMA hat
+  „BIRKENBIHL-METHODE" 2019 nicht eingetragen (Grund nicht geprüft). Restrisiko
+  Block 1 wird per kurzer Nachfrage beim Anwalt abgesichert (Entwurf in
+  `.claude/plan-birkenbihl-markenrecht.md`). Startseite bekommt keine solche
+  Ausnahme (reine Werbung).
+- **Ratgeber-CTA** („Inspiriert von der Birkenbihl-Methode, kostenlos ausprobieren")
+  bleibt vorerst: regelkonform, Änderung kostete ~75 € Neuübersetzung.
+- Umfang: nur Website. App-Store-/Play-Store-/Chrome-Web-Store-Texte folgen separat.
+
 ## 2026-08-28 — Interaktive Methoden-Erklärseite (`methode.html`): Grundsatzentscheidungen
 
 Geplant in der Session „linguaflow-interactive-explanation" (Grilling-Runden 1+2,

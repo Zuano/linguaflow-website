@@ -5,10 +5,16 @@ App und Website einheitlich verwendet werden. Nur Begriffe, keine Implementierun
 
 ## Methode
 
-- **Birkenbihl-Methode**: Sprachlernmethode nach Vera F. Birkenbihl. Markenwording
-  auf der Website immer „**inspiriert von** der Birkenbihl-Methode", nie als
-  Eigenanspruch. Vier Schritte: Dekodieren → Aktives Hören → Passives Hören →
-  Übungen (je nach Lernziel).
+- **LinguaFlow-Methode**: Der eigene Lernablauf von LinguaFlow in vier Schritten:
+  Dekodieren → Aktives Hören → Passives Hören → Übungen (je nach Lernziel).
+  Inspiriert von der Birkenbihl-Methode, aber nicht mit ihr gleichzusetzen.
+- **Birkenbihl-Methode**: Die fremde Sprachlernmethode von Vera F. Birkenbihl, auf
+  die sich LinguaFlow nur bezieht. „Birkenbihl" ist eine eingetragene Marke Dritter
+  (auch für Lernsoftware). Erlaubt nur als sachlicher Hinweis im Fließtext:
+  „**inspiriert von** der Birkenbihl-Methode", sparsam. Nie in Seitentitel,
+  Überschrift, Blickfang-Zeile, Produktname oder in versteckten Such-/KI-Texten.
+  _Vermeiden_: „Birkenbihl-App", „Birkenbihl Decoder", „Birkenbihl-inspiriertes
+  Lernen" als Überschrift, „nach der Birkenbihl-Methode".
 - **Dekodieren / Dekodierung**: Das Wort-für-Wort-Aufschlüsseln eines
   fremdsprachigen Textes in die Muttersprache. In LinguaFlow übernimmt die App
   diesen Schritt vollständig für den Lernenden.
