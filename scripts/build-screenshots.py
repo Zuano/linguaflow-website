@@ -28,6 +28,13 @@ RAW = pathlib.Path.home() / "Developer/LinguaFlow Apps beide/Screenshots LinguaF
 # Aufnahmeläufe, NEUESTER ZUERST — ein neuer Lauf kommt vorne dazu.
 RUNS = ["2026-09-27 Roh-Screenshots", "2026-09-22 Roh-Screenshots 6-7", "2026-09-15 Roh-Screenshots"]
 OUT = REPO_ROOT / "img" / "screens"
+# Raw images that must never be used (e.g. an error dialog in the picture);
+# the next older recording is taken instead.
+# Rohbilder, die nie verwendet werden dürfen (z. B. Fehlermeldung im Bild);
+# stattdessen wird die nächstältere Aufnahme genommen.
+SKIP = {
+    "2026-09-27 Roh-Screenshots/iOS/lt Litauisch/02-decoded.png",  # read-aloud limit error / Vorlese-Limit-Fehler
+}
 
 # Output folder -> (platform, raw folder name). iOS where the iOS app has the
 # language, Android only for languages iOS lacks.
@@ -66,7 +73,7 @@ def newest(platform: str, folder: str, names: list):
     for name in names:
         for run in RUNS:
             p = RAW / run / platform / folder / f"{name}.png"
-            if p.exists():
+            if p.exists() and str(p.relative_to(RAW)) not in SKIP:
                 return p
     return None
 
@@ -88,7 +95,7 @@ def main() -> int:
                 continue
             # iPhone 1320 px -> 1200 px; Android stays 1080 px (no upscaling).
             # iPhone 1320 px -> 1200 px; Android bleibt 1080 px (nicht hochrechnen).
-            resize = ["-resize", "1200", "0"] if platform == "iOS" else []
+            resize = ["-resize", "1200", "0"] if "/iOS/" in str(src) else []
             dst = OUT / lang / f"{view}.webp"
             subprocess.run(["cwebp", "-quiet", "-q", "82", *resize, str(src), "-o", str(dst)], check=True)
             print(f"{lang}/{view}: {src.relative_to(RAW)}")
