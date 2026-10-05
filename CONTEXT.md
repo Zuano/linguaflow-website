@@ -60,3 +60,19 @@ App und Website einheitlich verwendet werden. Nur Begriffe, keine Implementierun
   (dekodierte Sätze) + Übungen, pro Sprachpaar.
 - **Muttersprachler-Qualität**: Website-Wording für die Sprachausgabe; der
   Anbieter der Sprachsynthese wird auf der Website nicht namentlich genannt.
+
+## Website / Screenshots
+
+- **Sprachversion**: Die Website in einer Sprache (Deutsch ist das Original, die
+  anderen werden daraus übersetzt). Sie bestimmt, in welcher Oberflächensprache
+  die App-Bilder der Galerie erscheinen.
+  _Vermeiden_: Website-Sprache, Übersetzung
+- **Galerie**: Der Bereich „So sieht LinguaFlow aus" auf der Startseite mit
+  App-Bildern zum Durchblättern.
+- **Ansicht**: Ein bestimmter App-Bildschirm, der fotografiert wird
+  (z. B. Startseite, Dekodierung, Bibliothek, Buch lesen).
+  _Vermeiden_: Screen, Seite, Kachel (Kachel = ihr Platz in der Galerie)
+- **Aufnahmelauf**: Eine automatisch aufgenommene Screenshot-Serie mit Datum
+  (z. B. „Aufnahmelauf 2026-09-27"). Gilt immer die neueste Aufnahme je Ansicht
+  und Sprache.
+  _Vermeiden_: Roh-Screenshots, Shooting

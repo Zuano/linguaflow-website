@@ -1,5 +1,16 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-10-05 — Galerie-Bilder pro Sprachversion
+
+Entschieden von Christian im Grilling (Session „Website-Screenshots aktualisieren").
+
+- **Jede Sprachversion zeigt die App in ihrer Oberflächensprache** (`img/screens/<sprache>/<ansicht>.webp`). Der Pfad im deutschen Original lautet `img/screens/de/`; `translate-site.py` (`adjust_html`, Schritt 2d) setzt beim Übersetzen den Ordner der Sprache ein. **Begründung:** Ein Franzose soll die App so sehen, wie er sie benutzen würde. Bilder tauschen geht künftig ohne DeepL-Kosten (gleiche Dateinamen, `scripts/build-screenshots.py` neu laufen lassen).
+- **Plattform:** iOS, wo die iOS-App die Sprache hat; Android nur für et/nl/sl/sv. Deren fehlende Sprachwahl-Aufnahme → englisches iPhone-Bild.
+- **Ersatzsprachen** (`SCREENSHOT_LANG`): en-gb→en, pt-br und pt-pt→pt (die App hat nur ein gemischtes Portugiesisch), zh-hant→zh (wie im App Store), th/vi→en (keine App-Oberfläche in diesen Sprachen).
+- **Neueste Aufnahme je Ansicht und Sprache** (wie `build_all.py` der Store-Bilder). Bezahlseite ausgeschlossen (Dollar-Testpreise), leere Bibliothek vom 15.09. ersetzt durch Bibliothek/Buch lesen ab 22.09.
+- **Nur WebP** für die Sprachbilder (ca. 20 MB statt ca. 300 MB mit PNG).
+- **Beschreibungen sprachneutral**, weil die Bilder je Sprache ein anderes Sprachpaar zeigen (de lernt Französisch, alle anderen lernen Deutsch).
+
 ## 2026-08-28 — Interaktive Methoden-Erklärseite (`methode.html`): Grundsatzentscheidungen
 
 Geplant in der Session „linguaflow-interactive-explanation" (Grilling-Runden 1+2,

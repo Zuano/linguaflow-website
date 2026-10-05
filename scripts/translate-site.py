@@ -416,6 +416,16 @@ POST_TRANSLATION_FIXES = {
 }
 
 
+# Sprachversionen ohne eigene App-Bilder (die App hat diese Oberflächensprache
+# nicht) zeigen die Bilder einer verwandten Sprache — Entscheidung 2026-10-05.
+# / Language versions without their own app screenshots fall back to a related
+# language's folder in img/screens/.
+SCREENSHOT_LANG = {
+    "en-gb": "en", "pt-br": "pt", "pt-pt": "pt",
+    "zh-hant": "zh", "th": "en", "vi": "en",
+}
+
+
 def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     """Nach der Übersetzung müssen einige HTML-Attribute angepasst werden,
     damit CSS/Bilder weiter geladen werden und SEO-Tags (canonical, hreflang,
@@ -436,6 +446,12 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     def _absolutize_js_img(match):
         return match.group(0).replace("'img/", "'/img/").replace('"img/', '"/img/')
     html = re.sub(r'<script\b[^>]*>.*?</script>', _absolutize_js_img, html, flags=re.DOTALL)
+
+    # 2d. App-Bilder der Galerie in der Sprache der Sprachversion zeigen
+    # (img/screens/<sprache>/, gebaut von build-screenshots.py).
+    # / Gallery app screenshots in the language of this language version.
+    shots = SCREENSHOT_LANG.get(slug, slug)
+    html = html.replace("/img/screens/de/", f"/img/screens/{shots}/")
 
     # 2c. Links in den Cluster-Bereich auf die Sprachversion umbiegen, aber NUR
     # für Sprachen, die es dort auch gibt (CLUSTER_SLUGS). Sonst bliebe ein
