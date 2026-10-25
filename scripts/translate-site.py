@@ -722,9 +722,16 @@ def enrich_source_file(source_path: pathlib.Path) -> bool:
     html = html.replace("</head>", f"  {hreflang_block}\n</head>", 1)
     # Footer-Switcher vor </footer> einfügen
     html = html.replace("</footer>", f"{footer_switcher}\n</footer>", 1)
-    # Navbar-Switcher vor dem Hamburger-Button einfügen
+    # Navbar-Switcher vor dem Hamburger-Button einfügen.
+    # [ \t]* schluckt die Einrückung vor dem Button: Bei einer neuen, von Hand
+    # geschriebenen Seite stand sie sonst beim ersten Lauf vor dem Start-Marker
+    # und erst der zweite Lauf entfernte sie — anderer Hash, zweite bezahlte
+    # Übersetzung (aussprache.html, 2026-10-25).
+    # / [ \t]* swallows the indentation before the button: on a new hand-written
+    # page the first run kept it before the start marker and only the second run
+    # removed it — different hash, a second paid translation.
     html = re.sub(
-        r'(<button class="hamburger")',
+        r'[ \t]*(<button class="hamburger")',
         nav_switcher + "\n    " + r"\1",
         html,
         count=1,
