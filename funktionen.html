@@ -72,65 +72,55 @@
     <style>
       /* Feature overview tiles / Funktions-Übersichtskacheln */
       .fn-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; margin: 8px 0 40px; }
-      .fn-tile { display: block; background: var(--white); border: 1px solid var(--gray-200); border-radius: 16px; padding: 28px 24px; box-shadow: 0 4px 24px rgba(0,0,0,0.05); text-decoration: none; color: inherit; transition: transform .2s ease, box-shadow .2s ease; }
-      .fn-tile:hover { transform: translateY(-4px); box-shadow: 0 10px 32px rgba(0,0,0,0.10); }
+      .fn-tile { display: block; background: var(--white); border: 1px solid var(--gray-200); border-radius: 16px; padding: 28px 24px; box-shadow: 0 4px 24px rgba(0,0,0,0.05); text-decoration: none; color: inherit; }
       .fn-tile .fn-icon { font-size: 2rem; display: block; margin-bottom: 12px; }
       .fn-tile h2 { font-size: 1.15rem; margin: 0 0 8px; color: var(--dark); }
       .fn-tile p { font-size: .95rem; color: var(--gray-600); margin: 0 0 12px; }
-      .fn-tile .fn-more { font-weight: 600; color: var(--teal); font-size: .9rem; }
       .fn-cta { text-align: center; margin: 24px 0 8px; }
       .fn-cta .store-badges { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin-top: 16px; }
     </style>
 
     <div class="fn-grid">
-      <a class="fn-tile" href="funktion-dekodieren.html">
+      <div class="fn-tile">
         <span class="fn-icon">🔍</span>
         <h2>Wort-für-Wort-Dekodierung</h2>
         <p>Jeder Satz wird Wort für Wort in deine Muttersprache übertragen – du verstehst die fremde Sprache von innen, ohne Vokabelpauken.</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
-      <a class="fn-tile" href="funktion-lernweg.html">
+      </div>
+      <div class="fn-tile">
         <span class="fn-icon">🗺️</span>
         <h2>Lernweg</h2>
         <p>Geführte Geschichten in 32 Sprachen: 10 Kapitel pro Modul, mit Vorlese-Audio, Wort-für-Wort-Text und Übungen. Die Antwort auf „Womit fange ich an?"</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
-      <a class="fn-tile" href="funktion-ki-gespraechspartner.html">
+      </div>
+      <div class="fn-tile">
         <span class="fn-icon">💬</span>
         <h2>KI-Gesprächspartner</h2>
         <p>Übe echte Gespräche – im Restaurant, beim Einkaufen, im Hotel. Jede Antwort kommt mit Wort-für-Wort-Übersetzung und Audio.</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
-      <a class="fn-tile" href="funktion-buecher.html">
+      </div>
+      <div class="fn-tile">
         <span class="fn-icon">📚</span>
         <h2>Buch-Reader</h2>
         <p>Importiere deine eigenen E-Books (EPub) und lies sie Satz für Satz dekodiert – mit Vorlese-Audio und gemerktem Lesefortschritt.</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
-      <a class="fn-tile" href="funktion-vorlesen.html">
+      </div>
+      <div class="fn-tile">
         <span class="fn-icon">🔊</span>
         <h2>Vorlesen &amp; Stimmen</h2>
         <p>Muttersprachliche KI-Stimmen lesen jeden Text vor – mit Wort-Markierung, einstellbarem Tempo und Wiederholungs-Schleife.</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
-      <a class="fn-tile" href="funktion-eigene-inhalte.html">
+      </div>
+      <div class="fn-tile">
         <span class="fn-icon">📷</span>
         <h2>Eigene Inhalte</h2>
         <p>Scanne Buchseiten, diktiere Sätze, füge Links ein oder lade PDF- und Word-Dateien hoch – LinguaFlow dekodiert, was DICH interessiert.</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
-      <a class="fn-tile" href="funktion-fremde-schriften.html">
+      </div>
+      <div class="fn-tile">
         <span class="fn-icon">🈯</span>
         <h2>Fremde Schriften</h2>
         <p>Japanisch, Arabisch, Thai &amp; Co.: Eine zusätzliche Aussprache-Zeile in lateinischer Schrift zeigt dir, wie jedes Wort klingt.</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
-      <a class="fn-tile" href="funktion-dranbleiben.html">
+      </div>
+      <div class="fn-tile">
         <span class="fn-icon">🔥</span>
         <h2>Dranbleiben</h2>
         <p>Serien, Punkte, Tagesziel und Widget: LinguaFlow hilft dir, aus dem Lernen eine Gewohnheit zu machen – 10 Minuten am Tag reichen.</p>
-        <span class="fn-more">Mehr erfahren →</span>
-      </a>
+      </div>
     </div>
 
     <div class="fn-cta">

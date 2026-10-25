@@ -463,6 +463,16 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
         for prefix in CLUSTER_PREFIXES:
             html = html.replace(f'href="/{prefix}', f'href="/{slug}/{prefix}')
 
+    # 2e. Relative Links auf Seiten, die es nur auf Deutsch + Englisch gibt
+    # (Newsletter, Versionshistorie, Funktionen), auf die englische Fassung
+    # zeigen lassen — im Sprachordner gibt es sie nicht, die Search Console
+    # meldete dafür 404 (2026-10-24). Rechtstexte haben eigene Stubs.
+    # / Point relative links to DE+EN-only pages at the English version —
+    # they don't exist in the other language folders (404s in Search Console).
+    if slug != "en":
+        for page in sorted(DE_EN_ONLY_FILES - LEGAL_FILES):
+            html = html.replace(f'href="{page}"', f'href="/en/{page}"')
+
     # 3. Canonical-URL anpassen: https://linguaflow.app -> https://linguaflow.app/<slug>/
     page_path = url_path(filename)
     # Für index.html ist page_path leer -> /<slug>/ ; für Cluster-Seiten endet
@@ -706,10 +716,43 @@ def process_source_file(
     return translated_count
 
 
+# Nur deutsche Seiten, die keine Übersetzungsquelle sind, aber in die Sitemap gehören
+# / German-only pages that are not translation sources but belong in the sitemap
+EXTRA_SITEMAP_PATHS = [
+    "youtube/",
+    "agb.html",
+    "widerruf.html",
+    "datenschutz-extension.html",
+    "privacy-extension.html",
+]
+
+
 def build_sitemap():
     """Erweitert die bestehende sitemap.xml um alle Sprachversionen."""
     import datetime
-    today = datetime.date.today().isoformat()
+    import subprocess
+
+    def lastmod_for(path):
+        """Datum des letzten Git-Commits der Datei, sonst Änderungsdatum.
+        Uncommittete Änderungen (z. B. gerade im Workflow übersetzt) zählen als
+        neu — sonst hinkte lastmod immer einen Lauf hinterher.
+        / Date of the file's last git commit, else its modification date.
+        Uncommitted changes (e.g. just translated in this run) count as new."""
+        rel = path.relative_to(REPO_ROOT).as_posix()
+        try:
+            dirty = subprocess.run(
+                ["git", "status", "--porcelain", "--", rel],
+                cwd=REPO_ROOT, capture_output=True, text=True, check=True,
+            ).stdout.strip()
+            out = "" if dirty else subprocess.run(
+                ["git", "log", "-1", "--format=%cs", "--", rel],
+                cwd=REPO_ROOT, capture_output=True, text=True, check=True,
+            ).stdout.strip()
+            if out:
+                return out
+        except (OSError, subprocess.CalledProcessError):
+            pass
+        return datetime.date.fromtimestamp(path.stat().st_mtime).isoformat()
 
     urls = []
     # Deutsche Versionen
@@ -726,8 +769,25 @@ def build_sitemap():
                 continue
             urls.append(f"{BASE_URL}/{slug}/{url_path(filename)}")
 
-    body = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    # Zusätzliche deutsche Seiten ohne Sprachvarianten
+    # / Extra German pages without language variants
+    for path in EXTRA_SITEMAP_PATHS:
+        urls.append(f"{BASE_URL}/{path}")
+
+    # Nur URLs aufnehmen, deren Datei existiert (neue Quellseite evtl. noch ohne Übersetzung)
+    # / Only list URLs whose file exists (a new source page may not be translated yet)
+    entries = []
     for url in urls:
+        rel = url[len(BASE_URL) + 1:]
+        if rel == "" or rel.endswith("/"):
+            rel += "index.html"
+        file_path = REPO_ROOT / rel
+        if file_path.exists():
+            entries.append((url, lastmod_for(file_path)))
+    urls = entries
+
+    body = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    for url, lastmod in urls:
         if url == BASE_URL + "/":
             priority = "1.0"
         elif "zurueck-in-deinen-beruf" in url:
@@ -738,7 +798,7 @@ def build_sitemap():
             priority = "0.6"
         else:
             priority = "0.3"
-        body += f"  <url>\n    <loc>{url}</loc>\n    <lastmod>{today}</lastmod>\n    <priority>{priority}</priority>\n  </url>\n"
+        body += f"  <url>\n    <loc>{url}</loc>\n    <lastmod>{lastmod}</lastmod>\n    <priority>{priority}</priority>\n  </url>\n"
     body += "</urlset>\n"
 
     (REPO_ROOT / "sitemap.xml").write_text(body, encoding="utf-8")
@@ -746,6 +806,11 @@ def build_sitemap():
 
 
 def main():
+    # Nur Sitemap neu bauen, ohne DeepL / Only rebuild the sitemap, no DeepL
+    if "--sitemap-only" in sys.argv:
+        build_sitemap()
+        return
+
     api_key = os.environ.get("DEEPL_API_KEY")
     if not api_key:
         print("FEHLER: Umgebungsvariable DEEPL_API_KEY nicht gesetzt.", file=sys.stderr)
