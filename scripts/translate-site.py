@@ -16,6 +16,7 @@ Requires env var DEEPL_API_KEY (Pro subscription).
 """
 
 import hashlib
+from html import escape as html_escape, unescape as html_unescape
 import json
 import os
 import pathlib
@@ -351,6 +352,68 @@ def deepl_translate_texts(texts: list, target_lang: str, api_key: str) -> list:
     return out
 
 
+# Attribute, die DeepL im HTML-Modus unübersetzt lässt: Suchtreffer-Text
+# (description), Vorschau beim Teilen (og:/twitter:) und Bildbeschreibungen.
+# Ohne das stand unter jedem fremdsprachigen Google-Treffer deutscher Text
+# (Search Console 2026-10-24). / Attributes DeepL leaves untranslated in HTML
+# mode: search snippet, social previews and image alt texts.
+ATTR_PATTERNS = [
+    re.compile(r'(<meta (?:name|property)="(?:description|og:title|og:description'
+               r'|og:image:alt|twitter:title|twitter:description)" content=")([^"]*)(")'),
+    re.compile(r'(\balt=")([^"]*)(")'),
+]
+
+
+def attribute_values(html: str) -> set:
+    """Alle nicht leeren Werte aus ATTR_PATTERNS außerhalb von <script>.
+    / All non-empty ATTR_PATTERNS values outside <script> blocks."""
+    body = re.sub(r'<script\b[^>]*>.*?</script>', '', html, flags=re.DOTALL)
+    return {v for p in ATTR_PATTERNS for _, v, _ in p.findall(body) if v.strip()}
+
+
+def translate_attributes(html: str, target_lang: str, api_key: str,
+                         only: set = None) -> str:
+    """Übersetzt die Werte aus ATTR_PATTERNS als reinen Text. Mit `only`
+    werden nur Werte angefasst, die noch wörtlich so in der deutschen Quelle
+    stehen — so wird beim Nachrüsten nichts doppelt übersetzt. <script>-Blöcke
+    bleiben unberührt. Fällt bei JEDEM Fehler auf das unveränderte HTML zurück.
+    / Translates the ATTR_PATTERNS values as plain text. With `only`, touches
+    just values still identical to the German source (no double translation).
+    Falls back to the unchanged HTML on any error."""
+    parts = re.split(r'(<script\b[^>]*>.*?</script>)', html, flags=re.DOTALL)
+    values = []
+    for i in range(0, len(parts), 2):          # gerade Indizes = kein Script
+        for pattern in ATTR_PATTERNS:
+            for _, value, _ in pattern.findall(parts[i]):
+                if value.strip() and value not in values and (only is None or value in only):
+                    values.append(value)
+    if not values:
+        return html
+
+    try:
+        translated = deepl_translate_texts([html_unescape(v) for v in values],
+                                           target_lang, api_key)
+    except Exception as e:
+        print(f"(Attribut-Übersetzung fehlgeschlagen, bleibt deutsch: {e}) ", end="")
+        return html
+    if len(translated) != len(values):
+        print("(Attribute: Antwortlänge weicht ab, bleiben deutsch) ", end="")
+        return html
+
+    # Anführungszeichen escapen, damit das Attribut nicht vorzeitig endet
+    # / Escape quotes so the attribute cannot end early
+    mapping = {v: html_escape(t, quote=False).replace('"', "&quot;")
+               for v, t in zip(values, translated)}
+
+    def _swap(m):
+        return m.group(1) + mapping.get(m.group(2), m.group(2)) + m.group(3)
+
+    for i in range(0, len(parts), 2):
+        for pattern in ATTR_PATTERNS:
+            parts[i] = pattern.sub(_swap, parts[i])
+    return "".join(parts)
+
+
 def deepl_translate(html: str, target_lang: str, lang_attr: str,
                     api_key: str) -> str:
     """Übersetzt HTML und schützt ALLE <script>-Blöcke vor DeepL's HTML-Escaping.
@@ -392,7 +455,11 @@ def deepl_translate(html: str, target_lang: str, lang_attr: str,
             block = translate_jsonld_block(block, target_lang, lang_attr, api_key)
         translated = translated.replace(f"<!--SCRIPT_{idx}-->", block)
 
-    return translated
+    # Nur Werte, die so in der deutschen Quelle stehen — falls DeepL doch
+    # einmal ein Attribut selbst übersetzt, wird es nicht nochmal geschickt.
+    # / Only values present in the German source, never already-translated ones.
+    return translate_attributes(translated, target_lang, api_key,
+                                only=attribute_values(html))
 
 
 # ---------- HTML-Post-Processing ----------
