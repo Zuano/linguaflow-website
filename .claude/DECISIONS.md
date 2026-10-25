@@ -1,5 +1,27 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-10-25 — Sprachwahl-Blöcke gehen nicht mehr an DeepL
+
+Entschieden von Christian in der Session „Search-Console-Umsetzung".
+
+- **`deepl_translate()` ersetzt die Blöcke `i18n-hreflang`, `i18n-navswitcher`
+  und `i18n-switcher` vor dem DeepL-Aufruf durch Platzhalter und setzt sie
+  danach unverändert wieder ein** (wie schon bei `<script>`-Blöcken).
+  **Begründung:** Sie enthalten nur Adressen, Flaggen und Sprachnamen,
+  `adjust_html()` baut die Menüs ohnehin neu — trotzdem kosteten sie rund
+  8.000 Zeichen pro Seite und Sprache. Die neue Aussprache-Seite hätte sonst
+  geschätzt ~12,70 € statt ~7,95 € gekostet (freigegeben waren 8–10 €; tatsächlich verbraucht: 3,94 €); alle künftigen
+  Läufe werden ~23 % billiger. Geprüft mit gemocktem DeepL: Ausgabe für
+  index/hilfe/ratgeber/methode/Cluster/datenschutz byte-identisch zu vorher.
+  `SCRIPT_VERSION` unverändert. Alternativen verworfen: 12,70 € freigeben
+  (über Budget), Seite auf ein Fünftel kürzen (zu dünn zum Ranken).
+- **Attribute (Meta-Description, og:/twitter:, alt) werden im Übersetzungslauf
+  mitübersetzt** — nur Werte, die wörtlich in der deutschen Quelle stehen.
+- **Schritt 7 ohne Font-Fallback und ohne kleineres Hero-Bild:** CLS ist heute
+  0,02 (nicht mehr 0,12); nur `fetchpriority="high"` umgesetzt.
+- **Auch `.pricing-cancellation` und `.pricing-note` dunkler (`#6b6b80`)** —
+  gleiche Preis-Hinweistexte, gleiche Kontrastlücke wie die Untertitel.
+
 ## 2026-10-25 — Search-Console-Plan: Entscheidungen zur Umsetzung
 
 Entschieden von Christian in der Session „Search Console Improvements" (Plan

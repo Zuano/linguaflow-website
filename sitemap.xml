@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://linguaflow.app/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -41,6 +41,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-09-08</lastmod>
     <priority>0.6</priority>
@@ -62,7 +67,7 @@
   </url>
   <url>
     <loc>https://linguaflow.app/ratgeber.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -87,67 +92,72 @@
   </url>
   <url>
     <loc>https://linguaflow.app/en/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/hilfe.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/datenschutz.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/eula.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/impressum.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/was-ist-neu.html</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/newsletter.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/methode.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/en/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/ratgeber-24-stunden-pflege-festanstellung.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/ratgeber-anerkennung-auslaendischer-abschluss.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/ratgeber-deutsch-b2-pflege.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/ratgeber-haushaltshilfe-jobs-wien.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/ratgeber.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -157,17 +167,17 @@
   </url>
   <url>
     <loc>https://linguaflow.app/en/zurueck-in-deinen-beruf/</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/zurueck-in-deinen-beruf/pflege/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/en/zurueck-in-deinen-beruf/akademiker/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -182,6 +192,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/en-gb/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/en-gb/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -226,6 +241,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/fr/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/fr/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -262,6 +282,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/it/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/it/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -306,6 +331,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/es/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/es/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -342,6 +372,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/pt-br/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/pt-br/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -386,6 +421,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/pt-pt/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/pt-pt/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -422,6 +462,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/nl/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/nl/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -466,6 +511,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/sv/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/sv/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -502,6 +552,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/da/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/da/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -546,6 +601,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/nb/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/nb/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -582,6 +642,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/fi/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/fi/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -626,6 +691,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/pl/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/pl/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -662,6 +732,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/cs/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/cs/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -706,6 +781,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/sk/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/sk/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -742,6 +822,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/hu/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/hu/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -786,6 +871,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/sl/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/sl/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -822,6 +912,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/ro/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/ro/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -866,6 +961,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/bg/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/bg/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -902,6 +1002,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/el/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/el/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -946,6 +1051,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/et/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/et/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -982,6 +1092,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/lv/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/lv/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -1026,6 +1141,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/lt/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/lt/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -1066,6 +1186,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/uk/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/uk/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -1092,17 +1217,17 @@
   </url>
   <url>
     <loc>https://linguaflow.app/uk/zurueck-in-deinen-beruf/</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/uk/zurueck-in-deinen-beruf/pflege/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/uk/zurueck-in-deinen-beruf/akademiker/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1117,6 +1242,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/ja/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/ja/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -1161,6 +1291,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/ko/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/ko/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -1197,6 +1332,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/zh/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/zh/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -1241,6 +1381,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/zh-hant/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/zh-hant/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -1277,6 +1422,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/vi/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/vi/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -1321,6 +1471,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/id/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/id/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -1357,6 +1512,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/th/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/th/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -1401,6 +1561,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://linguaflow.app/tr/aussprache.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://linguaflow.app/tr/ratgeber-24-stunden-pflege-festanstellung.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
@@ -1427,17 +1592,17 @@
   </url>
   <url>
     <loc>https://linguaflow.app/tr/zurueck-in-deinen-beruf/</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/tr/zurueck-in-deinen-beruf/pflege/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/tr/zurueck-in-deinen-beruf/akademiker/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1452,6 +1617,11 @@
   </url>
   <url>
     <loc>https://linguaflow.app/ar/methode.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://linguaflow.app/ar/aussprache.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.3</priority>
   </url>
@@ -1482,17 +1652,17 @@
   </url>
   <url>
     <loc>https://linguaflow.app/ar/zurueck-in-deinen-beruf/</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/ar/zurueck-in-deinen-beruf/pflege/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://linguaflow.app/ar/zurueck-in-deinen-beruf/akademiker/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

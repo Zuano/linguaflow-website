@@ -42,6 +42,7 @@ SOURCE_FILES = [
     "was-ist-neu.html",
     "newsletter.html",
     "methode.html",
+    "aussprache.html",
 ]
 
 # Alle 33 DeepL-Zielsprachen
@@ -443,7 +444,24 @@ def deepl_translate(html: str, target_lang: str, lang_attr: str,
         return f"<!--SCRIPT_{len(blocks) - 1}-->"
 
     html_safe = script_pattern.sub(save_block, html)
+
+    # hreflang-Liste und Sprachwahl-Menüs enthalten nur Adressen, Flaggen und
+    # Sprachnamen — nichts zu übersetzen, adjust_html() baut die Menüs danach
+    # ohnehin neu. Nicht an DeepL schicken: spart rund 8.000 Zeichen pro Seite
+    # und Sprache (Entscheidung Christian 2026-10-25).
+    # / The hreflang list and language menus hold only URLs, flags and language
+    # names; adjust_html() rebuilds the menus anyway. Keep them away from DeepL.
+    i18n_blocks = []
+
+    def save_i18n(match):
+        i18n_blocks.append(match.group(0))
+        return f"<!--I18N_{len(i18n_blocks) - 1}-->"
+
+    html_safe = re.sub(r'<!-- (i18n-[a-z]+):start -->.*?<!-- \1:end -->',
+                       save_i18n, html_safe, flags=re.DOTALL)
     translated = deepl_translate_raw(html_safe, target_lang, api_key)
+    for idx, block in enumerate(i18n_blocks):
+        translated = translated.replace(f"<!--I18N_{idx}-->", block)
 
     # Original-Blöcke zurückeinsetzen. JSON-LD wird dabei inhaltlich übersetzt
     # (Textfelder), Inline-JavaScript bleibt unangetastet — dort wuerde jede

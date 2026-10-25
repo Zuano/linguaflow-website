@@ -15,6 +15,7 @@ on:
       - 'was-ist-neu.html'
       - 'newsletter.html'
       - 'methode.html'
+      - 'aussprache.html'
       - 'ratgeber*.html'
       - 'funktion*.html'
       - 'zurueck-in-deinen-beruf/**.html'
