@@ -1013,6 +1013,13 @@ p  { color: var(--gray-600); }
 .page-content a:hover {
   color: var(--teal-dark);
 }
+/* Buttons im Fließtext behalten ihre Button-Optik — sonst überschreibt die
+   Link-Regel oben Farbe und Unterstreichung (weiße Schrift war unsichtbar).
+   / Buttons inside page content keep their button look. */
+.page-content a.btn { text-decoration: none; }
+.page-content a.btn-primary,
+.page-content a.btn-primary:hover,
+.page-content a.btn-outline:hover { color: var(--white); }
 
 /* --- Help Page --- */
 .help-grid {
