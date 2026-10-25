@@ -101,7 +101,7 @@ die Methode-Seite endlich im Index und saubere Core Web Vitals.
 | 8 | **Themenlücke „Aussprache“**: ~600 Impressionen auf Suchanfragen wie „deutsche aussprache app“, „aussprache verbessern app/software/tool“ bei 0–2 % CTR und Position 8–16. Ranking kommt vom alten WordPress-Artikel `/deutsch-aussprache-lernen-…/`, der jetzt nur noch auf `/` umleitet. | Suchanfragen-Tabelle | Fertige Nachfrage ohne passende Seite. |
 | 9 | **Layout-Verschiebung CLS 0,12** (Grenze 0,10), Font-Swap + fehlende Bildmaße; Hero-Bild ohne `fetchpriority`, 65 kB zu groß. | Chrome-Trace | Kein Felddaten-Bericht in der GSC (zu wenig Traffic), aber günstig zu beheben. |
 | 10 | **Barrierefreiheit 92**: Türkis `#0fb49b` auf Weiß 2,61:1, Grau `#9494a8` 2,71:1, kein `<main>`, Footer-`h4`. | Lighthouse | Design-Entscheidung (Markenfarbe). |
-| 11 | `www.linguaflow.app` existiert nicht (kein DNS). | curl → 000 | Nur verlorene Tipp-Besucher. |
+| 11 | `https://www.linguaflow.app` scheitert mit TLS-Fehler. DNS existiert (Nameserver bei WordPress.com, `www` ist CNAME auf `linguaflow.app`), `http://www` leitet GitHub korrekt per 301 um — aber GitHubs Zertifikat deckt nur `linguaflow.app` ab, weil der `www`-CNAME nicht auf `zuano.github.io` zeigt. | `openssl s_client` → SAN nur `linguaflow.app`; `curl http://www` → 301 | Wer `https://www…` tippt oder einen alten https-www-Link klickt, sieht einen Zertifikatsfehler. Fürs Tracking irrelevant: gezählt wird nach der Umleitung vom Cloudflare-Snippet. |
 
 ## Geplante Schritte
 
@@ -119,7 +119,7 @@ GSC → URL-Prüfung → „Indexierung beantragen“ für `/methode.html`, `/en
    - `hilfe/index.html` → `/hilfe.html`; `unterstutzte-sprachen/index.html` → `/#sprachen`; `en/linguaflow-video-bibliothek/index.html` → `/youtube/`.
    Erzeugung per kleinem Skript `scripts/make-stubs.py` (einmalig, idempotent), damit es beim nächsten Sprach-Zuwachs wiederholbar ist.
 2. **Ursache dauerhaft beheben:** In `adjust_html()` (`scripts/translate-site.py`) die Footer-Links `newsletter.html` / `was-ist-neu.html` für Sprachen außerhalb `languages_for()` auf `/en/…` umschreiben — sonst entstehen die 404s beim nächsten Übersetzungslauf erneut, auch wenn Stubs sie auffangen.
-3. **`funktionen.html`:** Variante A (empfohlen): die 8 `href="funktion-….html"` durch Sprungmarken (`#buecher` …) ersetzen oder „Mehr erfahren“ entfernen; identisch per `sed` in `en/funktionen.html`; Cache-Hash für `funktionen.html` aktualisieren (Memory „Übersetzungs-Cache-Trick“). Variante B: 8 Detailseiten bauen (eigenes Projekt).
+3. **`funktionen.html` (Entscheidung Christian 2026-10-25: Kacheln ohne Link):** Die acht `<a class="fn-tile" href="funktion-….html">` werden zu `<div class="fn-tile">`, die Zeile `<span class="fn-more">Mehr erfahren →</span>` entfällt, Hover-Effekt (`.fn-tile:hover`) raus. Identisch per `sed` in `en/funktionen.html` („Learn more →“); Cache-Hash für `funktionen.html` aktualisieren (Memory „Übersetzungs-Cache-Trick“). Hinweis: Die Seite hängt nur am Footer der Methode-Seite, nicht in der Hauptnavigation.
 4. Gruppe D und E brauchen **keinen Code**: In der GSC bei „Nicht gefunden (404)“ auf **„Fehlerbehebung überprüfen“** klicken, Google crawlt die Stubs dann neu.
 
 → **Check:** Link-Checker über alle 430 HTML-Dateien meldet 0 fehlende Ziele (auch relative Links in Sprachordnern); `curl -o /dev/null -w "%{http_code}"` für `/pl/newsletter.html`, `/it/agb.html`, `/hilfe/`, `/unterstutzte-sprachen/` → 200; GSC-404-Zahl sinkt nach Validierung auf ≤ 5 (nur Gruppe E).
@@ -143,15 +143,15 @@ In `build_sitemap()`: feste Zusatzliste `youtube/`, `agb.html`, `widerruf.html`,
 
 → **Check:** 304 `<loc>`; `lastmod` variiert; XML parst; GSC → Sitemaps zeigt nach Neueinreichung 304 erkannte Seiten.
 
-### Schritt 5 — HTTPS erzwingen (Christian, 5 Minuten)
+### Schritt 5 — HTTPS erzwingen (Claude per `gh api`, Freigabe Christian 2026-10-25)
 
-GitHub → `Zuano/linguaflow-website` → Settings → Pages → **Enforce HTTPS**. Alternativ `gh api -X PUT repos/Zuano/linguaflow-website/pages -f https_enforced=true` (nach Freigabe).
+`gh api -X PUT repos/Zuano/linguaflow-website/pages -f https_enforced=true` in der Umsetzungs-Session ausführen, danach mit `gh api repos/Zuano/linguaflow-website/pages --jq .https_enforced` gegenprüfen.
 
 → **Check:** `curl -sI http://linguaflow.app/` → `301` auf `https://`.
 
 ### Schritt 6 — Inhalt: Aussprache-Seite (neues Feature, Entscheidung nötig)
 
-Eine Seite `aussprache.html` („Deutsche Aussprache lernen und verbessern – mit App“) für die Suchanfragen aus #8: Chorsprechen, Wort-Schleife, 0,5×-Tempo, Karaoke-Hervorhebung als Antwort auf „aussprache verbessern app“. Den alten Stub `/deutsch-aussprache-lernen-…/` dann auf diese Seite statt auf `/` umleiten (er hat noch 1.257 Impressionen). Nur DE + EN (Nachfrage ist deutsch), Nav-Eintrag unter Ratgeber. Kosten: ~0,50 € DeepL (EN).
+Eine Seite `aussprache.html` („Deutsche Aussprache lernen und verbessern – mit App“) für die Suchanfragen aus #8: Chorsprechen, Wort-Schleife, 0,5×-Tempo, Karaoke-Hervorhebung als Antwort auf „aussprache verbessern app“. Den alten Stub `/deutsch-aussprache-lernen-…/` dann auf diese Seite statt auf `/` umleiten (er hat noch 1.257 Impressionen). **Entscheidung Christian 2026-10-25: in allen 33 Sprachen** (reguläre Aufnahme in `SOURCE_FILES`, Übersetzungs-Workflow übernimmt den Rest; in den Sprachversionen geht es dann um die Aussprache der jeweiligen Zielsprache, der Text muss sprachneutral formuliert sein — „deine Zielsprache“ statt „Deutsch“ außer im DE-Titel/Keyword-Block). Nav-Eintrag unter Ratgeber. Kosten: ~8–10 € DeepL.
 
 → **Check:** Seite indexiert; in der GSC taucht sie bei „deutsche aussprache app“ auf; CTR dieser Anfragen > 2 % nach 6 Wochen.
 
@@ -167,9 +167,17 @@ Wenn der Hub nach 4 Wochen weiter „Gecrawlt – nicht indexiert“ ist: Indexi
 
 → **Check:** GSC „URL ist bei Google“.
 
-### Schritt 9 — Barrierefreiheit (optional, Design-Entscheidung) und Schritt 10 — www (optional)
+### Schritt 9 — Barrierefreiheit (Entscheidung Christian 2026-10-25: nur Grau)
 
-Wie in der ersten Fassung: Türkis für Text ≥ 4,5:1 (`#0a8f7c`), Grau `#6b6b80`, `<main>`, Footer-Überschriften; `CNAME www → zuano.github.io`.
+Markenfarbe Türkis bleibt unverändert. Nur die grauen Preis-Untertitel (`#9494a8` auf `#f4f4f8`) auf ein dunkleres Grau (`#6b6b80`, ≥ 4,5:1) in `styles.css`; dazu die kostenlosen Struktur-Punkte `<main>` um den Seiteninhalt und Footer-`h4` → `h2` mit kleiner Optik (nur wenn `index.html` ohnehin per Cache-Trick angefasst wird, Schritt 7).
+
+→ **Check:** Lighthouse `color-contrast` meldet nur noch die Türkis-Elemente; Preis-Untertitel bestehen.
+
+### Schritt 10 — `https://www` reparieren (Christian im WordPress.com-DNS, 5 Minuten)
+
+Im DNS bei WordPress.com (Nameserver `ns1–3.wordpress.com`) den Eintrag `www` von `CNAME → linguaflow.app` auf `CNAME → zuano.github.io` ändern. GitHub Pages erkennt dann die www-Variante, stellt voraussichtlich ein Zertifikat auch für `www.linguaflow.app` aus und leitet weiter auf `linguaflow.app`. Nichts am Repo nötig (`CNAME`-Datei bleibt `linguaflow.app`). Fürs Tracking ändert sich nichts: Besucher landen nach der Umleitung auf Seiten mit dem Cloudflare-Analytics-Snippet.
+
+→ **Check:** nach 1–24 h `curl -sI https://www.linguaflow.app/` → `301` auf `https://linguaflow.app/` ohne TLS-Fehler. Falls GitHub kein www-Zertifikat ausstellt: Punkt dokumentieren und schließen (http-Umleitung funktioniert bereits).
 
 ## Betroffene Dateien
 
@@ -196,14 +204,46 @@ Wie in der ersten Fassung: Türkis für Text ≥ 4,5:1 (`#0a8f7c`), Grau `#6b6b8
 - **Font-Änderung:** beim ersten Besuch kurz Systemschrift sichtbar; optisch prüfen.
 - **Aussprache-Seite** ist neuer Inhalt mit Marken-Wording („inspiriert von der Birkenbihl-Methode“, kein Anbieter-Name für die Sprachausgabe, siehe CONTEXT.md).
 
-## Offene Fragen an Christian
+## Entscheidungen Christian (2026-10-25) — keine offenen Fragen mehr
 
-1. **Schritt 2.3:** Links auf die acht Funktionsseiten entfernen/umlenken (A) — oder die Detailseiten bauen (B)?
-2. **Schritt 3:** 5–6 € DeepL für alle 33 Sprachen freigeben, oder zuerst nur EN + PL/HU/SK/IT/ES/TR (≈ 1,20 €)?
-3. **Schritt 5:** Darf ich „Enforce HTTPS“ per `gh api` setzen, oder machst du das Häkchen selbst?
-4. **Schritt 6:** Aussprache-Seite bauen — ja/nein, und nur DE+EN?
-5. **Schritt 9:** Türkis für Text dunkler erlaubt (Markenfarbe), oder nur die grauen Preis-Untertitel?
-6. **Schritt 10:** `www` einrichten — wo liegt das DNS?
+1. **Schritt 2.3 Funktionen-Seite:** Kacheln bleiben, aber ohne Link und ohne „Mehr erfahren“. Keine Detailseiten.
+2. **Schritt 3 Nachübersetzung:** alle 33 Sprachen, ~5–6 € DeepL freigegeben.
+3. **Schritt 5 HTTPS:** Claude setzt `https_enforced` per `gh api`.
+4. **Schritt 6 Aussprache-Seite:** ja, in allen 33 Sprachen (~8–10 € DeepL).
+5. **Schritt 9 Kontrast:** Markenfarbe Türkis bleibt, nur graue Preis-Untertitel werden dunkler.
+6. **Schritt 10 www:** Christian ändert den CNAME im WordPress.com-DNS (Anleitung oben); Tracking-Frage geklärt — DNS-Ort ist dafür egal.
+
+**Reihenfolge für die Umsetzungs-Session:** 1 (Christian, sofort) → 2 → 4 → 5 → 3 → 7 + 9 → 6 → 8 beobachten; 10 parallel durch Christian.
+
+## Agenten-Einsatz je Schritt (Wunsch Christian 2026-10-25)
+
+Grundsatz: **Mechanisches und Prüfendes an günstige Subagenten** (Modell Sonnet oder Haiku, Typ `general-purpose` bzw. `Explore`), **alles mit DeepL-Kosten, Inhalt oder Markenwording bleibt in der Hauptsession** (Fable/Opus) und bekommt vor dem Push eine zweite Meinung durch einen Review-Subagenten, der den Diff ohne die Begründung der Hauptsession liest. Subagenten laufen im Hintergrund, die Hauptsession wartet auf das Ergebnis statt parallel dieselben Dateien anzufassen. Checks sind immer ein eigener Agentenlauf, nie der Agent, der die Änderung gemacht hat.
+
+| Schritt | Wer | Modell | Warum |
+|---|---|---|---|
+| 1 Indexierung beantragen, Sitemap neu einreichen | Christian in der GSC | — | Braucht eingeloggten Browser, 10 Minuten Klickarbeit |
+| 2.1 ~131 Redirect-Stubs + `scripts/make-stubs.py` | Subagent `general-purpose` | **Haiku** | Rein mechanisch, Vorlage `fr/eula.html` existiert, Ergebnis per Skript reproduzierbar |
+| 2.1 **Check**: Link-Checker über alle 430 HTML-Dateien, `curl` auf Stub-URLs | Subagent `Explore` | **Haiku** | Nur lesen und melden |
+| 2.2 Footer-Link-Umschreibung in `adjust_html()` | Hauptsession | Fable | Greift in das Übersetzungsskript ein — ein Fehler dort kostet beim nächsten Lauf echtes Geld |
+| 2.3 `funktionen.html`-Kacheln entlinken + Cache-Hash | Subagent `general-purpose` | **Sonnet** | Kleine Textersetzung, aber Cache-Trick muss exakt stimmen (Hash-Berechnung wie in `translate-site.py`) |
+| 3 `scripts/retrofit-meta.py` schreiben | Hauptsession | Fable | Kostenrelevant (DeepL), HTML-Escaping, Fallback-Logik, Regressionstest hreflang/canonical |
+| 3 **Review** des Skripts vor dem ersten echten Lauf | Subagent `general-purpose` (Review-Auftrag: „suche Fälle, in denen das Skript HTML oder JSON kaputt macht oder doppelt übersetzt“) | **Opus** | Gewissenhaft: zweite Meinung ohne Vorannahmen, bevor Geld ausgegeben wird |
+| 3 Dry-Run auswerten, dann echter Lauf | Hauptsession | Fable | Kostenentscheidung |
+| 3 **Check**: Stichproben in 10 Sprachen, Attribute übersetzt, JSON-LD gültig, hreflang 35 | Subagent `Explore` | **Haiku** | Nur lesen und melden |
+| 4 `build_sitemap()`: Zusatz-URLs, `lastmod` aus Git, `--sitemap-only`, `fetch-depth: 0` | Subagent `general-purpose` | **Sonnet** | Überschaubare Python-Änderung mit klarem Prüfkriterium (304 URLs, XML parst) |
+| 4 **Check**: XML parsen, URL-Zahl, `lastmod`-Streuung | Subagent `Explore` | **Haiku** | Nur lesen |
+| 5 `gh api … https_enforced=true` + Gegenprüfung | Hauptsession | Fable | Konto-Einstellung, ein Befehl, Verantwortung bleibt hier |
+| 6 Aussprache-Seite: Text und Struktur | Hauptsession | Fable | Inhalt, Markenwording („inspiriert von der Birkenbihl-Methode“, Glossar in `CONTEXT.md`), SEO-Titel, Aufnahme in `SOURCE_FILES` |
+| 6 **Review** Text vor dem Push (Wording, Glossar, keine Anbieter-Nennung, sprachneutrale Formulierung für 33 Sprachen) | Subagent `general-purpose` (Review-Auftrag) | **Opus** | Gewissenhaft: Seite wird 33-fach übersetzt, Fehler kosten 8–10 € pro Korrektur |
+| 6 **Check** nach dem Übersetzungslauf: 5 Sprachversionen live 200, canonical, hreflang, Nav | Subagent `Explore` | **Haiku** | Nur lesen |
+| 7 CWV: `width`/`height`, `fetchpriority`, `srcset`, Font-Fallback in 34 Dateien per `sed` | Subagent `general-purpose` | **Sonnet** | Mechanisch über viele Dateien, Cache-Trick wie 2.3 |
+| 7 **Check**: Chrome-Trace CLS < 0,1, Lighthouse SEO 100 | Hauptsession mit `chrome-devtools` | Fable | Braucht die Browser-Werkzeuge der Hauptsession |
+| 8 `/zurueck-in-deinen-beruf/` beobachten, ggf. Hub-Text schärfen | Hauptsession | Fable | Inhaltliche Entscheidung |
+| 9 Grau `#6b6b80` in `styles.css`, `<main>`, Footer-`h4` | Subagent `general-purpose` | **Haiku** | Zwei Zeilen CSS, eine Struktur-Klammer |
+| 10 www-CNAME | Christian bei WordPress.com | — | Fremdes Dashboard |
+| Abschluss: Doku (`TODO.md`, `DECISIONS.md`, Feature-Datei), Commit, Push | Hauptsession | Fable | Pflicht nach jeder Änderung, in derselben Antwort |
+
+Nicht einsetzen: `ios-geraetetester` (nur Apps), Workflows/Multi-Agent-Orchestrierung (Christian hat das nicht angefordert, und die Schritte hängen voneinander ab).
 
 ## Nach der Umsetzung
 

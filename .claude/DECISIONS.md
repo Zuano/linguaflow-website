@@ -1,5 +1,47 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-10-25 — Search-Console-Plan: Entscheidungen zur Umsetzung
+
+Entschieden von Christian in der Session „Search Console Improvements" (Plan
+`.claude/plan-search-console.md`, GSC-Zahlen vom 24.10.2026).
+
+- **Meta-Description, og:/twitter:description und alt-Texte werden in allen
+  33 Sprachen nachübersetzt** (~5–6 € DeepL) und künftig im Übersetzungslauf
+  automatisch mitübersetzt. **Begründung:** DeepL im HTML-Modus lässt Attribute
+  unangetastet, daher stand unter jedem fremdsprachigen Treffer deutscher Text;
+  messbar an `/en/ratgeber-anerkennung…` (1.563 Impressionen, 0,9 % CTR).
+  Umsetzung als eigenes Retrofit-Skript nach dem Muster von
+  `retrofit-jsonld.py`, `SCRIPT_VERSION` bleibt.
+- **Funktionen-Seite behält ihre acht Kacheln, aber ohne Link und ohne
+  „Mehr erfahren".** Die Detailseiten `funktion-*.html` werden nicht gebaut.
+  **Begründung:** Seit Wochen 404 im Live-Betrieb; die Seite hängt nur am Footer
+  der Methode-Seite, Detailseiten rechtfertigen den Aufwand nicht.
+- **Redirect-Stubs auch für `newsletter.html`, `was-ist-neu.html`, `agb.html`,
+  `widerruf.html` in jedem Sprachordner** (→ `/en/…` bzw. `/…`), erzeugt per
+  Skript `scripts/make-stubs.py`; zusätzlich Stubs für `/hilfe/`,
+  `/unterstutzte-sprachen/`, `/en/linguaflow-video-bibliothek/`. Ergänzt die
+  Entscheidung „Rechtstexte nur DE+EN" (2026-07-12): AGB und Widerruf gibt es
+  weiterhin nur auf Deutsch. **Begründung:** Relative Footer-Links in 31
+  Sprachversionen erzeugen sonst laufend neue 404-Einträge in der GSC.
+- **„Enforce HTTPS" bei GitHub Pages wird per `gh api` gesetzt** (Freigabe
+  Christian). **Begründung:** `http://` lieferte 200 statt 301; GSC listete
+  `http://linguaflow.app/` als Alternativseite.
+- **Neue Seite `aussprache.html` in allen 33 Sprachen** (~8–10 € DeepL), Text
+  sprachneutral formuliert („deine Zielsprache"). **Begründung:** ~600
+  Impressionen auf „aussprache verbessern app"-Suchen ohne passende Seite; der
+  alte WordPress-Artikel leitet nur auf die Startseite um und wird künftig auf
+  die neue Seite zeigen.
+- **Markenfarbe Türkis bleibt**, trotz Kontrast 2,6:1 für Text; nur die grauen
+  Preis-Untertitel werden dunkler. **Begründung:** Christians Design-Entscheidung.
+- **www bleibt im WordPress.com-DNS** (Nameserver `ns1–3.wordpress.com`, kein
+  Umzug zu Cloudflare); der `www`-CNAME wird von Christian auf `zuano.github.io`
+  geändert, damit GitHub ein Zertifikat für `https://www` ausstellt. Fürs
+  Tracking ist der DNS-Ort unerheblich (Cloudflare-Snippet zählt nach der
+  Umleitung).
+- **Agenten-Einsatz:** mechanische Schritte und Prüfungen an Subagenten mit
+  Haiku/Sonnet, alles mit DeepL-Kosten, Inhalt oder Markenwording in der
+  Hauptsession plus Review-Subagent (Opus) vor dem Push. Tabelle im Plan.
+
 ## 2026-10-05 — Galerie-Bilder pro Sprachversion
 
 Entschieden von Christian im Grilling (Session „Website-Screenshots aktualisieren").
