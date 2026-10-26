@@ -1,5 +1,24 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-10-26 — Arabisch: `dir="rtl"` am `<html>`, Methode-Seite setzt Richtung ausdrücklich
+
+Umgesetzt in der Session „Footer/RTL/Navi/DMARC" (Auftrag von Christian).
+
+- **Alle arabischen Seiten tragen `<html lang="ar" dir="rtl">`** — gesetzt von
+  `adjust_html()` (Schritt 1b) für künftige Läufe, die bestehenden `ar/`-Seiten
+  per `sed` nachgezogen. Nur Arabisch: Hebräisch ist keine Website-Sprache.
+  **Begründung:** Ohne Schreibrichtung standen arabischer Fließtext und Layout
+  linksbündig/spiegelverkehrt. Browser-Check in Desktop- und Handybreite:
+  Navbar, Menü, Galerie, Lightbox, Preise, FAQ, Footer bleiben benutzbar —
+  deshalb am `<html>` und nicht nur auf `<main>`.
+- **Die Methode-Seite setzt die Richtung ihrer dynamischen Blöcke jetzt immer
+  ausdrücklich** (`rtl ? 'rtl' : 'ltr'` statt nur `if (rtl) … = 'rtl'`),
+  damit eine LTR-Ziel- oder Muttersprache auf der arabischen Seite nicht die
+  Richtung vom `<html>` erbt. Gleiche drei Zeilen in Quelle und 33 Kopien,
+  Cache-Hash nachgezogen (0 € DeepL). Alternative verworfen: CSS-Regel in
+  `styles.css` nur für `[dir="rtl"]` — die Richtung gehört dorthin, wo die
+  Sprache bekannt ist (ins Skript der Seite).
+
 ## 2026-10-25 — Sprachwahl-Blöcke gehen nicht mehr an DeepL
 
 Entschieden von Christian in der Session „Search-Console-Umsetzung".

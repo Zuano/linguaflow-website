@@ -21,6 +21,7 @@ Download-Buttons. Verlinkt von der Startseite (Navbar „Methode" + Knopf
 - [x] Karaoke-Hervorhebung (Wort- bzw. Zeichenbasis bei ZH/JA/TH)
 - [x] 4-Zeilen-System mit Umschrift bei AR/HE/ZH/JA/KO/TH/EL/RU/UK/BG
 - [x] RTL-Darstellung bei Arabisch/Hebräisch
+- [x] Richtung der Wortkarten-Zeile, Übersetzungszeile und Kapitel wird seit 2026-10-26 immer ausdrücklich gesetzt (`ltr`/`rtl`), weil `ar/methode.html` jetzt `dir="rtl"` am `<html>` trägt — LTR-Sprachen erben die Richtung sonst
 - [x] Erklärung in der Muttersprache, komplett vorgelesen (App-Stimmen)
 - [x] Kein API-Schlüssel im Browser (alles vorab generiert, statisch)
 - [x] Muttersprache nach Sprachordner vorbelegt, Auswahl in localStorage

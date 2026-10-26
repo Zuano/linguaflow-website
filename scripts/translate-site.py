@@ -518,6 +518,13 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
 
     # 1. <html lang="de"> -> <html lang="xx">
     html = re.sub(r'(<html[^>]*\blang=")de("[^>]*>)', rf'\1{lang_attr}\2', html, count=1)
+    # 1b. Arabisch wird von rechts nach links geschrieben — ohne dir="rtl"
+    #     stünden Text und Layout spiegelverkehrt. Nur hier nötig: Hebräisch
+    #     gibt es nicht als Website-Sprache. / Arabic is right-to-left;
+    #     without dir="rtl" text and layout would be mirrored. Only needed
+    #     here — Hebrew is not a website language.
+    if lang_attr == "ar":
+        html = html.replace('<html lang="ar">', '<html lang="ar" dir="rtl">', 1)
 
     # 2. Relative Asset-Pfade absolut machen (damit sie aus /<slug>/ auch funktionieren)
     # Wichtig: auch srcset muss erfasst werden (<picture><source srcset="..."></picture>)
