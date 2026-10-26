@@ -248,3 +248,21 @@ Nicht einsetzen: `ios-geraetetester` (nur Apps), Workflows/Multi-Agent-Orchestri
 ## Nach der Umsetzung
 
 Diese Datei nach `.claude/done/` verschieben (mit Christians Bestätigung); GSC-Zahlen vor/nach (Klicks, CTR EN-Ratgeber, 404-Anzahl, Status `/methode.html`) in `TODO.md` eintragen.
+
+## Prompt für die Nachkontrolle (Termin 2026-11-22, Kopiervorlage für eine neue Session)
+
+```
+Nachkontrolle Search-Console-Verbesserungen linguaflow.app (geplant für 2026-11-22, 4 Wochen nach Umsetzung).
+
+Kontext: Am 2026-10-25 wurde der Plan `.claude/plan-search-console.md` komplett umgesetzt und gemergt (Umleitungsseiten gegen 404, Sitemap mit 338 URLs, HTTPS erzwungen, Meta-Beschreibungen/alt-Texte in 33 Sprachen übersetzt, neue Seite /aussprache.html in 34 Sprachen, Startseiten-Tuning, www-Zertifikat). In der Search Console wurden Indexierung für /methode.html, /en/methode.html, /hu/methode.html und /aussprache.html beantragt, die Sitemap neu eingereicht und die 404-„Fehlerbehebung überprüfen" gestartet (44 URLs). Vorher-Zahlen stehen im Plan unter „Aktuelle Situation (Stand 2026-10-24)". Details: `.claude/TODO.md` Punkt „Search-Console-Verbesserungen" + Änderungsprotokoll 2026-10-25/26.
+
+Lies zuerst: den Plan (Abschnitte „Aktuelle Situation", „Gefundene Probleme", Schritt 8, „Nach der Umsetzung"), den TODO-Punkt, die Memory-Datei „GSC via Chrome" (Bedienung der Search Console in Claude in Chrome; ich muss dort eingeloggt sein). Fasse in 3–5 Sätzen zusammen, dann lies NUR in der Search Console (Property sc-domain:linguaflow.app), nichts ändern:
+
+1. Leistung, letzte 28 Tage, Vergleich zu den 28 Tagen davor: Klicks, Impressionen, CTR, Position gesamt. Seiten: /en/ratgeber-anerkennung-auslaendischer-abschluss.html (Ziel CTR > 2 %, vorher 0,9 % bei 1.563 Impr./3 Monate), /methode.html + Sprachversionen, /aussprache.html + Sprachversionen (Impressionen/Klicks), /pl/, /hu/. Suchanfragen: „deutsche aussprache app", „aussprache verbessern app/software", „birkenbihl method" (EN) – Position/CTR.
+2. Indexierung → Seiten: Zahl „Nicht gefunden (404)" (Ziel ≤ 5, vorher 44) und Status der Validierung; „Gefunden – zurzeit nicht indexiert" (vorher 34, davon alle /methode.html); „Seite mit Weiterleitung" (sollte gestiegen sein – gewollt); URL-Prüfung für /methode.html, /en/methode.html, /aussprache.html, /zurueck-in-deinen-beruf/ („URL ist auf Google"?).
+3. Sitemaps: Status, erkannte Seiten (Soll 338). HTTPS-Bericht und Core Web Vitals: Fehler?
+4. Ergebnis als Vorher/Nachher-Tabelle in `.claude/TODO.md` eintragen (Änderungsprotokoll mit Datum + TODO-Punkt aktualisieren), Commit auf einem Branch `docs/search-console-nachkontrolle`, Push.
+5. Entscheidungen für mich vorbereiten, NICHT selbst ausführen: (a) Ist /zurueck-in-deinen-beruf/ weiterhin „Gecrawlt – zurzeit nicht indexiert"? Dann Plan-Schritt 8 vorschlagen (Hub-Text schärfen – kostet DeepL für 4 Sprachen, Betrag schätzen). (b) Ist /methode.html nach 4 Wochen immer noch nicht indexiert? Dann vorschlagen: Link aus hilfe.html und ratgeber.html ergänzen (Cache-Trick, 0 €). (c) Plan nach `.claude/done/` verschieben – erst nach meinem OK.
+
+NICHT ohne Rückfrage: DeepL-Läufe, Änderungen an deutschen Quelldateien, Indexierung beantragen oder andere schreibende Aktionen in der Search Console, Dateien löschen, direkt auf `main` committen. Antworte auf Deutsch, dokumentiere in derselben Antwort.
+```
