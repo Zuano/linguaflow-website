@@ -554,6 +554,14 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     if slug in CLUSTER_SLUGS:
         for prefix in CLUSTER_PREFIXES:
             html = html.replace(f'href="/{prefix}', f'href="/{slug}/{prefix}')
+    else:
+        # Sprachen ohne eigene Cluster-Fassung zeigen auf die englische
+        # (Verkehrssprache) statt auf die deutsche — wie die Footer-Links in
+        # Schritt 2e (Entscheidung 2026-10-26, DECISIONS.md).
+        # / Languages without a cluster version link to the English one
+        # (lingua franca) instead of the German one — same as step 2e.
+        for prefix in CLUSTER_PREFIXES:
+            html = html.replace(f'href="/{prefix}', f'href="/en/{prefix}')
 
     # 2e. Relative Links auf Seiten, die es nur auf Deutsch + Englisch gibt
     # (Newsletter, Versionshistorie, Funktionen), auf die englische Fassung

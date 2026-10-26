@@ -1,5 +1,22 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-10-26 — Anerkennung-Links ohne eigene Sprachfassung zeigen auf Englisch
+
+Entschieden von Christian in der Session „Footer/RTL/Navi/DMARC" (ersetzt die
+Entscheidung vom 2026-08, nach der diese Links auf die deutsche Seite zeigten).
+
+- **Links auf `/zurueck-in-deinen-beruf/…` zeigen in den 29 Sprachen ohne
+  eigene Cluster-Fassung (alles außer DE/EN/TR/UK/AR) auf
+  `/en/zurueck-in-deinen-beruf/…`** — `adjust_html()` Schritt 2c, `else`-Zweig.
+  **Begründung:** Einheitlich mit den Footer-Links auf Newsletter, Versionshistorie
+  und Funktionen (seit 2026-10-25 auf `/en/`); Englisch ist laut Strategiebriefing
+  die Verkehrssprache, und die englische Hub-Seite verlinkt TR/UK/AR.
+  Verworfen: Option A (deutsche Seite lassen) — die Zielgruppe lernt zwar Deutsch,
+  aber eine englische Seite ist für polnische, ungarische oder japanische Leser
+  die zugänglichere Zwischenstation.
+- Umsetzung ohne DeepL: Quellen unverändert, Bestand per `sed`
+  (261 Dateien, 290 Links), Link-Checker 0 fehlende Ziele.
+
 ## 2026-10-26 — Arabisch: `dir="rtl"` am `<html>`, Methode-Seite setzt Richtung ausdrücklich
 
 Umgesetzt in der Session „Footer/RTL/Navi/DMARC" (Auftrag von Christian).
