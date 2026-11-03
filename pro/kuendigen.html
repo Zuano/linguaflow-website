@@ -68,9 +68,12 @@
     <p>Den Link zum Kundenportal findest du auch in <strong>jeder E-Mail von Paddle</strong> (Kaufbestätigung, Rechnung, Verlängerung).</p>
     <p>Hast du eine <strong>Einmal-Variante</strong> (3 Monate oder 1 Jahr einmalig) gekauft? Die endet automatisch – du musst nichts kündigen.</p>
 
-    <div class="cancel-box">
-      <h2>Widerruf innerhalb von 14 Tagen</h2>
-      <p>Bei einem Abo kannst du innerhalb von 14 Tagen nach dem Kauf im selben Kundenportal „Vertrag widerrufen“ wählen. Das Abo endet dann sofort und du bekommst den <strong>vollen Betrag</strong> zurück. Details: <a href="/widerruf.html">Widerruf &amp; Rückerstattung</a>.</p>
+    <!-- ENTWURF 2026-11-03 (KI-Vorprüfung Nr. 14, 16; § 13a FAGG): Abschnitt „Vertrag widerrufen“ mit Knopf zum Live-Portal, Einmal-Varianten einheitlich. Alt: „Bei einem Abo kannst du innerhalb von 14 Tagen nach dem Kauf im selben Kundenportal „Vertrag widerrufen“ wählen …“ – rechtlich prüfen lassen. -->
+    <div class="cancel-box" id="widerruf">
+      <h2>Vertrag widerrufen (innerhalb von 14 Tagen)</h2>
+      <p>Ein Abo oder eine Einmal-Variante, die du auf linguaflow.app gekauft hast, kannst du innerhalb von 14 Tagen nach dem Kauf widerrufen. Dein Vertragspartner dafür ist unser Zahlungsanbieter Paddle. Im Kundenportal gibst du die E-Mail-Adresse ein, mit der du bezahlt hast, und wählst „Vertrag widerrufen“. Der Zugang endet dann sofort und du bekommst den <strong>vollen Betrag</strong> zurück.</p>
+      <p class="text-center" style="margin:18px 0;"><a class="btn btn-primary" id="withdrawLink" href="#" target="_blank" rel="noopener">Vertrag widerrufen</a></p>
+      <p style="margin-bottom:0;">Wird dein Kauf im Portal nicht angezeigt? Schreib uns an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> – wir leiten deinen Widerruf an Paddle weiter. Alle Wege und ein Muster-Formular: <a href="/widerruf.html">Widerruf &amp; Rückerstattung</a>.</p>
     </div>
 
     <h2>Im App Store oder bei Google Play gekauft?</h2>
@@ -97,6 +100,8 @@
         <a href="/agb.html">AGB</a>
         <a href="/widerruf.html">Widerruf</a>
         <a href="/pro/kuendigen.html">Abo kündigen</a>
+        <!-- ENTWURF 2026-11-03 (KI-Vorprüfung Nr. 14, § 13a FAGG): Fußzeilen-Link „Vertrag widerrufen“ -->
+        <a href="/pro/kuendigen.html#widerruf">Vertrag widerrufen</a>
       </div>
     </div>
   </div>
@@ -118,10 +123,12 @@
   const portalUrl = PORTAL_URLS[PORTAL_ENV];
   if (portalUrl) {
     document.getElementById('portalLink').href = portalUrl;
+    document.getElementById('withdrawLink').href = portalUrl;
   } else {
     // No portal configured: hide the button, show the mail fallback.
     // Kein Portal eingetragen: Knopf ausblenden, Mail-Hinweis zeigen.
     document.getElementById('portalLink').hidden = true;
+    document.getElementById('withdrawLink').href = 'mailto:hello@linguaflow.app';
     document.getElementById('portalMissing').hidden = false;
   }
 

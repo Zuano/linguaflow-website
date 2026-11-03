@@ -96,3 +96,69 @@ Nur die **deutschen** Fassungen sind geändert. Branch: `feature/web-direktkauf`
 ## Nachtrag 2026-11-03 (nach Prüfer Teil C)
 - `widerruf.html` §2 neu: alter FAGG-§18-Text („Widerrufsrecht erlischt … Freischaltung erst nach Fristablauf“) war technisch falsch (Freischaltung immer sofort, Paddle erstattet im Portal voll). Neu getrennt: Web-Kauf (14 Tage Portal-Widerruf, volle Erstattung) vs. Store (Regeln von Apple/Google). **Ungetestet:** Widerruf einer Einmal-Variante, deren Kündigung schon gesetzt ist.
 - `hilfe.html` FAQ (Text + JSON-LD): Web-Kauf als dritter Weg, Kündigen im Paddle-Portal; Testzeitraum-Antwort ergänzt „auf linguaflow.app kein Testzeitraum“.
+
+## Nachtrag KI-Vorprüfung 2026-11-03
+
+Umgesetzt: Punkte 1, 2, 4, 6, 7, 8, 9, 10 aus `KI-Gegenpruefung.md` Abschnitt 6 („Sicher zu korrigieren“). Jede Stelle ist im HTML mit `<!-- ENTWURF 2026-11-03 (KI-Vorprüfung Nr. …) -->` markiert, meist mit dem alten Wortlaut im Kommentar. Fund-Nr. = Nummer in `KI-Vorpruefung.md`.
+
+**impressum.html**
+- UID (Nr. 49): „folgt“ → „UID-Nummer: ATU81988814“ (laut EU-VIES gültig, Abfrage 03.11.2026)
+- Gewerbe (Nr. 50): neu „Anwendbare Rechtsvorschrift: Gewerbeordnung, abrufbar unter www.ris.bka.gv.at“. **Offen:** Gewerbewortlaut/Berufsbezeichnung und Fachgruppe aus GISA → Platzhalter `<!-- TODO Christian: … aus dem GISA-Auszug -->`
+
+**datenschutz.html**
+- Kopf (Nr. 39, 45): – → „Stand: November 2026“; „Verantwortlicher: LinguaFlow e.U., E-Mail …“ → mit Inhaber und Postanschrift
+- Punkt 3 (Nr. 37): – → neuer Eintrag Paddle.com Market Ltd als **eigener Verantwortlicher** (E-Mail, Land, Zahlungsdaten, LinguaFlow-Konto-ID; Link paddle.com/legal/privacy)
+- Punkt 3 (Nr. 44): Gmail-Eintrag ergänzt um Erinnerungs-Mails vor Verlängerung/Ablauf beim Web-Kauf (Vertragserfüllung). Versandweg laut `sendPaddleReminders.ts`: dieselbe „Trigger Email“-Erweiterung wie die Trial-Erinnerung
+- Punkt 3 (Nr. 40): „Webhosting-Anbieter der Website.“ → neuer Unterabschnitt „Website und Kaufseite“: GitHub Pages, Google Fonts (vorläufig, solange nicht lokal), Cloudflare Web Analytics, Firebase-Login mit Apple/Google auf der Kaufseite, Paddle.js
+- Punkt 6 (Nr. 38, 45): – → Beschwerderecht bei der Datenschutzbehörde, Barichgasse 40–42, 1030 Wien, dsb@dsb.gv.at (Adresse auf www.dsb.gv.at geprüft am 03.11.2026); Satz „keine automatisierte Entscheidungsfindung (Art. 22 DSGVO)“
+
+**datenschutz-extension.html**
+- Punkt 4 (Nr. 47): Überschrift „Empfänger / eingesetzte Dienste (Auftragsverarbeiter)“ → „Empfänger / eingesetzte Dienste“; Paddle „Zahlungsabwicklung (Merchant of Record)“ → „Verkäufer und Zahlungsabwicklung …; Paddle ist dafür eigener Verantwortlicher“
+- Stand (Nr. 48): Juli 2026 → November 2026
+- **Offen:** Die englische Fassung `privacy-extension.html` wird von Hand gepflegt und ist **nicht** angepasst
+
+**eula.html**
+- Punkt 3 (Nr. 29): „… im Paddle-Kundenportal kündigen“ → „…; die Kündigung wirkt zum Ende der bezahlten Laufzeit“
+- Punkt 5 (Nr. 21, 22): „Haftungsbeschränkung … keine Garantie für den Lernerfolg oder den fehlerfreien Betrieb … haftet nur bei Vorsatz oder grober Fahrlässigkeit … Datenverlust ausgeschlossen“ → „Haftung und Gewährleistung“: Lernerfolg nicht geschuldet; Gewährleistung nach VGG bleibt unberührt; Haftung bei Vorsatz/grober Fahrlässigkeit und immer für Personenschäden; bei leichter Fahrlässigkeit keine Haftung für Sachschäden, entgangenen Gewinn, Datenverlust; Produkthaftungsgesetz unberührt (gleicher Wortlaut wie AGB Punkt 8)
+- Punkt 8 (Nr. 26): „Es gilt ausschließlich österreichisches Recht.“ → österreichisches Recht ohne UN-Kaufrecht, zwingender Verbraucherschutz des Aufenthaltsstaats bleibt unberührt
+- Punkt 9 (Nr. 27): Anschrift ergänzt
+- **Nicht geändert (Anwalt):** Punkt 1 „widerrufliche Lizenz“ (Nr. 20), Punkt 6 Sperre (Nr. 23), Punkt 7 Ändern/Einstellen/EULA-Aktualisierung (Nr. 24, 25)
+
+**agb.html**
+- Titel/og:title (Nr. 11): „Nutzungsbedingungen (AGB)“ → „Allgemeine Geschäftsbedingungen (AGB)“; Fußzeile „© 2025“ → „© 2025–2026“
+- Einleitung (Nr. 1): „… regeln den Erwerb … von LinguaFlow e.U.“ → „… regeln, was zwischen dir und LinguaFlow e.U. gilt …; Vertragspartner für Kauf und Zahlung auf linguaflow.app/in der Erweiterung ist Paddle.com Market Ltd; LinguaFlow stellt die Funktionen bereit“
+- Punkt 3 (Nr. 2): Knopftext „Zahlungspflichtig bestellen“ bzw. „Subscribe“ → neutral „Schaltfläche zum zahlungspflichtigen Kauf im Bezahlfenster von Paddle“
+- Punkt 4 Einmal-Varianten (Gegenprüfung g Punkt 4): + „Wird eine Einmal-Variante dennoch verlängert, erstatten wir die Zahlung sofort voll.“
+- Punkt 5 (Nr. 9): „über den Link „Abo verwalten" in deinem Konto, sofern vorhanden,“ → gestrichen
+- Punkt 5 (Nr. 3): neuer Absatz „Erinnerung vor der Verlängerung (LinguaFlow Pro, Kauf auf linguaflow.app)“: Jahresabo 14 Tage, 3-Monats-Abo 7 Tage vor Ende der Laufzeit (Datum, Preis, Kündigen bis zum letzten Tag, Link zum Kündigen); Einmal-Varianten 5 Tage vor Ablauf
+- Punkt 6 (Nr. 1, 16): „Ein auf linguaflow.app gekauftes Abonnement kannst du … widerrufen“ → Widerruf gegenüber Paddle; Abo **und** Einmal-Variante; Portal oder Mail an uns (wir leiten weiter)
+- Punkt 8 (Nr. 6, 10): deutsche Haftungsformel („vertragstypischer, vorhersehbarer Schaden“, „im gesetzlich zulässigen Rahmen“) → gleicher Wortlaut wie EULA Punkt 5; + „Deine gesetzlichen Gewährleistungsrechte (VGG) bleiben unberührt.“
+- **Nicht geändert (Anwalt):** Punkt 9 AGB-Änderungen (Nr. 7), Preisänderungen (Nr. 8), Fair Use (Nr. 5)
+
+**widerruf.html** (Nr. 1, 12, 13, 15, 16, 18; Gegenprüfung Abschnitt 2 Punkt 3) – als **Hilfeseite** neu aufgebaut, keine eigene „Belehrung“ von LinguaFlow für Web-Käufe
+- Alt: „Diese Richtlinie gilt für … bei LinguaFlow e.U. („Anbieter") erworben“, Punkte 1–8 (gesetzliches Widerrufsrecht, digitale Leistungen, Ausübung, freiwillige Richtlinie, Ablauf, Kündigung, Store, Kontakt)
+- Neu: 1. Kauf auf linguaflow.app/Erweiterung → Vertragspartner Paddle, Verweis auf Paddle Buyer Terms Abschnitt 15 und Refund Policy; Abos und Einmal-Varianten gleich · 2. Drei Wege: Kundenportal („Vertrag widerrufen“), direkt bei Paddle (paddle.net, help@paddle.com), Mail an uns (wir leiten weiter, bestätigen den Eingang); Knopf „Vertrag widerrufen“ → /pro/kuendigen.html#widerruf · 3. Folgen: Rückzahlung spätestens 14 Tage, dasselbe Zahlungsmittel, ohne Gebühren · 4. Muster-Widerrufsformular, adressiert an Paddle.com Market Limited, 30 Old Bailey, London EC4M 7AU (laut Paddle Buyer Terms, Fassung 31.03.2026), LinguaFlow als zweite Adresse · 5. Freiwilliges Versprechen **getrennt**: voller Betrag bei Widerruf binnen 14 Tagen auch nach Nutzung (wir sorgen dafür, falls Paddle nicht voll erstattet); Verlängerung binnen 14 Tagen nach Abbuchung voll erstattet („in der Regel“/„nicht wesentlich genutzt“ gestrichen); Sicherheitsnetz Einmal-Variante · 6. Kündigen statt widerrufen („sofern vorhanden“ gestrichen) · 7. Store-Käufe: Apple/Google · 8. Kontakt
+- Meta-Beschreibung angepasst
+
+**pro/kuendigen.html** (Nr. 14, 16)
+- Kasten „Widerruf innerhalb von 14 Tagen“ („Bei einem Abo …“) → Abschnitt `id="widerruf"` „Vertrag widerrufen (innerhalb von 14 Tagen)“: Abo und Einmal-Variante, Vertragspartner Paddle, Knopf „Vertrag widerrufen“ zum Live-Portal (gleiche `PORTAL_URLS`-Konfiguration wie der Kündigen-Knopf), Mail-Rückfallweg, Link auf Formular
+
+**Fußzeile** (Nr. 14, § 13a FAGG): neuer Link „Vertrag widerrufen“ → `/pro/kuendigen.html#widerruf` neben „Abo kündigen“ in: agb, widerruf, eula, datenschutz, impressum, hilfe, index, methode, funktionen, was-ist-neu, pro/kaufen, pro/kuendigen
+
+**pro/kaufen.html**
+- Nr. 30: neuer Kasten „Das bekommst du mit Pro“ (aus index.html #preise abgeleitet: Pro-Features ohne Tageslimits, ganzer Lernweg, Fair Use, 30+ Sprachen)
+- Nr. 31: „Verlängert sich alle 3 Monate/jährlich, jederzeit online kündbar.“ → „Verlängert sich automatisch alle 3 Monate um 54,99 € / jährlich um 109,99 €, bis du kündigst. Kündigung jederzeit online, wirksam zum Ende der laufenden 3 Monate / des laufenden Jahres.“
+- Nr. 32 (Gegenprüfung g Punkt 2): neuer Hinweis, nur sichtbar bei Einmal-Karten: keine Verlängerung, keine weitere Abbuchung; im Paddle-Fenster technisch als Abo, das automatisch endet
+- Nr. 33: neuer Satz zum 14-Tage-Widerruf mit Link
+- Nr. 34: „Es gelten unsere AGB und die Widerrufsbelehrung.“ → „Es gelten die Käuferbedingungen von Paddle (Link) sowie unsere AGB und die Infos zu Widerruf & Rückerstattung.“
+
+**index.html #preise** (Nr. 36): „30 Tage kostenlos testen“ → „… (beim Kauf im App Store oder bei Google Play)“; „gilt für neue Abonnenten.“ → „… im App Store und bei Google Play – nicht beim Kauf auf linguaflow.app.“
+
+**hilfe.html** (Nr. 35): FAQ „Welche Sprachlern-App ist wirklich kostenlos?“ (Text + JSON-LD): „Premium-Abo, das du im App Store oder bei Google Play jederzeit kündigen kannst“ → „Pro-Abo, das du jederzeit zum Ende der Laufzeit kündigen kannst – im App Store, bei Google Play oder, beim Kauf auf linguaflow.app, online im Paddle-Kundenportal“. FAQ „Wie funktioniert das Abo-Modell?“ (Text + JSON-LD): „Web-Käufe jederzeit online“ → „jederzeit zum Ende der Laufzeit online“
+
+**Punkt 5 (`en/eula.html`) – nur geprüft:** `eula.html` steht in `LEGAL_FILES` und im Trigger von `.github/workflows/translate-site.yml` → `en/eula.html` (derzeit noch „Fees already paid are non-refundable.“) wird beim Push auf `main` automatisch per DeepL neu erzeugt, ebenso `en/datenschutz.html` und `en/impressum.html`. Vor dem Live-Gang von einem Menschen gegenlesen lassen.
+
+**Neue offene Punkte aus diesem Nachtrag**
+- Erinnerungs-Mails gibt es laut `sendPaddleReminders.ts` nur für **App-Pro über Paddle** – nicht für Abos der Browser-Erweiterung (ebenfalls Paddle). Die AGB-Zusage ist darum auf „LinguaFlow Pro, Kauf auf linguaflow.app“ beschränkt; Erweiterungs-Abos haben weiter keine Erinnerung (§ 6 Abs 1 Z 2 KSchG) → Technik-Session oder Anwalt.
+- Der Kündigungslink in der Erinnerungs-Mail führt ins Paddle-Portal, das einen E-Mail-Anmeldelink verlangt; der OGH (4 Ob 196/23m) hat „erst einloggen“ kritisiert → Anwalt-Frage.
+- Freiwilliges Versprechen „voller Betrag auch nach Nutzung“ bindet LinguaFlow: interner Ablauf „Paddle lehnt ab → wir erstatten selbst im Paddle-Dashboard“ festhalten.
