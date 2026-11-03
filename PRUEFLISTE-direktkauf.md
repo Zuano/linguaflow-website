@@ -92,3 +92,7 @@ Nur die **deutschen** Fassungen sind geändert. Branch: `feature/web-direktkauf`
 4. **„Abo verwalten" in deinem Konto, sofern vorhanden:** Diese Formulierung stammt aus der Erweiterungs-Zeit; für App-Pro gibt es keinen solchen Link (bewusst, Store-Regeln). Formulierung so lassen oder streichen?
 5. **Sprachfassungen:** Alle anderen Sprachen (en, en-gb, fr, … – je `agb.html`, `widerruf.html`, `eula.html`) sind **unverändert**. Achtung: `eula.html` und `index.html` werden beim Push auf `main` automatisch per DeepL übersetzt (Workflow `translate-site.yml`); `agb.html` und `widerruf.html` nicht.
 6. **Nicht geändert, aber widersprüchlich:** `hilfe.html` (FAQ, auch im JSON-LD) sagt „Abonnements werden über den Apple App Store oder Google Play Store abgewickelt". Muss nach Freigabe mitgezogen werden.
+
+## Nachtrag 2026-11-03 (nach Prüfer Teil C)
+- `widerruf.html` §2 neu: alter FAGG-§18-Text („Widerrufsrecht erlischt … Freischaltung erst nach Fristablauf“) war technisch falsch (Freischaltung immer sofort, Paddle erstattet im Portal voll). Neu getrennt: Web-Kauf (14 Tage Portal-Widerruf, volle Erstattung) vs. Store (Regeln von Apple/Google). **Ungetestet:** Widerruf einer Einmal-Variante, deren Kündigung schon gesetzt ist.
+- `hilfe.html` FAQ (Text + JSON-LD): Web-Kauf als dritter Weg, Kündigen im Paddle-Portal; Testzeitraum-Antwort ergänzt „auf linguaflow.app kein Testzeitraum“.
