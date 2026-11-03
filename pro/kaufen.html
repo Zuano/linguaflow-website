@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LinguaFlow Pro kaufen</title>
+  <meta name="description" content="LinguaFlow Pro für die App direkt auf linguaflow.app kaufen – sicher über Paddle, mit deinem LinguaFlow-Konto.">
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://linguaflow.app/pro/kaufen.html">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <meta name="theme-color" content="#14b8a6">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+
+  <script>
+    // =====================================================================
+    // CONFIGURATION / KONFIGURATION
+    // ENV switches the whole page between Paddle sandbox and live.
+    // ENV schaltet die ganze Seite zwischen Paddle-Sandbox und Live um.
+    // Default is SANDBOX. / Standard ist SANDBOX.
+    // =====================================================================
+    window.LF_CONFIG = {
+      ENV: 'sandbox', // 'sandbox' | 'live'
+
+      PADDLE: {
+        sandbox: {
+          token: 'test_4a03019d71cdd02b26c60ca25d4',
+          prices: {
+            once3:  'pri_01m6gqr5y5kvaywnd903mwzjtb', // 3 months, one-time / 3 Monate einmalig
+            once12: 'pri_01m6gqr62fffvbs3mwja5aeytj', // 1 year, one-time / 1 Jahr einmalig
+            sub3:   'pri_01m6gqr66pevkxd94ab11hybpn', // 3-month subscription / 3-Monats-Abo
+            sub12:  'pri_01m6gqr6ar459a9xpsk0bsm609'  // yearly subscription / Jahresabo
+          }
+        },
+        // Live values: fill in only after Christian's approval.
+        // Live-Werte: erst nach Christians Freigabe eintragen.
+        live: {
+          token: '',
+          prices: { once3: '', once12: '', sub3: '', sub12: '' }
+        }
+      },
+
+      // Firebase web app of project linguaflow-firebase (same config as
+      // public/extension-auth.html in the iOS repo; these values are public by design).
+      // Firebase-Web-App des Projekts linguaflow-firebase (gleiche Konfiguration wie
+      // public/extension-auth.html im iOS-Repo; diese Werte sind absichtlich öffentlich).
+      FIREBASE: {
+        apiKey: 'AIzaSyCIKRgcF5dFw7BsfKC-GdWsLgxO0WKFbPg',
+        authDomain: 'linguaflow-firebase.firebaseapp.com',
+        projectId: 'linguaflow-firebase',
+        storageBucket: 'linguaflow-firebase.firebasestorage.app',
+        messagingSenderId: '563793282626',
+        appId: '1:563793282626:web:e3bcdd0cc4ba5e730b4fdb'
+      }
+    };
+  </script>
+
+  <style>
+    /* Scoped styles for the purchase page only / Nur für die Kaufseite */
+    /* Make the hidden attribute win over display rules / hidden-Attribut gewinnt immer */
+    [hidden]{display:none !important;}
+    .buy-wrap{max-width:920px;margin:0 auto;padding:110px 20px 80px;}
+    .buy-box{background:#fff;border:1px solid var(--gray-200);border-radius:16px;padding:28px 24px;margin:28px auto 0;max-width:460px;text-align:left;}
+    .buy-box h2{font-size:1.25rem;margin:0 0 14px;}
+    .buy-box label{display:block;font-size:14px;font-weight:600;margin:12px 0 4px;}
+    .buy-box input{width:100%;padding:11px 12px;border:1px solid var(--gray-200);border-radius:10px;font:inherit;}
+    .buy-box .btn{width:100%;margin-top:14px;}
+    .buy-or{text-align:center;color:var(--gray-400);font-size:13px;margin:16px 0 4px;}
+    .buy-provider{display:block;width:100%;margin-top:10px;padding:12px;border-radius:999px;border:1px solid var(--gray-200);background:#fff;font:inherit;font-weight:600;cursor:pointer;}
+    .buy-provider.apple{background:#000;color:#fff;border-color:#000;}
+    .buy-small{font-size:13px;color:var(--gray-600);margin-top:12px;line-height:1.5;}
+    .buy-small a, .buy-link{color:#0f766e;}
+    .buy-link{background:none;border:none;padding:0;font:inherit;font-size:13px;text-decoration:underline;cursor:pointer;}
+    .buy-error{color:#b91c1c;font-size:14px;margin-top:12px;}
+    .buy-account{background:rgba(20,184,166,0.08);border:1px solid #99f6e4;border-radius:14px;padding:16px 20px;margin:26px auto 0;max-width:620px;}
+    .buy-account strong{word-break:break-all;}
+    .buy-warn{background:#fff7ed;border:1px solid #fdba74;border-radius:14px;padding:16px 20px;margin:20px auto 0;max-width:620px;font-size:14.5px;text-align:left;}
+    .buy-plans{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:30px 0 18px;text-align:left;}
+    @media(max-width:680px){.buy-plans{grid-template-columns:1fr;}}
+    .buy-plan{background:#fff;border:2px solid rgba(0,0,0,0.08);border-radius:16px;padding:24px 22px;cursor:pointer;transition:border-color .15s, box-shadow .15s;position:relative;}
+    .buy-plan:hover{border-color:#99f6e4;}
+    .buy-plan.selected{border-color:#14b8a6;box-shadow:0 8px 30px rgba(20,184,166,0.15);}
+    .buy-plan .buy-tag{display:inline-block;font-size:12px;font-weight:700;padding:3px 10px;border-radius:999px;margin-bottom:8px;}
+    .buy-plan .tag-once{background:#ece8ff;color:#5b3fd9;}
+    .buy-plan .tag-sub{background:#e0f7f3;color:#0a7f6e;}
+    .buy-plan h3{margin:0 0 6px;font-size:18px;}
+    .buy-plan .buy-price{font-size:28px;font-weight:800;}
+    .buy-plan .buy-price small{font-size:15px;font-weight:500;color:#6b7280;}
+    .buy-plan .buy-note{font-size:13.5px;color:#4b5563;margin-top:6px;}
+    .buy-legal{font-size:13px;color:#6b7280;margin-top:18px;line-height:1.55;}
+    .buy-legal a{color:#0f766e;}
+    .buy-success{background:rgba(20,184,166,0.1);border:1px solid #99f6e4;border-radius:14px;padding:26px;margin-top:26px;text-align:left;}
+    .buy-env{display:inline-block;background:#fef3c7;color:#92400e;font-size:12px;font-weight:700;padding:4px 10px;border-radius:8px;margin-bottom:10px;}
+    #buyOpen{min-width:260px;}
+  </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container">
+    <a href="/" class="logo">Lingua<span>Flow</span></a>
+    <div class="nav-links">
+      <a href="/#preise">Zurück zu den Preisen</a>
+    </div>
+  </div>
+</nav>
+
+<main class="buy-wrap text-center">
+  <span class="buy-env" id="buyEnv" hidden>TESTMODUS (Paddle-Sandbox) – es wird nichts abgebucht</span>
+  <p class="section-label">LinguaFlow Pro für die App</p>
+  <h1 class="section-title">Pro direkt hier kaufen</h1>
+  <p class="section-subtitle">Für alle, die nicht über den App Store oder Google Play kaufen können oder wollen. Pro wird für dein LinguaFlow-Konto freigeschaltet – auf allen Geräten, auf denen du damit angemeldet bist.</p>
+
+  <!-- Step 0: loading / Schritt 0: Laden -->
+  <p class="buy-small" id="stepLoading">Einen Moment …</p>
+
+  <!-- Step 1: sign in (required) / Schritt 1: Anmelden (Pflicht) -->
+  <div class="buy-box" id="stepLogin" hidden>
+    <h2>1. Mit deinem LinguaFlow-Konto anmelden</h2>
+    <p class="buy-small" style="margin-top:0;">Nimm <strong>dasselbe Konto wie in der App</strong>. Nur dann sieht die App deinen Kauf.</p>
+
+    <button class="buy-provider apple" id="loginApple" type="button">Mit Apple anmelden</button>
+
+    <form id="loginForm" novalidate>
+      <label for="loginEmail">E-Mail</label>
+      <input id="loginEmail" type="email" autocomplete="email" required>
+      <label for="loginPassword">Passwort</label>
+      <input id="loginPassword" type="password" autocomplete="current-password" required>
+      <button class="btn btn-primary" type="submit">Anmelden</button>
+    </form>
+    <p class="buy-small"><button class="buy-link" id="loginReset" type="button">Passwort vergessen?</button></p>
+
+    <p class="buy-or">oder</p>
+    <button class="buy-provider" id="loginGoogle" type="button">Mit Google anmelden</button>
+
+    <p class="buy-error" id="loginError" hidden></p>
+    <p class="buy-small">Noch kein Konto? Lege es zuerst kostenlos in der LinguaFlow-App an und komm dann hierher zurück. So landet Pro sicher beim richtigen Konto.</p>
+  </div>
+
+  <!-- Step 2: account shown / Schritt 2: Konto anzeigen -->
+  <div class="buy-account" id="stepAccount" hidden>
+    Du kaufst für: <strong id="accountEmail"></strong><br>
+    <span class="buy-small">Stimmt das nicht mit dem Konto in deiner App überein? <button class="buy-link" id="logout" type="button">Abmelden und anderes Konto wählen</button></span>
+  </div>
+
+  <!-- Already Pro / Schon Pro -->
+  <div class="buy-success" id="stepHasPro" hidden>
+    <h2 style="margin-top:0;">Du hast Pro bereits<span id="proUntil"></span>.</h2>
+    <p>Ein weiterer Kauf ist nicht nötig. Zeigt die App Pro nicht an, schließe die App ganz und öffne sie neu.</p>
+    <p style="margin-bottom:0;">Fragen? <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+  </div>
+
+  <!-- Pro status could not be checked / Pro-Status nicht prüfbar -->
+  <div class="buy-warn" id="stepCheckFailed" hidden>
+    Wir konnten gerade nicht prüfen, ob dein Konto schon Pro hat. <strong>Hast du Pro bereits im App Store oder bei Google Play?</strong> Dann kauf bitte nicht zusätzlich hier – sonst zahlst du doppelt.
+  </div>
+
+  <!-- Step 3: choose plan + pay / Schritt 3: Variante wählen + bezahlen -->
+  <div id="stepPlans" hidden>
+    <div class="buy-plans">
+      <div class="buy-plan" data-plan="once3" role="button" tabindex="0" aria-pressed="false">
+        <span class="buy-tag tag-once">Einmalig</span>
+        <h3>3 Monate</h3>
+        <div class="buy-price" translate="no">54,99&nbsp;€</div>
+        <p class="buy-note">Einmalige Zahlung, endet automatisch, keine Verlängerung. Nichts zu kündigen.</p>
+      </div>
+      <div class="buy-plan" data-plan="once12" role="button" tabindex="0" aria-pressed="false">
+        <span class="buy-tag tag-once">Einmalig</span>
+        <h3>1 Jahr</h3>
+        <div class="buy-price" translate="no">109,99&nbsp;€</div>
+        <p class="buy-note">Einmalige Zahlung, endet automatisch, keine Verlängerung. Nichts zu kündigen.</p>
+      </div>
+      <div class="buy-plan" data-plan="sub3" role="button" tabindex="0" aria-pressed="false">
+        <span class="buy-tag tag-sub">Abo</span>
+        <h3>3-Monats-Abo</h3>
+        <div class="buy-price" translate="no">54,99&nbsp;€ <small>/ 3 Monate</small></div>
+        <p class="buy-note">Verlängert sich alle 3 Monate, jederzeit online kündbar.</p>
+      </div>
+      <div class="buy-plan" data-plan="sub12" role="button" tabindex="0" aria-pressed="false">
+        <span class="buy-tag tag-sub">Abo</span>
+        <h3>Jahresabo</h3>
+        <div class="buy-price" translate="no">109,99&nbsp;€ <small>/ Jahr</small></div>
+        <p class="buy-note">Verlängert sich jährlich, jederzeit online kündbar.</p>
+      </div>
+    </div>
+    <p class="buy-small">Alle Preise inkl. MwSt. Kein Gratis-Monat beim Kauf auf der Website.</p>
+
+    <div class="hero-buttons" style="justify-content:center;">
+      <button class="btn btn-primary" id="buyOpen" type="button">Weiter zur Bezahlung</button>
+    </div>
+    <p class="buy-small" id="buyStatus" hidden></p>
+  </div>
+
+  <!-- Success / Erfolg -->
+  <div class="buy-success" id="stepSuccess" hidden>
+    <h2 style="margin-top:0;">Danke für deinen Kauf!</h2>
+    <p>Pro wird für <strong id="successEmail"></strong> in wenigen Minuten freigeschaltet.</p>
+    <p><strong>Wichtig:</strong> Schließe die LinguaFlow-App danach <strong>ganz</strong> (nicht nur in den Hintergrund) und öffne sie neu. Melde dich in der App mit genau diesem Konto an.</p>
+    <p>Die Rechnung kommt per E-Mail von unserem Zahlungsanbieter Paddle. Auf deinem Kontoauszug steht <strong translate="no">PADDLE.NET* LINGUAFLOS</strong>.</p>
+    <p style="margin-bottom:0;">Abos sind jederzeit online kündbar – über den Link in jeder Paddle-Mail oder unter <a href="/pro/kuendigen.html">linguaflow.app/pro/kuendigen</a>. Einmal-Varianten enden automatisch. Fragen? <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+  </div>
+
+  <p class="buy-legal">
+    Der Verkauf erfolgt über unseren Zahlungsanbieter <strong>Paddle</strong> (Paddle.com Market Ltd, Merchant of Record) – sicher, inkl. Rechnung per E-Mail.
+    Auf deinem Kontoauszug erscheint <span translate="no">„PADDLE.NET* LINGUAFLOS“</span>.
+    Es gelten unsere <a href="/agb.html">AGB</a> und die <a href="/widerruf.html">Widerrufsbelehrung</a>.
+    Hinweise zur Datenverarbeitung: <a href="/datenschutz.html">Datenschutzerklärung</a>.
+    Abos jederzeit online kündbar: Link in jeder Paddle-Mail oder unter <a href="/pro/kuendigen.html">linguaflow.app/pro/kuendigen</a>.
+  </p>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>&copy; 2025 LinguaFlow e.U. Alle Rechte vorbehalten.</span>
+      <div style="display:flex;gap:16px;flex-wrap:wrap;">
+        <a href="/">Startseite</a>
+        <a href="/impressum.html">Impressum</a>
+        <a href="/datenschutz.html">Datenschutz</a>
+        <a href="/agb.html">AGB</a>
+        <a href="/widerruf.html">Widerruf</a>
+        <a href="/pro/kuendigen.html">Abo kündigen</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Paddle.js v2: Paddle only offers the v2 channel, no finer version pinning.
+     Paddle.js v2: Paddle bietet nur den v2-Kanal an, keine feinere Versionsangabe. -->
+<script src="https://cdn.paddle.com/paddle/v2/paddle.js"></script>
+<script type="module">
+  // Firebase Web SDK, fixed version (same as extension-auth.html).
+  // Firebase Web SDK, feste Version (wie extension-auth.html).
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js';
+  import {
+    getAuth, onAuthStateChanged, signInWithEmailAndPassword, signInWithPopup,
+    sendPasswordResetEmail, signOut, GoogleAuthProvider, OAuthProvider
+  } from 'https://www.gstatic.com/firebasejs/10.13.2/firebase-auth.js';
+  import { getFirestore, doc, getDoc } from 'https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js';
+
+  const CFG = window.LF_CONFIG;
+  const PADDLE = CFG.PADDLE[CFG.ENV];
+
+  // Stored entitlement value meaning "forever" (FAR_FUTURE_MS in functions/src/entitlements.ts).
+  // Gespeicherter Wert für „für immer“ (FAR_FUTURE_MS in functions/src/entitlements.ts).
+  const FOREVER_THRESHOLD_MS = Date.UTC(2200, 0, 1);
+
+  const $ = (id) => document.getElementById(id);
+  const show = (id, on) => { $(id).hidden = !on; };
+
+  const app = initializeApp(CFG.FIREBASE);
+  const auth = getAuth(app);
+  const db = getFirestore(app);
+
+  let currentUser = null;
+  let plan = 'sub12';
+  let purchased = false;
+
+  if (CFG.ENV === 'sandbox') show('buyEnv', true);
+
+  // --- Paddle setup / Paddle einrichten ---
+  if (CFG.ENV === 'sandbox') Paddle.Environment.set('sandbox');
+  Paddle.Initialize({
+    token: PADDLE.token,
+    eventCallback: function (ev) {
+      if (ev.name === 'checkout.completed') {
+        purchased = true;
+        $('successEmail').textContent = currentUser ? currentUser.email : '';
+        show('stepPlans', false);
+        show('stepCheckFailed', false);
+        show('stepSuccess', true);
+      }
+    }
+  });
+
+  // --- Login / Anmeldung ---
+  function loginError(msg) {
+    $('loginError').textContent = msg;
+    show('loginError', !!msg);
+  }
+
+  function friendlyAuthError(err) {
+    const code = (err && err.code) || '';
+    if (code === 'auth/invalid-credential' || code === 'auth/wrong-password' || code === 'auth/user-not-found' || code === 'auth/invalid-email') {
+      return 'E-Mail oder Passwort stimmt nicht. Hast du dich in der App vielleicht mit Apple oder Google angemeldet?';
+    }
+    if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') return '';
+    if (code === 'auth/popup-blocked') return 'Dein Browser hat das Anmeldefenster blockiert. Bitte Pop-ups für diese Seite erlauben und erneut versuchen.';
+    if (code === 'auth/too-many-requests') return 'Zu viele Versuche. Bitte warte kurz und versuche es dann erneut.';
+    if (code === 'auth/unauthorized-domain') return 'Die Anmeldung ist auf dieser Seite noch nicht freigeschaltet. Bitte schreib uns an hello@linguaflow.app.';
+    return 'Anmeldung fehlgeschlagen. Bitte versuche es erneut.';
+  }
+
+  $('loginForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    loginError('');
+    try {
+      await signInWithEmailAndPassword(auth, $('loginEmail').value.trim(), $('loginPassword').value);
+    } catch (err) {
+      loginError(friendlyAuthError(err));
+    }
+  });
+
+  async function loginWith(provider) {
+    loginError('');
+    try {
+      await signInWithPopup(auth, provider);
+    } catch (err) {
+      loginError(friendlyAuthError(err));
+    }
+  }
+
+  $('loginApple').addEventListener('click', () => {
+    const p = new OAuthProvider('apple.com');
+    p.addScope('email');
+    loginWith(p);
+  });
+  $('loginGoogle').addEventListener('click', () => loginWith(new GoogleAuthProvider()));
+
+  $('loginReset').addEventListener('click', async () => {
+    const email = $('loginEmail').value.trim();
+    if (!email) { loginError('Bitte trag oben zuerst deine E-Mail-Adresse ein.'); return; }
+    try {
+      await sendPasswordResetEmail(auth, email);
+    } catch (err) {
+      // Same message either way, so nobody can probe which addresses exist.
+      // Immer dieselbe Meldung, damit niemand testen kann, welche Adressen existieren.
+    }
+    loginError('Falls es zu dieser Adresse ein Konto gibt, haben wir dir eine E-Mail zum Zurücksetzen geschickt.');
+  });
+
+  $('logout').addEventListener('click', () => signOut(auth));
+
+  // --- Pro check (prevents double purchase) / Pro-Prüfung (verhindert Doppelkauf) ---
+  // Returns premiumUntilMs, or null if the document could not be read.
+  // Gibt premiumUntilMs zurück, oder null, wenn das Dokument nicht lesbar war.
+  async function readPremiumUntil(uid) {
+    try {
+      const snap = await getDoc(doc(db, 'entitlements', uid));
+      if (!snap.exists()) return 0;
+      const v = snap.data().premiumUntilMs;
+      return typeof v === 'number' ? v : 0;
+    } catch (err) {
+      console.warn('Pro check failed / Pro-Prüfung fehlgeschlagen:', err && err.code);
+      return null;
+    }
+  }
+
+  function formatDate(ms) {
+    return new Date(ms).toLocaleDateString('de-AT', { day: 'numeric', month: 'long', year: 'numeric' });
+  }
+
+  onAuthStateChanged(auth, async (user) => {
+    currentUser = user;
+    show('stepLoading', false);
+    show('stepHasPro', false);
+    show('stepCheckFailed', false);
+    show('stepPlans', false);
+    if (purchased) return;
+
+    if (!user) {
+      show('stepAccount', false);
+      show('stepLogin', true);
+      return;
+    }
+
+    show('stepLogin', false);
+    loginError('');
+    $('accountEmail').textContent = user.email || '(Konto ohne E-Mail-Adresse)';
+    show('stepAccount', true);
+    show('stepLoading', true);
+
+    const until = await readPremiumUntil(user.uid);
+    if (currentUser !== user) return; // signed out meanwhile / inzwischen abgemeldet
+    show('stepLoading', false);
+
+    if (until !== null && until > Date.now()) {
+      $('proUntil').textContent = until >= FOREVER_THRESHOLD_MS ? ' – dauerhaft' : ' bis ' + formatDate(until);
+      show('stepHasPro', true);
+      return;
+    }
+    if (until === null) show('stepCheckFailed', true);
+    show('stepPlans', true);
+  });
+
+  // --- Plan choice / Variantenwahl ---
+  const cards = Array.from(document.querySelectorAll('.buy-plan'));
+  function renderSelection() {
+    cards.forEach((c) => {
+      const on = c.dataset.plan === plan;
+      c.classList.toggle('selected', on);
+      c.setAttribute('aria-pressed', on);
+    });
+  }
+  cards.forEach((c) => {
+    c.addEventListener('click', () => { plan = c.dataset.plan; renderSelection(); });
+    c.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); c.click(); }
+    });
+  });
+  renderSelection();
+
+  // --- Open Paddle checkout / Paddle-Bezahlfenster öffnen ---
+  $('buyOpen').addEventListener('click', () => {
+    const status = $('buyStatus');
+    status.hidden = false;
+    if (!currentUser) { status.textContent = 'Bitte melde dich zuerst an.'; return; }
+    const priceId = PADDLE.prices[plan];
+    if (!PADDLE.token || !priceId) {
+      status.textContent = 'Der Kauf ist gerade noch nicht verfügbar. Bitte schreib uns an hello@linguaflow.app.';
+      return;
+    }
+    status.textContent = 'Bezahlfenster wird geöffnet …';
+    Paddle.Checkout.open({
+      items: [{ priceId: priceId, quantity: 1 }],
+      customer: currentUser.email ? { email: currentUser.email } : undefined,
+      // The Firebase UID travels with the purchase so RevenueCat and our
+      // webhook unlock exactly this account.
+      // Die Firebase-UID wandert mit dem Kauf mit, damit RevenueCat und unser
+      // Webhook genau dieses Konto freischalten.
+      customData: { firebaseUid: currentUser.uid },
+      settings: { displayMode: 'overlay', locale: 'de' }
+    });
+  });
+</script>
+
+</body>
+</html>
