@@ -149,6 +149,12 @@ Rechtstexte, die nur DE+EN sein sollen, einfach in `LEGAL_FILES` eintragen.
 Die Redirect-Stubs in den Sprachordnern (z. B. `/fr/eula.html`) NICHT löschen
 (sonst 404s in Google) und NICHT von Hand „zurückübersetzen".
 
+**Bekräftigt von Christian am 2026-11-03 (Web-Direktkauf):** Rechtstexte bleiben
+NUR Deutsch + Englisch, nie mehr per DeepL in alle Sprachen. Gilt auch für die neuen
+bzw. geänderten AGB, Widerruf und EULA sowie Kauf- (`pro/kaufen.html`) und Kündigungsseite
+(`pro/kuendigen.html`). `en/agb.html` und `en/widerruf.html` werden von Hand an die
+deutsche Fassung angepasst (nicht über `translate-site.py`).
+
 ## „Was ist neu"-Seite (Changelog) nur Deutsch + Englisch (2026-08-04)
 
 **Entscheidung:** Die neue Changelog-Seite `/was-ist-neu.html` gibt es nur auf
