@@ -105,14 +105,14 @@
 <script>
   // =====================================================================
   // CONFIGURATION / KONFIGURATION – Paddle customer portal per environment.
-  // Paddle-Kundenportal je Umgebung. Default SANDBOX / Standard SANDBOX.
+  // Paddle-Kundenportal je Umgebung. Default LIVE since 2026-11-03 / Standard LIVE seit 2026-11-03.
   // =====================================================================
-  const PORTAL_ENV = 'sandbox'; // 'sandbox' | 'live'
+  const PORTAL_ENV = 'live'; // 'sandbox' | 'live'
   const PORTAL_URLS = {
     sandbox: 'https://sandbox-customer-portal.paddle.com/cpl_01m6erv1pqpcyb29ebvcnn3ybz',
-    // Live URL: fill in only after Christian's approval (from the live Paddle account).
-    // Live-Adresse: erst nach Christians Freigabe eintragen (aus dem Live-Paddle-Konto).
-    live: ''
+    // Live URL from vendors.paddle.com/settings/customer-portal (Christian, 2026-11-03).
+    // Live-Adresse aus dem Live-Paddle-Konto (Christian, 2026-11-03).
+    live: 'https://customer-portal.paddle.com/cpl_01kwpnx811yfssw8bny30emqew'
   };
 
   const portalUrl = PORTAL_URLS[PORTAL_ENV];
