@@ -162,3 +162,5 @@ Umgesetzt: Punkte 1, 2, 4, 6, 7, 8, 9, 10 aus `KI-Gegenpruefung.md` Abschnitt 6 
 - Erinnerungs-Mails gibt es laut `sendPaddleReminders.ts` nur für **App-Pro über Paddle** – nicht für Abos der Browser-Erweiterung (ebenfalls Paddle). Die AGB-Zusage ist darum auf „LinguaFlow Pro, Kauf auf linguaflow.app“ beschränkt; Erweiterungs-Abos haben weiter keine Erinnerung (§ 6 Abs 1 Z 2 KSchG) → Technik-Session oder Anwalt.
 - Der Kündigungslink in der Erinnerungs-Mail führt ins Paddle-Portal, das einen E-Mail-Anmeldelink verlangt; der OGH (4 Ob 196/23m) hat „erst einloggen“ kritisiert → Anwalt-Frage.
 - Freiwilliges Versprechen „voller Betrag auch nach Nutzung“ bindet LinguaFlow: interner Ablauf „Paddle lehnt ab → wir erstatten selbst im Paddle-Dashboard“ festhalten.
+
+**Nachtrag Google Fonts (Punkt 3, Christians OK, 2026-11-03):** Schrift Inter jetzt selbst gehostet (`/fonts/`), keine Verbindung zu Google mehr. `datenschutz.html` Punkt 3 „Schriftart“: „wird derzeit von Google Fonts (Google, USA) geladen … erhält Google deine IP-Adresse“ → „liegt auf unserer eigenen Website … keine Daten an Google oder andere Schriftanbieter“.

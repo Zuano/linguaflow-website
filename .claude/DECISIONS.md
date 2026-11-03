@@ -276,3 +276,17 @@ erreichbar ist. WordPress wurde am 12.07.2026 abgelöst (siehe unten).
   Datei-Hash-Cache (`scripts/.translation-cache.json`); `SCRIPT_VERSION` nie
   ohne Grund erhöhen (~70 € Voll-Neuübersetzung)
 - Markenwording: immer „inspiriert von der Birkenbihl-Methode"
+
+## Schrift „Inter“ selbst gehostet statt Google Fonts (2026-11-03)
+
+**Entscheidung:** Alle Seiten laden Inter aus `/fonts/fonts.css` (7 WOFF2-Dateien = die
+Zeichensatz-Teile von Google: latin, latin-ext, cyrillic, cyrillic-ext, greek, greek-ext,
+vietnamese; Lizenz SIL OFL, `fonts/OFL.txt`). Keine `<link>`-/preconnect-Zeilen zu
+fonts.googleapis.com/fonts.gstatic.com mehr (Christians OK, Session „Rechtstexte Web-Direktkauf“).
+
+**Begründung:** Beim Laden von Google-Servern bekommt Google die IP-Adresse der Besucher –
+in Österreich 2022 Anlass einer Abmahnwelle (KI-Vorprüfung Nr. 40). Selbst gehostet fällt das weg.
+
+**Regel:** Neue Seiten verwenden `<link rel="stylesheet" href="/fonts/fonts.css">`, nie wieder
+Google Fonts. Prüfen: `grep -rlE "fonts\.(googleapis|gstatic)" --include='*.html' .` → 0 Treffer.
+
