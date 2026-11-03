@@ -164,3 +164,7 @@ Umgesetzt: Punkte 1, 2, 4, 6, 7, 8, 9, 10 aus `KI-Gegenpruefung.md` Abschnitt 6 
 - Freiwilliges Versprechen „voller Betrag auch nach Nutzung“ bindet LinguaFlow: interner Ablauf „Paddle lehnt ab → wir erstatten selbst im Paddle-Dashboard“ festhalten.
 
 **Nachtrag Google Fonts (Punkt 3, Christians OK, 2026-11-03):** Schrift Inter jetzt selbst gehostet (`/fonts/`), keine Verbindung zu Google mehr. `datenschutz.html` Punkt 3 „Schriftart“: „wird derzeit von Google Fonts (Google, USA) geladen … erhält Google deine IP-Adresse“ → „liegt auf unserer eigenen Website … keine Daten an Google oder andere Schriftanbieter“.
+
+## Nachtrag 2026-11-03: keine eigenen Erstattungs-Zusagen (Entscheidung Christian)
+- `widerruf.html` §5 „Unser freiwilliges Versprechen“ ersetzt durch „Wenn etwas schiefläuft“ (nur: fehlerhaft verlängerte Einmal-Variante wird erstattet; Hilfe bei Technikproblemen). Entfernt: „voller Betrag auch nach Nutzung“, „wir erstatten, falls Paddle ablehnt“, „Verlängerung innerhalb 14 Tagen erstattet“.
+- `agb.html`, `pro/kaufen.html`, `pro/kuendigen.html`: „du bekommst den vollen Betrag zurück“ → Erstattung nach den Käufer-/Erstattungsbedingungen von Paddle.
