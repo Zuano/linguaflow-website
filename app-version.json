@@ -1,4 +1,4 @@
 {
   "ios": { "recommendedBuild": 0, "minimumBuild": 0 },
-  "android": { "recommendedVersionCode": 0, "minimumVersionCode": 0 }
+  "android": { "recommendedVersionCode": 115, "minimumVersionCode": 0 }
 }
