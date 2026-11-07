@@ -24,6 +24,9 @@
   <meta name="theme-color" content="#14b8a6">
   <link rel="stylesheet" href="/fonts/fonts.css">
   <link rel="stylesheet" href="styles.css">
+  <link rel="alternate" hreflang="de" href="https://linguaflow.app/agb.html">
+  <link rel="alternate" hreflang="x-default" href="https://linguaflow.app/agb.html">
+  <link rel="alternate" hreflang="en" href="https://linguaflow.app/en/agb.html">
 </head>
 <body>
 
@@ -40,6 +43,10 @@
       <a href="hilfe.html">Hilfe</a>
       <a href="./#download" class="btn btn-primary btn-sm nav-cta">App herunterladen</a>
     </div>
+    <select class="nav-lang-switcher" onchange="if(this.value)location.href=this.value" aria-label="Sprache / Language">
+      <option value="/agb.html" selected>🇩🇪 DE</option>
+      <option value="/en/agb.html">🇺🇸 EN</option>
+    </select>
     <button class="hamburger" id="hamburger" aria-label="Menü öffnen">
       <span></span><span></span><span></span>
     </button>

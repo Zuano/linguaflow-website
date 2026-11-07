@@ -814,6 +814,10 @@ EXTRA_SITEMAP_PATHS = [
     "youtube/",
     "agb.html",
     "widerruf.html",
+    # Englische Fassungen von Hand gepflegt, nicht übersetzt (2026-11-07)
+    # / English versions maintained by hand, not translated (2026-11-07)
+    "en/agb.html",
+    "en/widerruf.html",
     "datenschutz-extension.html",
     "privacy-extension.html",
 ]

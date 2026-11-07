@@ -155,6 +155,16 @@ bzw. geänderten AGB, Widerruf und EULA sowie Kauf- (`pro/kaufen.html`) und Kün
 (`pro/kuendigen.html`). `en/agb.html` und `en/widerruf.html` werden von Hand an die
 deutsche Fassung angepasst (nicht über `translate-site.py`).
 
+**Umgesetzt am 2026-11-07:** `en/agb.html` und `en/widerruf.html` sind jetzt vollständige,
+von Hand übersetzte englische Seiten (vorher Weiterleitungen auf die deutsche Fassung), mit
+Hinweis „German version is legally binding“. Sie stehen NICHT in `SOURCE_FILES`/`LEGAL_FILES`
+und nicht im Workflow-Trigger – kein Skript überschreibt sie; jede Änderung an `agb.html` bzw.
+`widerruf.html` muss von Hand in die EN-Fassung nachgezogen werden. hreflang (de/en/x-default)
+und Sprachwahl DE/EN stehen von Hand in allen vier Seiten; für die Sitemap wurden
+`en/agb.html` und `en/widerruf.html` in `EXTRA_SITEMAP_PATHS` ergänzt. Die Stubs
+`/<sprache>/agb.html` bzw. `/widerruf.html` der übrigen Sprachordner zeigen unverändert auf die
+deutsche Fassung (so in `scripts/make-stubs.py` vorgesehen).
+
 ## „Was ist neu"-Seite (Changelog) nur Deutsch + Englisch (2026-08-04)
 
 **Entscheidung:** Die neue Changelog-Seite `/was-ist-neu.html` gibt es nur auf
