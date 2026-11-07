@@ -74,12 +74,13 @@
 <section class="page-content">
   <div class="container">
     <p><em>This page was originally written in German. Translations are provided for informational purposes only; the German version is legally binding.</em></p>
-    <p><strong>Data Controller:</strong> LinguaFlow e.U., Email: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+    <p><em>Last updated: November 2026</em></p>
+    <p><strong>Data Controller:</strong> LinguaFlow e.U., owner Christian Nouza, Linzer Straße 17, 4100 Ottensheim, Austria, Email: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
 
     <h2>1. Collection and Processing of Personal Data</h2>
     <p>When using the LinguaFlow app and website, the following data may be collected:</p>
     <ul>
-      <li>Name, email address, and account information</li>
+      <li>Name, email address and account data</li>
       <li>Usage data (language settings, learning progress)</li>
       <li>Payment and subscription data</li>
       <li>Device information and technical log data</li>
@@ -87,48 +88,75 @@
 
     <h2>2. Purpose of Data Processing</h2>
     <ul>
-      <li>Provision and improvement of the app and website</li>
-      <li>Processing of subscriptions and in-app purchases</li>
+      <li>Providing and improving the app and website</li>
+      <li>Processing subscriptions and in-app purchases</li>
       <li>Error analysis and optimization of the app</li>
-      <li>Compliance with legal obligations</li>
-      <li>Communication regarding support and feedback requests</li>
-      <li>Voluntary feedback within the app (responses to short surveys and optional free-text comments): We store this information without linking it to your account—without your name or email address. Survey responses are also incorporated anonymously into usage statistics (TelemetryDeck).</li>
+      <li>Fulfilling legal obligations</li>
+      <li>Communication for support and feedback requests</li>
+      <li>Voluntary feedback in the app (answers to short surveys and optional free text): we store it without linking it to your account – without name and without email address. Survey answers are also included anonymously in the usage statistics (TelemetryDeck).</li>
     </ul>
 
     <h2>3. Third-Party Services (Recipients of Your Data)</h2>
-    <p>We use the following services. The data they receive depends on the specific feature used:</p>
+    <p>We use the following services. Which data they receive depends on the feature you use:</p>
     <ul>
-      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): Login, account data, usage quotas, crash and diagnostic data. Our own server runs on this platform.</li>
-      <li><strong>Google Play Billing &amp; Apple In-App Purchase</strong>: Processing of subscriptions. Payment data remains with Google or Apple.</li>
-      <li><strong>RevenueCat</strong>: Management of subscription status (user ID, purchase history, device ID).</li>
-      <li><strong>Anthropic (Claude)</strong>: Word-for-word decoding of entered, scanned, or dictated text, as well as AI dialogue. Only the text is transmitted; no account data is shared.</li>
-      <li><strong>OpenAI</strong>: AI practice texts, text recognition for scanned pages in non-Latin scripts (photos are processed only for recognition and are not stored), and text-to-speech in AI dialog.</li>
-      <li><strong>ElevenLabs</strong>: Reading texts aloud (text-to-speech).</li>
-      <li><strong>DeepL</strong> and <strong>Google Cloud Translation</strong>: Translation of sentences and words.</li>
-      <li><strong>TelemetryDeck</strong>: Anonymized usage statistics (app interactions, app version, device type). No email address, no text.</li>
-      <li><strong>MailerLite</strong>: Newsletters, only after explicit consent (double opt-in).</li>
-      <li><strong>Google Workspace (Gmail)</strong>: Sending emails, e.g., reminders before the end of the trial period, only with consent.</li>
-      <li>The website’s web hosting provider.</li>
+      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): sign-in, account data, usage quotas, crash and diagnostic data. Our own server runs on this platform. Database in Germany (Berlin), server functions in Belgium; Google processes sign-in (Authentication) in the USA. Crash reports (Crashlytics) contain a random installation identifier, device model and OS version, but not your account; Google keeps them for 90 days.</li>
+      <li><strong>Google Play Billing &amp; Apple In-App Purchase</strong>: processing of subscriptions. Payment data remains with Google or Apple.</li>
+      <li><strong>Paddle.com Market Ltd</strong> (London, United Kingdom): sale and payment when you buy on linguaflow.app (LinguaFlow Pro for the apps and the browser extension). Paddle is the seller and an <strong>independent controller</strong> for this data. Paddle receives your email address, your country, your payment data and your LinguaFlow account ID so that Pro is assigned to the right account. We receive the purchase and subscription status from Paddle, but no complete payment data. Privacy at Paddle: <a href="https://www.paddle.com/legal/privacy" target="_blank" rel="noopener">paddle.com/legal/privacy</a>.</li>
+      <li><strong>RevenueCat</strong>: management of subscription status (user ID, purchase history, device identifier).</li>
+      <li><strong>Anthropic (Claude)</strong>: word-for-word decoding of typed, scanned or dictated texts and the AI dialog. Only the texts (or the photo when scanning) are transmitted, no account data. Anthropic does not use this data to train its models and usually deletes it after 30 days.</li>
+      <li><strong>OpenAI</strong>: AI practice texts, text recognition for scanned pages in non-Latin scripts (the photo is only processed for recognition, not stored) and speech output in the AI dialog. OpenAI does not use this data for training and deletes it after 30 days at the latest.</li>
+      <!-- DRAFT: The training sentence below is only true once "Improve the models for everyone" is switched off in the ElevenLabs account (step K1, Datenschutz/empfaenger.md). Do not publish before. -->
+      <li><strong>ElevenLabs</strong>: reading texts aloud (text-to-speech). Only the text is transmitted. We have switched off the use for training ElevenLabs' models.</li>
+      <li><strong>DeepL</strong> and <strong>Google Cloud Translation</strong>: translation of sentences and words.</li>
+      <li><strong>TelemetryDeck</strong>: anonymized usage statistics (app interactions, app version, device type). No email address, no texts.</li>
+      <li><strong>MailerLite</strong>: newsletter, only with your explicit consent (double opt-in).</li>
+      <li><strong>Google Workspace (Gmail)</strong>: sending emails, e.g. the reminder before the end of the trial, only with your consent. If you buy a subscription or a one-time option on linguaflow.app, we also send you – without separate consent, because they are part of the contract – a reminder before every renewal or before expiry (Art. 6(1)(b) GDPR).</li>
     </ul>
-    <p>Voice recordings made using the dictation feature are converted to text by your operating system’s speech recognition software (Apple or Google); only the recognized text is sent to our servers and the services listed above.</p>
-    <p>For providers outside the EU, data protection is ensured by the EU Commission’s Standard Contractual Clauses.</p>
+    <h3>Website and purchase page</h3>
+    <ul>
+      <li><strong>Hosting:</strong> The website is hosted on GitHub Pages (GitHub Inc., USA). When you visit, GitHub processes technical data such as your IP address to deliver the pages (legitimate interest in secure operation, Art. 6(1)(f) GDPR).</li>
+      <li><strong>Font:</strong> The font "Inter" is stored on our own website and loaded from there. No data is transmitted to Google or other font providers.</li>
+      <li><strong>Audience measurement:</strong> Cloudflare Web Analytics (Cloudflare Inc., USA) counts page views, according to Cloudflare without cookies and without recognizing individual visitors (legitimate interest in improving the website, Art. 6(1)(f) GDPR).</li>
+      <li><strong>Sign-in on the purchase page:</strong> On <a href="/pro/kaufen.html">linguaflow.app/pro/kaufen</a> you sign in with your LinguaFlow account (Google Firebase Authentication). If you choose "Sign in with Apple" or "Sign in with Google", sign-in runs through Apple or Google; we receive your email address and an account identifier (performance of contract, Art. 6(1)(b) GDPR).</li>
+      <li><strong>Checkout window:</strong> The purchase page loads Paddle's checkout (Paddle.js). Paddle receives technical data such as your IP address and the details you enter in the checkout (see Paddle above).</li>
+    </ul>
+    <p><strong>Dictation:</strong> When you use the microphone, your operating system's speech recognition converts the recording into text – Apple's speech recognition on the iPhone, Google's on Android. The voice recording may be transmitted to Apple or Google for this; their privacy policies apply. Only the recognized text is sent to our servers and the services listed above.</p>
+    <h3>Transfers to countries outside the EU</h3>
+    <ul>
+      <li>USA, providers under the EU-US Data Privacy Framework (adequacy decision of the European Commission): Google (Firebase, Workspace, Cloud Translation), ElevenLabs, Cloudflare, GitHub.</li>
+      <li>USA, safeguarded by the European Commission's standard contractual clauses: Anthropic, OpenAI, RevenueCat.</li>
+      <li>United Kingdom (adequacy decision of the European Commission): Paddle.</li>
+      <li>Within the EU: TelemetryDeck (Germany/Netherlands), MailerLite (Ireland, servers in the EU), DeepL (Germany).</li>
+    </ul>
+    <p>You can request a copy of the standard contractual clauses at <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a>.</p>
 
     <h2>4. Legal Basis</h2>
     <ul>
-      <li>Performance of a contract (Art. 6(1)(b) GDPR)</li>
-      <li>Consent (Art. 6(1)(a) GDPR)</li>
-      <li>Legal obligations (Art. 6(1)(c) GDPR)</li>
-      <li>Legitimate interest (Art. 6(1)(f) GDPR)</li>
+      <li><strong>Contract</strong> (Art. 6(1)(b) GDPR): account, sign-in, guest week, decoding, scanning, dictation, AI dialog, read-aloud, history and books in the cloud, subscription and purchase, reminders before renewal or expiry of a web subscription, support.</li>
+      <li><strong>Consent</strong> (Art. 6(1)(a) GDPR): newsletter, email reminder before the end of the trial. You can withdraw your consent at any time.</li>
+      <li><strong>Legal obligation</strong> (Art. 6(1)(c) GDPR): retention of purchase and invoice data.</li>
+      <li><strong>Legitimate interest</strong> (Art. 6(1)(f) GDPR): crash reports and anonymous usage statistics (interest in an error-free, easy-to-understand app), protection against misuse of the guest week, secure operation and audience measurement of the website. You can object to this at any time.</li>
     </ul>
+    <p>Without an email address or account we cannot activate Pro on several devices; all other details are voluntary.</p>
 
     <h2>5. Data Retention</h2>
-    <p>Your data will be stored only for as long as necessary for the purposes stated or as required by law.</p>
+    <ul>
+      <li>Account, history, books and settings: until you delete them or your account. When you delete your account in the app, we remove all related data on our servers, at RevenueCat and at MailerLite.</li>
+      <li>Purchase and subscription data: 7 years (Austrian tax retention duty, § 132 BAO).</li>
+      <li>Support emails: 3 years after the request has been closed.</li>
+      <li>Crash reports: 90 days (at Google).</li>
+    </ul>
+
+    <h2>5a. Minimum Age</h2>
+    <p>You must be at least 14 years old to have your own account and to give consent (§ 4(4) Austrian Data Protection Act). Purchases are subject to the statutory minimum age for contracts.</p>
 
     <h2>6. Your Rights</h2>
-    <p>You have the right to access, rectification, erasure, restriction of processing, data portability, withdrawal of consent, and objection. Please contact us at: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+    <p>You have the right to access, rectification, erasure, restriction of processing, data portability, withdrawal of consent and objection. Contact us at: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
+    <p>You can also lodge a complaint with the Austrian Data Protection Authority: Barichgasse 40–42, 1030 Vienna, <a href="mailto:dsb@dsb.gv.at">dsb@dsb.gv.at</a>, <a href="https://www.dsb.gv.at" target="_blank" rel="noopener">www.dsb.gv.at</a>.</p>
+    <p>No automated decision-making within the meaning of Art. 22 GDPR (including profiling) takes place.</p>
 
     <h2>7. Security</h2>
-    <p>We implement appropriate technical and organizational measures to protect your data.</p>
+    <p>We use appropriate technical and organizational measures to protect your data.</p>
 
     <h2>8. Changes to This Policy</h2>
     <p>We reserve the right to update this Privacy Policy as needed. You can always find the current version at linguaflow.app.</p>
