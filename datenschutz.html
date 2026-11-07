@@ -99,9 +99,9 @@
       <li><strong>Anthropic (Claude)</strong>: Wort-für-Wort-Dekodierung eingegebener, gescannter oder diktierter Texte sowie KI-Dialog. Übermittelt werden nur die Texte (bzw. das Foto beim Scannen), keine Kontodaten. Anthropic nutzt diese Daten nicht zum Training seiner Modelle und löscht sie in der Regel nach 30 Tagen.</li>
       <li><strong>OpenAI</strong>: KI-Übungstexte, Texterkennung bei gescannten Seiten in nicht-lateinischer Schrift (Foto wird nur zur Erkennung verarbeitet, nicht gespeichert) und Sprachausgabe im KI-Dialog. OpenAI nutzt diese Daten nicht zum Training und löscht sie nach spätestens 30 Tagen.</li>
       <!-- ENTWURF: Der folgende Trainings-Satz stimmt erst, wenn im ElevenLabs-Konto „Improve the models for everyone“ ausgeschaltet ist (Klick-Schritt K1, Datenschutz/empfaenger.md). Vorher nicht veröffentlichen. -->
-      <li><strong>ElevenLabs</strong>: Vorlesen von Texten (Text-zu-Sprache). Übermittelt wird nur der Text. Die Nutzung für das Training der ElevenLabs-Modelle haben wir abgeschaltet.</li>
+      <li><strong>ElevenLabs</strong>: Vorlesen von Texten (Text-zu-Sprache). Übermittelt werden der Text und technische Verbindungsdaten wie die IP-Adresse, keine Kontodaten. Die Nutzung für das Training der ElevenLabs-Modelle haben wir abgeschaltet.</li>
       <li><strong>DeepL</strong> und <strong>Google Cloud Translation</strong>: Übersetzung von Sätzen und Wörtern.</li>
-      <li><strong>TelemetryDeck</strong>: anonymisierte Nutzungsstatistik (App-Interaktionen, App-Version, Gerätetyp). Keine E-Mail-Adresse, keine Texte.</li>
+      <li><strong>TelemetryDeck</strong>: pseudonymisierte Nutzungsstatistik (die Gerätekennung wird zweimal unumkehrbar umgewandelt (gehasht), ein Rückschluss auf dich ist für uns nicht möglich; App-Interaktionen, App-Version, Gerätetyp). Keine E-Mail-Adresse, keine Texte.</li>
       <li><strong>MailerLite</strong>: Newsletter, nur nach ausdrücklicher Einwilligung (Double-Opt-in).</li>
       <li><strong>Google Workspace (Gmail)</strong>: Versand von E-Mails, z.&nbsp;B. der Erinnerung vor Ende der Testphase, nur nach Einwilligung. Kaufst du auf linguaflow.app ein Abo oder eine Einmal-Variante, schicken wir dir außerdem – ohne gesonderte Einwilligung, weil sie zum Vertrag gehören – eine Erinnerung vor jeder Verlängerung bzw. vor dem Ablauf (Art. 6 Abs. 1 lit. b DSGVO).</li>
     </ul>
@@ -134,8 +134,10 @@
 
     <h2>5. Datenspeicherung</h2>
     <ul>
-      <li>Konto, Verlauf, Bücher und Einstellungen: bis du sie bzw. dein Konto löschst. Beim Löschen des Kontos in der App entfernen wir alle zugehörigen Daten auf unseren Servern, bei RevenueCat und bei MailerLite.</li>
-      <li>Kauf- und Abo-Daten: 7 Jahre (steuerliche Aufbewahrungspflicht, § 132 BAO).</li>
+      <li>Konto, Verlauf, Bücher und Einstellungen: bis du sie bzw. dein Konto löschst. Beim Löschen des Kontos in der App entfernen wir die zugehörigen Daten auf unseren Servern, bei RevenueCat und bei MailerLite. Ausgenommen sind Daten zu einem Web-Abo über Paddle (siehe nächster Punkt).</li>
+      <li>Gast-Woche ohne Konto: bis 30 Tage nach dem Start; danach löscht Google das anonyme Konto.</li>
+      <li>Web-Abo über Paddle (E-Mail beim Kauf, Konto-Kennung, Abo-Status): solange das Abo läuft, danach 7 Jahre (steuerliche Aufbewahrungspflicht, § 132 BAO). Ein laufendes Web-Abo endet nicht durch die Kontolöschung – kündige es im Paddle-Kundenportal. Rechnungen zu Käufen im App Store bzw. bei Google Play bewahren Apple bzw. Google auf.</li>
+      <li>Erinnerungs-E-Mails: bis zur Kontolöschung.</li>
       <li>Support-E-Mails: 3 Jahre nach Abschluss der Anfrage.</li>
       <li>Absturzberichte: 90 Tage (bei Google).</li>
     </ul>

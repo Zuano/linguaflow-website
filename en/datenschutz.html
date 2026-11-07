@@ -106,9 +106,9 @@
       <li><strong>Anthropic (Claude)</strong>: word-for-word decoding of typed, scanned or dictated texts and the AI dialog. Only the texts (or the photo when scanning) are transmitted, no account data. Anthropic does not use this data to train its models and usually deletes it after 30 days.</li>
       <li><strong>OpenAI</strong>: AI practice texts, text recognition for scanned pages in non-Latin scripts (the photo is only processed for recognition, not stored) and speech output in the AI dialog. OpenAI does not use this data for training and deletes it after 30 days at the latest.</li>
       <!-- DRAFT: The training sentence below is only true once "Improve the models for everyone" is switched off in the ElevenLabs account (step K1, Datenschutz/empfaenger.md). Do not publish before. -->
-      <li><strong>ElevenLabs</strong>: reading texts aloud (text-to-speech). Only the text is transmitted. We have switched off the use for training ElevenLabs' models.</li>
+      <li><strong>ElevenLabs</strong>: reading texts aloud (text-to-speech). The text and technical connection data such as the IP address are transmitted, no account data. We have switched off the use for training ElevenLabs' models.</li>
       <li><strong>DeepL</strong> and <strong>Google Cloud Translation</strong>: translation of sentences and words.</li>
-      <li><strong>TelemetryDeck</strong>: anonymized usage statistics (app interactions, app version, device type). No email address, no texts.</li>
+      <li><strong>TelemetryDeck</strong>: pseudonymized usage statistics (the device identifier is hashed twice, so we cannot trace it back to you; app interactions, app version, device type). No email address, no texts.</li>
       <li><strong>MailerLite</strong>: newsletter, only with your explicit consent (double opt-in).</li>
       <li><strong>Google Workspace (Gmail)</strong>: sending emails, e.g. the reminder before the end of the trial, only with your consent. If you buy a subscription or a one-time option on linguaflow.app, we also send you – without separate consent, because they are part of the contract – a reminder before every renewal or before expiry (Art. 6(1)(b) GDPR).</li>
     </ul>
@@ -141,8 +141,10 @@
 
     <h2>5. Data Retention</h2>
     <ul>
-      <li>Account, history, books and settings: until you delete them or your account. When you delete your account in the app, we remove all related data on our servers, at RevenueCat and at MailerLite.</li>
-      <li>Purchase and subscription data: 7 years (Austrian tax retention duty, § 132 BAO).</li>
+      <li>Account, history, books and settings: until you delete them or your account. When you delete your account in the app, we remove the related data on our servers, at RevenueCat and at MailerLite. Data about a web subscription via Paddle is excluded (see next point).</li>
+      <li>Guest week without an account: up to 30 days after the start; after that Google deletes the anonymous account.</li>
+      <li>Web subscription via Paddle (email at purchase, account identifier, subscription status): as long as the subscription runs, then 7 years (Austrian tax retention duty, § 132 BAO). An active web subscription does not end when you delete your account – cancel it in the Paddle customer portal. Invoices for purchases in the App Store or on Google Play are kept by Apple or Google.</li>
+      <li>Reminder emails: until the account is deleted.</li>
       <li>Support emails: 3 years after the request has been closed.</li>
       <li>Crash reports: 90 days (at Google).</li>
     </ul>
