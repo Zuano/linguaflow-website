@@ -300,3 +300,14 @@ in Österreich 2022 Anlass einer Abmahnwelle (KI-Vorprüfung Nr. 40). Selbst geh
 **Regel:** Neue Seiten verwenden `<link rel="stylesheet" href="/fonts/fonts.css">`, nie wieder
 Google Fonts. Prüfen: `grep -rlE "fonts\.(googleapis|gstatic)" --include='*.html' .` → 0 Treffer.
 
+## Direktkauf: Paddle automatisch + Überweisung per Mail (2026-11-14)
+
+**Entscheidung (Christian):** Der Web-Direktkauf startet mit Paddle als normalem, automatischem Weg.
+Zusätzlich steht auf `pro/kaufen.html` eine Zeile für Überweisung per Mail (hello@linguaflow.app);
+diese Käufe werden von Hand freigeschaltet. Kein eigenes Kontaktformular, nur ein Mail-Link.
+
+**Begründung:** Paddle kostet ca. 5 % + 0,50 $ je Kauf (weniger als die 15 % der Stores) und braucht
+keine Handarbeit; jede Wartezeit auf eine Antwort kostet Käufe. Die Mail-Zeile fängt die ab, die
+nicht mit Karte/Apple Pay/Google Pay zahlen wollen. Formulierung „in der Regel innerhalb von 24 Stunden“
+statt „24 Stunden, 7 Tage die Woche“ – kein festes Versprechen für Urlaub/Feiertage.
+
