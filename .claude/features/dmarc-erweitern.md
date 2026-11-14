@@ -1,6 +1,6 @@
 # Feature: DMARC-Record erweitern
 
-**Status:** Bereit zur Umsetzung – alle Voraussetzungen geprüft (2026-11-14), es fehlt nur Christians ausdrückliches OK für den DNS-Schreibzugriff
+**Status:** Freigegeben, aber noch NICHT geschrieben (2026-11-14). Christian hat „Ja, ändern" gesagt; der Schreibzugriff über den WordPress.com-Connector wurde vom Berechtigungssystem der Claude-Session abgelehnt. Eintrag steht weiter auf `p=none`. Nächster Schritt siehe „So wird es fertig".
 **Ort der Umsetzung:** DNS der Domain `linguaflow.app` bei WordPress.com (per WordPress.com-Connector, siehe Memory „DNS bei WordPress.com")
 **Aufwand:** ca. 5 Minuten
 **Kategorie:** E-Mail-Sicherheit / Reputation
@@ -48,6 +48,14 @@ Es ändert sich nur `p=none` → `p=quarantine`. Vorgehen: alten Eintrag mit exa
 - `ruf=` (Einzelfall-Berichte): wird von den großen Anbietern kaum verschickt, bringt nichts.
 - `dmarc@linguaflow.app` als Berichtsadresse: Die Berichte kommen bereits an `hello@` an.
 - `pct=100`: ist ohnehin der Standardwert.
+
+## So wird es fertig (zwei Wege, einer genügt)
+
+**Weg A – Christian selbst, ca. 2 Minuten:** wordpress.com → Upgrades → Domains → `linguaflow.app` → DNS-Einträge → Eintrag `_dmarc` (TXT) bearbeiten → im Wert nur `p=none` durch `p=quarantine` ersetzen → speichern. Ergebnis muss exakt lauten: `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`.
+
+**Weg B – Claude macht es:** Christian schreibt die Freigabe direkt in die Session, die den Eintrag ändern soll (nicht über eine andere Session weitergereicht), oder erlaubt das Werkzeug `wpcom-domain-update-dns-records` in seinen Claude-Einstellungen. Dann: alten Eintrag (`TXT`, Name `_dmarc`, TTL 3600, alter Wert) entfernen, neuen hinzufügen.
+
+Danach in beiden Fällen den Check unten ausführen, den TODO-Punkt abhaken und den DECISIONS-Eintrag um das Datum der Umstellung ergänzen.
 
 ## Check nach der Umstellung
 - `dig +short TXT _dmarc.linguaflow.app @ns1.wordpress.com` und `@8.8.8.8` zeigen den neuen Wert.

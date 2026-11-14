@@ -1,5 +1,22 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-11-14 — DMARC geht auf `p=quarantine` (freigegeben, Umstellung steht noch aus)
+
+Entschieden von Christian („Ja, ändern", 2026-11-14) nach der am 2026-10-26
+gewählten Reihenfolge „erst Google prüfen".
+
+- **Neuer Eintrag: `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`** —
+  nur `p` ändert sich. **Begründung:** Gefälschte Mails im Namen der Domain
+  sollen im Spam landen; beide echten Versender bestehen DMARC (Google Workspace
+  über SPF und laut Admin-Konsole über DKIM, MailerLite über DKIM laut
+  Seznam-Bericht vom 08.11.; die Trial-Erinnerungen laufen über Google).
+- **Verworfen:** der strengere Vorschlag vom Juni 2026 (`adkim=s`, `aspf=s`,
+  `ruf`, eigene `dmarc@`-Adresse) — bringt keinen Schutzgewinn, MailerLite
+  würde an `aspf=s` nichts ändern, hängt aber allein an DKIM; und `p=reject`
+  (zu hart, solange kein Google-Bericht mit Domain-Signatur vorliegt).
+- **Stand:** Am 2026-11-14 noch nicht im DNS (Schreibzugriff der Session
+  abgelehnt). Umsetzung und Rückweg: `.claude/features/dmarc-erweitern.md`.
+
 ## 2026-10-26 — Anerkennung-Links ohne eigene Sprachfassung zeigen auf Englisch
 
 Entschieden von Christian in der Session „Footer/RTL/Navi/DMARC" (ersetzt die
