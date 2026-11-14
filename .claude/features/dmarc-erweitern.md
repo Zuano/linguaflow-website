@@ -1,6 +1,6 @@
 # Feature: DMARC-Record erweitern
 
-**Status:** Freigegeben, aber noch NICHT geschrieben (2026-11-14). Christian hat „Ja, ändern" gesagt; der Schreibzugriff über den WordPress.com-Connector wurde vom Berechtigungssystem der Claude-Session abgelehnt. Eintrag steht weiter auf `p=none`. Nächster Schritt siehe „So wird es fertig".
+**Status:** ✅ Umgestellt am 2026-11-14: `_dmarc` = `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`. Geschrieben von der Session „Search-Console-Umsetzung" per WordPress.com-Connector auf Christians ausdrückliche Anweisung („Mach es hier"), nachdem der Schreibzugriff in der Arbeits-Session vom Berechtigungssystem abgelehnt worden war. Offen: Nachkontrolle über den nächsten DMARC-Bericht an hello@ (signiert Google mit `d=linguaflow.app`?).
 **Ort der Umsetzung:** DNS der Domain `linguaflow.app` bei WordPress.com (per WordPress.com-Connector, siehe Memory „DNS bei WordPress.com")
 **Aufwand:** ca. 5 Minuten
 **Kategorie:** E-Mail-Sicherheit / Reputation
@@ -14,7 +14,7 @@ Fake-Mails (Phishing, Spoofing) im Namen von `linguaflow.app` sollen automatisch
 
 | Eintrag | Wert |
 |---|---|
-| `_dmarc` TXT (TTL 3600) | `v=DMARC1; p=none; rua=mailto:hello@linguaflow.app` |
+| `_dmarc` TXT (TTL 3600) | `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app` (seit 2026-11-14, vorher `p=none`) |
 | SPF (TXT am Apex) | `v=spf1 include:_spf.mlsend.com include:_spf.google.com ~all` |
 | DKIM Google | `google._domainkey` TXT vorhanden |
 | DKIM MailerLite | `litesrv._domainkey` CNAME → `litesrv._domainkey.mlsend.com` |
