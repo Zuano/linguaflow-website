@@ -1,6 +1,6 @@
 # Feature: DMARC-Record erweitern
 
-**Status:** ✅ Umgestellt am 2026-11-14: `_dmarc` = `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`. Geschrieben von der Session „Search-Console-Umsetzung" per WordPress.com-Connector auf Christians ausdrückliche Anweisung („Mach es hier"), nachdem der Schreibzugriff in der Arbeits-Session vom Berechtigungssystem abgelehnt worden war. Offen: Nachkontrolle über den nächsten DMARC-Bericht an hello@ (signiert Google mit `d=linguaflow.app`?).
+**Status:** ✅ Umgestellt am 2026-11-14: `_dmarc` = `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`. Geschrieben von der Session „Search-Console-Umsetzung" per WordPress.com-Connector auf Christians ausdrückliche Anweisung („Mach es hier"), nachdem der Schreibzugriff in der Arbeits-Session vom Berechtigungssystem abgelehnt worden war. Nachkontrolle bestanden am 2026-11-15 (mail.de-Bericht für den 14.11.: Google signiert mit `d=linguaflow.app`, DKIM + SPF pass, nichts aussortiert).
 **Ort der Umsetzung:** DNS der Domain `linguaflow.app` bei WordPress.com (per WordPress.com-Connector, siehe Memory „DNS bei WordPress.com")
 **Aufwand:** ca. 5 Minuten
 **Kategorie:** E-Mail-Sicherheit / Reputation
@@ -26,7 +26,7 @@ DMARC besteht, wenn SPF **oder** DKIM zur Absender-Domain passt („aligned").
 
 | Versender | SPF aligned | DKIM aligned | Beleg |
 |---|---|---|---|
-| **Google Workspace** (Postfach `christian@`, Aliase `hello@`, `quittung@`) | ja | ja, laut Admin-Konsole | Fastmail-Bericht 13.09.2026: SPF `linguaflow.app` pass. DKIM damals noch Googles Ersatzschlüssel (`d=linguaflow-app.20251104.gappssmtp.com`). Admin-Konsole am 14.11.2026 (geprüft durch die Hauptsession): „E-Mails werden über DKIM authentifiziert", Selektor `google`, Schlüssel identisch mit dem DNS-Eintrag. **Noch kein Bericht, der `d=linguaflow.app` für Google zeigt** – siehe Nachkontrolle. |
+| **Google Workspace** (Postfach `christian@`, Aliase `hello@`, `quittung@`) | ja | ja, laut Admin-Konsole | Fastmail-Bericht 13.09.2026: SPF `linguaflow.app` pass. DKIM damals noch Googles Ersatzschlüssel (`d=linguaflow-app.20251104.gappssmtp.com`). Admin-Konsole am 14.11.2026 (geprüft durch die Hauptsession): „E-Mails werden über DKIM authentifiziert", Selektor `google`, Schlüssel identisch mit dem DNS-Eintrag. **Beleg 15.11.2026:** mail.de-Bericht für den 14.11. zeigt 4 Mails von Google-Servern mit DKIM `d=linguaflow.app` pass und SPF pass. |
 | **Automatische Trial-Erinnerungen** (Firebase-Erweiterung `firestore-send-email`) | wie Google | wie Google | Versand über `smtp.gmail.com` (Skill `kunden-erinnerung`), also Google Workspace – kein eigener Versender. |
 | **MailerLite** (Newsletter, Double-Opt-in) | nein (Umschlag-Absender `mlsend.com`) | **ja** | Seznam-Bericht 08.11.2026: DKIM `d=linguaflow.app`, Selektor `litesrv`, pass → DMARC bestanden. |
 
@@ -62,6 +62,7 @@ Danach in beiden Fällen den Check unten ausführen, den TODO-Punkt abhaken und 
 - MX, SPF und beide DKIM-Einträge unverändert.
 
 ## Nachkontrolle (nach der Umstellung)
+- ✅ **2026-11-15 erledigt:** mail.de-Bericht für den 14.11.2026 (Report-ID `linguaflow.app.1794610800.1794697200`): veröffentlichte Regel `p=quarantine`, 4 Mails von Google-Servern, alle DKIM `d=linguaflow.app` pass + SPF pass, `disposition=none`. Die zwei Punkte darunter gelten weiter als Dauerbeobachtung.
 - Nächsten DMARC-Bericht an `hello@` abwarten, in dem eine **Google**-Mail vorkommt: DKIM muss `d=linguaflow.app`, Selektor `google`, `pass` zeigen. Steht dort weiter `gappssmtp.com`, in der Google-Admin-Konsole die Authentifizierung neu starten.
 - In den Berichten auf `disposition=quarantine` bei eigenen Mails achten. Kommt das vor: sofort zurück auf `p=none` und Ursache suchen.
 
