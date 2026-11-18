@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.linguaflow",
+      "sha256_cert_fingerprints": [
+        "10:1F:BC:83:4D:72:BD:FB:9F:01:DC:91:82:EE:9F:F9:5E:60:24:29:27:C2:AC:E7:58:0B:A7:C0:44:F3:69:4E",
+        "10:72:8E:3B:E7:08:DC:DD:43:1B:D0:DD:32:CD:BC:D3:BC:91:80:77:79:D5:45:C2:67:1D:F1:A4:B9:B9:89:4E"
+      ]
+    }
+  }
+]

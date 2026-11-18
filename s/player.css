@@ -1,0 +1,240 @@
+/* LinguaFlow online player. Colours follow linguaflow.app (styles.css).
+   LinguaFlow Online-Player. Farben wie auf linguaflow.app.
+   System fonts only: no web fonts from third parties.
+   Nur System-Schriften: keine Web-Schriften von Dritten. */
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --teal: #0fb49b;
+  --teal-strong: #087a69;      /* teal dark enough for white text / dunkel genug für weiße Schrift */
+  --teal-soft: #e0f7f3;
+  --purple: #7c5cfc;
+  --bg: #ffffff;
+  --surface: #f4f4f8;
+  --line: #e2e2ea;
+  --text: #1a1a2e;
+  --muted: #5d5d78;
+  --blue: #1a5fd0;             /* free translation line, blue like in the app / blaue Zeile wie in der App */
+  --on-accent: #ffffff;
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --teal: #2fd3ba;
+    --teal-strong: #2fd3ba;
+    --teal-soft: #12403a;
+    --purple: #a996ff;
+    --bg: #12121f;
+    --surface: #1f1f33;
+    --line: #34344d;
+    --text: #f1f1f6;
+    --muted: #a9a9be;
+    --blue: #8ab4ff;
+    --on-accent: #0b1f1c;
+  }
+}
+
+html { font-size: 16px; -webkit-text-size-adjust: 100%; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+[hidden] { display: none !important; }
+
+.wrap { width: 100%; max-width: 860px; margin: 0 auto; padding: 0 16px; }
+
+main { flex: 1; padding-top: 28px; padding-bottom: 24px; }
+
+:focus-visible { outline: 3px solid var(--purple); outline-offset: 2px; }
+
+/* --- Header / Kopf --- */
+.top { border-bottom: 1px solid var(--line); }
+.top-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  min-height: 64px;
+}
+.logo { font-size: 1.4rem; font-weight: 800; color: var(--teal); text-decoration: none; }
+.logo span { color: var(--text); }
+
+/* --- Buttons / Knöpfe --- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 18px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--teal-strong);
+  color: var(--on-accent);
+  font: inherit;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.chip {
+  min-height: 44px;
+  padding: 8px 14px;
+  border: 1.5px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+  font-size: .9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.chip[aria-pressed="true"] {
+  border-color: var(--teal-strong);
+  background: var(--teal-soft);
+}
+
+/* --- Status: loading, expired, error / Zustände --- */
+.status { padding: 48px 0 24px; text-align: center; }
+.status > * + * { margin-top: 12px; }
+.status-text { font-size: 1.15rem; font-weight: 700; }
+.status.is-loading .status-text { font-weight: 500; color: var(--muted); }
+#status-hint { color: var(--muted); }
+
+/* --- Text --- */
+h1 { font-size: 1.4rem; line-height: 1.3; overflow-wrap: anywhere; }
+.toggles { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 20px; }
+
+.sent {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 6px 8px;
+  padding: 10px;
+  margin: 0 -10px 6px;
+  border-radius: 14px;
+  scroll-margin: 96px 0;
+}
+.has-speech .sent { grid-template-columns: 32px minmax(0, 1fr); cursor: pointer; }
+.sent.speaking { background: var(--teal-soft); }
+
+/* Small round button per sentence, only when the device can read aloud.
+   Kleiner runder Knopf je Satz, nur wenn das Gerät vorlesen kann. */
+.sent-play { display: none; }
+.has-speech .sent-play {
+  display: block;
+  position: relative;
+  width: 32px;
+  height: 44px;
+  border: 0;
+  border-radius: 999px;
+  background: none;
+  cursor: pointer;
+}
+.sent-play::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -7px 0 0 -4px;
+  border-style: solid;
+  border-width: 7px 0 7px 11px;
+  border-color: transparent transparent transparent var(--teal-strong);
+}
+
+.row { display: flex; flex-wrap: wrap; gap: 8px 6px; min-width: 0; }
+
+.card {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+  padding: 6px 10px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+.sent.speaking .card { background: var(--bg); }
+.card.cur, .sent.speaking .card.cur { background: var(--teal-strong); }
+.card.cur > * { color: var(--on-accent); }
+
+.o { font-size: .875rem; color: var(--muted); }
+.k, .r { font-size: .75rem; color: var(--muted); }
+.r { font-style: italic; }
+.t { font-size: 1.1rem; font-weight: 600; min-width: 1.5em; }
+
+.sent-tr { grid-column: -2 / -1; color: var(--blue); font-size: .95rem; }
+
+/* Hidden lines keep their space (nothing jumps) and show three dots.
+   "visibility: hidden" also hides the text from screen readers.
+   Ausgeblendete Zeilen behalten ihren Platz und zeigen drei Punkte. */
+.hide-o .o, .hide-t .t { visibility: hidden; position: relative; }
+.hide-o .o::after, .hide-t .t::after {
+  content: "···";
+  content: "···" / "";
+  visibility: visible;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  color: var(--muted);
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+}
+.hide-o .k, .hide-o .r, .hide-t .sent-tr { visibility: hidden; }
+
+/* --- App hint with store badges / App-Hinweis mit Store-Knöpfen --- */
+.get-app {
+  margin-top: 32px;
+  padding: 20px 16px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  text-align: center;
+}
+.badges { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 14px; }
+.badges a { display: block; border-radius: 8px; }
+.badges img { display: block; height: 48px; width: auto; }
+
+/* --- Footer / Fuß --- */
+.foot { padding-top: 16px; padding-bottom: 24px; border-top: 1px solid var(--line); color: var(--muted); font-size: .875rem; text-align: center; }
+.foot-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 20px; margin-top: 8px; }
+.foot-links a { color: inherit; padding: 10px 0; }
+
+/* --- Player bar, fixed at the bottom / Vorlese-Leiste unten --- */
+.player {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  padding: 10px 0 calc(10px + env(safe-area-inset-bottom, 0px));
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+  box-shadow: 0 -4px 16px rgba(0, 0, 0, .08);
+}
+.has-speech body { padding-bottom: calc(72px + env(safe-area-inset-bottom, 0px)); }
+.player-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.play { flex: 0 1 auto; padding-left: 14px; }
+.icon { fill: currentColor; flex: none; }
+.play .icon-pause, .play.is-playing .icon-play { display: none; }
+.play.is-playing .icon-pause { display: block; }
+.speeds { display: flex; gap: 4px; }
+.speeds .chip { padding: 8px 10px; min-width: 48px; }
+
+@media (max-width: 360px) {
+  .btn { padding: 8px 14px; }
+  .chip { padding: 8px 12px; font-size: .85rem; }
+  .speeds .chip { padding: 8px 6px; min-width: 44px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .sent, .card { transition: background-color .15s ease; }
+}
