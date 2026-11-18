@@ -144,7 +144,7 @@
       "@type": "HowToStep",
       "position": 3,
       "name": "Escucha pasiva",
-      "text": "Deja que el idioma fluya de forma natural: mientras cocinas, haces deporte o vas al trabajo. Tu subconsciente lo procesa todo y fija el idioma profundamente en tu memoria.",
+      "text": "Deja que el idioma fluya de forma natural, mientras cocinas, haces deporte o vas al trabajo. Tu subconsciente lo procesa todo y fija el idioma profundamente en tu memoria.",
       "url": "https://linguaflow.app/#methode"
     },
     {
@@ -216,7 +216,7 @@
 <!-- Navigation -->
 <nav class="navbar">
   <div class="container">
-    <a href="/es/" class="logo">LinguaFlow</a>
+    <a href="/es/" class="logo">Lingua<span>Flow</span></a>
     <div class="nav-links" id="navLinks">
       <a href="methode.html">Método</a>
       
@@ -283,9 +283,9 @@
 <section class="hero">
   <div class="container">
     <div class="hero-content">
-      <p class="section-label">Inspirado en el método Birkenbihl</p>
+      <p class="section-label">Inspirada en el método Birkenbihl</p>
       <h1>Aprende idiomas <span class="highlight">como tu cerebro quiere.</span></h1>
-      <p>En el colegio te pasas el día empollando vocabulario. Con LinguaFlow aprendes a comprender realmente el idioma: de forma intuitiva, natural y sin necesidad de memorizar.</p>
+      <p>En el colegio te pasas el día memorizando vocabulario. Con LinguaFlow aprendes a comprender realmente el idioma: de forma intuitiva, natural y sin necesidad de memorizar.</p>
       <div class="hero-buttons">
         <a href="#download" class="btn btn-primary">Empieza ahora gratis.</a>
         
@@ -414,7 +414,7 @@
       <div class="feature-card">
         <div class="feature-icon">📊</div>
         <h3>Seguimiento del progreso</h3>
-        <p>Mantén un control de tu progreso en el aprendizaje y mantén la motivación.</p>
+        <p>Mantén una visión general de tu progreso en el aprendizaje y mantén la motivación.</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">🔄</div>
@@ -558,12 +558,61 @@
   </div>
 </section>
 
+<!-- Reviews / Rezensionen (shown with each reviewer's permission / mit Zustimmung der Rezensenten) -->
+<section class="reviews" id="rezensionen">
+  <div class="container text-center">
+    <p class="section-label">Opiniones</p>
+    <h2 class="section-title">Esto es lo que dicen los usuarios</h2>
+    <p class="section-subtitle">Opiniones reales de la App Store y de Google Play.</p>
+  </div>
+  <div class="reviews-marquee">
+    <div class="reviews-track">
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>La mejor aplicación como centro de control para varios idiomas extranjeros. El método Birkenbihl (se ha probado con el español) está muy bien aplicado aquí: es comprensible, coherente y realmente útil en el día a día, desde la decodificación hasta la expresión oral activa. Me ha impresionado especialmente el compromiso del desarrollador: se ha respondido de inmediato a todos mis mensajes de error y estos se han solucionado sin demora. A esto se suma el periodo de prueba inusualmente generoso de 30 días, tiempo suficiente para probarla con tranquilidad. ¡Totalmente recomendable!</blockquote>
+        <figcaption><strong>Doc W.</strong> · Google Play</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Llevaba mucho tiempo esperando una aplicación auténtica del método Birkenbihl y espero que esta aplicación me ayude a mejorar notablemente en mis esfuerzos. De momento, pinta bien. El servicio de atención al cliente es excelente.</blockquote>
+        <figcaption><strong>Celt0203</strong> · App Store</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Una herramienta fantástica para aprender idiomas 🔥 ¡Lo que más me gusta es que ahora se pueden encontrar libros electrónicos gratuitos que se pueden descifrar y leer en el idioma de destino! Tras mi primera reseña, el desarrollador se puso en contacto conmigo y tuvo en cuenta mis comentarios. Se han corregido los errores y hay nuevas funciones que hacen que todo sea mucho más agradable. Con las nuevas opciones de reproducción, puedo seleccionar palabras o frases concretas y reproducirlas tantas veces y tan rápido como quiera. Gracias por escucharme.</blockquote>
+        <figcaption><strong>Ben S.</strong> · Google Play · traducido del inglés</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Por fin una aplicación para los seguidores del método de aprendizaje de idiomas de Vera F. Birkenbihl. Los cuatro pasos del método se aplican de forma fiel y elegante. Un desarrollador muy comprometido y, sobre todo, abierto. Se pueden pasar por alto fácilmente los pequeños fallos iniciales, sobre todo porque la aplicación se mejora continuamente. Le deseo mucho éxito a la aplicación y al desarrollador.</blockquote>
+        <figcaption><strong>Stefan C.</strong> · Google Play</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Recomiendo encarecidamente esta aplicación. Ahorra mucho tiempo y acelera notablemente el aprendizaje de idiomas 💯💥. Los desarrolladores se aseguran de que todo funcione correctamente y resuelven cualquier problema con gran rapidez.</blockquote>
+        <figcaption><strong>Dawid J.</strong> · Google Play · traducido del polaco</figcaption>
+      </figure>
+    </div>
+  </div>
+  <script>
+    // Duplicate the cards once so the band loops without a gap / Karten einmal verdoppeln, damit das Band lückenlos läuft
+    (function () {
+      var track = document.querySelector('.reviews-track');
+      Array.prototype.slice.call(track.children).forEach(function (card) {
+        var copy = card.cloneNode(true);
+        copy.setAttribute('aria-hidden', 'true');
+        track.appendChild(copy);
+      });
+    })();
+  </script>
+</section>
+
 <!-- Pricing / Preise -->
 <section class="pricing" id="preise">
   <div class="container text-center">
     <p class="section-label">Precios</p>
     <h2 class="section-title">Transparentes y justos</h2>
-    <p class="section-subtitle">Puedes utilizar LinguaFlow de forma gratuita de por vida, con límites suficientes para empezar. Para un aprendizaje ilimitado, elige la suscripción Pro que más te convenga.</p>
+    <p class="section-subtitle">Puedes usar LinguaFlow de forma gratuita de por vida, con límites suficientes para empezar. Para un aprendizaje ilimitado, elige la suscripción Pro que más te convenga.</p>
 
     <div class="pricing-grid">
 
@@ -574,7 +623,7 @@
         <p class="pricing-subtitle">De forma permanente, con límites</p>
         <div class="pricing-price">
           <span class="pricing-amount" translate="no">0 €</span>
-          <span class="pricing-period">/ para siempre</span>
+          <span class="pricing-period">para siempre</span>
         </div>
         <p class="pricing-equivalent">sin suscripción, no es necesario dar de baja el servicio</p>
         <ul class="pricing-features">
@@ -595,15 +644,15 @@
         <p class="pricing-subtitle">3 meses seguidos</p>
         <div class="pricing-price">
           <span class="pricing-amount" translate="no">54,99 €</span>
-          <span class="pricing-period">/ 3 meses</span>
+          <span class="pricing-period">por 3 meses</span>
         </div>
         <p class="pricing-equivalent">equivale a unos <span translate="no">18 €</span> al mes</p>
         <ul class="pricing-features">
-          <li>Todas las funciones Pro desbloqueadas</li>
-          <li>Uso ilimitado, dentro de los límites de uso razonable</li>
+          <li>Todas las funciones Pro activadas</li>
+          <li>Uso ilimitado, dentro de los límites del uso razonable</li>
           <li>Acceso a más de 30 idiomas</li>
         </ul>
-        <p class="pricing-cancellation">Se puede cancelar en cualquier momento; el acceso permanecerá activo hasta el final del periodo de suscripción pagado.</p>
+        <p class="pricing-cancellation">Se puede cancelar en cualquier momento; el acceso permanecerá activo hasta el final del periodo pagado.</p>
       </div>
 
       <!-- Jährlich -->
@@ -613,13 +662,13 @@
         <p class="pricing-subtitle">12 meses de aprendizaje</p>
         <div class="pricing-price">
           <span class="pricing-amount" translate="no">109,99 €</span>
-          <span class="pricing-period">/ año</span>
+          <span class="pricing-period">al año</span>
         </div>
         <p class="pricing-equivalent">equivale a unos <span translate="no">9 €</span> al mes</p>
         <ul class="pricing-features">
           <li>30 días de prueba gratuita</li>
           <li>Todas las funciones de la versión Pro desbloqueadas</li>
-          <li>Uso ilimitado, dentro de los límites de un uso razonable</li>
+          <li>Uso ilimitado, dentro de los límites de uso razonable</li>
           <li>Acceso a más de 30 idiomas</li>
           <li>Aproximadamente un 50 % más barato que la suscripción trimestral</li>
         </ul>
@@ -629,7 +678,7 @@
     </div>
 
     <p class="pricing-note">
-      Las suscripciones Pro son ilimitadas dentro de los límites del uso razonable: están pensadas para el aprendizaje personal habitual, no para un uso masivo automatizado; en caso de un consumo notablemente elevado, podemos limitar el uso. Precios en euros, IVA incluido. La compra y la facturación se realizan a través de la App Store de Apple o Google Play. Los precios pueden variar en función del país y la moneda; el precio actual que te corresponde se mostrará en la tienda antes de la compra. Los precios están sujetos a cambios.
+      Las suscripciones Pro son ilimitadas dentro de los límites del uso razonable: están pensadas para el aprendizaje personal habitual, no para el uso masivo automatizado; en caso de un consumo notablemente elevado, podemos limitar el uso. Precios en euros, IVA incluido. La compra y la facturación se realizan a través de la App Store de Apple o Google Play. Los precios pueden variar según el país y la moneda; el precio actual que te corresponde se mostrará en la tienda antes de la compra. Los precios están sujetos a cambios.
     </p>
 
   </div>
@@ -659,8 +708,8 @@
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <a href="/es/" class="logo">LinguaFlow</a>
-        <p>Aprende idiomas inspirándote en el método Birkenbihl. De forma intuitiva, adaptada al funcionamiento del cerebro y divertida.</p>
+        <a href="/es/" class="logo">Lingua<span>Flow</span></a>
+        <p>Aprende idiomas inspirándote en el método Birkenbihl. De forma intuitiva, adaptada al funcionamiento del cerebro y con diversión.</p>
       </div>
       <div>
         <h2>App</h2>
