@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>LinguaFlow – Weiter lernen</title>
+<style>
+  :root { --bg:#fff; --fg:#1c1c1e; --muted:#6e6e73; --accent:#0a66d8; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#000; --fg:#f2f2f7; --muted:#98989d; --accent:#4c9bff; } }
+  body { font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; background:var(--bg); color:var(--fg); max-width:520px; margin:48px auto; padding:0 20px; line-height:1.5; }
+  a.btn { display:inline-block; background:var(--accent); color:#fff; text-decoration:none; font-weight:600; padding:14px 26px; border-radius:12px; margin:8px 8px 8px 0; }
+  a.store { color:var(--accent); }
+  p.small { color:var(--muted); font-size:14px; }
+</style>
+</head>
+<body>
+<h1 id="h">Weiter lernen</h1>
+<p id="t">Wenn die LinguaFlow-App installiert ist, öffnet dieser Knopf sie.</p>
+<p><a class="btn" id="open" href="linguaflow://continue?to=home&amp;m=0">In LinguaFlow öffnen</a></p>
+<p class="small" id="s">Noch keine App? Hier bekommst du sie:</p>
+<p>
+  <a class="store" href="https://apps.apple.com/us/app/linguaflow-decoder/id6744939323?ct=continue_mail">App Store</a> ·
+  <a class="store" href="https://play.google.com/store/apps/details?id=com.linguaflow&amp;referrer=utm_source%3Dcontinue_mail%26utm_medium%3Demail%26utm_campaign%3Dcontinue">Google Play</a>
+</p>
+<script>
+// Only the fixed targets are passed on; anything else becomes "home".
+// Nur die festen Ziele werden weitergereicht; alles andere wird zu „home“.
+(function () {
+  var p = new URLSearchParams(location.search);
+  var to = ["learningpath", "book", "text", "home"].indexOf(p.get("to")) >= 0 ? p.get("to") : "home";
+  var m = ["1", "2", "3"].indexOf(p.get("m")) >= 0 ? p.get("m") : "0";
+  document.getElementById("open").href = "linguaflow://continue?to=" + to + "&m=" + m;
+  if (!/^de/i.test(navigator.language || "")) {
+    document.documentElement.lang = "en";
+    document.title = "LinguaFlow – Continue learning";
+    document.getElementById("h").textContent = "Continue learning";
+    document.getElementById("t").textContent = "If the LinguaFlow app is installed, this button opens it.";
+    document.getElementById("open").textContent = "Open in LinguaFlow";
+    document.getElementById("s").textContent = "Don't have the app yet? Get it here:";
+  }
+})();
+</script>
+</body>
+</html>

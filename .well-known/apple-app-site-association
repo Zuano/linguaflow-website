@@ -13,6 +13,14 @@
           {
             "/": "/s/*",
             "comment": "Shared text: https://linguaflow.app/s/?id=..."
+          },
+          {
+            "/": "/weiter",
+            "comment": "Continue-learning mail without trailing slash"
+          },
+          {
+            "/": "/weiter/*",
+            "comment": "Continue-learning mail: https://linguaflow.app/weiter/?to=..."
           }
         ]
       }
