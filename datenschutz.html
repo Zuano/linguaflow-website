@@ -93,7 +93,7 @@
     <h2>3. Drittanbieter-Dienste (Empfänger deiner Daten)</h2>
     <p>Wir nutzen folgende Dienste. Welche Daten sie erhalten, hängt von der jeweils genutzten Funktion ab:</p>
     <ul>
-      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): Anmeldung, Kontodaten, Nutzungskontingente, Absturz- und Diagnosedaten. Unser eigener Server läuft auf dieser Plattform.</li>
+      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): Anmeldung, Kontodaten, Nutzungskontingente, Absturz- und Diagnosedaten sowie Texte, die du online teilst (siehe Abschnitt 4). Unser eigener Server läuft auf dieser Plattform.</li>
       <li><strong>Google Play Billing &amp; Apple In-App Purchase</strong>: Abwicklung von Abonnements. Zahlungsdaten verbleiben bei Google bzw. Apple.</li>
       <li><strong>RevenueCat</strong>: Verwaltung des Abo-Status (Nutzer-ID, Kaufverlauf, Gerätekennung).</li>
       <li><strong>Anthropic (Claude)</strong>: Wort-für-Wort-Dekodierung eingegebener, gescannter oder diktierter Texte sowie KI-Dialog. Übermittelt werden nur die Texte, keine Kontodaten.</li>
@@ -108,7 +108,21 @@
     <p>Sprachaufnahmen bei der Diktierfunktion werden vom Spracherkenner deines Betriebssystems (Apple bzw. Google) in Text umgewandelt; an unsere Server und die genannten Dienste geht nur der erkannte Text.</p>
     <p>Bei Anbietern außerhalb der EU wird der Datenschutz durch die Standardvertragsklauseln der EU-Kommission sichergestellt.</p>
 
-    <h2>4. Rechtsgrundlage</h2>
+    <h2>4. Texte online teilen</h2>
+    <p>Du kannst einen dekodierten Text über einen Link weitergeben („Online teilen“). Das geschieht nur, wenn du es selbst auslöst: Die App erklärt vor dem Hochladen, was passiert, und lädt erst hoch, wenn du auf „Link erstellen“ tippst.</p>
+    <ul>
+      <li><strong>Was wir dabei speichern:</strong> den geteilten Text mit der Wort-für-Wort-Übersetzung und den sinngemäßen Satzübersetzungen, gegebenenfalls Umschrift und Lesehilfe, die beiden Sprachen, den Titel des Textes (falls vorhanden), den Anfang des Textes (die ersten 80 Zeichen, damit du den Eintrag in deiner Liste wiedererkennst), den Zeitpunkt des Teilens und die Kennung deines Kontos (bei Nutzung ohne Konto: die anonyme Kennung deiner App-Installation). Deinen Namen, deine E-Mail-Adresse und Tonaufnahmen speichern wir dabei nicht. Die Kennung brauchen wir, um die Zahl der Links pro Tag zu begrenzen und dir deine Liste zu zeigen. Sie wird nicht mit dem Link ausgeliefert.</li>
+      <li><strong>Zweck:</strong> Wir stellen den Text unter dem Link bereit, damit die Person, der du den Link gibst, ihn in der LinguaFlow-App oder im Browser öffnen kann.</li>
+      <li><strong>Wer den Text lesen kann:</strong> jeder, der den Link kennt. Der Link enthält eine lange, zufällige Kennung und ist nicht für Suchmaschinen freigegeben. Teile deshalb keine Texte, die persönliche oder vertrauliche Angaben enthalten.</li>
+      <li><strong>Wer deine Liste sehen kann:</strong> nur du. Unser Server liefert die Liste nur an das Konto aus, das die Texte geteilt hat (bei Nutzung ohne Konto: an dieselbe App-Installation). Andere können weder deine Liste sehen noch deine Links löschen.</li>
+      <li><strong>Rechtsgrundlage:</strong> deine Einwilligung, die du durch das Erstellen des Links erteilst.</li>
+      <li><strong>Speicherdauer und Löschung:</strong> Der geteilte Text wird nach 90 Tagen automatisch gelöscht (die technische Löschung kann bis zu drei Tage nachlaufen; abrufbar ist der Text nach 90 Tagen nicht mehr). Du kannst einen geteilten Text jederzeit vorher selbst löschen: In der App findest du unter „Meine geteilten Links“ (in den Einstellungen und im Menü der Textansicht) alle Links, die noch gültig sind. Tippst du dort auf „Link löschen“, entfernen wir den Text sofort von unserem Server; der Link funktioniert danach für niemanden mehr. Wer den Text vorher schon geöffnet oder in seine eigene App übernommen hat, behält diese Kopie; darauf haben wir keinen Einfluss. Wenn du dein Konto löschst, werden geteilte Texte derzeit noch nicht automatisch mitgelöscht: Lösche sie bitte vorher unter „Meine geteilten Links“ oder schreib uns; spätestens nach 90 Tagen sind sie ohnehin gelöscht. Du kannst uns jederzeit an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> schreiben und den Link nennen, dann löschen wir den Text.</li>
+      <li><strong>Speicherort:</strong> Google Firebase (Google Cloud), Rechenzentrum in der EU (Belgien).</li>
+      <li><strong>Seite im Browser (linguaflow.app/s/):</strong> Die Seite lädt den geteilten Text von unserem Server. Sie setzt keine Cookies und verwendet keine Analyse- oder Werbedienste. Das Vorlesen übernimmt die Sprachausgabe deines Geräts oder Browsers; wir erhalten dabei keine Daten. Manche Browser nutzen dafür Online-Stimmen ihres Herstellers; dann verarbeitet der Hersteller den vorgelesenen Text. Für den Abruf der Seite selbst gilt, was oben zum Webhosting der Website steht.</li>
+      <li><strong>Inhalte melden:</strong> Wer unter einem Link einen rechtswidrigen oder missbräuchlichen Inhalt findet, kann ihn über „Inhalt melden“ auf der Seite oder an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> melden. Wir prüfen die Meldung und löschen den Text, wenn nötig.</li>
+    </ul>
+
+    <h2>5. Rechtsgrundlage</h2>
     <ul>
       <li>Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO)</li>
       <li>Einwilligung (Art. 6 Abs. 1 lit. a DSGVO)</li>
@@ -116,17 +130,18 @@
       <li>Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)</li>
     </ul>
 
-    <h2>5. Datenspeicherung</h2>
+    <h2>6. Datenspeicherung</h2>
     <p>Deine Daten werden nur so lange gespeichert, wie es für die genannten Zwecke erforderlich ist oder gesetzlich vorgeschrieben.</p>
 
-    <h2>6. Deine Rechte</h2>
+    <h2>7. Deine Rechte</h2>
     <p>Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit, Widerruf der Einwilligung und Widerspruch. Kontaktiere uns dazu unter: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
 
-    <h2>7. Sicherheit</h2>
+    <h2>8. Sicherheit</h2>
     <p>Wir setzen angemessene technische und organisatorische Maßnahmen ein, um deine Daten zu schützen.</p>
 
-    <h2>8. Änderungen dieser Erklärung</h2>
+    <h2>9. Änderungen dieser Erklärung</h2>
     <p>Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu aktualisieren. Die aktuelle Version findest du stets auf linguaflow.app.</p>
+    <p>Zuletzt geändert: 18. November 2026 (neuer Abschnitt 4 „Texte online teilen“).</p>
   </div>
 </section>
 
