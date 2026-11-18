@@ -548,6 +548,55 @@
   </div>
 </section>
 
+<!-- Reviews / Rezensionen (shown with each reviewer's permission / mit Zustimmung der Rezensenten) -->
+<section class="reviews" id="rezensionen">
+  <div class="container text-center">
+    <p class="section-label">Rezensionen</p>
+    <h2 class="section-title">Das sagen Lernende</h2>
+    <p class="section-subtitle">Echte Rezensionen aus dem App Store und von Google Play.</p>
+  </div>
+  <div class="reviews-marquee">
+    <div class="reviews-track">
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Beste App als zentrale Schaltstelle für mehrere Fremdsprachen. Die Birkenbihl-Methode (getestet wurde Spanisch) ist hier sehr gut umgesetzt: verständlich, konsequent und im Alltag wirklich nutzbar, vom Dekodieren bis zum aktiven Sprechen. Besonders beeindruckt hat mich das Engagement des Entwicklers: Auf sämtliche meiner Fehlermeldungen wurde sofort reagiert und diese wurden umgehend behoben. Dazu die ungewöhnlich faire Testphase von 30 Tagen – genug Zeit, um in Ruhe zu testen. Klare Empfehlung!</blockquote>
+        <figcaption><strong>Doc Walker</strong> · Google Play</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Habe schon lange auf eine echte Umsetzung der Birkenbihlmethode gewartet und erhoffe mir mit dieser App deutliche Verbesserungen in meinen Bemühungen. Bisher lässt es sich gut an. Der Support ist Spitze.</blockquote>
+        <figcaption><strong>Celt0203</strong> · App Store</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Ein großartiges Werkzeug zum Sprachenlernen 🔥 Am besten gefällt mir, dass man jetzt kostenlose E-Books findet, die man in seiner Zielsprache dekodieren und lesen kann! Nach meiner ersten Rezension hat sich der Entwickler gemeldet und auf mein Feedback gehört. Die Fehler sind behoben und es gibt neue Funktionen, die das Ganze viel angenehmer machen. Mit den neuen Wiedergabe-Optionen kann ich einzelne Wörter oder Sätze herausgreifen und so oft und so schnell abspielen, wie ich will. Danke fürs Zuhören.</blockquote>
+        <figcaption><strong>Ben Sharratt</strong> · Google Play · aus dem Englischen übersetzt</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Endlich eine App für Fans der Sprachlernmethode nach Vera F. Birkenbihl. Die vier Schritte der Methode werden unverfälscht und elegant umgesetzt. Sehr engagierter und vor allem offener Entwickler. Über kleinere Kinderkrankheiten kann man locker hinwegsehen, vor allem weil die App kontinuierlich verbessert wird. Ich wünsche der App und dem Entwickler einen großen Erfolg.</blockquote>
+        <figcaption><strong>Stefan Christ</strong> · Google Play</figcaption>
+      </figure>
+      <figure class="review-card">
+        <div class="review-stars" aria-label="5 von 5 Sternen">★★★★★</div>
+        <blockquote>Ich kann diese App sehr empfehlen. Sie spart viel Zeit und beschleunigt das Sprachenlernen deutlich 💯💥. Die Entwickler achten darauf, dass alles richtig funktioniert, und lösen alle Probleme sehr schnell.</blockquote>
+        <figcaption><strong>Dawid Jackiewicz</strong> · Google Play · aus dem Polnischen übersetzt</figcaption>
+      </figure>
+    </div>
+  </div>
+  <script>
+    // Duplicate the cards once so the band loops without a gap / Karten einmal verdoppeln, damit das Band lückenlos läuft
+    (function () {
+      var track = document.querySelector('.reviews-track');
+      Array.prototype.slice.call(track.children).forEach(function (card) {
+        var copy = card.cloneNode(true);
+        copy.setAttribute('aria-hidden', 'true');
+        track.appendChild(copy);
+      });
+    })();
+  </script>
+</section>
+
 <!-- Pricing / Preise -->
 <section class="pricing" id="preise">
   <div class="container text-center">
