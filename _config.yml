@@ -2,3 +2,9 @@
 # Sagt GitHub Pages, dass der versteckte Ordner .well-known mitveroeffentlicht wird.
 include:
   - ".well-known"
+
+# Internal notes: do not publish.
+# Interne Notizen: nicht veroeffentlichen.
+exclude:
+  - "CONTEXT.md"
+  - "linguaflow-briefing.md"
