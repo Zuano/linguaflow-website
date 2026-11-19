@@ -1153,8 +1153,12 @@ p  { color: var(--gray-600); }
   from { transform: translateX(0); }
   to   { transform: translateX(calc(-50% - 12px)); }
 }
+/* Fixed width (not only flex-basis): Safari and Firefox size the band from the
+   cards' text length otherwise and push it out of view.
+   / Feste Breite (nicht nur flex-basis): Safari und Firefox berechnen die
+   Bandbreite sonst aus der Textlänge und schieben das Band aus dem Bild. */
 .review-card {
-  flex: 0 0 360px; background: var(--white); border-radius: var(--radius);
+  flex: 0 0 auto; width: 360px; background: var(--white); border-radius: var(--radius);
   box-shadow: var(--shadow); padding: 28px; text-align: left;
   display: flex; flex-direction: column;
 }
@@ -1164,7 +1168,7 @@ p  { color: var(--gray-600); }
 .review-card figcaption strong { color: var(--dark); }
 @media (max-width: 768px) {
   .reviews { padding: 56px 0; }
-  .review-card { flex-basis: 290px; padding: 22px; }
+  .review-card { width: 290px; padding: 22px; }
 }
 /* No motion wanted: swipe by hand instead / Ohne Bewegung: von Hand wischen */
 @media (prefers-reduced-motion: reduce) {
