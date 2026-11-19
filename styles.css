@@ -1166,6 +1166,11 @@ p  { color: var(--gray-600); }
 .review-card blockquote { color: var(--gray-800); font-size: .95rem; line-height: 1.6; flex: 1; }
 .review-card figcaption { margin-top: 16px; color: var(--gray-600); font-size: .85rem; }
 .review-card figcaption strong { color: var(--dark); }
+/* "translated from …" is hidden on the page in the review's own language
+   / Hinweis „übersetzt aus …" entfällt auf der Seite in der Originalsprache */
+html[lang^="de"] .review-note[data-orig="de"],
+html[lang^="en"] .review-note[data-orig="en"],
+html[lang^="pl"] .review-note[data-orig="pl"] { display: none; }
 @media (max-width: 768px) {
   .reviews { padding: 56px 0; }
   .review-card { width: 290px; padding: 22px; }
