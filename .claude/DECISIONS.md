@@ -322,6 +322,12 @@ erreichbar ist. WordPress wurde am 12.07.2026 abgelöst (siehe unten).
   Österreichische Verfahren sind im Briefing nicht recherchiert und bräuchten
   eigene Seiten (Briefing Abschnitt 9, offene Entscheidung 5).
 
+## 2026-11-19 — Birkenbihl nur noch erklärend, nicht im Produkt- oder Seitennamen
+
+**Entscheidung:** Der Seitentitel der Startseite lautet „LinguaFlow: App basierend auf der Birkenbihl-Methode“. „Birkenbihl App“ und „Birkenbihl Decoder“ werden nicht mehr verwendet.
+**Begründung:** Ashoka (Herr Ehrlich, Nachlassverwaltung) vergibt keine Lizenz (Telefonat 19.11.2026). Erlaubt ist die erklärende Nennung („basiert auf der Birkenbihl-Methode“), nicht der Name als Seiten- oder Produktname. Ob die Nennung im Seitentitel in Ordnung ist, blieb im Gespräch offen; Christian hat den Wortlaut festgelegt, Ehrlich liest die Seite gegen und meldet Einwände. Ersetzt die SEO-Abwägung vom 2026-07-10 (Titel „Birkenbihl App…“ bleibt).
+**Nachteil:** voraussichtlich weniger Treffer bei der Suche nach „Birkenbihl App“.
+
 ## Frühere Entscheidungen (Kurzfassung, vor Einführung dieser Datei)
 
 - Statische Website auf GitHub Pages, WordPress abgelöst; alte WordPress-URLs

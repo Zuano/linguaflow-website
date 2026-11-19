@@ -72,7 +72,7 @@ def build_json_ld(count: int, avg: float) -> str:
         "@context": "https://schema.org",
         "@type": "MobileApplication",
         "name": "LinguaFlow",
-        "alternateName": "LinguaFlow – Birkenbihl Decoder",
+        "alternateName": "LinguaFlow – Sprachlern-App",
         "description": "Von der Birkenbihl-Methode inspirierte Sprachlern-App. Wort-für-Wort-Übersetzung mit Kontext, Bücher-Reader, 30+ Sprachen – ohne Vokabelpauken.",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "iOS, Android",
