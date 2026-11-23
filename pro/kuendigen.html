@@ -20,6 +20,17 @@
     .cancel-cta .btn{font-size:1.1rem;padding:18px 40px;}
     .cancel-box{background:var(--gray-100);border-radius:16px;padding:22px 24px;margin-top:28px;}
     .cancel-box h2{margin-top:0 !important;}
+    /* Chooser at the top / Auswahlmenü oben */
+    .chooser{background:var(--teal-light);border-radius:16px;padding:22px 24px;margin-bottom:36px;}
+    .chooser h2{margin-top:0 !important;font-size:1.25rem;}
+    .choice-row{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0 4px;}
+    .choice-row .btn{flex:1 1 200px;}
+    .reason-list{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0;}
+    .reason-list label{background:#fff;border:1px solid #d1d5db;border-radius:999px;padding:6px 14px;cursor:pointer;}
+    .reason-list input{margin-right:6px;}
+    .chooser textarea{width:100%;min-height:80px;border:1px solid #d1d5db;border-radius:10px;padding:10px;font:inherit;box-sizing:border-box;}
+    .chooser .link-btn{background:none;border:0;color:var(--teal-dark);text-decoration:underline;cursor:pointer;font:inherit;padding:0;}
+    .flash{outline:3px solid var(--teal);outline-offset:6px;border-radius:8px;transition:outline-color 1.5s;}
   </style>
 </head>
 <body>
@@ -50,7 +61,48 @@
 <section class="page-content">
   <div class="container">
 
-    <h2>Auf linguaflow.app gekauft?</h2>
+    <!-- Chooser: where bought → cancel or withdraw → optional reason → jump to the right section.
+         Auswahlmenü: wo gekauft → kündigen oder widerrufen → freiwilliger Grund → zur passenden Stelle. -->
+    <div class="chooser" id="chooser" hidden>
+      <div id="stepWhere">
+        <h2>Wo hast du dein Abo gekauft?</h2>
+        <div class="choice-row">
+          <button class="btn btn-outline" type="button" data-where="apple">Im App Store (iPhone / iPad)</button>
+          <button class="btn btn-outline" type="button" data-where="google">Bei Google Play (Android)</button>
+          <button class="btn btn-outline" type="button" data-where="web">Hier auf linguaflow.app</button>
+        </div>
+        <p style="margin:8px 0 0;font-size:.9rem;">Unsicher? <a href="#unsicher">So findest du es heraus</a>.</p>
+      </div>
+
+      <div id="stepWhat" hidden>
+        <h2>Möchtest du kündigen oder widerrufen?</h2>
+        <div class="choice-row">
+          <button class="btn btn-outline" type="button" data-what="cancel">Kündigen – Pro läuft bis zum Ende der bezahlten Zeit</button>
+          <button class="btn btn-outline" type="button" data-what="withdraw">Widerrufen – innerhalb von 14 Tagen, Geld zurück</button>
+        </div>
+        <p style="margin:8px 0 0;"><button class="link-btn" type="button" data-restart>Zurück</button></p>
+      </div>
+
+      <div id="stepWhy" hidden>
+        <h2>Schade! Magst du uns sagen, warum? <span style="font-weight:400;font-size:1rem;">(freiwillig)</span></h2>
+        <div class="reason-list" id="reasons">
+          <label><input type="radio" name="reason" value="Zu teuer">Zu teuer</label>
+          <label><input type="radio" name="reason" value="Nutze es zu wenig">Nutze es zu wenig</label>
+          <label><input type="radio" name="reason" value="Mir fehlt eine Funktion">Mir fehlt eine Funktion</label>
+          <label><input type="radio" name="reason" value="Technisches Problem">Technisches Problem</label>
+          <label><input type="radio" name="reason" value="Lerne die Sprache nicht mehr">Lerne die Sprache nicht mehr</label>
+          <label><input type="radio" name="reason" value="Sonstiges">Sonstiges</label>
+        </div>
+        <textarea id="reasonText" maxlength="1000" placeholder="Was ist los? Was können wir besser machen? (optional)"></textarea>
+        <div class="choice-row">
+          <button class="btn btn-primary" type="button" id="sendReason">Per E-Mail senden und weiter</button>
+          <button class="btn btn-outline" type="button" id="skipReason">Überspringen, direkt weiter</button>
+        </div>
+        <p style="margin:8px 0 0;font-size:.9rem;">„Per E-Mail senden“ öffnet dein E-Mail-Programm mit deiner Nachricht an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> – wir lesen jede Nachricht und antworten gern. <button class="link-btn" type="button" data-restart>Neu wählen</button></p>
+      </div>
+    </div>
+
+    <h2 id="web">Auf linguaflow.app gekauft?</h2>
     <p>Dann kündigst du im Kundenportal unseres Zahlungsanbieters Paddle. Gib dort die E-Mail-Adresse ein, mit der du bezahlt hast – du bekommst einen Anmeldelink und klickst auf „Abo kündigen“.</p>
 
     <div class="cancel-cta">
@@ -83,14 +135,14 @@
       <p style="margin-bottom:0;">Wird dein Kauf im Portal nicht angezeigt? Schreib uns an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> – wir leiten deinen Widerruf an Paddle weiter. Alle Wege und ein Muster-Formular: <a href="/widerruf.html">Widerruf &amp; Rückerstattung</a>.</p>
     </div>
 
-    <h2>Im App Store oder bei Google Play gekauft?</h2>
+    <h2 id="store">Im App Store oder bei Google Play gekauft?</h2>
     <p>Dann läuft die Kündigung über den jeweiligen Store – wir können solche Abos nicht für dich beenden:</p>
     <ul>
-      <li><strong>iPhone / iPad (App Store):</strong> Einstellungen → dein Name → Abonnements → LinguaFlow → Abo kündigen. <a href="https://support.apple.com/de-at/118428" target="_blank" rel="noopener">Anleitung von Apple</a></li>
-      <li><strong>Android (Google Play):</strong> Play Store → Profilbild → Zahlungen und Abos → Abos → LinguaFlow → Kündigen. <a href="https://support.google.com/googleplay/answer/7018481?hl=de" target="_blank" rel="noopener">Anleitung von Google</a></li>
+      <li id="store-apple"><strong>iPhone / iPad (App Store):</strong> Einstellungen → dein Name → Abonnements → LinguaFlow → Abo kündigen. <a href="https://support.apple.com/de-at/118428" target="_blank" rel="noopener">Anleitung von Apple</a></li>
+      <li id="store-google"><strong>Android (Google Play):</strong> Play Store → Profilbild → Zahlungen und Abos → Abos → LinguaFlow → Kündigen. <a href="https://support.google.com/googleplay/answer/7018481?hl=de" target="_blank" rel="noopener">Anleitung von Google</a></li>
     </ul>
 
-    <h2>Unsicher, wo du gekauft hast?</h2>
+    <h2 id="unsicher">Unsicher, wo du gekauft hast?</h2>
     <p>Schau, von wem die Rechnung kam: <strong>Paddle</strong> (Kontoauszug „PADDLE.NET* LINGUAFLW“) = Kauf auf der Website, <strong>Apple</strong> oder <strong>Google</strong> = Kauf im Store. Oder schreib uns an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> – wir helfen gern.</p>
 
   </div>
@@ -137,6 +189,61 @@
     document.getElementById('withdrawLink').href = 'mailto:hello@linguaflow.app';
     document.getElementById('portalMissing').hidden = false;
   }
+
+  // ---------------------------------------------------------------------
+  // Chooser / Auswahlmenü. Only enhances the page: without JS all sections
+  // stay visible below. The reason question is optional – "skip" is always
+  // offered with equal weight (no obstacle to cancelling).
+  // Ergänzt die Seite nur: ohne JS bleiben alle Abschnitte sichtbar. Die
+  // Grund-Frage ist freiwillig – „Überspringen“ steht immer gleichwertig daneben.
+  // ---------------------------------------------------------------------
+  const chooser = document.getElementById('chooser');
+  const steps = ['stepWhere', 'stepWhat', 'stepWhy'].map(id => document.getElementById(id));
+  const choice = { where: '', what: 'cancel' };
+  const LABELS = {
+    apple: 'App Store', google: 'Google Play', web: 'linguaflow.app',
+    cancel: 'kündigen', withdraw: 'widerrufen'
+  };
+
+  function show(step) { steps.forEach(s => { s.hidden = s.id !== step; }); }
+
+  function targetId() {
+    if (choice.where === 'apple') return 'store-apple';
+    if (choice.where === 'google') return 'store-google';
+    return choice.what === 'withdraw' ? 'widerruf' : 'web';
+  }
+
+  function goToTarget() {
+    const el = document.getElementById(targetId());
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    el.classList.add('flash');
+    setTimeout(() => el.classList.remove('flash'), 2500);
+  }
+
+  chooser.hidden = false;
+  chooser.querySelectorAll('[data-where]').forEach(b => b.addEventListener('click', () => {
+    choice.where = b.dataset.where;
+    choice.what = 'cancel';
+    show(choice.where === 'web' ? 'stepWhat' : 'stepWhy');
+  }));
+  chooser.querySelectorAll('[data-what]').forEach(b => b.addEventListener('click', () => {
+    choice.what = b.dataset.what;
+    show('stepWhy');
+  }));
+  chooser.querySelectorAll('[data-restart]').forEach(b => b.addEventListener('click', () => show('stepWhere')));
+
+  document.getElementById('skipReason').addEventListener('click', goToTarget);
+  document.getElementById('sendReason').addEventListener('click', () => {
+    const reason = (chooser.querySelector('input[name="reason"]:checked') || {}).value || '–';
+    const text = document.getElementById('reasonText').value.trim();
+    const body = 'Grund: ' + reason + '\n'
+      + 'Gekauft über: ' + LABELS[choice.where] + '\n'
+      + 'Ich möchte: ' + LABELS[choice.what] + '\n\n'
+      + (text || '');
+    location.href = 'mailto:hello@linguaflow.app?subject='
+      + encodeURIComponent('Kündigung – mein Grund') + '&body=' + encodeURIComponent(body);
+    goToTarget();
+  });
 
   const hamburger = document.getElementById('hamburger');
   const navLinks = document.getElementById('navLinks');
