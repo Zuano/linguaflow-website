@@ -1,8 +1,8 @@
 {
   "__version": "4",
-  "index.html": "5fa57b9415d759ed4d8d041ca70a4608d86ea17540925cd421f67b22ac52483d",
-  "hilfe.html": "ce390ee9ccd89ecb68504fb5b7721122f25af1b010921c9d6dc9fd71d6920af6",
-  "datenschutz.html": "01d4d58e6649c477d20b559dfe810b7502972e59ba8dba4165044bb569fc39a1",
+  "index.html": "88e323b5c6758fc89a6af9da180ebc6350a53480ddc24cf19a9867abc0cee8db",
+  "hilfe.html": "44d067978be727a6c69950964e34e03e6f2f90d8472f049068690b67e493a04d",
+  "datenschutz.html": "a85d50ce9faec0c713eb66932f88300edc0522584edec38d8fe10e688c889aeb",
   "eula.html": "7b005d2fde3c2717ca59c5402d6a5cb034bd6aa985c0dca40efb9c1af6d2fa92",
   "impressum.html": "be1d4937ff1a2c908229ffeab128d76090aeeb115b9cec60de0ba149469bb708",
   "ratgeber-24-stunden-pflege-festanstellung.html": "686f409db27d4ff34bd5d7214cd3b16715ba62c2382dcea7f6e73e18f203ad6e",
@@ -10,12 +10,12 @@
   "ratgeber-deutsch-b2-pflege.html": "859bb3ce63958d1fff130a2ad49171e2206bd66b7310f3d9bb811beba347567d",
   "ratgeber-haushaltshilfe-jobs-wien.html": "03f8c5c0e626c07dc363bb90c8f4c1d230b37bae07711ceb0817285f483c5975",
   "ratgeber.html": "182e0ea5597a39cf02efe231a74103df112d7371f8ac79adacda45e4f4556556",
-  "was-ist-neu.html": "36d4a4676421b7abd89f29b88eb5971021ba535e80041d56ae0414bf716d2f6b",
+  "was-ist-neu.html": "72ac3e2c5b0838669442e8d14e056b9158f3131e1187cd376b2bead6d2db1d57",
   "newsletter.html": "1c4c40713c7e86bfdf28ca210e217a35bac8119cfb125e619d70dc72eaedb2c0",
   "funktionen.html": "3f189a8035aa38c2a8abd1d23b3a973008d67e862fd0621889a5b590f5cebed3",
   "zurueck-in-deinen-beruf/index.html": "8ce0f5cff7a24ee8cea77084d723399961541b8d36652484b59e60af722ecf42",
   "zurueck-in-deinen-beruf/pflege/index.html": "ea4b51d8142dda66be9ead11675cd54610d96494503bd497c1ab799c1b31c3a0",
   "zurueck-in-deinen-beruf/akademiker/index.html": "e548bf6bf73cbafeb6725878cc2a3097bc910abeba2ea0a57d940cdf42308ab7",
-  "methode.html": "52108be9694d003378596c8bc3640c8057ec387c2ec1023dcf8c631c91190d7e",
+  "methode.html": "33e266a6aa9a9abfb02ea25a5b07157af07e542d0fc922fb36e6441c75839875",
   "aussprache.html": "d33533da6ee11d7f9ecaea49942185a175afcf0fcbf8a7f30ec7a1216722b54f"
 }

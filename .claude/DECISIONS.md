@@ -1,5 +1,65 @@
 # Entscheidungen — linguaflow.app Website
 
+## 2026-11-14 — DMARC steht auf `p=quarantine`
+
+Entschieden von Christian („Ja, ändern", danach „Mach es hier").
+
+- **`_dmarc.linguaflow.app` = `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`** — nur `p` geändert, bewusst ohne `pct`, `adkim`/`aspf=s` und `ruf` (die strengen Werte aus dem Entwurf vom Juni bringen nichts und `ruf` wird kaum unterstützt). **Begründung:** Gefälschte Mails im Namen der Domain sollen im Spam landen; beide Versender bestehen DMARC (Google über SPF, DKIM laut Admin-Konsole aktiv; MailerLite laut Bericht vom 08.11. per DKIM `d=linguaflow.app`). Restrisiko: weitergeleitete Google-Mails, falls die DKIM-Signatur doch noch nicht mit der eigenen Domain erfolgt — Nachkontrolle über den nächsten DMARC-Bericht, Rückweg ist ein Eintrag.
+- **DNS-Schreibzugriffe macht nur die Session, der Christian es ausdrücklich sagt.** Wird ein Schreibzugriff in einer Session abgelehnt, legt die Steuerungs-Session das Christian vor, statt es an ihrer Stelle zu tun.
+
+## 2026-11-14 — DMARC geht auf `p=quarantine` (freigegeben, Umstellung steht noch aus)
+
+Entschieden von Christian („Ja, ändern", 2026-11-14) nach der am 2026-10-26
+gewählten Reihenfolge „erst Google prüfen".
+
+- **Neuer Eintrag: `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`** —
+  nur `p` ändert sich. **Begründung:** Gefälschte Mails im Namen der Domain
+  sollen im Spam landen; beide echten Versender bestehen DMARC (Google Workspace
+  über SPF und laut Admin-Konsole über DKIM, MailerLite über DKIM laut
+  Seznam-Bericht vom 08.11.; die Trial-Erinnerungen laufen über Google).
+- **Verworfen:** der strengere Vorschlag vom Juni 2026 (`adkim=s`, `aspf=s`,
+  `ruf`, eigene `dmarc@`-Adresse) — bringt keinen Schutzgewinn, MailerLite
+  würde an `aspf=s` nichts ändern, hängt aber allein an DKIM; und `p=reject`
+  (zu hart, solange kein Google-Bericht mit Domain-Signatur vorliegt).
+- **Stand:** Am 2026-11-14 noch nicht im DNS (Schreibzugriff der Session
+  abgelehnt). Umsetzung und Rückweg: `.claude/features/dmarc-erweitern.md`.
+
+## 2026-10-26 — Anerkennung-Links ohne eigene Sprachfassung zeigen auf Englisch
+
+Entschieden von Christian in der Session „Footer/RTL/Navi/DMARC" (ersetzt die
+Entscheidung vom 2026-08, nach der diese Links auf die deutsche Seite zeigten).
+
+- **Links auf `/zurueck-in-deinen-beruf/…` zeigen in den 29 Sprachen ohne
+  eigene Cluster-Fassung (alles außer DE/EN/TR/UK/AR) auf
+  `/en/zurueck-in-deinen-beruf/…`** — `adjust_html()` Schritt 2c, `else`-Zweig.
+  **Begründung:** Einheitlich mit den Footer-Links auf Newsletter, Versionshistorie
+  und Funktionen (seit 2026-10-25 auf `/en/`); Englisch ist laut Strategiebriefing
+  die Verkehrssprache, und die englische Hub-Seite verlinkt TR/UK/AR.
+  Verworfen: Option A (deutsche Seite lassen) — die Zielgruppe lernt zwar Deutsch,
+  aber eine englische Seite ist für polnische, ungarische oder japanische Leser
+  die zugänglichere Zwischenstation.
+- Umsetzung ohne DeepL: Quellen unverändert, Bestand per `sed`
+  (261 Dateien, 290 Links), Link-Checker 0 fehlende Ziele.
+
+## 2026-10-26 — Arabisch: `dir="rtl"` am `<html>`, Methode-Seite setzt Richtung ausdrücklich
+
+Umgesetzt in der Session „Footer/RTL/Navi/DMARC" (Auftrag von Christian).
+
+- **Alle arabischen Seiten tragen `<html lang="ar" dir="rtl">`** — gesetzt von
+  `adjust_html()` (Schritt 1b) für künftige Läufe, die bestehenden `ar/`-Seiten
+  per `sed` nachgezogen. Nur Arabisch: Hebräisch ist keine Website-Sprache.
+  **Begründung:** Ohne Schreibrichtung standen arabischer Fließtext und Layout
+  linksbündig/spiegelverkehrt. Browser-Check in Desktop- und Handybreite:
+  Navbar, Menü, Galerie, Lightbox, Preise, FAQ, Footer bleiben benutzbar —
+  deshalb am `<html>` und nicht nur auf `<main>`.
+- **Die Methode-Seite setzt die Richtung ihrer dynamischen Blöcke jetzt immer
+  ausdrücklich** (`rtl ? 'rtl' : 'ltr'` statt nur `if (rtl) … = 'rtl'`),
+  damit eine LTR-Ziel- oder Muttersprache auf der arabischen Seite nicht die
+  Richtung vom `<html>` erbt. Gleiche drei Zeilen in Quelle und 33 Kopien,
+  Cache-Hash nachgezogen (0 € DeepL). Alternative verworfen: CSS-Regel in
+  `styles.css` nur für `[dir="rtl"]` — die Richtung gehört dorthin, wo die
+  Sprache bekannt ist (ins Skript der Seite).
+
 ## 2026-10-25 — Sprachwahl-Blöcke gehen nicht mehr an DeepL
 
 Entschieden von Christian in der Session „Search-Console-Umsetzung".
@@ -277,6 +337,12 @@ erreichbar ist. WordPress wurde am 12.07.2026 abgelöst (siehe unten).
   Das ist auf beiden Seiten ausdrücklich gekennzeichnet, auch in der llms.txt.
   Österreichische Verfahren sind im Briefing nicht recherchiert und bräuchten
   eigene Seiten (Briefing Abschnitt 9, offene Entscheidung 5).
+
+## 2026-11-19 — Birkenbihl nur noch erklärend, nicht im Produkt- oder Seitennamen
+
+**Entscheidung:** Der Seitentitel der Startseite lautet „LinguaFlow: App basierend auf der Birkenbihl-Methode“. „Birkenbihl App“ und „Birkenbihl Decoder“ werden nicht mehr verwendet.
+**Begründung:** Ashoka (Herr Ehrlich, Nachlassverwaltung) vergibt keine Lizenz (Telefonat 19.11.2026). Erlaubt ist die erklärende Nennung („basiert auf der Birkenbihl-Methode“), nicht der Name als Seiten- oder Produktname. Ob die Nennung im Seitentitel in Ordnung ist, blieb im Gespräch offen; Christian hat den Wortlaut festgelegt, Ehrlich liest die Seite gegen und meldet Einwände. Ersetzt die SEO-Abwägung vom 2026-07-10 (Titel „Birkenbihl App…“ bleibt).
+**Nachteil:** voraussichtlich weniger Treffer bei der Suche nach „Birkenbihl App“.
 
 ## Frühere Entscheidungen (Kurzfassung, vor Einführung dieser Datei)
 

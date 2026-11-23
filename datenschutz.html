@@ -92,7 +92,7 @@
     <h2>3. Drittanbieter-Dienste (Empfänger deiner Daten)</h2>
     <p>Wir nutzen folgende Dienste. Welche Daten sie erhalten, hängt von der jeweils genutzten Funktion ab:</p>
     <ul>
-      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): Anmeldung, Kontodaten, Nutzungskontingente, Absturz- und Diagnosedaten. Unser eigener Server läuft auf dieser Plattform. Datenbank in Deutschland (Berlin), Server-Funktionen in Belgien, die Anmeldung (Authentication) verarbeitet Google in den USA. Absturzberichte (Crashlytics) enthalten eine zufällige Installations-Kennung, Gerätemodell und Systemversion, aber nicht dein Konto; Google speichert sie 90 Tage.</li>
+      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): Anmeldung, Kontodaten, Nutzungskontingente, Absturz- und Diagnosedaten sowie Texte, die du online teilst (siehe Abschnitt 4). Unser eigener Server läuft auf dieser Plattform. Datenbank in Deutschland (Berlin), Server-Funktionen in Belgien, die Anmeldung (Authentication) verarbeitet Google in den USA. Absturzberichte (Crashlytics) enthalten eine zufällige Installations-Kennung, Gerätemodell und Systemversion, aber nicht dein Konto; Google speichert sie 90 Tage.</li>
       <li><strong>Google Play Billing &amp; Apple In-App Purchase</strong>: Abwicklung von Abonnements. Zahlungsdaten verbleiben bei Google bzw. Apple.</li>
       <li><strong>Paddle.com Market Ltd</strong> (London, Vereinigtes Königreich): Verkauf und Zahlung beim Kauf auf linguaflow.app (LinguaFlow Pro für die Apps und die Browser-Erweiterung). Paddle ist dabei Verkäufer und für diese Daten <strong>eigener Verantwortlicher</strong>. Paddle erhält deine E-Mail-Adresse, dein Land, deine Zahlungsdaten und deine LinguaFlow-Konto-ID, damit Pro dem richtigen Konto zugeordnet wird. Wir erhalten von Paddle den Kauf- und Abo-Status, aber keine vollständigen Zahlungsdaten. Datenschutz bei Paddle: <a href="https://www.paddle.com/legal/privacy" target="_blank" rel="noopener">paddle.com/legal/privacy</a>.</li>
       <li><strong>RevenueCat</strong>: Verwaltung des Abo-Status (Nutzer-ID, Kaufverlauf, Gerätekennung).</li>
@@ -122,7 +122,22 @@
     </ul>
     <p>Eine Kopie der Standardvertragsklauseln bekommst du auf Anfrage unter <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a>.</p>
 
-    <h2>4. Rechtsgrundlage</h2>
+    <h2>4. Texte online teilen</h2>
+    <p>Du kannst einen dekodierten Text über einen Link weitergeben („Online teilen“). Das geschieht nur, wenn du es selbst auslöst: Die App erklärt vor dem Hochladen, was passiert, und lädt erst hoch, wenn du auf „Link erstellen“ tippst.</p>
+    <ul>
+      <li><strong>Was wir dabei speichern:</strong> den geteilten Text mit der Wort-für-Wort-Übersetzung und den sinngemäßen Satzübersetzungen, gegebenenfalls Umschrift und Lesehilfe, die beiden Sprachen, den Titel des Textes (falls vorhanden), den Anfang des Textes (die ersten 80 Zeichen, damit du den Eintrag in deiner Liste wiedererkennst), den Zeitpunkt des Teilens und die Kennung deines Kontos (bei Nutzung ohne Konto: die anonyme Kennung deiner App-Installation). Deinen Namen, deine E-Mail-Adresse und Tonaufnahmen speichern wir dabei nicht. Die Kennung brauchen wir, um die Zahl der Links pro Tag zu begrenzen und dir deine Liste zu zeigen. Sie wird nicht mit dem Link ausgeliefert.</li>
+      <li><strong>Zweck:</strong> Wir stellen den Text unter dem Link bereit, damit die Person, der du den Link gibst, ihn in der LinguaFlow-App oder im Browser öffnen kann.</li>
+      <li><strong>Wer den Text lesen kann:</strong> jeder, der den Link kennt. Der Link enthält eine lange, zufällige Kennung und ist nicht für Suchmaschinen freigegeben. Teile deshalb keine Texte, die persönliche oder vertrauliche Angaben enthalten.</li>
+      <li><strong>Link-Vorschau:</strong> Wenn du einen Link in einem Messenger teilst, zeigt der Messenger eine Vorschau mit dem Titel und dem Anfang des Textes. Dafür ruft der Messenger diese Angaben von unserem Server ab; manche Messenger tun das über ihre eigenen Server. Einen gelöschten Link zeigen neue Vorschauen nicht mehr; eine bereits angezeigte Vorschau bleibt im Chat stehen.</li>
+      <li><strong>Wer deine Liste sehen kann:</strong> nur du. Unser Server liefert die Liste nur an das Konto aus, das die Texte geteilt hat (bei Nutzung ohne Konto: an dieselbe App-Installation). Andere können weder deine Liste sehen noch deine Links löschen.</li>
+      <li><strong>Rechtsgrundlage:</strong> deine Einwilligung, die du durch das Erstellen des Links erteilst.</li>
+      <li><strong>Speicherdauer und Löschung:</strong> Der geteilte Text wird nach 90 Tagen automatisch gelöscht (die technische Löschung kann bis zu drei Tage nachlaufen; abrufbar ist der Text nach 90 Tagen nicht mehr). Du kannst einen geteilten Text jederzeit vorher selbst löschen: In der App findest du unter „Meine geteilten Links“ (in den Einstellungen und im Menü der Textansicht) alle Links, die noch gültig sind. Tippst du dort auf „Link löschen“, entfernen wir den Text sofort von unserem Server; der Link funktioniert danach für niemanden mehr. Wer den Text vorher schon geöffnet oder in seine eigene App übernommen hat, behält diese Kopie; darauf haben wir keinen Einfluss. Löschst du dein Konto, werden deine geteilten Texte mitgelöscht. Du kannst uns jederzeit an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> schreiben und den Link nennen, dann löschen wir den Text.</li>
+      <li><strong>Speicherort:</strong> Google Firebase (Google Cloud), Rechenzentrum in der EU (Belgien).</li>
+      <li><strong>Seite im Browser (share.linguaflow.app/s/ und linguaflow.app/s/):</strong> Die Seite lädt den geteilten Text von unserem Server. Sie setzt keine Cookies und verwendet keine Analyse- oder Werbedienste. Das Vorlesen übernimmt die Sprachausgabe deines Geräts oder Browsers; wir erhalten dabei keine Daten. Manche Browser nutzen dafür Online-Stimmen ihres Herstellers; dann verarbeitet der Hersteller den vorgelesenen Text. Die Adresse share.linguaflow.app liefern wir über Google Firebase Hosting aus; für linguaflow.app gilt, was oben zum Webhosting der Website steht.</li>
+      <li><strong>Inhalte melden:</strong> Wer unter einem Link einen rechtswidrigen oder missbräuchlichen Inhalt findet, kann ihn über „Inhalt melden“ auf der Seite oder an <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> melden. Wir prüfen die Meldung und löschen den Text, wenn nötig.</li>
+    </ul>
+
+    <h2>5. Rechtsgrundlage</h2>
     <ul>
       <li><strong>Vertrag</strong> (Art. 6 Abs. 1 lit. b DSGVO): Konto, Anmeldung, Gast-Woche, Dekodieren, Scannen, Diktieren, KI-Dialog, Vorlesen, Verlauf und Bücher in der Cloud, Abo und Kauf, Erinnerungen vor Verlängerung oder Ablauf eines Web-Abos, Support.</li>
       <li><strong>Einwilligung</strong> (Art. 6 Abs. 1 lit. a DSGVO): Newsletter, E-Mail-Erinnerung vor Ende der Testphase. Du kannst eine Einwilligung jederzeit widerrufen.</li>
@@ -131,29 +146,31 @@
     </ul>
     <p>Ohne E-Mail-Adresse bzw. Konto können wir dir Pro nicht auf mehreren Geräten freischalten; die übrigen Angaben sind freiwillig.</p>
 
-    <h2>5. Datenspeicherung</h2>
+    <h2>6. Datenspeicherung</h2>
     <ul>
       <li>Konto, Verlauf, Bücher und Einstellungen: bis du sie bzw. dein Konto löschst. Beim Löschen des Kontos in der App entfernen wir die zugehörigen Daten auf unseren Servern, bei RevenueCat und bei MailerLite. Ausgenommen sind Daten zu einem Web-Abo über Paddle (siehe nächster Punkt).</li>
       <li>Gast-Woche ohne Konto: bis 30 Tage nach dem Start; danach löscht Google das anonyme Konto.</li>
       <li>Web-Abo über Paddle (E-Mail beim Kauf, Konto-Kennung, Abo-Status): solange das Abo läuft, danach 7 Jahre (steuerliche Aufbewahrungspflicht, § 132 BAO). Ein laufendes Web-Abo endet nicht durch die Kontolöschung – kündige es im Paddle-Kundenportal. Rechnungen zu Käufen im App Store bzw. bei Google Play bewahren Apple bzw. Google auf.</li>
       <li>Automatische E-Mails (z. B. Erinnerungen): Der Versandauftrag wird 90 Tage nach dem Anlegen automatisch gelöscht, bei einer Kontolöschung sofort.</li>
+      <li>Online geteilte Texte: 90 Tage, siehe Abschnitt 4.</li>
       <li>Support-E-Mails: 3 Jahre nach Abschluss der Anfrage.</li>
       <li>Absturzberichte: 90 Tage (bei Google).</li>
     </ul>
 
-    <h2>5a. Mindestalter</h2>
+    <h2>6a. Mindestalter</h2>
     <p>Für ein eigenes Konto und für Einwilligungen musst du mindestens 14 Jahre alt sein (§ 4 Abs. 4 DSG). Für Käufe gilt das gesetzliche Mindestalter für Verträge.</p>
 
-    <h2>6. Deine Rechte</h2>
+    <h2>7. Deine Rechte</h2>
     <p>Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit, Widerruf der Einwilligung und Widerspruch. Kontaktiere uns dazu unter: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
     <p>Du kannst dich außerdem bei der Österreichischen Datenschutzbehörde beschweren: Barichgasse 40–42, 1030 Wien, <a href="mailto:dsb@dsb.gv.at">dsb@dsb.gv.at</a>, <a href="https://www.dsb.gv.at" target="_blank" rel="noopener">www.dsb.gv.at</a>.</p>
     <p>Eine automatisierte Entscheidungsfindung im Sinne von Art. 22 DSGVO (einschließlich Profiling) findet nicht statt.</p>
 
-    <h2>7. Sicherheit</h2>
+    <h2>8. Sicherheit</h2>
     <p>Wir setzen angemessene technische und organisatorische Maßnahmen ein, um deine Daten zu schützen.</p>
 
-    <h2>8. Änderungen dieser Erklärung</h2>
+    <h2>9. Änderungen dieser Erklärung</h2>
     <p>Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu aktualisieren. Die aktuelle Version findest du stets auf linguaflow.app.</p>
+    <p>Zuletzt geändert: 23. November 2026 (Speicherfristen, Rechtsgrundlagen, Kauf über die Website; seit 18. November 2026 Abschnitt 4 „Texte online teilen“).</p>
   </div>
 </section>
 

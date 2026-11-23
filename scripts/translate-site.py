@@ -490,8 +490,40 @@ def deepl_translate(html: str, target_lang: str, lang_attr: str,
 # ist also unabhaengig davon, wie DeepL den Rest des Satzes formuliert.
 # / Terms DeepL renders correctly but in a way that hurts search visibility;
 # restored per language after translation.
+# Rezensionen, die im Original in der Zielsprache geschrieben wurden, zeigen
+# dort den Originaltext statt einer Rückübersetzung aus dem Deutschen. Die
+# Karte wird über den Hinweis data-orig="…" in ihrer Bildunterschrift gefunden.
+# / Reviews originally written in the target language show the original text
+# there instead of a back-translation from German.
+def _original_review(orig: str, text: str) -> tuple:
+    return (
+        r'(?s)(<blockquote>)(?:(?!<blockquote>).)*?(</blockquote>'
+        r'(?:(?!<blockquote>).)*?data-orig="' + orig + '")',
+        "\\1" + text + "\\2",
+    )
+
+
+_REVIEW_BEN_EN = _original_review(
+    "en",
+    "A great language learning tool 🔥 My favourite part is that you can now "
+    "find free ebooks to decode and read in your target language! After my "
+    "first review the creator got in contact and listened to my feedback, they "
+    "have now fixed the bugs and added more features that make the whole "
+    "experience so much more pleasant. The new playback options allow me to "
+    "single out words or phrases and playback as many times as I like at "
+    "whatever speed I like. Thank you for listening.",
+)
+
 POST_TRANSLATION_FIXES = {
+    "en": [_REVIEW_BEN_EN],
+    "en-gb": [_REVIEW_BEN_EN],
     "pl": [
+        _original_review(
+            "pl",
+            "Bardzo polecam te aplikację, pomaga zaoszczędzić dużo czasu i "
+            "znacznie przyspiesza naukę języka💯💥, twórcy dbają o poprawne "
+            "działanie i bardzo szybko rozwiazują wszystkie problemy.",
+        ),
         (
             r'(<h2 class="section-title">)[^<]*Birkenbihl[^<]*(</h2>)',
             "\\1Koniec ze starym systemem szkolnym – aplikacja do nauki języków "
@@ -518,6 +550,13 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
 
     # 1. <html lang="de"> -> <html lang="xx">
     html = re.sub(r'(<html[^>]*\blang=")de("[^>]*>)', rf'\1{lang_attr}\2', html, count=1)
+    # 1b. Arabisch wird von rechts nach links geschrieben — ohne dir="rtl"
+    #     stünden Text und Layout spiegelverkehrt. Nur hier nötig: Hebräisch
+    #     gibt es nicht als Website-Sprache. / Arabic is right-to-left;
+    #     without dir="rtl" text and layout would be mirrored. Only needed
+    #     here — Hebrew is not a website language.
+    if lang_attr == "ar":
+        html = html.replace('<html lang="ar">', '<html lang="ar" dir="rtl">', 1)
 
     # 2. Relative Asset-Pfade absolut machen (damit sie aus /<slug>/ auch funktionieren)
     # Wichtig: auch srcset muss erfasst werden (<picture><source srcset="..."></picture>)
@@ -547,6 +586,14 @@ def adjust_html(html: str, lang_attr: str, slug: str, filename: str) -> str:
     if slug in CLUSTER_SLUGS:
         for prefix in CLUSTER_PREFIXES:
             html = html.replace(f'href="/{prefix}', f'href="/{slug}/{prefix}')
+    else:
+        # Sprachen ohne eigene Cluster-Fassung zeigen auf die englische
+        # (Verkehrssprache) statt auf die deutsche — wie die Footer-Links in
+        # Schritt 2e (Entscheidung 2026-10-26, DECISIONS.md).
+        # / Languages without a cluster version link to the English one
+        # (lingua franca) instead of the German one — same as step 2e.
+        for prefix in CLUSTER_PREFIXES:
+            html = html.replace(f'href="/{prefix}', f'href="/en/{prefix}')
 
     # 2e. Relative Links auf Seiten, die es nur auf Deutsch + Englisch gibt
     # (Newsletter, Versionshistorie, Funktionen), auf die englische Fassung

@@ -34,7 +34,7 @@
 
 <nav class="navbar">
   <div class="container">
-    <a href="./" class="logo">LinguaFlow</a>
+    <a href="./" class="logo">Lingua<span>Flow</span></a>
     <div class="nav-links" id="navLinks">
       <a href="methode.html">Method</a>
       
@@ -67,7 +67,7 @@
 <section class="page-header">
   <div class="container">
     <h1>Privacy Policy</h1>
-    <p>Information About the Processing of Your Data</p>
+    <p>Information on the Processing of Your Data</p>
   </div>
 </section>
 
@@ -99,13 +99,12 @@
     <h2>3. Third-Party Services (Recipients of Your Data)</h2>
     <p>We use the following services. Which data they receive depends on the feature you use:</p>
     <ul>
-      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): sign-in, account data, usage quotas, crash and diagnostic data. Our own server runs on this platform. Database in Germany (Berlin), server functions in Belgium; Google processes sign-in (Authentication) in the USA. Crash reports (Crashlytics) contain a random installation identifier, device model and OS version, but not your account; Google keeps them for 90 days.</li>
+      <li><strong>Google Firebase</strong> (Authentication, Firestore, Cloud Functions, App Check, Crashlytics): sign-in, account data, usage quotas, crash and diagnostic data, as well as texts you share online (see Section 4). Our own server runs on this platform. Database in Germany (Berlin), server functions in Belgium; Google processes sign-in (Authentication) in the USA. Crash reports (Crashlytics) contain a random installation identifier, device model and OS version, but not your account; Google keeps them for 90 days.</li>
       <li><strong>Google Play Billing &amp; Apple In-App Purchase</strong>: processing of subscriptions. Payment data remains with Google or Apple.</li>
       <li><strong>Paddle.com Market Ltd</strong> (London, United Kingdom): sale and payment when you buy on linguaflow.app (LinguaFlow Pro for the apps and the browser extension). Paddle is the seller and an <strong>independent controller</strong> for this data. Paddle receives your email address, your country, your payment data and your LinguaFlow account ID so that Pro is assigned to the right account. We receive the purchase and subscription status from Paddle, but no complete payment data. Privacy at Paddle: <a href="https://www.paddle.com/legal/privacy" target="_blank" rel="noopener">paddle.com/legal/privacy</a>.</li>
       <li><strong>RevenueCat</strong>: management of subscription status (user ID, purchase history, device identifier).</li>
       <li><strong>Anthropic (Claude)</strong>: word-for-word decoding of typed, scanned or dictated texts and the AI dialog. Only the texts (or the photo when scanning) are transmitted, no account data. Anthropic does not use this data to train its models and usually deletes it after 30 days.</li>
       <li><strong>OpenAI</strong>: AI practice texts, text recognition for scanned pages in non-Latin scripts (the photo is only processed for recognition, not stored) and speech output in the AI dialog. OpenAI does not use this data for training and deletes it after 30 days at the latest.</li>
-      <!-- DRAFT: The training sentence below is only true once "Improve the models for everyone" is switched off in the ElevenLabs account (step K1, Datenschutz/empfaenger.md). Do not publish before. -->
       <li><strong>ElevenLabs</strong>: reading texts aloud (text-to-speech). The text and technical connection data such as the IP address are transmitted, no account data. We have switched off the use for training ElevenLabs' models.</li>
       <li><strong>DeepL</strong> and <strong>Google Cloud Translation</strong>: translation of sentences and words.</li>
       <li><strong>TelemetryDeck</strong>: pseudonymized usage statistics (the device identifier is hashed twice, so we cannot trace it back to you; app interactions, app version, device type). No email address, no texts.</li>
@@ -130,7 +129,22 @@
     </ul>
     <p>You can request a copy of the standard contractual clauses at <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a>.</p>
 
-    <h2>4. Legal Basis</h2>
+    <h2>4. Sharing Texts Online</h2>
+    <p>You can share a decoded text via a link (“Share Online”). This only happens if you initiate it yourself: The app explains what will happen before uploading and only uploads the text once you tap “Create Link.”</p>
+    <ul>
+      <li><strong>What we store in this process:</strong> the shared text with the word-for-word translation and the paraphrased sentence translations, along with any transcription and reading aids, the two languages, the title of the text (if available), the beginning of the text (the first 80 characters, so you can recognize the entry in your list), the time of sharing, and your account ID (if using the app without an account: the anonymous ID of your app installation). We do not store your name, email address, or audio recordings. We need the identifier to limit the number of links per day and to show you your list. It is not included with the link.</li>
+      <li><strong>Purpose:</strong> We provide the text associated with the link so that the person you share the link with can open it in the LinguaFlow app or in a browser.</li>
+      <li><strong>Who can read the text:</strong> Anyone who knows the link. The link contains a long, random identifier and is not indexed by search engines. Therefore, do not share texts that contain personal or confidential information.</li>
+      <li><strong>Link preview:</strong> When you share a link in a messaging app, the app displays a preview showing the title and the beginning of the text. To do this, the app retrieves this information from our server; some messaging apps do this via their own servers. New previews no longer show a deleted link; a preview that has already been displayed remains in the chat.</li>
+      <li><strong>Who can see your list:</strong> only you. Our server delivers the list only to the account that shared the texts (if used without an account: to the same app installation). Others cannot see your list or delete your links.</li>
+      <li><strong>Legal basis:</strong> your consent, which you provide by creating the link.</li>
+      <li><strong>Retention period and deletion:</strong> The shared text is automatically deleted after 90 days (technical deletion may take up to three days; the text is no longer accessible after 90 days). You can delete a shared text yourself at any time before then: In the app, under “My Shared Links” (in Settings and in the text view menu), you’ll find all links that are still valid. If you tap “Delete Link” there, we’ll immediately remove the text from our server; the link will no longer work for anyone after that. Anyone who has already opened the text or saved it to their own app will retain that copy; we have no control over this. If you delete your account, your shared texts will also be deleted. You can email us at any time at <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a> and provide the link, and we will delete the text.</li>
+      <li><strong>Storage location:</strong> Google Firebase (Google Cloud), data center in the EU (Belgium).</li>
+      <li><strong>Webpage in the browser (share.linguaflow.app/s/ and linguaflow.app/s/):</strong> The page loads the shared text from our server. It does not set any cookies and does not use any analytics or advertising services. The text is read aloud by your device’s or browser’s text-to-speech feature; we do not receive any data in the process. Some browsers use online voices provided by their manufacturer for this purpose; in such cases, the manufacturer processes the text being read aloud. We serve the address share.linguaflow.app via Google Firebase Hosting; the information provided above regarding the website’s web hosting also applies to linguaflow.app.</li>
+      <li><strong>Report Content:</strong> Anyone who finds illegal or abusive content via a link can report it using the “Report Content” option on the page or by emailing <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a>. We will review the report and remove the text if necessary.</li>
+    </ul>
+
+    <h2>5. Legal Basis</h2>
     <ul>
       <li><strong>Contract</strong> (Art. 6(1)(b) GDPR): account, sign-in, guest week, decoding, scanning, dictation, AI dialog, read-aloud, history and books in the cloud, subscription and purchase, reminders before renewal or expiry of a web subscription, support.</li>
       <li><strong>Consent</strong> (Art. 6(1)(a) GDPR): newsletter, email reminder before the end of the trial. You can withdraw your consent at any time.</li>
@@ -139,29 +153,31 @@
     </ul>
     <p>Without an email address or account we cannot activate Pro on several devices; all other details are voluntary.</p>
 
-    <h2>5. Data Retention</h2>
+    <h2>6. Data Retention</h2>
     <ul>
       <li>Account, history, books and settings: until you delete them or your account. When you delete your account in the app, we remove the related data on our servers, at RevenueCat and at MailerLite. Data about a web subscription via Paddle is excluded (see next point).</li>
       <li>Guest week without an account: up to 30 days after the start; after that Google deletes the anonymous account.</li>
       <li>Web subscription via Paddle (email at purchase, account identifier, subscription status): as long as the subscription runs, then 7 years (Austrian tax retention duty, § 132 BAO). An active web subscription does not end when you delete your account – cancel it in the Paddle customer portal. Invoices for purchases in the App Store or on Google Play are kept by Apple or Google.</li>
       <li>Automatic emails (e.g. reminders): the sending record is deleted automatically 90 days after it is created, or immediately when the account is deleted.</li>
+      <li>Texts shared online: 90 days, see Section 4.</li>
       <li>Support emails: 3 years after the request has been closed.</li>
       <li>Crash reports: 90 days (at Google).</li>
     </ul>
 
-    <h2>5a. Minimum Age</h2>
+    <h2>6a. Minimum Age</h2>
     <p>You must be at least 14 years old to have your own account and to give consent (§ 4(4) Austrian Data Protection Act). Purchases are subject to the statutory minimum age for contracts.</p>
 
-    <h2>6. Your Rights</h2>
+    <h2>7. Your Rights</h2>
     <p>You have the right to access, rectification, erasure, restriction of processing, data portability, withdrawal of consent and objection. Contact us at: <a href="mailto:hello@linguaflow.app">hello@linguaflow.app</a></p>
     <p>You can also lodge a complaint with the Austrian Data Protection Authority: Barichgasse 40–42, 1030 Vienna, <a href="mailto:dsb@dsb.gv.at">dsb@dsb.gv.at</a>, <a href="https://www.dsb.gv.at" target="_blank" rel="noopener">www.dsb.gv.at</a>.</p>
     <p>No automated decision-making within the meaning of Art. 22 GDPR (including profiling) takes place.</p>
 
-    <h2>7. Security</h2>
+    <h2>8. Security</h2>
     <p>We use appropriate technical and organizational measures to protect your data.</p>
 
-    <h2>8. Changes to This Policy</h2>
+    <h2>9. Changes to This Policy</h2>
     <p>We reserve the right to update this Privacy Policy as needed. You can always find the current version at linguaflow.app.</p>
+    <p>Last updated: November 23, 2026 (retention periods, legal bases, purchase on the website; since November 18, 2026 Section 4 “Sharing Texts Online”).</p>
   </div>
 </section>
 
@@ -172,7 +188,7 @@
       <div style="display:flex;gap:16px;">
         <a href="./">Home</a>
         
-        <a href="was-ist-neu.html">What&#x27;s New</a>
+        <a href="was-ist-neu.html">What’s New</a>
         
         <a href="impressum.html">Legal Notice</a>
         

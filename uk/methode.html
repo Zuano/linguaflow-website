@@ -523,7 +523,7 @@
       div.className = 'mt-sentence';
       const row = document.createElement('div');
       row.className = 'mt-pairs';
-      if (tl.rtl) row.dir = 'rtl';
+      row.dir = tl.rtl ? 'rtl' : 'ltr';
       s.pairs.forEach((p) => {
         const card = document.createElement('button');
         card.type = 'button';
@@ -538,7 +538,7 @@
       });
       const fluent = document.createElement('p');
       fluent.className = 'mt-fluent';
-      if (nl.rtl) fluent.dir = 'rtl';
+      fluent.dir = nl.rtl ? 'rtl' : 'ltr';
       fluent.textContent = s.translation;
       div.appendChild(row);
       div.appendChild(fluent);
@@ -639,7 +639,7 @@
       const sec = document.createElement('section');
       sec.className = 'mt-chapter';
       sec.id = ch.id;
-      if (nl.rtl) sec.dir = 'rtl';
+      sec.dir = nl.rtl ? 'rtl' : 'ltr';
       const head = document.createElement('div');
       head.className = 'mt-chapter-head';
       const h2 = document.createElement('h2');

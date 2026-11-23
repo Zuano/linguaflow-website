@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "NQAJK3K42U.wasgelingtmir.Birkenbihl-Translatorv5"
+        ],
+        "components": [
+          {
+            "/": "/s",
+            "comment": "Shared text without trailing slash"
+          },
+          {
+            "/": "/s/*",
+            "comment": "Shared text: https://linguaflow.app/s/?id=..."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NQAJK3K42U.wasgelingtmir.Birkenbihl-Translatorv5"
+    ]
+  }
+}

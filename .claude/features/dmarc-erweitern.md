@@ -1,7 +1,7 @@
 # Feature: DMARC-Record erweitern
 
-**Status:** In Arbeit – DNS-Wert vorbereitet, Christian muss eintragen
-**Ort der Umsetzung:** WordPress → DNS-Einstellungen der Domain `linguaflow.app`
+**Status:** ✅ Umgestellt am 2026-11-14: `_dmarc` = `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`. Geschrieben von der Session „Search-Console-Umsetzung" per WordPress.com-Connector auf Christians ausdrückliche Anweisung („Mach es hier"), nachdem der Schreibzugriff in der Arbeits-Session vom Berechtigungssystem abgelehnt worden war. Nachkontrolle bestanden am 2026-11-15 (mail.de-Bericht für den 14.11.: Google signiert mit `d=linguaflow.app`, DKIM + SPF pass, nichts aussortiert).
+**Ort der Umsetzung:** DNS der Domain `linguaflow.app` bei WordPress.com (per WordPress.com-Connector, siehe Memory „DNS bei WordPress.com")
 **Aufwand:** ca. 5 Minuten
 **Kategorie:** E-Mail-Sicherheit / Reputation
 
@@ -10,51 +10,63 @@
 ## Ziel
 Fake-Mails (Phishing, Spoofing) im Namen von `linguaflow.app` sollen automatisch im Spam landen. Zusätzlich wollen wir Reports bekommen, wer versucht, in unserem Namen Mails zu verschicken.
 
-## Aktuelle Situation (Annahme – bitte von Christian prüfen lassen)
-- SPF-Record existiert
-- DKIM ist vermutlich aktiv
-- DMARC steht aktuell auf `p=none` (nur beobachten, keine Aktion)
+## Aktuelle Situation (geprüft 2026-11-14, Zone frisch gelesen + `dig`)
 
-## Geplanter neuer DMARC-Eintrag
+| Eintrag | Wert |
+|---|---|
+| `_dmarc` TXT (TTL 3600) | `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app` (seit 2026-11-14, vorher `p=none`) |
+| SPF (TXT am Apex) | `v=spf1 include:_spf.mlsend.com include:_spf.google.com ~all` |
+| DKIM Google | `google._domainkey` TXT vorhanden |
+| DKIM MailerLite | `litesrv._domainkey` CNAME → `litesrv._domainkey.mlsend.com` |
+| MX | `1 smtp.google.com` |
 
-**Im WordPress-DNS folgenden TXT-Record eintragen** (oder den bestehenden DMARC-TXT-Eintrag bearbeiten):
+### Wer verschickt Mails im Namen der Domain – und bestehen sie DMARC?
+
+DMARC besteht, wenn SPF **oder** DKIM zur Absender-Domain passt („aligned").
+
+| Versender | SPF aligned | DKIM aligned | Beleg |
+|---|---|---|---|
+| **Google Workspace** (Postfach `christian@`, Aliase `hello@`, `quittung@`) | ja | ja, laut Admin-Konsole | Fastmail-Bericht 13.09.2026: SPF `linguaflow.app` pass. DKIM damals noch Googles Ersatzschlüssel (`d=linguaflow-app.20251104.gappssmtp.com`). Admin-Konsole am 14.11.2026 (geprüft durch die Hauptsession): „E-Mails werden über DKIM authentifiziert", Selektor `google`, Schlüssel identisch mit dem DNS-Eintrag. **Beleg 15.11.2026:** mail.de-Bericht für den 14.11. zeigt 4 Mails von Google-Servern mit DKIM `d=linguaflow.app` pass und SPF pass. |
+| **Automatische Trial-Erinnerungen** (Firebase-Erweiterung `firestore-send-email`) | wie Google | wie Google | Versand über `smtp.gmail.com` (Skill `kunden-erinnerung`), also Google Workspace – kein eigener Versender. |
+| **MailerLite** (Newsletter, Double-Opt-in) | nein (Umschlag-Absender `mlsend.com`) | **ja** | Seznam-Bericht 08.11.2026: DKIM `d=linguaflow.app`, Selektor `litesrv`, pass → DMARC bestanden. |
+
+Weitere Versender wurden in den Postfächern der letzten 20 Tage nicht gefunden.
+
+## Neuer DMARC-Eintrag (von Christian am 26.10.2026 grundsätzlich gewählt: „erst Google prüfen", dann umstellen)
 
 | Feld | Wert |
 |------|------|
 | Typ | `TXT` |
-| Host / Name | `_dmarc` |
-| Inhalt / Wert | `v=DMARC1; p=quarantine; rua=mailto:dmarc@linguaflow.app; ruf=mailto:dmarc@linguaflow.app; pct=100; adkim=s; aspf=s; fo=1` |
-| TTL | `3600` (oder Standard lassen) |
+| Name | `_dmarc` |
+| Wert | `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app` |
+| TTL | `3600` |
 
-### Was bedeuten die einzelnen Teile in Alltagssprache?
-- `v=DMARC1` → Version (immer gleich)
-- `p=quarantine` → **Verdächtige Mails kommen in den Spam-Ordner** (statt durchgelassen zu werden)
-- `rua=mailto:...` → Sammel-Reports gehen an diese Adresse (**Report-Aggregate** – einmal pro Tag)
-- `ruf=mailto:...` → **Forensik-Reports** bei einzelnen verdächtigen Mails
-- `pct=100` → Regel gilt für 100% der Mails (nicht nur Stichprobe)
-- `adkim=s` / `aspf=s` → **Strenger Abgleich** von DKIM / SPF
-- `fo=1` → Forensik-Reports auch bei teilweisem Fehlschlag
+Es ändert sich nur `p=none` → `p=quarantine`. Vorgehen: alten Eintrag mit exakt den gelesenen Feldern entfernen, neuen hinzufügen, sonst nichts in der Zone anfassen.
 
-### Wichtig bezüglich Report-Adresse
-- Die Adresse `dmarc@linguaflow.app` muss **existieren** (auch als Alias ok). Falls du keine hast, kurz klären: entweder Alias auf Hauptadresse einrichten, oder statt `dmarc@linguaflow.app` direkt deine echte Adresse (z.B. `christian@linguaflow.app`) eintragen.
+### Bewusst NICHT übernommen (Vorschlag vom Juni 2026)
+- `adkim=s` / `aspf=s` (strenger Abgleich): unnötiges Risiko, MailerLite besteht SPF nur „entspannt" gar nicht und hängt allein an DKIM.
+- `ruf=` (Einzelfall-Berichte): wird von den großen Anbietern kaum verschickt, bringt nichts.
+- `dmarc@linguaflow.app` als Berichtsadresse: Die Berichte kommen bereits an `hello@` an.
+- `pct=100`: ist ohnehin der Standardwert.
 
-## Vorsichtsvariante (falls Unsicherheit)
-Wenn du dir unsicher bist, ob alle legitimen Mails (Newsletter, Kontaktformular, Transactional Mails) korrekt signiert sind, kannst du mit `pct=25` starten – dann betrifft die Quarantäne nur 25% der Mails. Nach 1–2 Wochen ohne Probleme auf `pct=100` erhöhen.
+## So wird es fertig (zwei Wege, einer genügt)
 
-## Schritte zur Umsetzung
-1. Christian loggt sich im WordPress-Dashboard ein
-2. Dort zu DNS-Einstellungen der Domain `linguaflow.app`
-3. Bestehenden TXT-Eintrag mit Host `_dmarc` suchen
-4. Entweder bearbeiten oder neuen anlegen mit dem Wert aus der Tabelle
-5. Speichern
-6. 1–48 h warten, bis DNS weltweit aktualisiert ist
-7. Prüfen via: https://dmarcian.com/dmarc-inspector/ – Domain eingeben → sollte `p=quarantine` anzeigen
+**Weg A – Christian selbst, ca. 2 Minuten:** wordpress.com → Upgrades → Domains → `linguaflow.app` → DNS-Einträge → Eintrag `_dmarc` (TXT) bearbeiten → im Wert nur `p=none` durch `p=quarantine` ersetzen → speichern. Ergebnis muss exakt lauten: `v=DMARC1; p=quarantine; rua=mailto:hello@linguaflow.app`.
 
-## Offene Fragen an Christian
-- [ ] Existiert die Mail-Adresse `dmarc@linguaflow.app` schon, oder welche Adresse soll die Reports bekommen?
-- [ ] Ist der aktuelle DMARC-Record tatsächlich auf `p=none`? Falls ja, seit wann? (Wenn schon länger stabil läuft, können wir direkt auf `p=quarantine` gehen)
-- [ ] Willst du lieber vorsichtig mit `pct=25` starten oder direkt auf `pct=100`?
+**Weg B – Claude macht es:** Christian schreibt die Freigabe direkt in die Session, die den Eintrag ändern soll (nicht über eine andere Session weitergereicht), oder erlaubt das Werkzeug `wpcom-domain-update-dns-records` in seinen Claude-Einstellungen. Dann: alten Eintrag (`TXT`, Name `_dmarc`, TTL 3600, alter Wert) entfernen, neuen hinzufügen.
+
+Danach in beiden Fällen den Check unten ausführen, den TODO-Punkt abhaken und den DECISIONS-Eintrag um das Datum der Umstellung ergänzen.
+
+## Check nach der Umstellung
+- `dig +short TXT _dmarc.linguaflow.app @ns1.wordpress.com` und `@8.8.8.8` zeigen den neuen Wert.
+- MX, SPF und beide DKIM-Einträge unverändert.
+
+## Nachkontrolle (nach der Umstellung)
+- ✅ **2026-11-15 erledigt:** mail.de-Bericht für den 14.11.2026 (Report-ID `linguaflow.app.1794610800.1794697200`): veröffentlichte Regel `p=quarantine`, 4 Mails von Google-Servern, alle DKIM `d=linguaflow.app` pass + SPF pass, `disposition=none`. Die zwei Punkte darunter gelten weiter als Dauerbeobachtung.
+- Nächsten DMARC-Bericht an `hello@` abwarten, in dem eine **Google**-Mail vorkommt: DKIM muss `d=linguaflow.app`, Selektor `google`, `pass` zeigen. Steht dort weiter `gappssmtp.com`, in der Google-Admin-Konsole die Authentifizierung neu starten.
+- In den Berichten auf `disposition=quarantine` bei eigenen Mails achten. Kommt das vor: sofort zurück auf `p=none` und Ursache suchen.
 
 ## Risiken / Seiteneffekte
-- **Risiko:** Legitime Mails landen im Spam, wenn ein Dienst ohne korrekte SPF / DKIM in deinem Namen verschickt. → Mitigation: `p=quarantine` statt `p=reject`; `rua`-Reports beobachten
-- **Kein Risiko für die Website** selbst – reine DNS-Änderung, keine Code-Änderung
+- **Risiko:** Legitime Mails landen im Spam, wenn ein Dienst ohne korrekte SPF/DKIM im Namen der Domain verschickt. → Abgesichert durch die Tabelle oben; `p=quarantine` statt `p=reject`; Berichte beobachten.
+- **Rückweg:** Eintrag zurück auf `p=none`, wirkt binnen einer Stunde (TTL 3600).
+- **Kein Risiko für die Website** – reine DNS-Änderung.
