@@ -209,6 +209,22 @@ Rechtstexte, die nur DE+EN sein sollen, einfach in `LEGAL_FILES` eintragen.
 Die Redirect-Stubs in den Sprachordnern (z. B. `/fr/eula.html`) NICHT löschen
 (sonst 404s in Google) und NICHT von Hand „zurückübersetzen".
 
+**Bekräftigt von Christian am 2026-11-03 (Web-Direktkauf):** Rechtstexte bleiben
+NUR Deutsch + Englisch, nie mehr per DeepL in alle Sprachen. Gilt auch für die neuen
+bzw. geänderten AGB, Widerruf und EULA sowie Kauf- (`pro/kaufen.html`) und Kündigungsseite
+(`pro/kuendigen.html`). `en/agb.html` und `en/widerruf.html` werden von Hand an die
+deutsche Fassung angepasst (nicht über `translate-site.py`).
+
+**Umgesetzt am 2026-11-07:** `en/agb.html` und `en/widerruf.html` sind jetzt vollständige,
+von Hand übersetzte englische Seiten (vorher Weiterleitungen auf die deutsche Fassung), mit
+Hinweis „German version is legally binding“. Sie stehen NICHT in `SOURCE_FILES`/`LEGAL_FILES`
+und nicht im Workflow-Trigger – kein Skript überschreibt sie; jede Änderung an `agb.html` bzw.
+`widerruf.html` muss von Hand in die EN-Fassung nachgezogen werden. hreflang (de/en/x-default)
+und Sprachwahl DE/EN stehen von Hand in allen vier Seiten; für die Sitemap wurden
+`en/agb.html` und `en/widerruf.html` in `EXTRA_SITEMAP_PATHS` ergänzt. Die Stubs
+`/<sprache>/agb.html` bzw. `/widerruf.html` der übrigen Sprachordner zeigen unverändert auf die
+deutsche Fassung (so in `scripts/make-stubs.py` vorgesehen).
+
 ## „Was ist neu"-Seite (Changelog) nur Deutsch + Englisch (2026-08-04)
 
 **Entscheidung:** Die neue Changelog-Seite `/was-ist-neu.html` gibt es nur auf
@@ -336,3 +352,28 @@ erreichbar ist. WordPress wurde am 12.07.2026 abgelöst (siehe unten).
   Datei-Hash-Cache (`scripts/.translation-cache.json`); `SCRIPT_VERSION` nie
   ohne Grund erhöhen (~70 € Voll-Neuübersetzung)
 - Markenwording: immer „inspiriert von der Birkenbihl-Methode"
+
+## Schrift „Inter“ selbst gehostet statt Google Fonts (2026-11-03)
+
+**Entscheidung:** Alle Seiten laden Inter aus `/fonts/fonts.css` (7 WOFF2-Dateien = die
+Zeichensatz-Teile von Google: latin, latin-ext, cyrillic, cyrillic-ext, greek, greek-ext,
+vietnamese; Lizenz SIL OFL, `fonts/OFL.txt`). Keine `<link>`-/preconnect-Zeilen zu
+fonts.googleapis.com/fonts.gstatic.com mehr (Christians OK, Session „Rechtstexte Web-Direktkauf“).
+
+**Begründung:** Beim Laden von Google-Servern bekommt Google die IP-Adresse der Besucher –
+in Österreich 2022 Anlass einer Abmahnwelle (KI-Vorprüfung Nr. 40). Selbst gehostet fällt das weg.
+
+**Regel:** Neue Seiten verwenden `<link rel="stylesheet" href="/fonts/fonts.css">`, nie wieder
+Google Fonts. Prüfen: `grep -rlE "fonts\.(googleapis|gstatic)" --include='*.html' .` → 0 Treffer.
+
+## Direktkauf: Paddle automatisch + Überweisung per Mail (2026-11-14)
+
+**Entscheidung (Christian):** Der Web-Direktkauf startet mit Paddle als normalem, automatischem Weg.
+Zusätzlich steht auf `pro/kaufen.html` eine Zeile für Überweisung per Mail (hello@linguaflow.app);
+diese Käufe werden von Hand freigeschaltet. Kein eigenes Kontaktformular, nur ein Mail-Link.
+
+**Begründung:** Paddle kostet ca. 5 % + 0,50 $ je Kauf (weniger als die 15 % der Stores) und braucht
+keine Handarbeit; jede Wartezeit auf eine Antwort kostet Käufe. Die Mail-Zeile fängt die ab, die
+nicht mit Karte/Apple Pay/Google Pay zahlen wollen. Formulierung „in der Regel innerhalb von 24 Stunden“
+statt „24 Stunden, 7 Tage die Woche“ – kein festes Versprechen für Urlaub/Feiertage.
+
