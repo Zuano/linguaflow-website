@@ -251,6 +251,7 @@ p  { color: var(--gray-600); }
 }
 .store-badges {
   display: flex;
+  flex-wrap: wrap;
   gap: 12px;
   align-items: center;
 }
@@ -892,6 +893,11 @@ p  { color: var(--gray-600); }
   line-height: 1.7;
 }
 
+/* Direct-purchase button in Pro cards / Direktkauf-Knopf in den Pro-Karten */
+.pricing-buy { margin-top: 24px; align-self: center; }
+.pricing-card.pricing-featured .pricing-buy { background: var(--white); color: var(--teal); border-color: var(--white); }
+.pricing-card.pricing-featured .pricing-buy:hover { background: transparent; color: var(--white); }
+
 /* --- CTA Section --- */
 .cta-section {
   padding: 100px 0;
@@ -908,6 +914,10 @@ p  { color: var(--gray-600); }
   margin-left: auto;
   margin-right: auto;
 }
+/* Third badge next to the store badges: buy Pro on the website / Dritter Knopf neben den Store-Badges: Pro auf der Website kaufen */
+.web-badge { display: inline-flex; align-items: center; gap: 8px; padding: 0 14px; border-radius: 8px; background: var(--teal-dark); color: var(--white); text-decoration: none; line-height: 1.1; font-weight: 600; font-size: 1.05rem; text-align: left; transition: var(--transition); }
+.web-badge small { display: block; font-size: .62rem; font-weight: 500; letter-spacing: .02em; opacity: .9; }
+.web-badge:hover { transform: scale(1.05); color: var(--white); }
 .cta-buttons {
   display: flex;
   gap: 16px;
