@@ -892,6 +892,11 @@ p  { color: var(--gray-600); }
   line-height: 1.7;
 }
 
+/* Direct-purchase button in Pro cards / Direktkauf-Knopf in den Pro-Karten */
+.pricing-buy { margin-top: 24px; align-self: center; }
+.pricing-card.pricing-featured .pricing-buy { background: var(--white); color: var(--teal); border-color: var(--white); }
+.pricing-card.pricing-featured .pricing-buy:hover { background: transparent; color: var(--white); }
+
 /* --- CTA Section --- */
 .cta-section {
   padding: 100px 0;
@@ -908,6 +913,10 @@ p  { color: var(--gray-600); }
   margin-left: auto;
   margin-right: auto;
 }
+.cta-section p.cta-web { margin: 24px auto 0; font-size: .95rem; }
+/* Web-purchase hint links / Hinweis-Links zum Web-Kauf */
+.hero-content p.hero-web { margin-top: 14px; font-size: .9rem; color: #6b6b80; }
+.hero-web a, .cta-web a { color: var(--teal-dark); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
 .cta-buttons {
   display: flex;
   gap: 16px;
