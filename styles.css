@@ -251,6 +251,7 @@ p  { color: var(--gray-600); }
 }
 .store-badges {
   display: flex;
+  flex-wrap: wrap;
   gap: 12px;
   align-items: center;
 }
@@ -913,10 +914,10 @@ p  { color: var(--gray-600); }
   margin-left: auto;
   margin-right: auto;
 }
-.cta-section p.cta-web { margin: 24px auto 0; font-size: .95rem; }
-/* Web-purchase hint links / Hinweis-Links zum Web-Kauf */
-.hero-content p.hero-web { margin-top: 14px; font-size: .9rem; color: #6b6b80; }
-.hero-web a, .cta-web a { color: var(--teal-dark); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+/* Third badge next to the store badges: buy Pro on the website / Dritter Knopf neben den Store-Badges: Pro auf der Website kaufen */
+.web-badge { display: inline-flex; align-items: center; gap: 8px; padding: 0 14px; border-radius: 8px; background: var(--teal-dark); color: var(--white); text-decoration: none; line-height: 1.1; font-weight: 600; font-size: 1.05rem; text-align: left; transition: var(--transition); }
+.web-badge small { display: block; font-size: .62rem; font-weight: 500; letter-spacing: .02em; opacity: .9; }
+.web-badge:hover { transform: scale(1.05); color: var(--white); }
 .cta-buttons {
   display: flex;
   gap: 16px;
